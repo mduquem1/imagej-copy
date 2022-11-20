@@ -1,0 +1,4 @@
+ij.gui.OvalRoi#moveHandle(II)V
+ij.gui.RoiHelper#calculateDimensions(IIIIIIZIII)V
+ij.gui.RoiHelper#switchHandle(IIIIIIIIIZ)V
+java.lang.Math#rint(D)D

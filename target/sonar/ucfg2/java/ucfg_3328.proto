@@ -1,0 +1,51 @@
+
+Fij.macro.Functions#duplicate([Lij/macro/Variable;)[Lij/macro/Variable;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÃ0 Ã0("5*±
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaœ0 œ0(±
+Æ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaœ0 œ0(
+%1ij.macro.Variable"
+__arrayGet*
+
+a1ij.macro.Variable[]*
+""–Õ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaœ0 œ0("
+%2java.lang.Object"+ij.macro.Variable#clone()Ljava/lang/Object;*
+
+%1ij.macro.Variable2clone()∏
+µ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaœ0 œ0("
+%3"
+__arraySet*
+
+a2ij.macro.Variable[]*
+""*
+
+%2java.lang.Object*
+3
+1*±
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÕ0 Õ0(!óî
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÕ0 Õ0()
+%0ij.macro.Variable[]"ij.macro.Variable[]•
+¢
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÕ0 Õ0(*
+a2ij.macro.Variable[]"__id*
+
+%0ij.macro.Variable[]*
+3
+1*Î
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java–0	 –0("Å
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java–0 –0(
+
+a2ij.macro.Variable[]:
+a1ij.macro.Variable[]B
+ij.macro.Functions

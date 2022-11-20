@@ -1,0 +1,45 @@
+
+Dij.plugin.filter.Translator#setup(Ljava/lang/String;Lij/ImagePlus;)Ii
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Translator.java ("3*Ð
+2i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Translator.java (ÔÑ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Translator.java (!
+%0ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()¼
+¹
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Translator.java (!.
+ij.plugin.filter.Translator"
+origOverlay"__id*
+
+%0ij.gui.OverlayÄ
+Á
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Translator.java (
+
+%1void"$ij.Undo#saveOverlay(Lij/ImagePlus;)V*"	
+ij.Undo*
+
+impij.ImagePlus*
+1*¬
+3i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Translator.java (³
+°
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Translator.java (&
+ij.plugin.filter.Translator"
+imp"__id*
+
+impij.ImagePlus*
+2
+1*ã
+1i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Translator.java	 ("s
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Translator.java (
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Translator

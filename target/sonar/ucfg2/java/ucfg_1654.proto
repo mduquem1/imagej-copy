@@ -1,0 +1,48 @@
+
+%ij.gui.Plot#getFont(C)Ljava/awt/Font;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java±	 ±	("3*¨
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java´	
+ ´	(ÏÌ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java´	
+ ´	(
+%2java.awt.Font"*ij.gui.PlotObject#getFont()Ljava/awt/Font;*!
+
+
+plotObjectij.gui.PlotObject2	getFont()"t
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java´	 ´	(
+
+%2java.awt.Font*œ
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java²	 ²	(œ
+™
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java²	 ²	(
+%0ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+ppíê
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java²	 ²	(-
+%1ij.gui.PlotObject"9ij.gui.PlotProperties#getPlotObject(C)Lij/gui/PlotObject;*
+
+%0ij.gui.PlotProperties*
+""2getPlotObject(C)¢
+Ÿ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java²	 ²	(.
+
+plotObjectij.gui.PlotObject"__id*
+
+%1ij.gui.PlotObject*
+2
+1*Ç
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¶	
+ ¶	("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¶	 ¶	(
+"":
+""B
+ij.gui.Plot

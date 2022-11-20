@@ -1,0 +1,29 @@
+
+Lij.plugin.LutLoader#open(Ljava/lang/String;)Ljava/awt/image/IndexColorModel;c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaû û(#"1*ö
+1c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaü	 ü(†ù
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaü ü(!
+%0java.io.FileInputStream"java.io.FileInputStream‡
+›
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaü ü('
+%1"3java.io.FileInputStream#<init>(Ljava/lang/String;)V*
+
+%0java.io.FileInputStream*
+
+pathjava.lang.Stringô
+ñ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaü	 ü(($
+%2java.awt.image.IndexColorModel"Oij.plugin.LutLoader#open(Ljava/io/InputStream;)Ljava/awt/image/IndexColorModel;*"
+ij.plugin.LutLoader*
+
+%0java.io.FileInputStream"ç
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaü ü()&
+$
+%2java.awt.image.IndexColorModel:
+pathjava.lang.StringB"
+ij.plugin.LutLoader

@@ -1,0 +1,31 @@
+
+Dij.plugin.MacroInstaller#install(Ljava/lang/String;Ljava/awt/Menu;)Ih
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaî î("1*ž
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaï ï(µ
+²
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaï ï($
+ij.plugin.MacroInstaller"
+text"__id*
+
+textjava.lang.String¸
+µ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javað ð(*
+ij.plugin.MacroInstaller"
+
+macrosMenu"__id*
+
+menujava.awt.MenuÇÄ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javañ ñ(
+
+%0void"#ij.plugin.MacroInstaller#install()V*
+ij.plugin.MacroInstaller2	install()"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaò ò(
+"":
+textjava.lang.String:
+menujava.awt.MenuB
+ij.plugin.MacroInstaller

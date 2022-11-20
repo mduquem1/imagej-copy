@@ -1,0 +1,49 @@
+
+Bij.IJ#showMessageWithCancel(Ljava/lang/String;Ljava/lang/String;)ZU
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaä ä(,"1*¦
+
+1U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaå' å(,Œ‰
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaå å(&
+%0ij.gui.GenericDialog"ij.gui.GenericDialogÍ
+Ê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaå å(-
+%1"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%0ij.gui.GenericDialog*
+
+titlejava.lang.Stringš
+—
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaå å(.
+gdij.gui.GenericDialog"__id*
+
+%0ij.gui.GenericDialogõò
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaæ æ(
+
+%2void"4ij.gui.GenericDialog#addMessage(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+msgjava.lang.String2addMessage(Ljava/lang/String;)¶³
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaç ç(
+
+%3void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()»¸
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaè
+ è(
+%4boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()"_
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaè è(
+"":
+titlejava.lang.String:
+msgjava.lang.StringB	"
+ij.IJ

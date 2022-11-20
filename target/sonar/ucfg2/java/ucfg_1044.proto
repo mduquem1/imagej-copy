@@ -1,0 +1,55 @@
+
+%ij.process.BinaryProcessor#thin(I[I)Ij
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.java   (	"33"34*©
+4j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.javaˆ ˆ(
+Ø
+¨
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.javaˆ ˆ(
+
+%4byte[]"__id***(
+ij.process.BinaryProcessor"
+pixels*
+4
+1*î
+32j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.javaÀ À(%ÙÒ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.javaÕ Õ(*
+%3java.lang.Object":ij.process.ByteProcessor#getPixelsCopy()Ljava/lang/Object;*
+ij.process.BinaryProcessor2getPixelsCopy()¢
+ü
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.javaÕ Õ(+
+pixels2byte[]"__id*
+
+%3java.lang.Object*
+4
+1*Ü
+33j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.javaÀ# À($ç
+ä
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.javaÀ" À($	
+%0int"__id*
+	
+%2int*
+32*Ü
+34j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.javaÀ  À(!ç
+ä
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.javaÀ  À(!	
+%0int"__id*
+	
+%1int*
+32*Â
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.java˘	 ˘("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryProcessor.java˘ ˘(
+"":
+"":
+""B
+ij.process.BinaryProcessor

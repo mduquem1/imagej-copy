@@ -1,0 +1,263 @@
+
+nij.plugin.SurfacePlotter#drawString(Lij/process/ImageProcessor;Ljava/lang/String;I)Lij/process/ImageProcessor;h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÔ Ô("7*ÿ
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java˛ ˛(∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java˛ ˛(.
+%17double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java˛ ˛(/
+%18double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+1*€
+5h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java˝ ˝(∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java˝ ˝(*
+%15double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java˝ ˝(+
+%16double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+4
+1*ÿ
+6h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java¸ ¸(∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java¸ ¸(.
+%13double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java¸ ¸(/
+%14double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+5*Ô
+7h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java (Ä˝
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java (
+%0java.awt.FontMetrics"@ij.process.ImageProcessor#getFontMetrics()Ljava/awt/FontMetrics;*!
+
+ipij.process.ImageProcessor2getFontMetrics()áÑ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java (-	
+%1int"5java.awt.FontMetrics#stringWidth(Ljava/lang/String;)I*
+
+%0java.awt.FontMetrics*
+
+sjava.lang.String2stringWidth(Ljava/lang/String;)Ä˝
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÒ Ò(
+%2java.awt.FontMetrics"@ij.process.ImageProcessor#getFontMetrics()Ljava/awt/FontMetrics;*!
+
+ipij.process.ImageProcessor2getFontMetrics()∆√
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÒ Ò(*	
+%3int"!java.awt.FontMetrics#getHeight()I*
+
+%2java.awt.FontMetrics2getHeight()∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÙ Ù(3
+%4double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""â
+Ü
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaı ı(#
+%5double"__id*
+""∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaˆ ˆ(&
+%6double"java.lang.Math#acos(D)D*"
+java.lang.Math*
+""Ø
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java¯ ¯(,
+%7double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""Ø
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java¯ ¯(-
+%8double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""Ø
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java˘ ˘(,
+%9double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java˘ ˘(-
+%10double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java˚ ˚(*
+%11double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java˚ ˚(+
+%12double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+5
+6*â#
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÜ, Ü(.®•
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÜ Ü(+
+%19ij.process.ByteProcessor"ij.process.ByteProcessorÕ
+ 
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÜ Ü(4
+%20"$ij.process.ByteProcessor#<init>(II)V*!
+
+%19ij.process.ByteProcessor*
+""*
+""ª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÜ Ü(5#
+ipTextij.process.ImageProcessor"__id*!
+
+%19ij.process.ByteProcessorá
+Ñ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaá' á(1
+
+%21int"__id*
+""á
+Ñ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaá3 á(;
+
+%22int"__id*
+""íè
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaá á(
+%23java.awt.Font"java.awt.Font‰
+·
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaá á(<
+%24"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%23java.awt.Font*
+	SansSerif*
+
+
+%21int*
+
+
+%22intàÖ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaá á(=
+%25void"3ij.process.ImageProcessor#setFont(Ljava/awt/Font;)V*%
+#
+ipTextij.process.ImageProcessor*
+
+%23java.awt.Font2setFont(Ljava/awt/Font;)í
+è
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaà à(
+%26java.awt.Color"__id*
+""çä
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaà à(
+%27void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*%
+#
+ipTextij.process.ImageProcessor*
+
+%26java.awt.Color2setColor(Ljava/awt/Color;)Ã…
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaâ â(
+%28void"!ij.process.ImageProcessor#fill()V*%
+#
+ipTextij.process.ImageProcessor2fill()í
+è
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaä ä(
+%29java.awt.Color"__id*
+""çä
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaä ä(
+%30void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*%
+#
+ipTextij.process.ImageProcessor*
+
+%29java.awt.Color2setColor(Ljava/awt/Color;)Ì
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaã ã(!
+%31void"0ij.process.ImageProcessor#setAntialiasedText(Z)V*%
+#
+ipTextij.process.ImageProcessor*22setAntialiasedText(Z)©¶
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaå å(+
+%32void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*%
+#
+ipTextij.process.ImageProcessor*
+
+sjava.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ËÂ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaç ç(
+%33void",ij.process.ImageProcessor#setInterpolate(Z)V*%
+#
+ipTextij.process.ImageProcessor*22setInterpolate(Z)⁄◊
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaé é(
+%34void"$ij.process.ImageProcessor#rotate(D)V*%
+#
+ipTextij.process.ImageProcessor*
+""2	rotate(D)ÙÒ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaè è((
+%35void"'ij.process.ImageProcessor#setRoi(IIII)V*%
+#
+ipTextij.process.ImageProcessor*
+""*2 *
+""*
+""2setRoi(IIII)˚¯
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaê ê( 
+%36ij.process.ImageProcessor";ij.process.ImageProcessor#crop()Lij/process/ImageProcessor;*%
+#
+ipTextij.process.ImageProcessor2crop()º
+π
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaê ê(#
+ipTextij.process.ImageProcessor"__id*"
+ 
+%36ij.process.ImageProcessor"ë
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaï ï(%
+#
+ipTextij.process.ImageProcessor:
+ipij.process.ImageProcessor:
+sjava.lang.String:
+""B
+ij.plugin.SurfacePlotter

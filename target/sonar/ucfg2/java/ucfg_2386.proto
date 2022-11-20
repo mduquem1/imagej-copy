@@ -1,0 +1,190 @@
+
+Fij.gui.NewImage#createFloatImage(Ljava/lang/String;IIII)Lij/ImagePlus;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java¬ ¬()"25*∏
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java‚ ‚(Â‚
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java‚ ‚( 
+%16ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()‰·
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java‚ ‚(,
+%17void"+ij.process.ImageProcessor#setMinAndMax(DD)V*"
+ 
+%16ij.process.ImageProcessor*
+""*
+""2setMinAndMax(DD)*
+1*–
+24_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java≈ ≈("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java≈ ≈(
+""*Î
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java· ·(
+}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java· ·(
+
+%15int"__id*
+""*
+2
+1*œ
+25_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java√ √(©
+¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java√ √(	
+%0int"ij.gui.NewImage#getFill(I)I*"
+ij.gui.NewImage*
+""≤
+Ø
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaƒ ƒ(#	
+%1int"ij.gui.NewImage#getSize(II)I*"
+ij.gui.NewImage*
+""*
+""*
+24
+9*Û
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaﬂ ﬂ(á
+Ñ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaﬂ ﬂ(
+impij.ImagePlus"__id*
+""*
+3*õ
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaﬁ ﬁ(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaﬁ- ﬁ(3
+
+%13int"__id*
+""≠
+™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaﬁ ﬁ(=
+%14boolean"Jij.gui.NewImage#createStack(Lij/ImagePlus;Lij/process/ImageProcessor;III)Z*"
+ij.gui.NewImage*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessor*
+""*
+
+
+%13int*
+""*
+3
+4*ô
+6_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java‹  ‹(%áÑ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java‹ ‹(
+%11ij.ImagePlus"ij.ImagePlusá
+Ñ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java‹ ‹(*
+%12"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%11ij.ImagePlus*
+
+titlejava.lang.String*!
+
+ipij.process.ImageProcessorñ
+ì
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java‹ ‹(+
+impij.ImagePlus"__id*
+
+%11ij.ImagePlus*
+3
+5*µ
+7_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java€ €(…∆
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java€ €(
+%10void"&ij.process.ImageProcessor#invertLut()V*!
+
+ipij.process.ImageProcessor2invertLut()*
+6*Í
+8_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java⁄	 ⁄(|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java⁄ ⁄(	
+%9int"__id*
+""*
+6
+7*≠	
+9_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java∆ ∆(!†ù
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java« «((
+%3ij.process.FloatProcessor"ij.process.FloatProcessorÒ
+Ó
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java« «(E
+%4"Bij.process.FloatProcessor#<init>(II[FLjava/awt/image/ColorModel;)V*!
+
+%3ij.process.FloatProcessor*
+""*
+""*
+""*
+""Æ
+´
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java« «(F
+ipij.process.ImageProcessor"__id*!
+
+%3ij.process.FloatProcessor|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java… …(	
+%5int"__id*
+""|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java… …(#	
+%6int"__id*
+""|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaÀ À(	
+%7int"__id*
+""|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java÷ ÷(	
+%8int"__id*
+""*
+8
+10*”
+10_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java÷ ÿ(
+Ê
+„
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java◊ ◊(
+
+%2void"<ij.gui.NewImage#fillNoiseFloat(Lij/process/ImageProcessor;)V*"
+ij.gui.NewImage*!
+
+ipij.process.ImageProcessor*
+8*ﬁ
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java„	 „("x
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.java„ „(
+
+impij.ImagePlus:
+titlejava.lang.String:
+"":
+"":
+"":
+""B"
+ij.gui.NewImage

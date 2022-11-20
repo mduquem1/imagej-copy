@@ -1,0 +1,58 @@
+
+ij.gui.Plot#getDigits(DDII)I[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaõ õ("4*«
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaù
+ ù("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaù ù(
+""*π
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaú ú(¢
+ü
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaú ú(%
+%1double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""©
+¶
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaú( ú(@
+%2double"java.lang.Math#pow(DD)D*"
+java.lang.Math*2
+*
+""*
+2
+1*ç
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaú ú(¢
+ü
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaú	 ú(
+
+%0long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""*
+3
+1*Ö
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaü
+ ü(ª
+∏
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaü
+ ü(?	
+%3int"ij.gui.Plot#getDigits2(DDII)I*"
+ij.gui.Plot*
+""*
+""*
+""*
+"""e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaü ü(@
+"":
+"":
+"":
+"":
+""B"
+ij.gui.Plot

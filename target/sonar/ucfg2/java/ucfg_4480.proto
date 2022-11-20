@@ -1,0 +1,159 @@
+
+Aij.gui.ShapeRoi#makeShapeFromArray([F)Ljava/awt/geom/GeneralPath;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaã ã(&"13"12*Ğ
+13_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaä ä("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaä ä(
+""*ö
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaì ì(|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaî	 î( 	
+%9int"__id*
+""}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javañ	 ñ( 
+
+%10int"__id*
+""}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaô	 ô( 
+
+%11int"__id*
+""}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java÷	 ÷(!
+
+%12int"__id*
+""}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaú	 ú(
+
+%13int"__id*
+""*
+4
+5
+6
+7
+8
+10
+1*²
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaú ü(Â¿
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaû û(!
+
+%8void"!java.awt.geom.Path2D#closePath()V* 
+
+sjava.awt.geom.GeneralPath2closePath()*
+10
+1*ğ
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java÷ ù(€ı
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaø ø(M
+
+%7void"+java.awt.geom.Path2D$Float#curveTo(FFFFFF)V* 
+
+sjava.awt.geom.GeneralPath*
+""*
+""*
+""*
+""*
+""*
+""2curveTo(FFFFFF)*
+10
+1*Ú
+6_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaô ö(êç
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaõ õ(;
+
+%6void"(java.awt.geom.Path2D$Float#quadTo(FFFF)V* 
+
+sjava.awt.geom.GeneralPath*
+""*
+""*
+""*
+""2quadTo(FFFF)*
+10
+1*Æ
+7_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javañ ó(ÖÓ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaò ò(,
+
+%5void"&java.awt.geom.Path2D$Float#lineTo(FF)V* 
+
+sjava.awt.geom.GeneralPath*
+""*
+""2
+lineTo(FF)*
+10
+1*Æ
+8_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaî ğ(ÖÓ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaï ï(,
+
+%4void"&java.awt.geom.Path2D$Float#moveTo(FF)V* 
+
+sjava.awt.geom.GeneralPath*
+""*
+""2
+moveTo(FF)*
+10
+1*°
+10_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaê ê(À
+½
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaê ê((	
+%3int""ij.gui.ShapeRoi#getSegment([F[FI)I*"
+ij.gui.ShapeRoi*
+""*
+""*
+""*
+2
+1*‚
+12_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaå" å(-|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaå" å(;	
+%0int"__id*
+"" 
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaå å(!
+%1java.awt.geom.GeneralPath"java.awt.geom.GeneralPathÀ
+½
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaå å(<
+%2"$java.awt.geom.GeneralPath#<init>(I)V*!
+
+%1java.awt.geom.GeneralPath*
+	
+%0int­
+ª
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaå å(=
+sjava.awt.geom.GeneralPath"__id*!
+
+%1java.awt.geom.GeneralPath*
+10
+1*ê
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€	 €(
+"ƒ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€ €( 
+
+sjava.awt.geom.GeneralPath:
+""B"
+ij.gui.ShapeRoi

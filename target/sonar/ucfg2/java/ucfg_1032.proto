@@ -1,0 +1,62 @@
+
+@ij.plugin.filter.Calibrator#getNum(Ljava/util/StringTokenizer;)Dk
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaƒ ƒ("7*±
+2k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java‰
+ ‰(ÇÄ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java‰
+ ‰(
+%2double"java.lang.Double#doubleValue()D*
+
+djava.lang.Double2doubleValue()"u
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java‰ ‰(
+""*¢
+4k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java† †( §
+¤
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java† †( 
+djava.lang.Double"__id*
+
+%1java.lang.Double*
+2
+1*ó
+6k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java† †(û
+ø
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java† †( 
+%1java.lang.Double">java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;*"
+java.lang.Double*
+
+tokenjava.lang.String*
+4*¯
+7k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java„ „(•
+’
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java„ „(
+djava.lang.Double"__id*
+""ñî
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java… …(
+%0java.lang.String"7java.util.StringTokenizer#nextToken()Ljava/lang/String;*!
+
+stjava.util.StringTokenizer2nextToken()«
+¨
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java… …( 
+tokenjava.lang.String"__id*
+
+%0java.lang.String*
+6*ç
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java‹
+ ‹("u
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java‹ ‹(
+"":
+stjava.util.StringTokenizerB
+ij.plugin.filter.Calibrator

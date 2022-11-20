@@ -1,0 +1,55 @@
+
+#ij.macro.Functions#setOrthoViews()Db
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÕ) Õ)("3*æ
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÛ) Û)(÷ô
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÛ) Û)("
+
+%4void",ij.plugin.Orthogonal_Views#setCrossLoc(III)V**
+(
+
+orthoViewsij.plugin.Orthogonal_Views*
+""*
+""*
+""2setCrossLoc(III)*
+1*á
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÖ) Ö)(¿¼
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÖ) Ö)(
+%0double"!ij.macro.Functions#getFirstArg()D*
+ij.macro.Functions2getFirstArg()½º
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java×) ×)(
+%1double" ij.macro.Functions#getNextArg()D*
+ij.macro.Functions2getNextArg()½º
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaØ) Ø)(
+%2double" ij.macro.Functions#getLastArg()D*
+ij.macro.Functions2getLastArg()ï
+ì
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÙ)  Ù)(> 
+%3ij.plugin.Orthogonal_Views"Dij.plugin.Orthogonal_Views#getInstance()Lij/plugin/Orthogonal_Views;*"
+ij.plugin.Orthogonal_Views»
+¸
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÙ) Ù)(?(
+
+orthoViewsij.plugin.Orthogonal_Views"__id*"
+ 
+%3ij.plugin.Orthogonal_Views*
+2
+1*Û
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÜ)	 Ü)(ƒ
+€
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÜ)	 Ü)(
+%5double"__id*
+"""l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÜ) Ü)(
+""B
+ij.macro.Functions

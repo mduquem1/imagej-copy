@@ -1,0 +1,84 @@
+
+Zij.gui.PlotWindow#addPopupItem(Ljava/awt/PopupMenu;Ljava/lang/String;Z)Ljava/awt/MenuItem;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÅ
+ Å("4*ó
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaá á(íè
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaá á(
+%3java.awt.MenuItem"java.awt.MenuItemœ
+Ã
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaá á(
+%4"-java.awt.MenuItem#<init>(Ljava/lang/String;)V*
+
+%3java.awt.MenuItem*
+
+sjava.lang.String†
+ù
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaá á(
+mijava.awt.MenuItem"__id*
+
+%3java.awt.MenuItemüú
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaà à(
+
+%5void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+mijava.awt.MenuItem*
+ij.gui.PlotWindow22addActionListener(Ljava/awt/event/ActionListener;)*
+1*ø
+3a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÑ Ñ(¢ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÑ Ñ(
+%0java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItemﬂ
+‹
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÑ Ñ(
+%1"5java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;)V*!
+
+%0java.awt.CheckboxMenuItem*
+
+sjava.lang.String®
+•
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÑ Ñ(
+mijava.awt.MenuItem"__id*!
+
+%0java.awt.CheckboxMenuItemüú
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÖ Ö(/
+
+%2void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*
+
+mijava.awt.MenuItem*
+ij.gui.PlotWindow2.addItemListener(Ljava/awt/event/ItemListener;)*
+1*˛
+4a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÇ Ç(ç
+ä
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÇ Ç(
+mijava.awt.MenuItem"__id*
+""*
+2
+3*˚
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaä ä(íè
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaä ä(
+%6java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*!
+
+	popupMenujava.awt.PopupMenu*
+
+mijava.awt.MenuItem2add(Ljava/awt/MenuItem;)"~
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaã ã(
+
+mijava.awt.MenuItem:
+	popupMenujava.awt.PopupMenu:
+sjava.lang.String:
+""B
+ij.gui.PlotWindow

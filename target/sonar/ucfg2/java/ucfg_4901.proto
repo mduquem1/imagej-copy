@@ -1,0 +1,23 @@
+
+ij.plugin.Memory#maxMemory()J`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Memory.java   ("1*Ø
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Memory.java¡
+ ¡(È
+Å
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Memory.java¡
+ ¡(
+%0java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.Runtime¹¶
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Memory.java¡
+ ¡(*
+
+%1long"java.lang.Runtime#maxMemory()J*
+
+%0java.lang.Runtime2maxMemory()"j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Memory.java¡ ¡(+
+""B
+ij.plugin.Memory

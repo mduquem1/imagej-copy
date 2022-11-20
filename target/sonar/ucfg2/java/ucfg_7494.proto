@@ -1,0 +1,42 @@
+
+/ij.text.TextPanel#getCell(II)Ljava/lang/String;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÒ Ò("2"1*”
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÛ
+ Û("k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÛ Û(
+""*´
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÙ Ù(•
+¢
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÙ Ù(
+%0ij.text.TextCanvas"__id**
+ij.text.TextPanel"
+tc—Œ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÙ Ù(,
+%1char[]"!ij.text.TextCanvas#getChars(II)[C*
+
+%0ij.text.TextCanvas*
+""*
+""2getChars(II)êç
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÙ Ù(
+%2java.lang.String"java.lang.String¥
+±
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÙ	 Ù(-
+%3"java.lang.String#<init>([C)V*
+
+%2java.lang.String*
+
+%1char[]"}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÙ Ù(.
+
+%2java.lang.String:
+"":
+""B
+ij.text.TextPanel

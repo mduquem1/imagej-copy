@@ -1,0 +1,1095 @@
+
+@ij.gui.PlotWindow#actionPerformed(Ljava/awt/event/ActionEvent;)Va
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaè è("73*ò
+68a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javañ ñ(§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javañ ñ(
+%5java.awt.Button"__id**
+ij.gui.PlotWindow"
+data*
+65
+67*‰
+24a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∂< ∂(@ıÚ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∂ ∂(A
+%84void"/ij.gui.PlotDialog#showDialog(Ljava/awt/Frame;)V*
+
+%82ij.gui.PlotDialog*
+ij.gui.PlotWindow2showDialog(Ljava/awt/Frame;)*
+2*´
+69a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaï ï(ºπ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaï ï(
+
+%4void"ij.gui.PlotWindow#showList(Z)V*
+ij.gui.PlotWindow*22showList(Z)*
+2*É
+25a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∂ ∂(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∂ ∂(
+%80ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∂ ∂(/
+
+%81int"__id*
+""ìê
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∂ ∂(
+%82ij.gui.PlotDialog"ij.gui.PlotDialogÿ
+’
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∂ ∂(0
+%83")ij.gui.PlotDialog#<init>(Lij/gui/Plot;I)V*
+
+%82ij.gui.PlotDialog*
+
+%80ij.gui.Plot*
+
+
+%81int*
+24*◊
+26a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaµ µ(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaµ µ(
+%78java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaµ µ(%
+%79java.awt.MenuItem"
+__arrayGet*
+
+%78java.awt.MenuItem[]*
+""*
+25
+23*’
+27a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¥ ¥(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¥ ¥(
+%76ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot¬ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¥ ¥(
+%77void"ij.gui.Plot#setLimitsToFit(Z)V*
+
+%76ij.gui.Plot*22setLimitsToFit(Z)*
+2*◊
+28a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≥ ≥(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≥ ≥(
+%74java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≥ ≥("
+%75java.awt.MenuItem"
+__arrayGet*
+
+%74java.awt.MenuItem[]*
+""*
+26
+27*ﬂ
+29a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≤ ≤(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≤ ≤(
+%72ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plotÃ…
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≤ ≤(!
+%73void"#ij.gui.Plot#setLimitsToDefaults(Z)V*
+
+%72ij.gui.Plot*22setLimitsToDefaults(Z)*
+2*ò
+70a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaî î(§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaî î(
+%3java.awt.Button"__id**
+ij.gui.PlotWindow"
+list*
+68
+69*¢
+71a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaì ì(≥
+∞
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaì ì(
+
+%2void"(ij.gui.PlotWindow#toggleLiveProfiling()V*
+ij.gui.PlotWindow*
+2*∏
+72a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaë ë(ù
+ö
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaë ë(
+bjava.lang.Object"__id*
+
+%0java.lang.Object§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaí	 í(
+%1java.awt.Button"__id**
+ij.gui.PlotWindow"
+live*
+70
+71*”
+73a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaë ë(„‡
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaë ë(
+%0java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*!
+
+ejava.awt.event.ActionEvent2getSource()*
+72*◊
+30a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java± ±(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java± ±(
+%70java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java± ±($
+%71java.awt.MenuItem"
+__arrayGet*
+
+%70java.awt.MenuItem[]*
+""*
+28
+29*”
+31a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∞ ∞(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∞ ∞(
+%68ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot¿Ω
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∞ ∞(
+%69void" ij.gui.Plot#setPreviousMinMax()V*
+
+%68ij.gui.Plot2setPreviousMinMax()*
+2*◊
+32a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaØ Ø(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaØ Ø(
+%66java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaØ Ø(#
+%67java.awt.MenuItem"
+__arrayGet*
+
+%66java.awt.MenuItem[]*
+""*
+30
+31*‰
+33a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÆ9 Æ(=ıÚ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÆ Æ(>
+%65void"/ij.gui.PlotDialog#showDialog(Ljava/awt/Frame;)V*
+
+%63ij.gui.PlotDialog*
+ij.gui.PlotWindow2showDialog(Ljava/awt/Frame;)*
+2*É
+34a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÆ Æ(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÆ Æ(
+%61ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÆ Æ(,
+
+%62int"__id*
+""ìê
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÆ Æ(
+%63ij.gui.PlotDialog"ij.gui.PlotDialogÿ
+’
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaÆ Æ(-
+%64")ij.gui.PlotDialog#<init>(Lij/gui/Plot;I)V*
+
+%63ij.gui.PlotDialog*
+
+%61ij.gui.Plot*
+
+
+%62int*
+33*◊
+35a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≠ ≠(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≠ ≠(
+%59java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≠ ≠($
+%60java.awt.MenuItem"
+__arrayGet*
+
+%59java.awt.MenuItem[]*
+""*
+32
+34*Ê
+36a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¨ ¨(-˜Ù
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¨ ¨(-
+%58void"-ij.gui.Plot#zoomToRect(Ljava/awt/Rectangle;)V*
+
+%54ij.gui.Plot*
+
+%57java.awt.Rectangle2 zoomToRect(Ljava/awt/Rectangle;)*
+2*ø
+37a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¨ ¨(,œÃ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¨ ¨(,
+%57java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+%56
+ij.gui.Roi2getBounds()*
+36*ı
+38a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¨ ¨(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¨ ¨(
+%54ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¨ ¨(
+%55ij.ImagePlus"__id**
+ij.gui.PlotWindow"
+impΩ∫
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¨ ¨( 
+%56
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%55ij.ImagePlus2getRoi()*
+37*û
+40a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´* ´(?´®
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´* ´(?
+%53boolean"ij.gui.Roi#isArea()Z*
+
+%52
+ij.gui.Roi2isArea()*
+2
+38*—
+41a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´* ´(-°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´* ´(-
+%51ij.ImagePlus"__id**
+ij.gui.PlotWindow"
+impΩ∫
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´* ´(6
+%52
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%51ij.ImagePlus2getRoi()*
+40*‘
+43a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´ ´(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´ ´(
+%49ij.ImagePlus"__id**
+ij.gui.PlotWindow"
+impΩ∫
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´ ´( 
+%50
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%49ij.ImagePlus2getRoi()*
+2
+41*î
+44a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´ ´(
+°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´ ´(
+
+%48ij.ImagePlus"__id**
+ij.gui.PlotWindow"
+imp*
+2
+43*◊
+45a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java™ ™(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java™ ™(
+%46java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java™ ™('
+%47java.awt.MenuItem"
+__arrayGet*
+
+%46java.awt.MenuItem[]*
+""*
+35
+44*Ù
+46a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java©G ©(KÖÇ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java© ©(L
+%45void"7ij.gui.PlotContentsDialog#showDialog(Ljava/awt/Frame;)V*"
+ 
+%43ij.gui.PlotContentsDialog*
+ij.gui.PlotWindow2showDialog(Ljava/awt/Frame;)*
+2*£
+47a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java© ©(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java© ©(
+%41ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java©  ©(:
+
+%42int"__id*
+""£†
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java© ©( 
+%43ij.gui.PlotContentsDialog"ij.gui.PlotContentsDialogË
+Â
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java© ©(;
+%44"1ij.gui.PlotContentsDialog#<init>(Lij/gui/Plot;I)V*"
+ 
+%43ij.gui.PlotContentsDialog*
+
+%41ij.gui.Plot*
+
+
+%42int*
+46*◊
+48a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java® ®(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java® ®(
+%39java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java® ®( 
+%40java.awt.MenuItem"
+__arrayGet*
+
+%39java.awt.MenuItem[]*
+""*
+47
+45*Ù
+49a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaßM ß(QÖÇ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaß ß(R
+%38void"7ij.gui.PlotContentsDialog#showDialog(Ljava/awt/Frame;)V*"
+ 
+%36ij.gui.PlotContentsDialog*
+ij.gui.PlotWindow2showDialog(Ljava/awt/Frame;)*
+2*£
+50a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaß ß(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaß ß(
+%34ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaß  ß(@
+
+%35int"__id*
+""£†
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaß ß( 
+%36ij.gui.PlotContentsDialog"ij.gui.PlotContentsDialogË
+Â
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaß ß(A
+%37"1ij.gui.PlotContentsDialog#<init>(Lij/gui/Plot;I)V*"
+ 
+%36ij.gui.PlotContentsDialog*
+
+%34ij.gui.Plot*
+
+
+%35int*
+49*◊
+51a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¶ ¶(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¶ ¶(
+%32java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¶ ¶(&
+%33java.awt.MenuItem"
+__arrayGet*
+
+%32java.awt.MenuItem[]*
+""*
+48
+50*Ù
+52a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java•N •(RÖÇ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java• •(S
+%31void"7ij.gui.PlotContentsDialog#showDialog(Ljava/awt/Frame;)V*"
+ 
+%29ij.gui.PlotContentsDialog*
+ij.gui.PlotWindow2showDialog(Ljava/awt/Frame;)*
+2*£
+53a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java• •(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java• •(
+%27ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java•  •(A
+
+%28int"__id*
+""£†
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java• •( 
+%29ij.gui.PlotContentsDialog"ij.gui.PlotContentsDialogË
+Â
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java• •(B
+%30"1ij.gui.PlotContentsDialog#<init>(Lij/gui/Plot;I)V*"
+ 
+%29ij.gui.PlotContentsDialog*
+
+%27ij.gui.Plot*
+
+
+%28int*
+52*◊
+54a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java§ §(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java§ §(
+%25java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java§ §('
+%26java.awt.MenuItem"
+__arrayGet*
+
+%25java.awt.MenuItem[]*
+""*
+51
+53*º
+10a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¿ ¿(.Õ 
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¿ ¿(.
+%116void"ij.gui.Plot#setFormatFlags(I)V*
+
+%114ij.gui.Plot*
+
+%115int2setFormatFlags(I)*
+9*™
+55a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java£ £(ª∏
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java£ £( 
+%24void"ij.gui.PlotWindow#showList(Z)V*
+ij.gui.PlotWindow*2 2showList(Z)*
+2*π
+11a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¿ ¿(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¿ ¿(
+%114ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¿ ¿(-
+%115int"ij.gui.Plot#getDefaultFlags()I*"
+ij.gui.Plot*
+10*◊
+56a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¢ ¢(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¢ ¢(
+%22java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¢ ¢($
+%23java.awt.MenuItem"
+__arrayGet*
+
+%22java.awt.MenuItem[]*
+""*
+54
+55*Û
+12a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaø ø(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaø ø(
+%111ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plotÄ
+~
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaø ø(#
+%112int"__id*
+""€ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaø ø(.
+%113void"!ij.gui.Plot#setAxisLabelFont(IF)V*
+
+%111ij.gui.Plot*
+
+%112int*
+""2setAxisLabelFont(IF)*
+11*∫
+57a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java° °(À»
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java° °(
+%21void"%ij.gui.PlotWindow#copyToClipboard(Z)V*
+ij.gui.PlotWindow*22copyToClipboard(Z)*
+2*·
+13a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaæ æ(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaæ æ(
+%108ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plotÄ
+~
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaæ æ(
+%109int"__id*
+""…∆
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaæ æ(%
+%110void"ij.gui.Plot#setFont(IF)V*
+
+%108ij.gui.Plot*
+
+%109int*
+""2setFont(IF)*
+12*◊
+58a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java† †(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java† †(
+%19java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java† †(!
+%20java.awt.MenuItem"
+__arrayGet*
+
+%19java.awt.MenuItem[]*
+""*
+57
+56*Ÿ
+14a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaΩ Ω(Ø
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaΩ Ω(
+%106java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems¥
+±
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaΩ Ω(#
+%107java.awt.MenuItem"
+__arrayGet*
+
+%106java.awt.MenuItem[]*
+""*
+13
+7*∏
+59a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaü ü(…∆
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaü ü(
+%18void"%ij.gui.PlotWindow#copyToClipboard(Z)V*
+ij.gui.PlotWindow*2 2copyToClipboard(Z)*
+2*Ê
+15a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaº8 º(<˜Ù
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaº º(=
+%105void"/ij.gui.PlotDialog#showDialog(Ljava/awt/Frame;)V*
+
+%103ij.gui.PlotDialog*
+ij.gui.PlotWindow2showDialog(Ljava/awt/Frame;)*
+2*ã
+16a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaº º(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaº º(
+%101ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plotÄ
+~
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaº º(+
+%102int"__id*
+""îë
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaº º(
+%103ij.gui.PlotDialog"ij.gui.PlotDialog‹
+Ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaº º(,
+%104")ij.gui.PlotDialog#<init>(Lij/gui/Plot;I)V*
+
+%103ij.gui.PlotDialog*
+
+%101ij.gui.Plot*
+
+%102int*
+15*ÿ
+17a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaª ª(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaª ª(
+%99java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≥
+∞
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaª ª(!
+%100java.awt.MenuItem"
+__arrayGet*
+
+%99java.awt.MenuItem[]*
+""*
+14
+16*Ù
+18a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∫E ∫(IÖÇ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∫ ∫(J
+%98void"7ij.gui.PlotContentsDialog#showDialog(Ljava/awt/Frame;)V*"
+ 
+%96ij.gui.PlotContentsDialog*
+ij.gui.PlotWindow2showDialog(Ljava/awt/Frame;)*
+2*£
+19a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∫ ∫(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∫ ∫(
+%94ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∫  ∫(8
+
+%95int"__id*
+""£†
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∫ ∫( 
+%96ij.gui.PlotContentsDialog"ij.gui.PlotContentsDialogË
+Â
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∫ ∫(9
+%97"1ij.gui.PlotContentsDialog#<init>(Lij/gui/Plot;I)V*"
+ 
+%96ij.gui.PlotContentsDialog*
+
+%94ij.gui.Plot*
+
+
+%95int*
+18*
+0 "x
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java… …(
+implicit return*ﬁ
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java« «(ß
+§
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java« «(
+%131ij.gui.ImageCanvas"__id**
+ij.gui.PlotWindow"
+ic∆√
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java« «(
+%132void""java.awt.Component#requestFocus()V*
+
+%131ij.gui.ImageCanvas2requestFocus()*
+0*°
+3a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∆ ∆(≥
+∞
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∆ ∆(
+%130void"$ij.IJ#doCommand(Ljava/lang/String;)V*	"
+ij.IJ*
+
+Plots...*
+2*◊
+4a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≈ ≈(Ø
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≈ ≈(
+%128java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems¥
+±
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≈ ≈(-
+%129java.awt.MenuItem"
+__arrayGet*
+
+%128java.awt.MenuItem[]*
+""*
+2
+3*Â
+5a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaƒ= ƒ(A˜Ù
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaƒ ƒ(B
+%127void"/ij.gui.PlotDialog#showDialog(Ljava/awt/Frame;)V*
+
+%125ij.gui.PlotDialog*
+ij.gui.PlotWindow2showDialog(Ljava/awt/Frame;)*
+2*â
+6a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaƒ ƒ(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaƒ ƒ(
+%123ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plotÄ
+~
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaƒ ƒ(0
+%124int"__id*
+""îë
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaƒ ƒ(
+%125ij.gui.PlotDialog"ij.gui.PlotDialog‹
+Ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaƒ ƒ(1
+%126")ij.gui.PlotDialog#<init>(Lij/gui/Plot;I)V*
+
+%125ij.gui.PlotDialog*
+
+%123ij.gui.Plot*
+
+%124int*
+5*◊
+7a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java√ √(Ø
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java√ √(
+%121java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems¥
+±
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java√ √((
+%122java.awt.MenuItem"
+__arrayGet*
+
+%121java.awt.MenuItem[]*
+""*
+4
+6*…
+8a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¬ ¬(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¬ ¬(
+%119ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot∂≥
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¬ ¬(
+%120void"ij.gui.Plot#updateImage()V*
+
+%119ij.gui.Plot2updateImage()*
+2*ﬂ
+9a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¡ ¡(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¡ ¡(
+%117ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plotÃ…
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¡ ¡(+
+%118void"ij.gui.Plot#setFrameSize(II)V*
+
+%117ij.gui.Plot*
+""*
+""2setFrameSize(II)*
+8*◊
+60a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaû û(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaû û(
+%16java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaû û(
+%17java.awt.MenuItem"
+__arrayGet*
+
+%16java.awt.MenuItem[]*
+""*
+58
+59*®
+61a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaù ù(π∂
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaù ù(
+%15void"ij.gui.PlotWindow#saveAsText()V*
+ij.gui.PlotWindow2saveAsText()*
+2*◊
+62a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaú ú(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaú ú(
+%13java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaú ú(
+%14java.awt.MenuItem"
+__arrayGet*
+
+%13java.awt.MenuItem[]*
+""*
+60
+61*®
+63a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaõ õ(±
+Æ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaõ õ(
+%11java.awt.PopupMenu"__id*(*&
+ij.gui.PlotWindow"
+morePopupMenuÖÇ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaõ õ()
+%12void"0java.awt.PopupMenu#show(Ljava/awt/Component;II)V*
+
+%11java.awt.PopupMenu*
+
+bjava.lang.Object*2*22show(Ljava/awt/Component;II)*
+2*ß
+64a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaö ö(∑
+¥
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaö ö(
+%10void"+ij.gui.PlotWindow#enableDisableMenuItems()V*
+ij.gui.PlotWindow*
+63*◊
+20a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaπ π(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaπ π(
+%92java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaπ π(
+%93java.awt.MenuItem"
+__arrayGet*
+
+%92java.awt.MenuItem[]*
+""*
+17
+19*ò
+65a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaô ô(§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaô ô(
+%9java.awt.Button"__id**
+ij.gui.PlotWindow"
+more*
+62
+64*‰
+21a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∏6 ∏(:ıÚ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∏ ∏(;
+%91void"/ij.gui.PlotDialog#showDialog(Ljava/awt/Frame;)V*
+
+%89ij.gui.PlotDialog*
+ij.gui.PlotWindow2showDialog(Ljava/awt/Frame;)*
+2*•
+66a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaò ò(∞
+≠
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaò ò(
+%7java.awt.PopupMenu"__id*(*&
+ij.gui.PlotWindow"
+dataPopupMenuÉÄ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaò ò()
+
+%8void"0java.awt.PopupMenu#show(Ljava/awt/Component;II)V*
+
+%7java.awt.PopupMenu*
+
+bjava.lang.Object*2*22show(Ljava/awt/Component;II)*
+2*É
+22a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∏ ∏(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∏ ∏(
+%87ij.gui.Plot"__id**
+ij.gui.PlotWindow"
+plot
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∏ ∏()
+
+%88int"__id*
+""ìê
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∏ ∏(
+%89ij.gui.PlotDialog"ij.gui.PlotDialogÿ
+’
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∏ ∏(*
+%90")ij.gui.PlotDialog#<init>(Lij/gui/Plot;I)V*
+
+%89ij.gui.PlotDialog*
+
+%87ij.gui.Plot*
+
+
+%88int*
+21*¶
+67a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaó ó(∂
+≥
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaó ó(
+
+%6void"+ij.gui.PlotWindow#enableDisableMenuItems()V*
+ij.gui.PlotWindow*
+66*◊
+23a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∑ ∑(Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∑ ∑(
+%85java.awt.MenuItem[]"__id*$*"
+ij.gui.PlotWindow"
+	menuItems≤
+Ø
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java∑ ∑(
+%86java.awt.MenuItem"
+__arrayGet*
+
+%85java.awt.MenuItem[]*
+""*
+20
+22:
+ejava.awt.event.ActionEventB
+ij.gui.PlotWindow

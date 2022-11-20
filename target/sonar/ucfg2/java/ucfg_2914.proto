@@ -1,0 +1,47 @@
+
+7ij.util.Tools#c2hex(Ljava/awt/Color;)Ljava/lang/String;[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java ("5*Â
+3[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java ({
+y
+[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java (
+%1char[]"__id*
+""*
+3
+1*ê
+5[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java
+ (¶£
+[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java
+ (	
+%0int"java.awt.Color#getRGB()I*
+
+cjava.awt.Color2getRGB()}
+{
+[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java (
+buf7char[]"__id*
+""*
+3
+1*ô
+1[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java (äá
+[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java (
+%2java.lang.String"java.lang.String∞
+≠
+[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java	 (
+%3"java.lang.String#<init>([C)V*
+
+%2java.lang.String*
+
+buf7char[]"w
+[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java (
+
+%2java.lang.String:
+cjava.awt.ColorB"
+ij.util.Tools

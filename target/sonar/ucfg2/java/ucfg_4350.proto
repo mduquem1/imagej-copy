@@ -1,0 +1,75 @@
+
+7ij.gui.PlotWindow#getValuesAsString()Ljava/lang/String;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java® ®(!"5*£
+3a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¨ ¨(˜Ù
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¨ ¨(!
+%4java.lang.String";ij.measure.ResultsTable#getRowAsString(I)Ljava/lang/String;*
+
+rtij.measure.ResultsTable*
+""2getRowAsString(I)•¢
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java¨ ¨("
+%5java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+
+%4java.lang.String2append(Ljava/lang/String;)ìê
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java≠ ≠(
+%6java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+\n2append(Ljava/lang/String;)*
+4*¨
+4a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´ ´(ª∏
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java´ ´(	
+%3int"ij.measure.ResultsTable#size()I*
+
+rtij.measure.ResultsTable2size()*
+3
+1*á
+5a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java© ©(#ÌÍ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java© ©(%
+%0ij.measure.ResultsTable"<ij.gui.PlotWindow#getResultsTable()Lij/measure/ResultsTable;*
+ij.gui.PlotWindow2getResultsTable()¨
+©
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java© ©(&
+rtij.measure.ResultsTable"__id*
+
+%0ij.measure.ResultsTableúô
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java™ ™($
+%1java.lang.StringBuffer"java.lang.StringBufferÆ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java™ ™(&
+%2" java.lang.StringBuffer#<init>()V*
+
+%1java.lang.StringBuffer™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.java™ ™('
+sbjava.lang.StringBuffer"__id*
+
+%1java.lang.StringBuffer*
+4*«
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaØ	 Ø(ﬂ‹
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaØ	 Ø(
+%7java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuffer2
+toString()"}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotWindow.javaØ Ø(
+
+%7java.lang.StringB
+ij.gui.PlotWindow

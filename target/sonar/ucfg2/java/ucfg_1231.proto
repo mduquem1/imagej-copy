@@ -1,0 +1,16 @@
+
+:ij.io.LogStream#getCurrentOutStream()Ljava/io/PrintStream;]
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/LogStream.javaV V(."1*“
+1]
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/LogStream.javaW	 W(°
+­
+]
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/LogStream.javaW	 W(
+%0java.io.PrintStream"__id*+*)
+ij.io.LogStream"
+temporarySystemOut"|
+]
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/LogStream.javaW W(
+
+%0java.io.PrintStreamB"
+ij.io.LogStream

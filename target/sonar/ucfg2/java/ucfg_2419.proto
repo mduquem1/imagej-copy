@@ -1,0 +1,41 @@
+
+*ij.process.AutoThresholder#Intermodes([I)Ij
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java¶ ¶("14*ã
+14j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaÑ
+ Ñ(äá
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaÑ
+ Ñ(
+%0boolean"+ij.process.AutoThresholder#bimodalTest([D)Z*
+ij.process.AutoThresholder*
+""2bimodalTest([D)*
+
+14
+8
+1*Ê
+8j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaÝ Ý(â
+ß
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaÞ Þ(D
+
+%1void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*:8
+6Intermodes Threshold not found after 10000 iterations."t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaß ß(
+""*›
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaë ë(³
+°
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaë ë(&
+%2double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+"""t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaì ì(
+"":
+""B
+ij.process.AutoThresholder

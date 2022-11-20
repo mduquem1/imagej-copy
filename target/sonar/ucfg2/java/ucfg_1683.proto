@@ -1,0 +1,30 @@
+
+8ij.gui.Plot#getPlotObjectDeepClone(I)Lij/gui/PlotObject;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaä ä(""1*€
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaå	 å(£
+ 
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaå	 å(
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjects§
+¤
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaå	 å(
+%1ij.gui.PlotObject"
+__arrayGet*
+
+%0java.util.Vector*
+""ÓÐ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaå	 å(*
+%2ij.gui.PlotObject"0ij.gui.PlotObject#deepClone()Lij/gui/PlotObject;*
+
+%1ij.gui.PlotObject2deepClone()"x
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaå å(+
+
+%2ij.gui.PlotObject:
+""B
+ij.gui.Plot

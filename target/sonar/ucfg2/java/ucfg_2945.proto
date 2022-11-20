@@ -1,0 +1,186 @@
+
+Nij.util.Tools#getHash(Ljava/lang/String;ZLjava/lang/String;)Ljava/lang/String;]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaæ æ("20*À
+13]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java… …("f
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java… …(
+0*†
+14]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java« «(2¥
+±
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java« «(2%
+digestjava.security.MessageDigest"__id*#
+!
+%4java.security.MessageDigest*
+12*˘
+15]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java« «(ç
+ä
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java« «(2!
+%4java.security.MessageDigest"Xjava.security.MessageDigest#getInstance(Ljava/lang/String;)Ljava/security/MessageDigest;*"
+java.security.MessageDigest*	
+SHA-256*
+14*†
+17]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java≈ ≈(-¥
+±
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java≈ ≈(-%
+digestjava.security.MessageDigest"__id*#
+!
+%3java.security.MessageDigest*
+12*ı
+18]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java≈ ≈(â
+Ü
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java≈ ≈(-!
+%3java.security.MessageDigest"Xjava.security.MessageDigest#getInstance(Ljava/lang/String;)Ljava/security/MessageDigest;*"
+java.security.MessageDigest*
+MD5*
+17*ã
+19]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java√ √(ó
+î
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java√ √(%
+digestjava.security.MessageDigest"__id*
+""*
+13
+15
+18*ﬁ
+3]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java— —(""z
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java— —("
+
+%10java.lang.String*¡
+4]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java—
+ —(◊
+‘
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java—
+ —(!
+%10java.lang.String".ij.util.Tools#bytesToHex([B)Ljava/lang/String;*"
+ij.util.Tools*
+
+encodedhashbyte[]*
+3*˘
+5]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaœ œ(8è
+å
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaœ œ(8
+encodedhashbyte[]"__id*
+
+%9byte[]*
+4*…
+6]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaœ œ(8ﬂ‹
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaœ œ(8
+%9byte[]"(java.security.MessageDigest#digest([B)[B*'
+%
+digestjava.security.MessageDigest*
+
+%8byte[]2
+digest([B)*
+5*©
+7]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaœ œ(øº
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaœ  œ(7
+%8byte[]"java.lang.String#getBytes()[B*"
+ 
+pathOrStringjava.lang.String2
+getBytes()*
+6*˘
+8]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaÕ Õ(9è
+å
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaÕ Õ(9
+encodedhashbyte[]"__id*
+
+%7byte[]*
+4*…
+9]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaÕ Õ(9ﬂ‹
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaÕ Õ(9
+%7byte[]"(java.security.MessageDigest#digest([B)[B*'
+%
+digestjava.security.MessageDigest*
+
+%6byte[]2
+digest([B)*
+8*‘
+20]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaø ø(Ÿ÷
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaø ø(
+%0java.lang.String"0java.lang.String#toUpperCase()Ljava/lang/String;*
+
+methodjava.lang.String2toUpperCase()û
+õ
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaø ø(
+methodjava.lang.String"__id*
+
+%0java.lang.StringÚÔ
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java¿ ¿(&
+%1boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+methodjava.lang.String*
+MD52"contains(Ljava/lang/CharSequence;)ˆÛ
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java¡ ¡(.
+%2boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+methodjava.lang.String*	
+SHA-2562"contains(Ljava/lang/CharSequence;)*
+19*Ã
+10]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaÕ Õ(·
+ﬁ
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaÕ  Õ(8
+%6byte[]"8java.nio.file.Files#readAllBytes(Ljava/nio/file/Path;)[B*"
+java.nio.file.Files*
+
+pathjava.nio.file.Path*
+9*ô
+11]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java   ('†
+ù
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java   ('
+pathjava.nio.file.Path"__id*
+
+%5java.nio.file.Pathá
+Ñ
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaÀ À(
+encodedhashbyte[]"__id*
+""*
+7
+10*˘
+12]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java   (ç
+ä
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java   (&
+%5java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*"
+ 
+pathOrStringjava.lang.String*
+11:
+methodjava.lang.String:
+"": 
+pathOrStringjava.lang.StringB"
+ij.util.Tools

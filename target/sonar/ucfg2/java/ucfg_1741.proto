@@ -1,0 +1,50 @@
+
+ij.gui.Plot#getDigits(DDDII)I[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java§ §("2"1*Ç
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¨ ¨(,"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¨ ¨(-
+""*•
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java©	 ©(¢
+Ÿ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java© ©()
+%0double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""¢
+Ÿ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java©* ©(6
+%1double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""»
+¸
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java© ©(7
+%2double"java.lang.Math#max(DD)D*"
+java.lang.Math*
+
+%0double*
+
+%1doubleÃ
+À
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java©	 ©(`	
+%3int"ij.gui.Plot#getDigits2(DDII)I*"
+ij.gui.Plot*
+
+%2double*
+""*
+""*
+"""e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java© ©(a
+"":
+"":
+"":
+"":
+"":
+""B"
+ij.gui.Plot

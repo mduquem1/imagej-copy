@@ -1,0 +1,340 @@
+
+,ij.macro.Functions#fromPlot(Lij/gui/Plot;C)Db
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaŸ Ÿ("14*þ
+13b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java£ £(ÖÓ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java£ £(
+%3java.lang.String"0ij.macro.Functions#getString()Ljava/lang/String;*
+ij.macro.Functions2getString()¢
+Ÿ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java£ £(
+titlejava.lang.String"__id*
+
+%3java.lang.Stringë
+è
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¤ ¤(,
+%4ij.ImagePlus";ij.WindowManager#getImage(Ljava/lang/String;)Lij/ImagePlus;*"
+ij.WindowManager*
+
+titlejava.lang.Stringž
+›
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¤ ¤(,
+	sourceImpij.ImagePlus"__id*
+
+%4ij.ImagePlus*
+9
+12*Â
+14b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java   (
+
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java   ( 
+	sourceImpij.ImagePlus"__id*
+""­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¡ ¡(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÇÄ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¡ ¡(
+
+%1void"$ij.macro.Interpreter#getLeftParen()V*
+
+%0ij.macro.Interpreter2getLeftParen()À½
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¢ ¢(
+%2boolean"!ij.macro.Functions#isStringArg()Z*
+ij.macro.Functions2isStringArg()*
+13
+11*Û
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¸ ¸(®
+«
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¸ ¸(
+%36ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpËÈ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¸ ¸(
+%37void"%ij.macro.Interpreter#getRightParen()V*
+
+%36ij.macro.Interpreter2getRightParen()„
+
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¹	 ¹(
+%38double"__id*
+"""l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¹ ¹(
+""*Ü
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java· ·(íê
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java· ·(
+%35void"'ij.gui.Plot#useTemplate(Lij/gui/Plot;)V*
+
+plotij.gui.Plot*
+
+
+sourcePlotij.gui.Plot2useTemplate(Lij/gui/Plot;)*
+1*ª
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java´ ´(‚ÿ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java´ ´(2
+
+%33int".ij.gui.Plot#addObjectFromPlot(Lij/gui/Plot;I)I*
+
+plotij.gui.Plot*
+
+
+sourcePlotij.gui.Plot*
+""2!addObjectFromPlot(Lij/gui/Plot;I)¶³
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaµ µ(
+%34void"ij.gui.Plot#updateImage()V*
+
+plotij.gui.Plot2updateImage()*
+1*À
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java³ ³(
+®
+«
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java³ ³(
+
+%24ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÔÑ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java³ ³(-
+%25java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+	sourceImpij.ImagePlus2
+getTitle()°
+­
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java³ ³(-
+%26java.lang.String"__concat*	
+Plot *
+
+%25java.lang.String°
+­
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java³ ³(5
+%27java.lang.String"__concat*
+
+%26java.lang.String*	
+ has Á¾
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java³6 ³(N
+
+%28int" ij.gui.Plot#getNumPlotObjects()I*
+
+plotij.gui.Plot2getNumPlotObjects()³
+°
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java³ ³(N
+%29java.lang.String"__concat*
+
+%27java.lang.String*
+
+
+%28int¼
+¹
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java³ ³(b
+%30java.lang.String"__concat*
+
+%29java.lang.String*
+items, no number ­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java³ ³(n
+%31java.lang.String"__concat*
+
+%30java.lang.String*
+""ú÷
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java³ ³(o
+%32void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%24ij.macro.Interpreter*
+
+%31java.lang.String2error(Ljava/lang/String;)*
+3*³
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java² ²(%Á¾
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java²( ²(@
+
+%23int" ij.gui.Plot#getNumPlotObjects()I*
+
+plotij.gui.Plot2getNumPlotObjects()*
+3
+4*°
+6b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java± ±($¾»
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java± ±(&
+%22double" ij.macro.Functions#getNextArg()D*
+ij.macro.Functions2getNextArg()*
+4
+5*«
+8b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¯ ¯(	®
+«
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¯ ¯(	
+%18ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÔÑ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¯ ¯(0
+%19java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+	sourceImpij.ImagePlus2
+getTitle()´
+±
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¯ ¯(0
+%20java.lang.String"__concat*
+	No plot: *
+
+%19java.lang.Stringú÷
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¯ ¯(1
+%21void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%18ij.macro.Interpreter*
+
+%20java.lang.String2error(Ljava/lang/String;)*
+2
+6*Å
+9b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java­ ­($Ž
+‹
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java­1 ­(B
+%16java.lang.String"__id*
+""™–
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java­ ­(C
+%17java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+	sourceImpij.ImagePlus*
+
+%16java.lang.String2getProperty(Ljava/lang/String;)£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java­ ­(E
+
+sourcePlotij.gui.Plot"__id*
+
+%17java.lang.Object*	
+2
+6
+8*÷
+10b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java« «(
+®
+«
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java« «(
+
+%12ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¡
+ž
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java« «(
+%13java.lang.String"__concat*
+	Image ID=*
+""µ
+²
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java« «(,
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+
+ not foundú÷
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java« «(-
+%15void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%12ij.macro.Interpreter*
+
+%14java.lang.String2error(Ljava/lang/String;)*
+9*Û
+11b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¨ ¨(­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¨ ¨(
+%9ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÌÉ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¨ ¨('
+%10double"%ij.macro.Interpreter#getExpression()D*
+
+%9ij.macro.Interpreter2getExpression()Æ
+Ã
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java© ©()
+%11ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""Ÿ
+œ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java© ©()
+	sourceImpij.ImagePlus"__id*
+
+%11ij.ImagePlus*
+9
+10*†
+12b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¦ ¦(
+­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¦ ¦(
+
+%5ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp´
+±
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¦ ¦(!
+%6java.lang.String"__concat*
+
+Image \"*
+
+titlejava.lang.Stringµ
+²
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¦ ¦(0
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+\" not found÷ô
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¦ ¦(1
+
+%8void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%5ij.macro.Interpreter*
+
+%7java.lang.String2error(Ljava/lang/String;)*
+9:
+plotij.gui.Plot:
+""B
+ij.macro.Functions

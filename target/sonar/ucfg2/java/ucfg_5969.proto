@@ -1,0 +1,30 @@
+
+7ij.util.Java2#getLookAndFeel()Ljavax/swing/LookAndFeel;[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Java2.java= =()"3*Ç
+2[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Java2.java?
+ ?("e
+[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Java2.java? ?(
+""*ù
+3[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Java2.java> >(	Ž
+‹
+[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Java2.java> >(
+%0boolean"ij.IJ#isWindows()Z*	"
+ij.IJ*
+2
+1*¾
+1[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Java2.java@	 @(Û
+Ø
+[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Java2.java@	 @(#
+%1javax.swing.LookAndFeel"?javax.swing.UIManager#getLookAndFeel()Ljavax/swing/LookAndFeel;*"
+javax.swing.UIManager"~
+[
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Java2.java@ @($
+
+%1javax.swing.LookAndFeelB"
+ij.util.Java2

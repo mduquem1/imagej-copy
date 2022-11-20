@@ -1,0 +1,172 @@
+
+5ij.macro.Functions#getResultLabel()Ljava/lang/String;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÇ
+ Ç
+("9*è
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaç
+ ç
+(†
+ù
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaç
+ ç
+(
+%9java.lang.String"__id*
+
+%10java.lang.String*
+1*ë
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaç
+ ç
+(¢
+ü
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaç
+ ç
+(
+%9java.lang.String"__id*
+
+labeljava.lang.String*
+1*æ
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaå
+ å
+(ß§
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaå
+ å
+(*
+%8java.lang.String"Mij.measure.ResultsTable#getStringValue(Ljava/lang/String;I)Ljava/lang/String;*
+
+rtij.measure.ResultsTable*	
+Label*
+""2#getStringValue(Ljava/lang/String;I)¢
+ü
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaå
+ å
+(*
+labeljava.lang.String"__id*
+
+%8java.lang.String*
+2
+3*Î
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaä
+
+ ä
+("Å
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaä
+ ä
+(
+
+labeljava.lang.String*É
+6b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaà
+ à
+(ÏÈ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaà
+ à
+(!
+%7java.lang.String"5ij.measure.ResultsTable#getLabel(I)Ljava/lang/String;*
+
+rtij.measure.ResultsTable*
+""2getLabel(I)¢
+ü
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaà
+ à
+("
+labeljava.lang.String"__id*
+
+%7java.lang.String*
+4
+5*Ô
+7b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaá
+ á
+(	≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaá
+ á
+(	
+%3ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpú
+ô
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaá
+ á
+(
+%4java.lang.String"__concat*	
+Row (*
+""∑
+¥
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaá
+ á
+(,
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+) out of range˜Ù
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaá
+ á
+(-
+
+%6void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%3ij.macro.Interpreter*
+
+%5java.lang.String2error(Ljava/lang/String;)*
+6*˝
+9b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÉ
+ É
+(µ≤
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÉ
+ É
+(
+%0double"ij.macro.Functions#getArg()D*
+ij.macro.Functions2getArg()‰
+·
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÑ
+ Ñ
+()
+%1ij.measure.ResultsTable">ij.macro.Functions#getResultsTable(Z)Lij/measure/ResultsTable;*
+ij.macro.Functions*2≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÑ
+ Ñ
+(*
+rtij.measure.ResultsTable"__id*
+
+%1ij.measure.ResultsTableºπ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÖ
+ Ö
+(	
+%2int"ij.measure.ResultsTable#size()I*
+
+rtij.measure.ResultsTable2size()*
+6
+7*Á
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaç
+ ç
+("~
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaç
+ ç
+(
+
+%9java.lang.StringB
+ij.macro.Functions

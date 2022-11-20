@@ -1,0 +1,329 @@
+
+Xij.process.ShortStatistics#<init>(Lij/process/ImageProcessor;ILij/measure/Calibration;)Vh
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java ("33*Ë
+24h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java%] %(_⁄◊
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java%] %(n
+%11int[]"*ij.process.ImageProcessor#getHistogram()[I*!
+
+ipij.process.ImageProcessor2getHistogram()ê
+ç
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java%] %(n
+%9int[]"__id*
+
+%11int[]*
+19
+20*Í
+25h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java%I %(K‹Ÿ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java%8 %(\
+%10int[]"+ij.process.ShortProcessor#getHistogram2()[I*!
+
+ipij.process.ImageProcessor2getHistogram2()ê
+ç
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java%8 %(\
+%9int[]"__id*
+
+%10int[]*
+19
+20*í
+27h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java# #(ÏÈ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java# #(
+%8java.awt.Rectangle"6ij.process.ImageProcessor#getRoi()Ljava/awt/Rectangle;*!
+
+ipij.process.ImageProcessor2getRoi()®
+•
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java# #(
+rjava.awt.Rectangle"__id*
+
+%8java.awt.Rectangle*
+24
+25*≥
+28h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java" "(ºπ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java" "(1
+
+%7void"Eij.process.ImageStatistics#saveThreshold(DDLij/measure/Calibration;)V*
+ij.process.ShortStatistics*
+""*
+""*
+
+calij.measure.Calibration2)saveThreshold(DDLij/measure/Calibration;)*
+27*⁄
+30h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java (ﬂ‹
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java ()
+%6double",ij.process.ImageProcessor#getMaxThreshold()D*!
+
+ipij.process.ImageProcessor2getMaxThreshold()*
+27
+28*à
+32h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java (â
+Ü
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java! (<
+%5double"__id*
+""*
+27
+28
+30*Õ
+10h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java5 5(◊‘
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java5 5(;
+%27void"Mij.process.ShortStatistics#calculateMoments(Lij/process/ImageProcessor;II[F)V*
+ij.process.ShortStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""21calculateMoments(Lij/process/ImageProcessor;II[F)*
+9*ˇ	
+33h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java (ŒÀ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java (	
+%0int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()–Õ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java (	
+%1int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()ÒÓ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java (
+
+%2void"Vij.process.ImageStatistics#setup(Lij/process/ImageProcessor;Lij/measure/Calibration;)V*
+ij.process.ShortStatistics*!
+
+ipij.process.ImageProcessor*
+
+calij.measure.Calibration2:setup(Lij/process/ImageProcessor;Lij/measure/Calibration;)ﬂ‹
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java ($
+%3double",ij.process.ImageProcessor#getMinThreshold()D*!
+
+ipij.process.ImageProcessor2getMinThreshold()Ü
+É
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java' (,	
+%4int"__id*
+""*
+27
+28
+32*ï
+11h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java4 4(á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java4 4(
+
+%24int"__id*
+""á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java4  4((
+
+%25int"__id*
+""á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java4) 4(1
+
+%26int"__id*
+""*
+9
+10*∏
+12h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java3 3(¡æ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java3 3(.
+%23void"Fij.process.ShortStatistics#getCentroid(Lij/process/ImageProcessor;II)V*
+ij.process.ShortStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+""2*getCentroid(Lij/process/ImageProcessor;II)*
+11*Ç
+13h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java2 2(á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java2 2(
+
+%22int"__id*
+""*
+11
+12*¨
+14h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java1 1(µ≤
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java1 1(
+%21void"Dij.process.ImageStatistics#fitEllipse(Lij/process/ImageProcessor;I)V*
+ij.process.ShortStatistics*!
+
+ipij.process.ImageProcessor*
+""2(fitEllipse(Lij/process/ImageProcessor;I)*
+11*Ç
+15h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java0  0((á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java0) 0(:
+
+%20int"__id*
+""*
+13
+14*Ç
+16h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java0 0(á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java0 0(
+
+%19int"__id*
+""*
+14
+15*√
+17h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java/ /(
+Ã…
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java/ /(
+%18void"%ij.process.ShortStatistics#getMode()V*
+ij.process.ShortStatistics2	getMode()*
+16*·
+18h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java) )(2¸˘
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java* *(3
+%15void"1ij.process.ShortStatistics#getRawMinAndMax([III)V*
+ij.process.ShortStatistics*
+""*
+""*
+""2getRawMinAndMax([III)›⁄
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java- -(5
+%16void"Lij.process.ShortStatistics#getStatistics(Lij/process/ImageProcessor;[III[F)V*
+ij.process.ShortStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""*
+""20getStatistics(Lij/process/ImageProcessor;[III[F)á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java. .(
+
+%17int"__id*
+""*
+16
+17*è
+19h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java)- )(1ò
+ï
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java)- )(1
+%12float[]"__id*
+
+%14
+<nulltype>*
+18*Ü
+0 "
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java@ @(
+implicit return*¬
+1h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java? ?(Õ 
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java? ?("
+%33void"Pij.process.ImageStatistics#calculateAreaFraction(Lij/process/ImageProcessor;[I)V*
+ij.process.ShortStatistics*!
+
+ipij.process.ImageProcessor*
+""24calculateAreaFraction(Lij/process/ImageProcessor;[I)*
+0*ˇ
+2h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java> >(á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java> >(
+
+%32int"__id*
+""*
+0
+1*¬
+4h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java: :(Õ 
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java: :(:
+%31void"Iij.process.ImageStatistics#calculateMedian([IIILij/measure/Calibration;)V*
+ij.process.ShortStatistics*
+""*
+""*
+""*
+
+calij.measure.Calibration2-calculateMedian([IIILij/measure/Calibration;)*
+2*ˇ
+6h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java8 8(á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java8 8(
+
+%30int"__id*
+""*
+2
+4*ã
+7h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java7 7(ñì
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java7 7(;
+%29void":ij.process.ShortStatistics#getCalibratedMinAndMax([III[F)V*
+ij.process.ShortStatistics*
+""*
+""*
+""*
+""2getCalibratedMinAndMax([III[F)*
+6*ˇ
+9h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java6 6(á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java6 6(
+
+%28int"__id*
+""*
+6
+7*‡
+20h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java) )( —Œ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java) )(,
+%13float[]"$ij.measure.Calibration#getCTable()[F*
+
+calij.measure.Calibration2getCTable()ï
+í
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortStatistics.java) )(,
+%12float[]"__id*
+
+%13float[]*
+18:
+ipij.process.ImageProcessor:
+"":
+calij.measure.CalibrationB
+ij.process.ShortStatistics

@@ -1,0 +1,131 @@
+
+7ij.process.ShortProcessor#createImage()Ljava/awt/Image;g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java[ [("25"26*ƒ
+24g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java_7 _(D…
+‚
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java_E _(R	
+%3int"__id*
+""*
+18
+19
+20*¤
+3g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javav v(­
+ª
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javav v(
+%11byte[]"__id***(
+ij.process.ShortProcessor"	
+pixels8*
+3
+1*¹
+25g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java^ ^(¬
+©
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java^ ^(
+%1byte[]"__id***(
+ij.process.ShortProcessor"	
+pixels8ˆ
+…
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java_' _(3
+%2double"__id*
+""*
+24
+18
+19
+20*„
+15g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javaf f(…
+‚
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javaj j()	
+%8int"__id*
+""*
+3
+9
+10
+1*Ê
+26g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java] ](ÔÑ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java] ](
+
+%0void"*ij.process.ShortProcessor#findMinAndMax()V*
+ij.process.ShortProcessor2findMinAndMax()*
+25*Ý
+17g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javad d(äá
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javad d(
+
+%7void"2ij.process.ImageProcessor#makeDefaultColorModel()V*
+ij.process.ShortProcessor2makeDefaultColorModel()*
+15
+1*·
+18g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javac c(º
+·
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javac c(
+%6java.awt.image.ColorModel"__id*%*#
+ij.process.ShortProcessor"
+cm*
+15
+17
+1*Ç
+19g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javab b(8Ñ
+Î
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javab b(8
+%5byte[]".ij.process.ShortProcessor#create8BitImage(Z)[B*
+ij.process.ShortProcessor*
+""*
+18*¨
+9g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javap p(­
+ª
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javap p(
+%10byte[]"__id***(
+ij.process.ShortProcessor"	
+pixels8*
+
+9
+10
+1*û
+20g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javab! b(.…
+‚
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javab0 b(7	
+%4int"__id*
+""*
+19*¨
+10g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javan n(¬
+©
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javan n(
+%9byte[]"__id***(
+ij.process.ShortProcessor"	
+pixels8*
+
+9
+10
+1*î
+1g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javaz	 z(ú÷
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javaz	 z(
+%12java.awt.Image"?ij.process.ShortProcessor#createBufferedImage()Ljava/awt/Image;*
+ij.process.ShortProcessor2createBufferedImage()"‚
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.javaz z(
+
+%12java.awt.ImageB
+ij.process.ShortProcessor

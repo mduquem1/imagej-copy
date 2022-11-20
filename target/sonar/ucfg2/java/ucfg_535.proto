@@ -1,0 +1,113 @@
+
+Qij.process.ImageProcessor#getStringBounds(Ljava/lang/String;)Ljava/awt/Rectangle;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaï ï(!"1*”
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javañ ñ(»
+≈
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javañ ñ(
+
+%0void"-ij.process.ImageProcessor#setupFontMetrics()V*
+ij.process.ImageProcessor≤
+Ø
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó ó(
+%1java.awt.Font"__id*'*%
+ij.process.ImageProcessor"
+fontæ
+ª
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó* ó(4
+%2java.awt.Graphics2D"__id*-*+
+ij.process.ImageProcessor"
+
+fmGraphicsóî
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó* ó(K%
+%3java.awt.font.FontRenderContext"Kjava.awt.Graphics2D#getFontRenderContext()Ljava/awt/font/FontRenderContext;*
+
+%2java.awt.Graphics2D2getFontRenderContext()°û
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó ó(O
+%4java.awt.font.GlyphVector"ojava.awt.Font#createGlyphVector(Ljava/awt/font/FontRenderContext;Ljava/lang/String;)Ljava/awt/font/GlyphVector;*
+
+%1java.awt.Font*'
+%
+%3java.awt.font.FontRenderContext*
+
+sjava.lang.String2FcreateGlyphVector(Ljava/awt/font/FontRenderContext;Ljava/lang/String;)∏
+µ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó ó(P
+gvjava.awt.font.GlyphVector"__id*!
+
+%4java.awt.font.GlyphVector¿
+Ω
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaò3 ò(>
+%5java.awt.FontMetrics"__id*.*,
+ij.process.ImageProcessor"
+fontMetrics…∆
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaò3 ò(K	
+%6int""java.awt.FontMetrics#getDescent()I*
+
+%5java.awt.FontMetrics2getDescent()€ÿ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaò ò(L
+%7java.awt.Rectangle"ajava.awt.font.GlyphVector#getPixelBounds(Ljava/awt/font/FontRenderContext;FF)Ljava/awt/Rectangle;*!
+
+gvjava.awt.font.GlyphVector*
+""*
+""*
+""23getPixelBounds(Ljava/awt/font/FontRenderContext;FF)≥
+∞
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaò ò(M!
+rectjava.awt.geom.Rectangle2D"__id*
+
+%7java.awt.Rectangle—Œ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaô ô('
+%8double"&java.awt.geom.RectangularShape#getX()D*#
+!
+rectjava.awt.geom.Rectangle2D2getX()—Œ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaô. ô(9
+%9double"&java.awt.geom.RectangularShape#getY()D*#
+!
+rectjava.awt.geom.Rectangle2D2getY()⁄◊
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaô@ ô(O
+%10double"*java.awt.geom.RectangularShape#getWidth()D*#
+!
+rectjava.awt.geom.Rectangle2D2
+getWidth()‹Ÿ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaôV ô(f
+%11double"+java.awt.geom.RectangularShape#getHeight()D*#
+!
+rectjava.awt.geom.Rectangle2D2getHeight()ùö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaô ô(
+%12java.awt.Rectangle"java.awt.Rectangleˆ
+Û
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaô	 ô(g
+%13" java.awt.Rectangle#<init>(IIII)V*
+
+%12java.awt.Rectangle*
+
+%8double*
+
+%9double*
+
+%10double*
+
+%11double"à
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaô ô(h
+
+%12java.awt.Rectangle:
+sjava.lang.StringB
+ij.process.ImageProcessor

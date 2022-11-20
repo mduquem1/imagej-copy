@@ -1,0 +1,52 @@
+
+Qij.measure.ResultsTable#replaceQuotedCommas(Ljava/lang/String;)Ljava/lang/String;g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaê
+ ê
+(*"9*Õ
+9g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaë
+ ë
+(«ƒ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaë
+ ë
+(
+%0char[]" java.lang.String#toCharArray()[C*
+
+textjava.lang.String2toCharArray()è
+å
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaë
+ ë
+( 
+cchar[]"__id*
+
+%0char[]*
+1*«
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaô
+ ô
+(ñì
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaô
+ ô
+(
+%1java.lang.String"java.lang.Stringπ
+∂
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaô
+	 ô
+(
+%2"java.lang.String#<init>([C)V*
+
+%1java.lang.String*
+
+cchar[]"É
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaô
+ ô
+(
+
+%1java.lang.String:
+textjava.lang.StringB"
+ij.measure.ResultsTable

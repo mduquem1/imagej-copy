@@ -1,0 +1,25 @@
+
+&ij.gui.Overlay#contains(Lij/gui/Roi;)Z^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java‰ ‰("1*á
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaŠ Š(Ÿ
+œ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaŠ Š(
+%0java.util.Vector"__id**
+ij.gui.Overlay"
+listïì
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaŠ Š(
+%1boolean".java.util.Vector#contains(Ljava/lang/Object;)Z*
+
+%0java.util.Vector*
+
+roi
+ij.gui.Roi2contains(Ljava/lang/Object;)"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaŠ Š(
+"":
+roi
+ij.gui.RoiB
+ij.gui.Overlay

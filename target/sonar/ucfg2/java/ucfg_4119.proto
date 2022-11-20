@@ -1,0 +1,67 @@
+
+3ij.gui.PointRoi#crop(Lij/gui/Roi;)Lij/gui/PointRoi;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaö ö("6*µ
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaü ü(
+∆√
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaü ü(
+
+%4void"ij.gui.PointRoi#deletePoint(I)V*
+
+pointsij.gui.PointRoi*
+""2deletePoint(I)*
+4
+1*≤
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaû û(¿Ω
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaû û(/
+%3boolean"ij.gui.Roi#contains(II)Z*
+
+roi
+ij.gui.Roi*
+""*
+""2contains(II)*	
+3
+4
+1*Ç
+6_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaõ õ(#≈¬
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaõ õ(%
+%0java.lang.Object")ij.gui.PointRoi#clone()Ljava/lang/Object;*
+ij.gui.PointRoi2clone()ü
+ú
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaõ õ(&
+pointsij.gui.PointRoi"__id*
+
+%0java.lang.ObjectŸ÷
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaú ú(!
+%1java.awt.Polygon"0ij.gui.PolygonRoi#getPolygon()Ljava/awt/Polygon;*
+
+pointsij.gui.PointRoi2getPolygon()õ
+ò
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaú ú("
+pjava.awt.Polygon"__id*
+
+%1java.awt.PolygonØ¨
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaù ù(	
+%2int"ij.gui.PolygonRoi#size()I*
+
+pointsij.gui.PointRoi2size()*
+4
+1*‰
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¢	 ¢("~
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¢ ¢(
+
+pointsij.gui.PointRoi:
+roi
+ij.gui.RoiB
+ij.gui.PointRoi

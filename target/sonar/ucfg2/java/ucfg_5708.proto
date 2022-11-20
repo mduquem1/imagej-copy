@@ -1,0 +1,47 @@
+
+(ij.gui.Overlay#contains(Lij/gui/Roi;II)Z^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÄ Ä("2"4"1*ï
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÉ É(ÍÁ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÉ É(+
+%0ij.process.FloatPolygon"7ij.gui.Line#getFloatPolygon(D)Lij/process/FloatPolygon;*
+
+roi
+ij.gui.Roi*2
+2getFloatPolygon(D)ÿ’
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÉ É(:
+%1boolean"%ij.process.FloatPolygon#contains(FF)Z*
+
+%0ij.process.FloatPolygon*
+""*
+""2contains(FF)"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÉ É(;
+""*Õ
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÅ Å("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÅ Å(
+""*è
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÖ
+ Ö(øº
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÖ
+ Ö(
+%2boolean"ij.gui.Roi#contains(II)Z*
+
+roi
+ij.gui.Roi*
+""*
+""2contains(II)"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÖ Ö(
+"":
+roi
+ij.gui.Roi:
+"":
+""B
+ij.gui.Overlay

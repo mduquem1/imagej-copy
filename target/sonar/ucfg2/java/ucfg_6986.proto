@@ -1,0 +1,453 @@
+
+/ij.plugin.StackPlotter#run(Ljava/lang/String;)Vd
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java ("35*Œ
+24d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java6( 6(.úô
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java6 6(/
+%12ij.gui.ProfilePlot[]"ij.gui.ProfilePlot[]≠
+™
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java6 6(0
+pPlotij.gui.ProfilePlot[]"__id*
+
+%12ij.gui.ProfilePlot[]*
+16
+17
+18
+9
+21*≥
+25d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java2 2(¿Ω
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java2 2( 
+
+%11int"ij.ImagePlus#getCurrentSlice()I*
+
+impij.ImagePlus2getCurrentSlice()*
+24*©
+26d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java. .(∂≥
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java/ /(
+
+%10int"ij.ImagePlus#getNSlices()I*
+
+impij.ImagePlus2getNSlices()*
+24*Ã
+28d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java) )(µ≤
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java) )(	
+%6int"ij.ImagePlus#getChannel()I*
+
+impij.ImagePlus2getChannel()±Æ
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java* *(	
+%7int"ij.ImagePlus#getSlice()I*
+
+impij.ImagePlus2
+getSlice()±Æ
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java+ +(	
+%8int"ij.ImagePlus#getFrame()I*
+
+impij.ImagePlus2
+getFrame()µ≤
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java, ,(%	
+%9int"ij.ImagePlus#getNFrames()I*
+
+impij.ImagePlus2getNFrames()*
+24
+26*∫
+30d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java% %(√¿
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java% %(#	
+%5int"!ij.ImagePlus#getImageStackSize()I*
+
+impij.ImagePlus2getImageStackSize()*
+25
+28*∆
+32d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java (È
+Ê
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java (;
+
+%4void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Stack Plotter* 
+This plugin requires a stack"n
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java   (
+
+""*º
+33d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java (Ω∫
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java ( 	
+%3int"ij.ImagePlus#getNDimensions()I*
+
+impij.ImagePlus2getNDimensions()*
+25
+28
+30
+32*˚
+11d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaD( D(-π
+∂
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaD( D(0
+%26ij.gui.ProfilePlot"
+__arrayGet*
+
+pPlotij.gui.ProfilePlot[]*
+""Ω∫
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaD( D(9
+%27double"ij.gui.ProfilePlot#getMax()D*
+
+%26ij.gui.ProfilePlot2getMax()*
+16
+17
+18
+9
+21*–
+34d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java (Û
+
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java (F
+
+%2void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Stack Plotter**(
+&Line or rectangular selection required"n
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java (
+
+""*ˇ
+12d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaD D(π
+∂
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaD D(
+%24ij.gui.ProfilePlot"
+__arrayGet*
+
+pPlotij.gui.ProfilePlot[]*
+""Ω∫
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaD D(
+%25double"ij.gui.ProfilePlot#getMax()D*
+
+%24ij.gui.ProfilePlot2getMax()*
+16
+17
+18
+9
+21
+11*˛
+35d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java (®
+•
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java (
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJö
+ó
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java ( 
+impij.ImagePlus"__id*
+
+%0ij.ImagePlusøº
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java (
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()*
+33
+34*Ï
+13d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaC( C(-π
+∂
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaC( C(0
+%22ij.gui.ProfilePlot"
+__arrayGet*
+
+pPlotij.gui.ProfilePlot[]*
+""Ω∫
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaC( C(9
+%23double"ij.gui.ProfilePlot#getMin()D*
+
+%22ij.gui.ProfilePlot2getMin()*
+12*
+14d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaC C(π
+∂
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaC C(
+%20ij.gui.ProfilePlot"
+__arrayGet*
+
+pPlotij.gui.ProfilePlot[]*
+""Ω∫
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaC C(
+%21double"ij.gui.ProfilePlot#getMin()D*
+
+%20ij.gui.ProfilePlot2getMin()*
+13
+12*⁄
+15d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaB B( "n
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaB B( 
+""*„
+16d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaA A(òï
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaA A(
+%16ij.gui.ProfilePlot"ij.gui.ProfilePlot–
+Õ
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaA A(#
+%17"*ij.gui.ProfilePlot#<init>(Lij/ImagePlus;)V*
+
+%16ij.gui.ProfilePlot*
+
+impij.ImagePlus¬
+ø
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaA A(#
+%18"
+__arraySet*
+
+pPlotij.gui.ProfilePlot[]*
+""*
+
+%16ij.gui.ProfilePlotπ
+∂
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaB B(
+%19ij.gui.ProfilePlot"
+__arrayGet*
+
+pPlotij.gui.ProfilePlot[]*
+""*
+14
+15* 
+17d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java? ?(◊‘
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java? ?('
+%15void"ij.ImagePlus#setPosition(III)V*
+
+impij.ImagePlus*
+""*
+""*
+""2setPosition(III)*
+16* 
+18d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java= =(◊‘
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java= =('
+%14void"ij.ImagePlus#setPosition(III)V*
+
+impij.ImagePlus*
+""*
+""*
+""2setPosition(III)*
+16*Ç
+0 "{
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java[ [(
+implicit return*µ
+1d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaZ Z(ƒ
+¡
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaZ Z()
+%46void"$ij.gui.ProfilePlot#setMinAndMax(DD)V*"
+ij.gui.ProfilePlot*
+""*
+""*
+0*»
+2d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaX X(◊‘
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaX X(1
+%45void"ij.ImagePlus#setPosition(III)V*
+
+impij.ImagePlus*
+""*
+""*
+""2setPosition(III)*
+1*∑
+4d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaW W(√¿
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaW W($
+%44void"ij.ImagePlus#setPosition(I)V*
+
+impij.ImagePlus*
+""2setPosition(I)*
+2
+1*à
+5d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaT# T(2åâ
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaT T("
+%40ij.ImagePlus"ij.ImagePlusÌ
+Í
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaT T(9
+%41"7ij.ImagePlus#<init>(Ljava/lang/String;Lij/ImageStack;)V*
+
+%40ij.ImagePlus*
+Profile Plots*
+
+stackij.ImageStackû
+õ
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaT T(:
+outputij.ImagePlus"__id*
+
+%40ij.ImagePlusÆ´
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaU U(
+%42void"ij.ImagePlus#show()V*
+
+outputij.ImagePlus2show()¿Ω
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaV V(
+%43void"ij.ImagePlus#setSlice(I)V*
+
+outputij.ImagePlus*
+""2setSlice(I)*	
+2
+4
+1*ù	
+7d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaQ
+ Q(π
+∂
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaQ
+ Q(
+%36ij.gui.ProfilePlot"
+__arrayGet*
+
+pPlotij.gui.ProfilePlot[]*
+""–Õ
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaQ
+ Q(
+%37ij.gui.Plot")ij.gui.ProfilePlot#getPlot()Lij/gui/Plot;*
+
+%36ij.gui.ProfilePlot2	getPlot()ö
+ó
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaQ Q(
+plotij.gui.Plot"__id*
+
+%37ij.gui.PlotÈÊ
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaR R(% 
+%38ij.process.ImageProcessor"5ij.gui.Plot#getProcessor()Lij/process/ImageProcessor;*
+
+plotij.gui.Plot2getProcessor()ëé
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaR R(&
+%39void"4ij.ImageStack#addSlice(Lij/process/ImageProcessor;)V*
+
+stackij.ImageStack*"
+ 
+%38ij.process.ImageProcessor2%addSlice(Lij/process/ImageProcessor;)*
+5
+7*¥
+9d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaG G(≥
+∞
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaG G(+
+%28double"!ij.gui.ProfilePlot#getFixedMin()D*"
+ij.gui.ProfilePlot≥
+∞
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaH H(+
+%29double"!ij.gui.ProfilePlot#getFixedMax()D*"
+ij.gui.ProfilePlotƒ
+¡
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaJ J(%
+%30void"$ij.gui.ProfilePlot#setMinAndMax(DD)V*"
+ij.gui.ProfilePlot*
+""*
+""µ
+≤
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaM M(
+%31ij.gui.ProfilePlot"
+__arrayGet*
+
+pPlotij.gui.ProfilePlot[]*2 –Õ
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaM M( 
+%32ij.gui.Plot")ij.gui.ProfilePlot#getPlot()Lij/gui/Plot;*
+
+%31ij.gui.ProfilePlot2	getPlot()ö
+ó
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaM M(!
+plotij.gui.Plot"__id*
+
+%32ij.gui.Plot—Œ
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaN N(!
+%33java.awt.Dimension")ij.gui.Plot#getSize()Ljava/awt/Dimension;*
+
+plotij.gui.Plot2	getSize()®
+•
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaN N("
+sizejava.awt.Dimension"__id*
+
+%33java.awt.Dimensionéã
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaO O(#
+%34ij.ImageStack"ij.ImageStack≥
+∞
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaO O(;
+%35"ij.ImageStack#<init>(II)V*
+
+%34ij.ImageStack*
+""*
+""ü
+ú
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.javaO O(<
+stackij.ImageStack"__id*
+
+%34ij.ImageStack*
+5
+7*æ
+21d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java: :(√¿
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackPlotter.java: :(%
+%13void"ij.ImagePlus#setPosition(I)V*
+
+impij.ImagePlus*
+""2setPosition(I)*
+16
+17
+18:
+argjava.lang.StringB
+ij.plugin.StackPlotter

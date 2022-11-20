@@ -1,0 +1,30 @@
+
+&ij.plugin.Slicer#getAvailableMemory()I`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÍ Í("3*—
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÏ Ï("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÏ Ï(
+""*Ä
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÎ Î(ê
+ç
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÎ Î(
+
+%0long"ij.IJ#maxMemory()J*	"
+ij.IJ*
+2
+1*Ë
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÌ Ì(î
+ë
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÌ Ì("
+
+%1long"ij.IJ#currentMemory()J*	"
+ij.IJ"j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÔ Ô(.
+""B
+ij.plugin.Slicer

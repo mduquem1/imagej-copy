@@ -1,0 +1,88 @@
+
+5ij.WindowManager#isDuplicateName(Ljava/lang/String;)Z`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaƒ ƒ("6"7*—
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaÃ Ã("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaÃ Ã(
+""*∞
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java…" …(+®
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java…" …(+
+%2java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList´
+®
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java…" …(2
+%3java.lang.Object"
+__arrayGet*
+
+%2java.util.Vector*
+""†
+ù
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java… …(3
+winij.gui.ImageWindow"__id*
+
+%3java.lang.Object◊‘
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java   ($
+%4ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+winij.gui.ImageWindow2getImagePlus() «
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java   (/
+%5java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%4ij.ImagePlus2
+getTitle()†
+ù
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java   (0
+name2java.lang.String"__id*
+
+%5java.lang.String˜Ù
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaÀ À(
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+
+name2java.lang.String2equals(Ljava/lang/Object;)*	
+3
+4
+1*«
+6`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java«
+ «(®
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java«
+ «(
+%0java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList¨©
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java«
+ «(	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()*
+4
+1*—
+7`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java∆
+ ∆("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java∆ ∆(
+""*—
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaŒ	 Œ("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaŒ Œ(
+"":
+namejava.lang.StringB"
+ij.WindowManager

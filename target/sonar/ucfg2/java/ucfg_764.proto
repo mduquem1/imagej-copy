@@ -1,0 +1,125 @@
+
+#ij.ImageStack#getVoxels(IIIIII[F)[F]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java   ("27"5"17"32"22"1*≈
+5]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaÓ Ó(»≈
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaÓ Ó(,
+%8double"ij.ImageStack#getVoxel(III)D*
+ij.ImageStack*
+""*
+""*
+""2getVoxel(III)*
+5
+27
+17
+32
+22
+1*À
+27]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŸ ›(†
+ù
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java⁄! ⁄(&
+%2java.lang.Object[]"__id**
+ij.ImageStack"
+stack™
+ß
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java⁄! ⁄()
+%3java.lang.Object"
+__arrayGet*
+
+%2java.lang.Object[]*
+""*
+27
+5
+17
+32
+22
+1*À
+17]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java„ Á(†
+ù
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‰ ‰( 
+%6java.lang.Object[]"__id**
+ij.ImageStack"
+stack™
+ß
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‰ ‰(#
+%7java.lang.Object"
+__arrayGet*
+
+%6java.lang.Object[]*
+""*
+27
+5
+17
+32
+22
+1*·
+32]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‘ ÿ(†
+ù
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java’ ’(#
+%0java.lang.Object[]"__id**
+ij.ImageStack"
+stack™
+ß
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java’ ’(&
+%1java.lang.Object"
+__arrayGet*
+
+%0java.lang.Object[]*
+""ì
+ê
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java’ ’('
+bytesbyte[]"__id*
+
+%1java.lang.Object*
+27
+5
+17
+32
+22
+1*À
+22]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaﬁ ‚(†
+ù
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaﬂ! ﬂ(&
+%4java.lang.Object[]"__id**
+ij.ImageStack"
+stack™
+ß
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaﬂ! ﬂ()
+%5java.lang.Object"
+__arrayGet*
+
+%4java.lang.Object[]*
+""*
+27
+5
+17
+32
+22
+1*À
+1]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaÚ	 Ú("g
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaÚ Ú(
+"":
+"":
+"":
+"":
+"":
+"":
+"":
+""B
+ij.ImageStack

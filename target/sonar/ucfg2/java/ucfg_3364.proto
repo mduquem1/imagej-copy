@@ -1,0 +1,40 @@
+
+1ij.macro.Functions#removeOverlay(Lij/ImagePlus;)Db
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÄ7 Ä7("1*Ò
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÅ7 Å7(­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÅ7 Å7(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÁ¾
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÅ7 Å7(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()ÜÙ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÆ7 Æ7(
+
+%2void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+impij.ImagePlus*
+""2setOverlay(Lij/gui/Overlay;)¡
+ž
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÇ7 Ç7(*
+ij.macro.Functions"
+offscreenOverlay"__id*
+""ƒ
+€
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÈ7	 È7(
+%3double"__id*
+"""l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÈ7 È7(
+"":
+impij.ImagePlusB
+ij.macro.Functions

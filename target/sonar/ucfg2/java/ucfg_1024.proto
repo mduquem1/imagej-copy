@@ -1,0 +1,93 @@
+
+>ij.plugin.filter.Calibrator#validateXValues(Lij/ImagePlus;[D)Zk
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaÝ Ý( "15*è
+13k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaà
+ à("u
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaà à(
+""*›
+3k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaæ7 æ(E¾
+»
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaæ æ(E
+%4java.lang.String"__concat*
+
+%1java.lang.String*
+ Calibration«
+¨
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaæ æ(F
+titlejava.lang.String"__id*
+
+%4java.lang.Stringß
+Ü
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaç ç(^
+msgjava.lang.String"__id*NL
+JMeasured (uncalibrated) values in the left\ncolumn must be in the range 0-µ
+²
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaè è(
+%5java.lang.String"__concat*
+
+msgjava.lang.String*
+""³
+°
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaè è(
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+.ò
+ï
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaè è( 
+
+%7void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+titlejava.lang.String*
+
+%6java.lang.String"u
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaé é(
+""*Á
+15k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaÞ Þ(¾»
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaÞ Þ("	
+%0int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+13
+4
+5
+1* 
+4k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaæ+ æ(3¨
+¥
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaæ+ æ(3
+%1java.lang.String"__id*
+
+%3java.lang.String*
+3* 
+5k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaæ# æ(*¨
+¥
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaæ# æ(*
+%1java.lang.String"__id*
+
+%2java.lang.String*
+3*ç
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaì	 ì("u
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaì ì(
+"":
+impij.ImagePlus:
+""B
+ij.plugin.filter.Calibrator

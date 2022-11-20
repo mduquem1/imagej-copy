@@ -1,0 +1,78 @@
+
+ij.gui.Wand#traceEdge(IIZ)Z[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java´ ´("32*
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaˆ ˆ(¨
+¥
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaˆ ˆ(
+
+%4void"ij.gui.Wand#addPoint(II)V*
+ij.gui.Wand*
+""*
+""*
+1*œ
+14[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaş ş(¨
+¥
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaş ş(
+
+%3void"ij.gui.Wand#addPoint(II)V*
+ij.gui.Wand*
+""*
+""*
+2
+26
+20
+1*ª
+26[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaò ò(²
+¯
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaò ò(3
+%1boolean"ij.gui.Wand#inside(III)Z*
+ij.gui.Wand*
+""*
+""*
+""*
+2
+14
+26
+20
+1*ª
+20[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaù ù(²
+¯
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaù ù(.
+%2boolean"ij.gui.Wand#inside(III)Z*
+ij.gui.Wand*
+""*
+""*
+""*
+2
+14
+26
+20
+1*—
+32[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaá á(©
+¦
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaä ä(!
+%0boolean"ij.gui.Wand#inside(II)Z*
+ij.gui.Wand*
+""*
+""*
+26
+20*Ç
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java‰ ‰("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java‰ ‰( 
+"":
+"":
+"":
+""B
+ij.gui.Wand

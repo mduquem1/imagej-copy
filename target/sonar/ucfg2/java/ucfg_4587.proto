@@ -1,0 +1,86 @@
+
+;ij.measure.ResultsTable#getColumnIndex(Ljava/lang/String;)Ig
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java— —("7*ß
+3g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaœ œ("q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaœ œ(
+""*æ
+4g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java› ›(·
+´
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java› ›(
+%4java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headings´
+±
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java› ›(
+%5java.lang.String"
+__arrayGet*
+
+%4java.lang.String[]*
+""þû
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java› ›('
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%5java.lang.String*
+
+headingjava.lang.String2equals(Ljava/lang/Object;)*
+3
+7*ç
+5g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaš š(…
+‚
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaš š(	
+%3int"__id*
+"""q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaš š(
+""*å
+6g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java™ ™(·
+´
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java™ ™(
+%1java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headings´
+±
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java™ ™(
+%2java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*
+""*
+4
+5*®
+7g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java˜ ˜(·
+´
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java˜ ˜(
+%0java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headings*
+6
+1*ç
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaž	 ž(…
+‚
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaž	 ž(	
+%7int"__id*
+"""q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaž ž(
+"":
+headingjava.lang.StringB
+ij.measure.ResultsTable

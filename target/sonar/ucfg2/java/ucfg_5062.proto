@@ -1,0 +1,93 @@
+
+>ij.process.LUT#getColorModel()Ljava/awt/image/IndexColorModel;\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java+ +(%"3*à
+2\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java- -(~
+|
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java- -(
+redsbyte[]"__id*
+""Õ 
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java- -(+
+
+%1void"+java.awt.image.IndexColorModel#getReds([B)V*
+ij.process.LUT*
+
+redsbyte[]2getReds([B)Ä
+~
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java. .(
+greensbyte[]"__id*
+""”–
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java.  .(1
+
+%2void"-java.awt.image.IndexColorModel#getGreens([B)V*
+ij.process.LUT*
+
+greensbyte[]2getGreens([B)
+}
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java/ /(
+bluesbyte[]"__id*
+""–Õ
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java/ /(.
+
+%3void",java.awt.image.IndexColorModel#getBlues([B)V*
+ij.process.LUT*
+
+bluesbyte[]2getBlues([B)ºπ
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java0 0(+	
+%4int",java.awt.image.IndexColorModel#getMapSize()I*
+ij.process.LUT2getMapSize()ß§
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java0 0($
+%5java.awt.image.IndexColorModel"java.awt.image.IndexColorModelç
+ä
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java0 0(A
+%6"0java.awt.image.IndexColorModel#<init>(II[B[B[B)V*&
+$
+%5java.awt.image.IndexColorModel*2*
+	
+%4int*
+
+redsbyte[]*
+
+greensbyte[]*
+
+bluesbyte[]©
+¶
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java0 0(A
+ij.process.LUT"
+cm"__id*&
+$
+%5java.awt.image.IndexColorModel*
+1*ï
+3\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java, ,(©
+¶
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java, ,($
+%0java.awt.image.IndexColorModel"__id**
+ij.process.LUT"
+cm*
+2
+1*ñ
+1\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java2	 2(©
+¶
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java2	 2($
+%7java.awt.image.IndexColorModel"__id**
+ij.process.LUT"
+cm"Ü
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java2 2(&
+$
+%7java.awt.image.IndexColorModelB
+ij.process.LUT

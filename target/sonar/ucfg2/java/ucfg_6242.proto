@@ -1,0 +1,389 @@
+
+,ij.plugin.frame.ContrastAdjuster#doUpdate()Vp
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaŒ Œ("49*Í
+24p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÔ ˜(
+ËÂ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java (
+%10void"Rij.plugin.frame.ContrastAdjuster#reset(Lij/ImagePlus;Lij/process/ImageProcessor;)V*$"
+ ij.plugin.frame.ContrastAdjuster*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessor20reset(Lij/ImagePlus;Lij/process/ImageProcessor;)*
+8
+23*ç
+25p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÌ Ì(ò
+ï
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÌ Ì(
+impij.ImagePlus"__id*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÌ Ì(
+""*ª
+26p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÏ Ï(π∂
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÏ Ï(
+%9boolean"ij.ImagePlus#lock()Z*
+
+impij.ImagePlus2lock()*
+25
+9*¬
+49p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaœ œ(ò
+ï
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaœ œ(
+impij.ImagePlus"__id*
+""§
+°
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java– –(
+ipij.process.ImageProcessor"__id*
+""*
+32
+33*π
+27p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÎ Î(
+ıÚ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÎ Î(
+%8ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()ø
+º
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÎ Î(
+ipij.process.ImageProcessor"__id*!
+
+%8ij.process.ImageProcessor*
+26
+9*ﬂ
+28p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÁ Á(õ
+ò
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÁ Á(
+
+%6void"ij.IJ#beep()V*	"
+ij.IJÃ
+…
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaË Ë('
+
+%7void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Has calibration bar"z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÈ È(
+
+""*µ
+29p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÊ' Ê(*€ÿ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÊ' Ê(7
+%4ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()‘—
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÊ' Ê(J
+%5boolean""ij.gui.Overlay#isCalibrationBar()Z*
+
+%4ij.gui.Overlay2isCalibrationBar()*
+27
+28*ﬁ
+30p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÊ Ê(€ÿ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÊ Ê(
+%3ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()*
+27
+29*‘
+31p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java„ „(õ
+ò
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java„ „(
+
+%1void"ij.IJ#beep()V*	"
+ij.IJ¡
+æ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java‰ ‰(
+
+%2void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+No image"z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÂ Â(
+
+""*Ç
+10p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˛ ˛(9ÑÅ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˛ ˛(1
+%21void"\ij.plugin.frame.ContrastAdjuster#adjustContrast(Lij/ImagePlus;Lij/process/ImageProcessor;I)V*$"
+ ij.plugin.frame.ContrastAdjuster*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessor*
+""2:adjustContrast(Lij/ImagePlus;Lij/process/ImageProcessor;I)*
+8*˝
+32p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaﬂG ﬂ(H—
+Œ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java· ·('
+%0ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager¶
+£
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java· ·('
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+30
+31*Ü
+11p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˝ ˝(=àÖ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˝ ˝(5
+%20void"^ij.plugin.frame.ContrastAdjuster#adjustBrightness(Lij/ImagePlus;Lij/process/ImageProcessor;D)V*$"
+ ij.plugin.frame.ContrastAdjuster*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessor*
+""2<adjustBrightness(Lij/ImagePlus;Lij/process/ImageProcessor;D)*
+8*Ú
+33p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaﬁ ﬁ("z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaﬁ ﬁ(
+""*¯
+12p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¸ ¸(1˙˜
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¸ ¸()
+%19void"Wij.plugin.frame.ContrastAdjuster#adjustMax(Lij/ImagePlus;Lij/process/ImageProcessor;D)V*$"
+ ij.plugin.frame.ContrastAdjuster*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessor*
+""25adjustMax(Lij/ImagePlus;Lij/process/ImageProcessor;D)*
+8*¯
+13p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˚ ˚(1˙˜
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˚ ˚()
+%18void"Wij.plugin.frame.ContrastAdjuster#adjustMin(Lij/ImagePlus;Lij/process/ImageProcessor;D)V*$"
+ ij.plugin.frame.ContrastAdjuster*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessor*
+""25adjustMin(Lij/ImagePlus;Lij/process/ImageProcessor;D)*
+8*Ê
+14p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˙ ˙(%ËÂ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˙ ˙(
+%17void"Rij.plugin.frame.ContrastAdjuster#apply(Lij/ImagePlus;Lij/process/ImageProcessor;)V*$"
+ ij.plugin.frame.ContrastAdjuster*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessor20apply(Lij/ImagePlus;Lij/process/ImageProcessor;)*
+8*Ù
+16p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˘< ˘(HˆÛ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˘< ˘(Q
+%16void"Yij.plugin.frame.ContrastAdjuster#setMinAndMax(Lij/ImagePlus;Lij/process/ImageProcessor;)V*$"
+ ij.plugin.frame.ContrastAdjuster*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessor27setMinAndMax(Lij/ImagePlus;Lij/process/ImageProcessor;)*
+8*¯
+17p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˘ ˘(,˙˜
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˘ ˘(5
+%15void"[ij.plugin.frame.ContrastAdjuster#setWindowLevel(Lij/ImagePlus;Lij/process/ImageProcessor;)V*$"
+ ij.plugin.frame.ContrastAdjuster*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessor29setWindowLevel(Lij/ImagePlus;Lij/process/ImageProcessor;)*
+8*
+19p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¯ ¯()ÚÔ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¯ ¯(!
+%14void"Wij.plugin.frame.ContrastAdjuster#autoAdjust(Lij/ImagePlus;Lij/process/ImageProcessor;)V*$"
+ ij.plugin.frame.ContrastAdjuster*
+
+impij.ImagePlus*!
+
+ipij.process.ImageProcessor25autoAdjust(Lij/ImagePlus;Lij/process/ImageProcessor;)*
+8*è
+0 "á
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaà	 à	(
+implicit return*∏
+1p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaá	 á	(ª∏
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaá	 á	(
+%36void"ij.ImagePlus#unlock()V*
+
+impij.ImagePlus2unlock()*
+0*◊
+3p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÖ	 Ö	(◊‘
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÖ	 Ö	(
+%35void"$ij.ImagePlus#updateChannelAndDraw()V*
+
+impij.ImagePlus2updateChannelAndDraw()*
+0
+1*‰
+4p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÉ	 É	(‰·
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÉ	 É	(3
+%34void"-ij.CompositeImage#updateAllChannelsAndDraw()V*
+
+impij.ImagePlus2updateAllChannelsAndDraw()*
+0
+1*»
+5p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÇ	5 Ç	(8»≈
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÇ	5 Ç	(F
+%33boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+3
+4*∞
+8p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÄ	 Ä	(Ê„
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÄ	 Ä	(
+%30void".ij.plugin.frame.ContrastAdjuster#updatePlot()V*$"
+ ij.plugin.frame.ContrastAdjuster2updatePlot()ùö
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÅ	 Å	(
+%31void">ij.plugin.frame.ContrastAdjuster#updateLabels(Lij/ImagePlus;)V*$"
+ ij.plugin.frame.ContrastAdjuster*
+
+impij.ImagePlus2updateLabels(Lij/ImagePlus;)ß
+§
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÇ	 Ç	(
+%32boolean"ij.IJ#shiftKeyDown()Z*	"
+ij.IJ*
+3
+5*Æ
+
+9p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÓ
+ Ó(è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÔ Ô(
+
+%22int"__id*
+""è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¯ ¯(
+
+%23int"__id*
+""è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˘ ˘(
+
+%24int"__id*
+""è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˙ ˙(
+
+%25int"__id*
+""è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˚ ˚(
+
+%26int"__id*
+""è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java¸ ¸(
+
+%27int"__id*
+""è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˝ ˝(
+
+%28int"__id*
+""è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java˛ ˛(
+
+%29int"__id*
+""*'
+13
+24
+14
+16
+17
+19
+8
+10
+11
+12*Ë
+21p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaı ı(Í
+Á
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaı ı((
+%13void"4ij.plugin.frame.Recorder#record(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+resetMinAndMax*
+8*ı
+22p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÛ Û(˜
+Ù
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÛ Û(5
+%12void"8ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+IJ.resetMinAndMax(imp);*
+8*Œ
+23p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÚ
+ Ú(À
+»
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÚ
+ Ú(
+%11boolean"&ij.plugin.frame.Recorder#scriptMode()Z*"
+ij.plugin.frame.Recorder*
+21
+22B$"
+ ij.plugin.frame.ContrastAdjuster

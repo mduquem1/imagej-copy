@@ -1,0 +1,23 @@
+
+4ij.ImagePlus#getNumericProperty(Ljava/lang/String;)D\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaª ª(!"1*Æ
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaº	 º(ìê
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaº º(1
+%0java.lang.String"Dij.ImagePlus#getStringProperty(Ljava/lang/String;)Ljava/lang/String;*
+ij.ImagePlus*
+
+keyjava.lang.String2%getStringProperty(Ljava/lang/String;)Ã
+…
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaº	 º(2
+%1double".ij.util.Tools#parseDouble(Ljava/lang/String;)D*"
+ij.util.Tools*
+
+%0java.lang.String"f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaº º(3
+"":
+keyjava.lang.StringB
+ij.ImagePlus

@@ -1,0 +1,119 @@
+
+Aij.plugin.filter.Filters#setup(Ljava/lang/String;Lij/ImagePlus;)If
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java ("8*¢
+3f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (Ø¨
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (!
+%5boolean"ij.gui.Roi#isArea()Z*
+
+roi
+ij.gui.Roi2isArea()*
+1*π
+5f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (¥±
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (
+
+%4void"ij.ImagePlus#resetRoi()V*
+
+impij.ImagePlus2
+resetRoi()å
+â
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (
+roi
+ij.gui.Roi"__id*
+""*
+3
+1*‰
+6f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java* (-ÎË
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java* (>
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+
+invert2equals(Ljava/lang/Object;)*	
+3
+5
+1*ê
+7f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (¡æ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (
+%0
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()ò
+ï
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (
+roi
+ij.gui.Roi"__id*
+
+%0
+ij.gui.Roi±Æ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (	
+%1int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (&	
+%2int"__id*
+""*	
+3
+6
+1*◊
+8f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (±
+Æ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (#
+ij.plugin.filter.Filters"
+arg"__id*
+
+argjava.lang.String≠
+™
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (#
+ij.plugin.filter.Filters"
+imp"__id*
+
+impij.ImagePlus*
+7
+1*∫
+1f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java" (*	
+%6int"__id*
+""Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java+ (2	
+%7int"__id*
+""Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java3 (C	
+%8int"__id*
+""≈
+¬
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (D	
+%9int"#ij.IJ#setupDialog(Lij/ImagePlus;I)I*	"
+ij.IJ*
+
+impij.ImagePlus*
+"""p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filters.java (
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Filters

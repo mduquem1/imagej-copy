@@ -1,0 +1,46 @@
+
+Iij.plugin.PGM_Reader#getWord(Ljava/io/StreamTokenizer;)Ljava/lang/String;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PGM_Reader.java∞ ∞("4*¢
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PGM_Reader.java≥ ≥(≥
+∞
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PGM_Reader.java≥ ≥(
+%3java.lang.String"__id***(
+
+tokjava.io.StreamTokenizer"
+sval"Ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PGM_Reader.java≥ ≥( 
+
+%3java.lang.String*ı
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PGM_Reader.java≤ ≤(Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PGM_Reader.java≤ ≤((	
+%2int"__id*
+""*
+2
+4*¡
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PGM_Reader.java± ±(…∆
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PGM_Reader.java± ±(	
+%0int"$java.io.StreamTokenizer#nextToken()I* 
+
+tokjava.io.StreamTokenizer2nextToken()Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PGM_Reader.java±" ±(,	
+%1int"__id*
+""*
+3
+1*Ÿ
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PGM_Reader.javaµ µ("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PGM_Reader.javaµ µ(
+"":
+tokjava.io.StreamTokenizerB
+ij.plugin.PGM_Reader

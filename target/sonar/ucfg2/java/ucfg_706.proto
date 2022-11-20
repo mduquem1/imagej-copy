@@ -1,0 +1,125 @@
+
+Iij.io.OpenDialog#lookupPathVariable(Ljava/lang/String;)Ljava/lang/String;^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaQ Q(("10"1*‹
+2^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaV V(  
+
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaV V( 
+pathjava.lang.String"__id*
+
+path2java.lang.String*
+1*Œ
+3^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaU U(Cž
+›
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaU U(C
+path2java.lang.String"__id*
+
+%7java.lang.String*
+2
+1*€
+4^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaU> U(B•
+’
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaU> U(B
+%7java.lang.String"__id*
+
+%9
+<nulltype>*
+3*·
+5^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaU U(%®«
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaU U(=
+%8java.lang.String"Lij.macro.Interpreter#getStringVariable(Ljava/lang/String;)Ljava/lang/String;* 
+
+interpij.macro.Interpreter*
+
+pathjava.lang.String2%getStringVariable(Ljava/lang/String;)›
+˜
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaU U(=
+%7java.lang.String"__id*
+
+%8java.lang.String*
+3*ë
+6^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaT T(#Ó
+Ð
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaT T(1
+%6ij.macro.Interpreter"8ij.macro.Interpreter#getInstance()Lij/macro/Interpreter;*"
+ij.macro.Interpreter§
+¤
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaT T(2
+interpij.macro.Interpreter"__id*
+
+%6ij.macro.Interpreter*
+4
+5*ç
+7^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaS" S(&ÜÙ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaS" S(3
+%5java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+pathjava.lang.String*22substring(I)
+š
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaS S(3
+pathjava.lang.String"__id*
+
+%5java.lang.String*
+6*Õ
+8^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaS S(çä
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaS S(
+%4boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+&2startsWith(Ljava/lang/String;)*
+6
+7*è
+9^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaR9 R(=…‚
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaR4 R(8
+%1java.io.File"java.io.FileÅ
+Â
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaR0 R(>
+%2"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%1java.io.File*
+
+pathjava.lang.Stringª§
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaR/ R(H
+%3boolean"java.io.File#exists()Z*
+
+%1java.io.File2exists()*
+8
+1*Ì
+10^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaR R(ÝÚ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaR R(%	
+%0int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+pathjava.lang.String*
+.2indexOf(Ljava/lang/String;)*
+9
+1*á
+1^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaX	 X("|
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.javaX X(
+
+pathjava.lang.String:
+pathjava.lang.StringB"
+ij.io.OpenDialog

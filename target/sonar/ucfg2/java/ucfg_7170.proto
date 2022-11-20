@@ -1,0 +1,126 @@
+
+ij.gui.Toolbar#toolID(I)I^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÕ Õ("13"14"2"3"4"5"6"7"8"9"10"11"12*Ë
+13^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÛ Û({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÛ Û(	
+%1int"__id*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÛ Û(
+""*Ë
+14^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÚ Ú({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÚ Ú(	
+%0int"__id*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÚ Ú(
+""*Í
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaæ æ("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaæ æ(
+""*Ë
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaå å(|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaå å(
+
+%10int"__id*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaå å(
+""*Ê
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaä ä({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaä ä(	
+%9int"__id*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaä ä(
+""*Ê
+5^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaã ã({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaã ã(	
+%8int"__id*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaã ã(
+""*Ê
+6^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaâ â({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaâ â(	
+%7int"__id*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaâ â(
+""*Ê
+7^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaá á({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaá á(	
+%6int"__id*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaá á(
+""*Ê
+8^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaà à({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaà à(	
+%5int"__id*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaà à(
+""*Ê
+9^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaß ß({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaß ß(	
+%4int"__id*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaß ß(
+""*Î
+10^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÞ Þ("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÞ Þ(
+""*Ë
+11^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÝ Ý({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÝ Ý(	
+%3int"__id*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÝ Ý(
+""*Ë
+12^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÜ Ü({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÜ Ü(	
+%2int"__id*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÜ Ü(
+"":
+""B
+ij.gui.Toolbar

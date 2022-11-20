@@ -1,0 +1,109 @@
+
+5ij.plugin.MacroInstaller#install(Ljava/lang/String;)Ih
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaá á("3"5*£
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaç ç(¶
+³
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaç ç(
+%3java.awt.Menu"__id*,**
+ij.plugin.MacroInstaller"
+
+macrosMenu¿
+¼
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaç# ç(+
+%4ij.plugin.MacroInstaller"__id***(
+ij.plugin.MacroInstaller"
+
+listener³°
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaç ç(,
+
+%5void"Hjava.awt.MenuItem#removeActionListener(Ljava/awt/event/ActionListener;)V*
+
+%3java.awt.Menu* 
+
+%4ij.plugin.MacroInstaller25removeActionListener(Ljava/awt/event/ActionListener;)*
+1*ä
+3h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaä ä(µ
+²
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaä ä($
+ij.plugin.MacroInstaller"
+text"__id*
+
+textjava.lang.String¹
+¶
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaå å($
+%1java.awt.Menu"'ij.Menus#getMacrosMenu()Ljava/awt/Menu;*"
+
+ij.Menus¶
+³
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaå å($*
+ij.plugin.MacroInstaller"
+
+macrosMenu"__id*
+
+%1java.awt.Menu¿
+¼
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaæ æ(
+%2ij.plugin.MacroInstaller"__id***(
+ij.plugin.MacroInstaller"
+
+listener*
+2
+1*á
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaã
+ ã("r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaã ã(
+""*ª
+5h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaâ â(²
+¯
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaâ â(
+%0ij.macro.Program"__id*%*#
+ij.plugin.MacroInstaller"
+pgm*
+3
+4*Î
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaè è(¶
+³
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaè è(
+%6java.awt.Menu"__id*,**
+ij.plugin.MacroInstaller"
+
+macrosMenu©¦
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaè è($
+
+%7void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%6java.awt.Menu*
+ij.plugin.MacroInstaller22addActionListener(Ljava/awt/event/ActionListener;)»
+¸
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaé é((
+ij.plugin.MacroInstaller"
+
+listener"__id*
+ij.plugin.MacroInstallerÇÄ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaê ê(
+
+%8void"#ij.plugin.MacroInstaller#install()V*
+ij.plugin.MacroInstaller2	install()"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaë ë(
+"":
+textjava.lang.StringB
+ij.plugin.MacroInstaller

@@ -1,0 +1,36 @@
+
+Bij.plugin.filter.ImageProperties#getNewScale(Ljava/lang/String;D)Dp
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javañ ñ("5"6*â
+4p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.java÷ ÷('å
+â
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.java÷ ÷(5
+%1double"2ij.plugin.filter.ImageProperties#getUnitsPerCm(I)D*$""
+ ij.plugin.filter.ImageProperties*
+""*
+1*‰
+5p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaô ô(‰
+†
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaõ õ(*	
+%0int"Bij.plugin.filter.ImageProperties#getUnitIndex(Ljava/lang/String;)I*$""
+ ij.plugin.filter.ImageProperties*
+
+newUnitjava.lang.String*
+4
+1*ñ
+6p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaó! ó($"z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaó ó(%
+""*ñ
+1p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaü	 ü("z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaü ü(
+"":
+newUnitjava.lang.String:
+""B$"
+ ij.plugin.filter.ImageProperties

@@ -1,0 +1,68 @@
+
+Aij.CompositeImage#getRGBSampleModel()Ljava/awt/image/SampleModel;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java∂ ∂("1*∑
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java∑ ∑(!Æ´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java∑ ∑(%
+%0java.awt.image.DirectColorModel"java.awt.image.DirectColorModel‚
+ﬂ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java∑
+ ∑(:
+%1"-java.awt.image.DirectColorModel#<init>(IIII)V*'
+%
+%0java.awt.image.DirectColorModel*2*2ÄÄ¸*2Ä˛*2ˇµ
+≤
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java∑ ∑(:
+ij.CompositeImage"
+rgbCM"__id*'
+%
+%0java.awt.image.DirectColorModelØ
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java∏ ∏(
+%2java.awt.image.ColorModel"__id* *
+ij.CompositeImage"
+rgbCMª∏
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java∏ ∏(@#
+%3java.awt.image.WritableRaster"[java.awt.image.ColorModel#createCompatibleWritableRaster(II)Ljava/awt/image/WritableRaster;*!
+
+%2java.awt.image.ColorModel*2*22"createCompatibleWritableRaster(II)∏
+µ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java∏ ∏(A#
+wrjava.awt.image.WritableRaster"__id*%
+#
+%3java.awt.image.WritableRasterÖÇ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaπ π(/ 
+%4java.awt.image.SampleModel"Bjava.awt.image.Raster#getSampleModel()Ljava/awt/image/SampleModel;*%
+#
+wrjava.awt.image.WritableRaster2getSampleModel()ª
+∏
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaπ π(0)
+sampleModeljava.awt.image.SampleModel"__id*"
+ 
+%4java.awt.image.SampleModelæª
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java∫ ∫(F 
+%5java.awt.image.SampleModel"Vjava.awt.image.SampleModel#createCompatibleSampleModel(II)Ljava/awt/image/SampleModel;*+
+)
+sampleModeljava.awt.image.SampleModel*
+""*
+""2createCompatibleSampleModel(II)ª
+∏
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java∫ ∫(F)
+sampleModeljava.awt.image.SampleModel"__id*"
+ 
+%5java.awt.image.SampleModel"ê
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaª ª(+
+)
+sampleModeljava.awt.image.SampleModelB
+ij.CompositeImage

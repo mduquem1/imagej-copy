@@ -1,0 +1,187 @@
+
+)ij.gui.Roi#xor([Lij/gui/Roi;)Lij/gui/Roi;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaµ µ("21*Û
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java #  ('å
+â
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java #  ('
+%8
+ij.gui.Roi"__id*
+
+%10
+<nulltype>*
+1*œ
+14Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaø ø(áÑ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaø ø(
+%2ij.gui.ShapeRoi"ij.gui.ShapeRoi∫
+∑
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaø
+ ø(
+%3"%ij.gui.ShapeRoi#<init>(Lij/gui/Roi;)V*
+
+%2ij.gui.ShapeRoi*
+
+roi
+ij.gui.Roiï
+í
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaø ø(
+s1ij.gui.ShapeRoi"__id*
+
+%2ij.gui.ShapeRoi*
+2
+3
+19
+12*π
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   (ƒ¡
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   ("
+%9
+ij.gui.Roi")ij.gui.ShapeRoi#trySimplify()Lij/gui/Roi;*
+
+s1ij.gui.ShapeRoi2trySimplify()ã
+à
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   ("
+%8
+ij.gui.Roi"__id*
+
+%9
+ij.gui.Roi*
+1*«
+15Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaΩ Ω(ª∏
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaΩ Ω(
+%1java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+
+roi
+ij.gui.Roi2clone()ñ
+ì
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaΩ Ω(
+s1ij.gui.ShapeRoi"__id*
+
+%1java.lang.Object*
+2
+3
+19
+12*Á
+6Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java« «(˘ˆ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java« «(
+%7ij.gui.ShapeRoi"7ij.gui.ShapeRoi#xor(Lij/gui/ShapeRoi;)Lij/gui/ShapeRoi;*
+
+s1ij.gui.ShapeRoi*
+
+s2ij.gui.ShapeRoi2xor(Lij/gui/ShapeRoi;)*
+
+2
+3
+19*™
+19Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∏ ∏(ù
+ö
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∏ ∏(
+%0
+ij.gui.Roi"
+__arrayGet*
+
+roisij.gui.Roi[]*
+""å
+â
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∏ ∏(
+roi
+ij.gui.Roi"__id*
+
+%0
+ij.gui.Roi*
+2
+14
+3
+15
+19
+9
+10*Õ
+9Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java≈ ≈(áÑ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java≈ ≈(
+%5ij.gui.ShapeRoi"ij.gui.ShapeRoi∫
+∑
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java≈
+ ≈(
+%6"%ij.gui.ShapeRoi#<init>(Lij/gui/Roi;)V*
+
+%5ij.gui.ShapeRoi*
+
+roi
+ij.gui.Roiï
+í
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java≈ ≈(
+s2ij.gui.ShapeRoi"__id*
+
+%5ij.gui.ShapeRoi*
+2
+3
+6
+19*˙
+21Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∂ ∂(Ñ
+Å
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∂ ∂(
+s1ij.gui.ShapeRoi"__id*
+""Ñ
+Å
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∂ ∂(
+s2ij.gui.ShapeRoi"__id*
+""*
+
+2
+3
+19*∆
+10Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java√ √(ª∏
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java√ √(
+%4java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+
+roi
+ij.gui.Roi2clone()ñ
+ì
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java√ √(
+s2ij.gui.ShapeRoi"__id*
+
+%4java.lang.Object*
+2
+3
+6
+19*∆
+12Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¿ ¿("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¿ ¿(
+""*—
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   (("p
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   ((
+
+%8
+ij.gui.Roi:
+roisij.gui.Roi[]B"
+
+ij.gui.Roi

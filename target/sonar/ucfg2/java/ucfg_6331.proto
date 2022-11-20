@@ -1,0 +1,66 @@
+
+:ij.plugin.ImageCalculator#getOperator(Ljava/lang/String;)Ii
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÄ Ä("9*Ò
+4i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaá á(æ
+ª
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaá á(#
+%3java.lang.String[]"__id*.*,
+ij.plugin.ImageCalculator"
+lcOperators∂
+≥
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaá á(&
+%4java.lang.String"
+__arrayGet*
+
+%3java.lang.String[]*
+""˛˚
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaá á('	
+%5int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+optionsjava.lang.String*
+
+%4java.lang.String2indexOf(Ljava/lang/String;)*
+5
+1*∑
+5i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÜ Ü(æ
+ª
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÜ Ü(
+%2java.lang.String[]"__id*.*,
+ij.plugin.ImageCalculator"
+lcOperators*
+4
+1*˝
+9i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÅ Å(Ê„
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÅ Å(!
+%0java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+optionsjava.lang.String2toLowerCase()´
+®
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÅ Å(!
+optionsjava.lang.String"__id*
+
+%0java.lang.StringÌÍ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÉ É(	
+%1int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+optionsjava.lang.String*
+xor2indexOf(Ljava/lang/String;)*
+5
+1*„
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaç	 ç("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaç ç(
+"":
+optionsjava.lang.StringB
+ij.plugin.ImageCalculator

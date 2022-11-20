@@ -1,0 +1,156 @@
+
+^ij.plugin.tool.BrushTool$Options#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Zh
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaí í(""4"8*Ñ
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaö ö(ø
+º
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaö ö(#
+%6java.lang.String"__id*2*0"
+ ij.plugin.tool.BrushTool$Options"
+
+widthKeyÕ
+ 
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaö ö('
+%7double""ij.Prefs#get(Ljava/lang/String;D)D*"
+
+ij.Prefs*
+
+%6java.lang.String*2*
+1*û
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaò ò(—Œ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaò ò("
+%4double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()“œ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaô ô(
+%5boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+2
+1*·
+5h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javañ ñ("r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javañ ñ(
+""*£
+6h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaï ï(Æ
+´
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaï ï(!
+
+%3void"ij.IJ#run(Ljava/lang/String;)V*	"
+ij.IJ*
+Undo*
+5*‚
+7h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaî î(!…
+∆
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaî î(3
+%2ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerû
+õ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaî î(4
+impij.ImagePlus"__id*
+
+%2ij.ImagePlus*
+5
+6*–
+8h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaì ì(€ÿ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaì ì(
+%0java.lang.String".java.awt.AWTEvent#toString()Ljava/lang/String;*
+
+ejava.awt.AWTEvent2
+toString()˙˜
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaì ì(/
+%1boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+%0java.lang.String*
+Undo2"contains(Ljava/lang/CharSequence;)*
+4
+7*Ò
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaû û(ÏÈ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaû û((
+%8java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()¨
+©
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaû û()
+	colorNamejava.lang.String"__id*
+
+%8java.lang.String‘—
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaü ü('
+%9boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()ê
+ç
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java† †(/
+%10java.awt.Color"Kij.plugin.Colors#decode(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors*
+
+	colorNamejava.lang.String*
+""•
+¢
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java† †(0
+colorjava.awt.Color"__id*
+
+%10java.awt.Colorﬂ
+‹
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java° °($
+%11void"4ij.gui.Toolbar#setForegroundColor(Ljava/awt/Color;)V*"
+ij.gui.Toolbar*
+
+colorjava.awt.Color¿
+Ω
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java¢ ¢(
+%12java.lang.String"__id*2*0"
+ ij.plugin.tool.BrushTool$Options"
+
+widthKeyœ
+Ã
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java¢ ¢(
+%13void""ij.Prefs#set(Ljava/lang/String;I)V*"
+
+ij.Prefs*
+
+%12java.lang.String*
+""î
+ë
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java£ £(
+%14java.lang.String"__id*
+""œ
+Ã
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java£ £()
+%15void""ij.Prefs#set(Ljava/lang/String;Z)V*"
+
+ij.Prefs*
+
+%14java.lang.String*
+"""r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java§ §(
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB$"
+ ij.plugin.tool.BrushTool$Options

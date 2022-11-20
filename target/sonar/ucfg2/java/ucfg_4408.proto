@@ -1,0 +1,67 @@
+
+ij.io.FileSaver#saveAsRaw()Z_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÜ Ü("5*Å
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaá
+ á(óð
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaá
+ á(
+%3boolean".ij.io.FileSaver#saveAsRaw(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsRaw(Ljava/lang/String;)"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaá á(
+""*Á
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaà à(	œ
+™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaà à(	
+%1ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp³°
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaà à(	
+%2int"ij.ImagePlus#getStackSize()I*
+
+%1ij.ImagePlus2getStackSize()*
+2
+1*Ï
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaß
+ ß("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaß ß(
+""*´
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÝ Ý(¤¡
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÝ Ý(&
+%0java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+Raw*
+.raw2-getPath(Ljava/lang/String;Ljava/lang/String;)ž
+›
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÝ Ý('
+pathjava.lang.String"__id*
+
+%0java.lang.String*
+3
+4*Ï
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaã
+ ã(ýú
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaã
+ ã(
+%4boolean"3ij.io.FileSaver#saveAsRawStack(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2"saveAsRawStack(Ljava/lang/String;)"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaã ã(
+""B
+ij.io.FileSaver

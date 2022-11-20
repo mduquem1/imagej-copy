@@ -1,0 +1,112 @@
+
+'ij.Macro#getOptions()Ljava/lang/String;V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaV V( "7*œ
+2V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.java[ [()"r
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.java[ [()
+
+%7java.lang.String*ú
+3V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.java[ [($£
+†
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.java[ [((
+%9java.lang.String"__concat*
+
+optionsjava.lang.Object*
+ ì
+ê
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.java[ [((
+%7java.lang.String"__id*
+
+%9java.lang.String*
+2*
+4V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.java[ [(ç
+ä
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.java[ [(
+%7java.lang.String"__id*
+
+%8
+<nulltype>*
+2*ç
+5V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaZ Z(ï
+í
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaZ Z(
+%4java.util.Hashtable"__id**
+
+ij.Macro"
+tableΩ
+∫
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaZ Z(4
+%5java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread¥
+±
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaZ Z(5
+%6java.lang.Object"__mapGet*
+
+%4java.util.Hashtable*
+
+%5java.lang.Threadò
+ï
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaZ Z(6
+optionsjava.lang.Object"__id*
+
+%6java.lang.Object*
+3
+4*—
+6V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaY& Y(0ÎË
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaY& Y(F
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z* 
+
+
+threadNamejava.lang.String*	
+RMI TCP2startsWith(Ljava/lang/String;)*
+5
+1*ˆ
+7V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaW W(Ω
+∫
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaW W(,
+%0java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread∆√
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaW W(6
+%1java.lang.String",java.lang.Thread#getName()Ljava/lang/String;*
+
+%0java.lang.Thread2	getName()õ
+ò
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaW W(7
+
+threadNamejava.lang.String"__id*
+
+%1java.lang.StringÈÊ
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.javaY Y($
+%2boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z* 
+
+
+threadNamejava.lang.String*	
+Run$_2startsWith(Ljava/lang/String;)*
+5
+6*Ω
+1V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.java]
+ ]("`
+V
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Macro.java] ](
+""B"
+
+ij.Macro

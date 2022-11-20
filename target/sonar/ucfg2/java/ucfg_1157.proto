@@ -1,0 +1,1685 @@
+
+:ij.plugin.filter.ThresholdToSelection#getRoi()Lij/gui/Roi;u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÈ È("114"115*≥
+68u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaª" ª(4π∂
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaª ª(!!
+%65java.lang.RuntimeException"java.lang.RuntimeExceptionÙ
+Ò
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaª ª(5
+%66"6java.lang.RuntimeException#<init>(Ljava/lang/String;)V*#
+!
+%65java.lang.RuntimeException*
+assertion failed*
+0*ä
+69u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java∫
+ ∫(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java∫
+ ∫(4
+%64-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+68
+67*√
+26u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÑ Ñ(É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÑ Ñ(5
+%133-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""öó
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÑ Ñ("
+%134void":ij.plugin.filter.ThresholdToSelection$Outline#prepend(II)V*7
+5
+%133-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2prepend(II)*#
+112
+69
+105
+28
+18
+65
+23
+100*∂
+27u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÉ" É(4∫∑
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÉ É(!"
+%131java.lang.RuntimeException"java.lang.RuntimeExceptionˆ
+Û
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÉ É(5
+%132"6java.lang.RuntimeException#<init>(Ljava/lang/String;)V*$
+"
+%131java.lang.RuntimeException*
+assertion failed*
+0*ã
+28u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÇ
+ Ç(É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÇ
+ Ç(5
+%130-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+26
+27*≥
+71u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaµ# µ(5π∂
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaµ µ("!
+%62java.lang.RuntimeException"java.lang.RuntimeExceptionÙ
+Ò
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaµ µ(6
+%63"6java.lang.RuntimeException#<init>(Ljava/lang/String;)V*#
+!
+%62java.lang.RuntimeException*
+assertion failed*
+0*©
+72u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¥ ¥(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¥ ¥(4
+%61-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*'
+112
+69
+105
+28
+18
+71
+65
+23
+100*∂
+30u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¸$ ¸(6∫∑
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¸ ¸(#"
+%128java.lang.RuntimeException"java.lang.RuntimeExceptionˆ
+Û
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¸ ¸(7
+%129"6java.lang.RuntimeException#<init>(Ljava/lang/String;)V*$
+"
+%128java.lang.RuntimeException*
+assertion failed*
+0*è
+74u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java±	 ±(Sã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java±	 ±(S
+%60"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%58-ij.plugin.filter.ThresholdToSelection$Outline*
+72*™
+31u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java˚ ˚(É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java˚ ˚(5
+%127-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*'
+112
+69
+28
+105
+18
+30
+65
+23
+100*œ
+75u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java±O ±(SÀ
+»
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java±O ±(S4
+%58-ij.plugin.filter.ThresholdToSelection$Outline"__id*
+
+%59
+<nulltype>*
+74*Ö
+76u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java±6 ±(LÅ
+˛
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java±6 ±(L4
+%58-ij.plugin.filter.ThresholdToSelection$Outline"__id*I
+G
+oAfterLowerRightCorner-ij.plugin.filter.ThresholdToSelection$Outline*
+74*ë
+33u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¯
+ ¯(Tç
+ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¯
+ ¯(T
+%126"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*7
+5
+%124-ij.plugin.filter.ThresholdToSelection$Outline*
+31*ˆ
+77u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaØ	 Ø(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaØ Ø(!4
+%55-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaØ	 Ø(!
+%56"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%55-ij.plugin.filter.ThresholdToSelection$Outline€
+ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java∞	 ∞(
+%57"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+""*
+75
+76*ì
+78u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÆ Æ("Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÆ Æ(&4
+%53-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÆ* Æ(84
+%54-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+72
+77
+78*—
+34u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¯P ¯(TÕ
+ 
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¯P ¯(T5
+%124-ij.plugin.filter.ThresholdToSelection$Outline"__id*
+
+%125
+<nulltype>*
+33*Ü
+35u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¯7 ¯(MÇ
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¯7 ¯(M5
+%124-ij.plugin.filter.ThresholdToSelection$Outline"__id*I
+G
+oAfterLowerRightCorner-ij.plugin.filter.ThresholdToSelection$Outline*
+33*˙
+36u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaˆ
+ ˆ(É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaˆ ˆ("5
+%121-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ç
+ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaˆ
+ ˆ("
+%122"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*7
+5
+%121-ij.plugin.filter.ThresholdToSelection$Outline‹
+Ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java˜
+ ˜(
+%123"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+""*
+35
+34*ï
+37u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaı ı(#É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaı ı('5
+%119-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaı+ ı(95
+%120-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+36
+37
+31*ä
+100u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaà
+ à(Å
+˛
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaà
+ à(3
+%9-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+96
+99*´
+105u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¸ ¸(áÑ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¸ ¸((
+%8boolean"3ij.plugin.filter.ThresholdToSelection#selected(II)Z*)'
+%ij.plugin.filter.ThresholdToSelection*
+""*
+""2selected(II)*#
+112
+69
+28
+105
+18
+65
+100
+23*¨
+81u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¨ ¨(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¨ ¨(4
+%50-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¨ ¨((4
+%51-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""öó
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¨ ¨()
+%52void"gij.plugin.filter.ThresholdToSelection$Outline#prepend(Lij/plugin/filter/ThresholdToSelection$Outline;)V*6
+4
+%50-ij.plugin.filter.ThresholdToSelection$Outline*6
+4
+%51-ij.plugin.filter.ThresholdToSelection$Outline28prepend(Lij/plugin/filter/ThresholdToSelection$Outline;)*
+72
+78*Æ
+82u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java© ©(Rã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java© ©(R
+%49"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%47-ij.plugin.filter.ThresholdToSelection$Outline*#
+112
+69
+105
+28
+18
+65
+23
+100*œ
+83u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java©N ©(RÀ
+»
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java©N ©(R4
+%47-ij.plugin.filter.ThresholdToSelection$Outline"__id*
+
+%48
+<nulltype>*
+82*Ö
+84u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java©5 ©(KÅ
+˛
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java©5 ©(K4
+%47-ij.plugin.filter.ThresholdToSelection$Outline"__id*I
+G
+oAfterLowerRightCorner-ij.plugin.filter.ThresholdToSelection$Outline*
+82*Ø
+40u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÛ Û(É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÛ Û(5
+%116-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÛ Û((5
+%117-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""õò
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÛ Û()
+%118void"fij.plugin.filter.ThresholdToSelection$Outline#append(Lij/plugin/filter/ThresholdToSelection$Outline;)V*7
+5
+%116-ij.plugin.filter.ThresholdToSelection$Outline*7
+5
+%117-ij.plugin.filter.ThresholdToSelection$Outline27append(Lij/plugin/filter/ThresholdToSelection$Outline;)*
+37
+31*Ì
+85u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaß ß(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaß ß(4
+%43-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ß§
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaß ß(,
+%44java.awt.Polygon"Lij.plugin.filter.ThresholdToSelection$Outline#getPolygon()Ljava/awt/Polygon;*6
+4
+%43-ij.plugin.filter.ThresholdToSelection$Outline2getPolygon()ÿ
+’
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaß ß(-
+%45boolean"
+__arrayAdd*!
+
+polygonsjava.util.ArrayList*: *
+
+%44java.awt.Polygon€
+ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java® ®(
+%46"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+""*
+83
+84*Œ
+41u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÏ Ï(É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÏ Ï(5
+%110-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""òï
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÏ Ï(#
+%111void"9ij.plugin.filter.ThresholdToSelection$Outline#append(II)V*7
+5
+%110-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2
+append(II)É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÌ Ì(5
+%112-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""öó
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÌ Ì('
+%113void":ij.plugin.filter.ThresholdToSelection$Outline#prepend(II)V*7
+5
+%112-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2prepend(II)É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÔ! Ô(+5
+%114-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÔ Ô(+G
+oAfterLowerRightCorner-ij.plugin.filter.ThresholdToSelection$Outline"__id*7
+5
+%114-ij.plugin.filter.ThresholdToSelection$Outline‹
+Ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÒ Ò(
+%115"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+""*#
+112
+69
+28
+105
+18
+65
+23
+100*ß
+86u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java† †(€
+ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java† †(
+%39"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+""Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¢ ¢(4
+%40-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""òï
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¢ ¢('
+%41void":ij.plugin.filter.ThresholdToSelection$Outline#prepend(II)V*6
+4
+%40-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2prepend(II)Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java§! §(/4
+%42-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""Å
+˛
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java§ §(/G
+oAfterLowerRightCorner-ij.plugin.filter.ThresholdToSelection$Outline"__id*6
+4
+%42-ij.plugin.filter.ThresholdToSelection$Outline*#
+112
+69
+105
+28
+18
+65
+23
+100*∞
+47u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÁ Á(Pç
+ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÁ Á(P
+%109"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*7
+5
+%107-ij.plugin.filter.ThresholdToSelection$Outline*#
+112
+69
+28
+105
+18
+65
+23
+100*—
+48u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÁL Á(PÕ
+ 
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÁL Á(P5
+%107-ij.plugin.filter.ThresholdToSelection$Outline"__id*
+
+%108
+<nulltype>*
+47*Ü
+49u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÁ3 Á(IÇ
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÁ3 Á(I5
+%107-ij.plugin.filter.ThresholdToSelection$Outline"__id*I
+G
+oAfterLowerRightCorner-ij.plugin.filter.ThresholdToSelection$Outline*
+47*ƒ
+110u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java˘) ˘(.†
+ù
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java˘) ˘(.
+%5boolean"__id*
+
+%7boolean*#
+112
+69
+105
+28
+18
+65
+23
+100* 
+111u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java˘ ˘( ÉÄ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java˘ ˘(&
+%6boolean"3ij.plugin.filter.ThresholdToSelection#selected(II)Z*)'
+%ij.plugin.filter.ThresholdToSelection*2 *
+""2selected(II)†
+ù
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java˘ ˘(&
+%5boolean"__id*
+
+%6boolean*#
+112
+69
+105
+28
+18
+65
+23
+100*‹
+112u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaˆ ˆ(—
+Œ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java¯ ¯()G
+oAfterLowerRightCorner-ij.plugin.filter.ThresholdToSelection$Outline"__id*
+""*
+
+110
+111*õ
+114u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÏ Ï(™ß
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÌ Ì($
+%1java.util.ArrayList"java.util.ArrayListº
+π
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÌ Ì(&
+%2"java.util.ArrayList#<init>()V*
+
+%1java.util.ArrayListæ
+ª
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÌ Ì('
+polygonsjava.util.ArrayList"__id*
+
+%1java.util.ArrayListƒ
+¡
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÓ Ó(:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]"__id*
+""¿
+Ω
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÔ Ô(%	
+%3int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*2‚ﬂ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÛ Û(5
+%4/ij.plugin.filter.ThresholdToSelection$Outline[]"/ij.plugin.filter.ThresholdToSelection$Outline[]ı
+Ú
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÛ Û(:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]"__id*7
+5
+%4/ij.plugin.filter.ThresholdToSelection$Outline[]*	
+112
+18*Â
+115u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÎ Î(ﬂ
+‹
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÎ Î(5
+
+%0void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*%#
+!Converting threshold to selection*
+114*ì
+92u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaù ù(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaù ù(4
+%37-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaù# ù(-4
+%38-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+81
+85
+86*±
+93u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaô ô(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaô ô(#4
+%32-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaô ô(#
+%33"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%32-ij.plugin.filter.ThresholdToSelection$Outline€
+ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaö ö(
+%34"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+""Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaõ õ(4
+%35-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""òï
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaõ õ((
+%36void":ij.plugin.filter.ThresholdToSelection$Outline#prepend(II)V*6
+4
+%35-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2prepend(II)*#
+112
+69
+105
+28
+18
+65
+23
+100*í
+94u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaî î(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaî î(#4
+%25-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaî î(#
+%26"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%25-ij.plugin.filter.ThresholdToSelection$Outlineû
+õ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaï ï(+
+%27"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*I
+G
+oAfterLowerRightCorner-ij.plugin.filter.ThresholdToSelection$OutlineÇ
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javañ ñ(4
+%28-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ñì
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javañ ñ(
+%29void"9ij.plugin.filter.ThresholdToSelection$Outline#append(II)V*6
+4
+%28-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2
+append(II)Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaó ó(4
+%30-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""òï
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaó ó((
+%31void":ij.plugin.filter.ThresholdToSelection$Outline#prepend(II)V*6
+4
+%30-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2prepend(II)*#
+112
+69
+105
+28
+18
+65
+23
+100*Û
+50u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÂ Â(É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÂ Â(5
+%103-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""©¶
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÂ Â(,
+%104java.awt.Polygon"Lij.plugin.filter.ThresholdToSelection$Outline#getPolygon()Ljava/awt/Polygon;*7
+5
+%103-ij.plugin.filter.ThresholdToSelection$Outline2getPolygon()⁄
+◊
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÂ Â(-
+%105boolean"
+__arrayAdd*!
+
+polygonsjava.util.ArrayList*: *
+
+%104java.awt.Polygon‹
+Ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÊ Ê(
+%106"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+""*
+48
+49*™
+51u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaﬂ ﬂ(€
+ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaﬂ ﬂ(
+%99"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+""É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java· ·(5
+%100-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""òï
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java· ·(&
+%101void"9ij.plugin.filter.ThresholdToSelection$Outline#append(II)V*7
+5
+%100-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2
+append(II)É
+Ä
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java„! „(/5
+%102-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java„ „(/G
+oAfterLowerRightCorner-ij.plugin.filter.ThresholdToSelection$Outline"__id*7
+5
+%102-ij.plugin.filter.ThresholdToSelection$Outline*#
+112
+69
+28
+105
+18
+65
+23
+100*é
+96u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaí í(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaí í(4
+%24-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+92
+93
+94*Ø
+97u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaé é(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaé é(#4
+%19-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaé é(#
+%20"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%19-ij.plugin.filter.ThresholdToSelection$Outline€
+ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaè è(
+%21"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+""Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaê ê(4
+%22-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ñì
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaê ê(
+%23void"9ij.plugin.filter.ThresholdToSelection$Outline#append(II)V*6
+4
+%22-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2
+append(II)*#
+112
+69
+105
+28
+18
+65
+23
+100*œ
+98u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaä ä(ﬂ‹
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaä* ä(14
+%11-ij.plugin.filter.ThresholdToSelection$Outline"-ij.plugin.filter.ThresholdToSelection$OutlineÚ
+Ô
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaä& ä(3
+%12"7ij.plugin.filter.ThresholdToSelection$Outline#<init>()V*6
+4
+%11-ij.plugin.filter.ThresholdToSelection$Outlineã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaä ä(3
+%13"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%11-ij.plugin.filter.ThresholdToSelection$Outlineã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaä ä(3
+%14"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%11-ij.plugin.filter.ThresholdToSelection$OutlineÇ
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaã ã(4
+%15-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ñì
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaã ã(#
+%16void"9ij.plugin.filter.ThresholdToSelection$Outline#append(II)V*6
+4
+%15-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2
+append(II)Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaå å(4
+%17-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ñì
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaå å(
+%18void"9ij.plugin.filter.ThresholdToSelection$Outline#append(II)V*6
+4
+%17-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2
+append(II)*#
+112
+69
+105
+28
+18
+65
+23
+100*¸
+11u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javañ6 ñ(:"
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javañ/ ñ(;
+""*ä
+99u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaâ â(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaâ â(4
+%10-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+97
+98*±
+12u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaï ï(À
+»
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaï ï('
+%147java.lang.Object"
+__arrayGet*!
+
+polygonsjava.util.ArrayList*
+""ôñ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaï ï(/
+%148void"/java.awt.geom.Path2D#append(Ljava/awt/Shape;Z)V*#
+!
+pathjava.awt.geom.GeneralPath*
+
+%147java.lang.Object*2 2append(Ljava/awt/Shape;Z)ﬁ
+€
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javañ ñ(
+%149java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread€ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javañ ñ(-
+%150boolean"!java.lang.Thread#isInterrupted()Z*
+
+%149java.lang.Thread2isInterrupted()*
+13
+8
+11*÷
+13u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaî î(œÃ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaî î(%
+%146int"java.util.ArrayList#size()I*!
+
+polygonsjava.util.ArrayList2size()*
+6
+12*ó
+57u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java€ €(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java€ €(4
+%97-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java€# €(-4
+%98-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+50
+40
+51
+41*ï
+
+14u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaí% í(0ï
+í
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaí% í(>
+%141int"__id*
+""∏µ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaí í($!
+%142java.awt.geom.GeneralPath"java.awt.geom.GeneralPath‹
+Ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaí í(?
+%143"$java.awt.geom.GeneralPath#<init>(I)V*#
+!
+%142java.awt.geom.GeneralPath*
+
+%141int»
+≈
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaí í(@!
+pathjava.awt.geom.GeneralPath"__id*#
+!
+%142java.awt.geom.GeneralPathœÃ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaì ì((
+%144int"java.util.ArrayList#size()I*!
+
+polygonsjava.util.ArrayList2size()¬
+ø
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaì ì(/
+%145int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*2*
+13*Ø
+58u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java◊ ◊(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java◊ ◊(#4
+%92-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java◊ ◊(#
+%93"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%92-ij.plugin.filter.ThresholdToSelection$Outline€
+ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÿ ÿ(
+%94"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+""Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaŸ Ÿ(4
+%95-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ñì
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaŸ Ÿ('
+%96void"9ij.plugin.filter.ThresholdToSelection$Outline#append(II)V*6
+4
+%95-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2
+append(II)*#
+112
+69
+28
+105
+18
+65
+23
+100*Ë
+15u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaë ë(‰
+·
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaë ë(G
+%140void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*(&
+$Converting threshold to selection...*
+14*ñ
+59u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java“ “(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java“ “(#4
+%85-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java“ “(#
+%86"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%85-ij.plugin.filter.ThresholdToSelection$OutlineÅ
+˛
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java” ”(+4
+%58-ij.plugin.filter.ThresholdToSelection$Outline"__id*I
+G
+oAfterLowerRightCorner-ij.plugin.filter.ThresholdToSelection$Outlineû
+õ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java” ”(+
+%87"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*I
+G
+oAfterLowerRightCorner-ij.plugin.filter.ThresholdToSelection$OutlineÇ
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java‘ ‘(4
+%88-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""òï
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java‘ ‘( 
+%89void":ij.plugin.filter.ThresholdToSelection$Outline#prepend(II)V*6
+4
+%88-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2prepend(II)Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java’ ’(4
+%90-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ñì
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java’ ’('
+%91void"9ij.plugin.filter.ThresholdToSelection$Outline#append(II)V*6
+4
+%90-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2
+append(II)*#
+112
+69
+28
+105
+18
+65
+23
+100*¸
+17u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaê
+ ê("
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaê ê(
+""*€
+18u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaè è(œÃ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaè è(
+%139int"java.util.ArrayList#size()I*!
+
+polygonsjava.util.ArrayList2size()*
+14
+15
+17*î
+0 "å
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java† †(
+implicit return*â
+1u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaü	 ü("å
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaü ü(
+
+roi
+ij.gui.Roi*µ
+2u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaû û(≥
+∞
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaû û(
+%160void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""*
+1*Æ
+3u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaú ú(3©
+¶
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaú ú(3
+roi
+ij.gui.Roi"__id*
+
+%157
+ij.gui.Roi*
+2
+1*¨
+4u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaú. ú(2™
+ß
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaú. ú(2
+%157
+ij.gui.Roi"__id*
+
+%159
+<nulltype>*
+3*ì
+5u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaú ú(‰·
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaú ú(-
+%158
+ij.gui.Roi")ij.gui.ShapeRoi#trySimplify()Lij/gui/Roi;*
+
+shapeij.gui.ShapeRoi2trySimplify()™
+ß
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaú ú(-
+%157
+ij.gui.Roi"__id*
+
+%158
+ij.gui.Roi*
+3*—
+6u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaõ  õ($§°
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaõ õ(
+%155ij.gui.ShapeRoi"ij.gui.ShapeRoiÌ
+Í
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaõ õ(%
+%156")ij.gui.ShapeRoi#<init>(Ljava/awt/Shape;)V*
+
+%155ij.gui.ShapeRoi*#
+!
+pathjava.awt.geom.GeneralPathµ
+≤
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaõ õ(&
+shapeij.gui.ShapeRoi"__id*
+
+%155ij.gui.ShapeRoi*
+4
+5*æ
+8u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaò ò(ò
+ï
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaò ò(/
+%151double"__id*
+""ò
+ï
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaò8 ò(S
+%152double"__id*
+""œÃ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaòU ò(d
+%153int"java.util.ArrayList#size()I*!
+
+polygonsjava.util.ArrayList2size()≥
+∞
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaò ò(e
+%154void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""*
+13*é
+61u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java– –(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java– –(4
+%84-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+57
+58
+59*±
+62u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÃ	 Ã(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÃ Ã($4
+%79-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÃ	 Ã($
+%80"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%79-ij.plugin.filter.ThresholdToSelection$Outline€
+ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaÕ	 Õ(
+%81"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+""Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaŒ	 Œ(4
+%82-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""òï
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaŒ	 Œ(!
+%83void":ij.plugin.filter.ThresholdToSelection$Outline#prepend(II)V*6
+4
+%82-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2prepend(II)*#
+112
+69
+28
+105
+18
+65
+23
+100*œ
+63u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java» »(ﬂ‹
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java»* »(14
+%71-ij.plugin.filter.ThresholdToSelection$Outline"-ij.plugin.filter.ThresholdToSelection$OutlineÚ
+Ô
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java»& »(3
+%72"7ij.plugin.filter.ThresholdToSelection$Outline#<init>()V*6
+4
+%71-ij.plugin.filter.ThresholdToSelection$Outlineã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java» »(3
+%73"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%71-ij.plugin.filter.ThresholdToSelection$Outlineã
+à
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java» »(3
+%74"
+__arraySet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*6
+4
+%71-ij.plugin.filter.ThresholdToSelection$OutlineÇ
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java… …(4
+%75-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ñì
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java… …(
+%76void"9ij.plugin.filter.ThresholdToSelection$Outline#append(II)V*6
+4
+%75-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2
+append(II)Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java   (4
+%77-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ñì
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java   (#
+%78void"9ij.plugin.filter.ThresholdToSelection$Outline#append(II)V*6
+4
+%77-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2
+append(II)*#
+112
+69
+28
+105
+18
+65
+23
+100*◊
+20u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaã ã(ò
+ï
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaã ã(3
+%137double"__id*
+""≥
+∞
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaã ã(7
+%138void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""*	
+112
+18*ä
+64u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java« «(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java« «(4
+%70-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+62
+63*ä
+65u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java∆
+ ∆(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java∆
+ ∆(4
+%69-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""*
+61
+64*¸
+22u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaâ7 â(;"
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaâ0 â(<
+""*Õ
+23u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaâ â(ﬁ
+€
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaâ â(
+%135java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread€ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaâ â(.
+%136boolean"!java.lang.Thread#isInterrupted()Z*
+
+%135java.lang.Thread2isInterrupted()*
+112
+18
+20
+22*æ
+67u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaº º(Ç
+ˇ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaº º(4
+%67-ij.plugin.filter.ThresholdToSelection$Outline"
+__arrayGet*<
+:
+outline/ij.plugin.filter.ThresholdToSelection$Outline[]*
+""ñì
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.javaº º(!
+%68void"9ij.plugin.filter.ThresholdToSelection$Outline#append(II)V*6
+4
+%67-ij.plugin.filter.ThresholdToSelection$Outline*
+""*
+""2
+append(II)*#
+112
+69
+105
+28
+18
+65
+23
+100B)'
+%ij.plugin.filter.ThresholdToSelection

@@ -1,0 +1,66 @@
+
+ij.io.FileSaver#saveAsJpeg()Z_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaò ò("3*Ï
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaö
+ ö("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaö ö(
+""*Þ	
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaó ó(§
+¤
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaó ó()	
+%0int"!ij.io.FileSaver#getJpegQuality()I*"
+ij.io.FileSaverŸ
+œ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaó ó()
+%1java.lang.String"__concat*
+
+JPEG (*
+	
+%0int§
+¤
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaó ó(-
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+)ž
+›
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaó ó(.
+typejava.lang.String"__id*
+
+%2java.lang.String·´
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaô ô(%
+%3java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+
+typejava.lang.String*
+.jpg2-getPath(Ljava/lang/String;Ljava/lang/String;)ž
+›
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaô ô(&
+pathjava.lang.String"__id*
+
+%3java.lang.String*
+2
+1*Ç
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaø
+ ø(õò
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaø
+ ø(
+%4boolean"/ij.io.FileSaver#saveAsJpeg(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsJpeg(Ljava/lang/String;)"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaø ø(
+""B
+ij.io.FileSaver

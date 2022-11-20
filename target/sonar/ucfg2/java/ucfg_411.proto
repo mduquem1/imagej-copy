@@ -1,0 +1,40 @@
+
+Jij.plugin.filter.RGBStackSplitter#setup(Ljava/lang/String;Lij/ImagePlus;)Io
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RGBStackSplitter.java ("1*«	
+1o
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RGBStackSplitter.java (ø
+º
+o
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RGBStackSplitter.java (,#
+!ij.plugin.filter.RGBStackSplitter"
+imp"__id*
+
+impij.ImagePlus∞≠
+o
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RGBStackSplitter.java (
+%0ij.plugin.ChannelSplitter"ij.plugin.ChannelSplitter¬
+ø
+o
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RGBStackSplitter.java (
+%1"#ij.plugin.ChannelSplitter#<init>()V*!
+
+%0ij.plugin.ChannelSplitterãà
+o
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RGBStackSplitter.java ("
+
+%2void"2ij.plugin.ChannelSplitter#run(Ljava/lang/String;)V*!
+
+%0ij.plugin.ChannelSplitter*
+
+argjava.lang.String2run(Ljava/lang/String;)ç
+ä
+o
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RGBStackSplitter.java	 (	
+%3int"__id*
+"""y
+o
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RGBStackSplitter.java (
+"":
+argjava.lang.String:
+impij.ImagePlusB%#
+!ij.plugin.filter.RGBStackSplitter

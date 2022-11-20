@@ -1,0 +1,80 @@
+
+8ij.macro.Functions#getWindowContents()Ljava/lang/String;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaî î("10*Å
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaö ö(ÛØ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaö
+ ö(%
+%4java.lang.String"4ij.plugin.frame.Recorder#getText()Ljava/lang/String;*
+
+framejava.awt.Frame2	getText()"~
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaö ö(&
+
+%4java.lang.String*Ã
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaô ô(ÙÖ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaô
+ ô(#
+%3java.lang.String"2ij.plugin.frame.Editor#getText()Ljava/lang/String;*
+
+framejava.awt.Frame2	getText()"~
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaô ô($
+
+%3java.lang.String*Æ
+8b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javañ ñ($áÞ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javañ ñ(4
+%1ij.text.TextPanel"4ij.text.TextWindow#getTextPanel()Lij/text/TextPanel;*
+
+framejava.awt.Frame2getTextPanel()¡
+ž
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javañ ñ(5
+tpij.text.TextPanel"__id*
+
+%1ij.text.TextPanelÔÑ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaò
+ ò(
+%2java.lang.String"-ij.text.TextPanel#getText()Ljava/lang/String;*
+
+tpij.text.TextPanel2	getText()"~
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaò ò(
+
+%2java.lang.String*à
+10b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaï ï(Æ
+Ã
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaï ï(.
+%0java.awt.Frame"1ij.WindowManager#getFrontWindow()Ljava/awt/Frame;*"
+ij.WindowManagerž
+›
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaï ï(/
+framejava.awt.Frame"__id*
+
+%0java.awt.Frame*
+2
+5
+8
+1*Æ
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaø
+ ø(ÜÙ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaø
+ ø(
+%5java.lang.String"3ij.macro.Functions#getImageInfo()Ljava/lang/String;*
+ij.macro.Functions2getImageInfo()"~
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaø ø(
+
+%5java.lang.StringB
+ij.macro.Functions

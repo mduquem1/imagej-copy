@@ -1,0 +1,16 @@
+
+:ij.io.LogStream#getCurrentErrStream()Ljava/io/PrintStream;]
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/LogStream.javaa a(."1*“
+1]
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/LogStream.javab	 b(°
+­
+]
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/LogStream.javab	 b(
+%0java.io.PrintStream"__id*+*)
+ij.io.LogStream"
+temporarySystemErr"|
+]
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/LogStream.javab b(
+
+%0java.io.PrintStreamB"
+ij.io.LogStream

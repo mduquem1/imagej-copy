@@ -1,0 +1,79 @@
+
+Qij.ImageStack#convertType(Lij/process/ImageProcessor;)Lij/process/ImageProcessor;]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‚ ‚(#"9*˜
+3]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹ ‹(+ÿü
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹ ‹(#
+%4ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToFloat()Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor2convertToFloat()¬
+©
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹ ‹(#
+ipij.process.ImageProcessor"__id*!
+
+%4ij.process.ImageProcessor*
+1*”
+4]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŠ Š(*ûø
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŠ Š("
+%3ij.process.ImageProcessor"Cij.process.ImageProcessor#convertToRGB()Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor2convertToRGB()¬
+©
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŠ Š("
+ipij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessor*
+1* 
+5]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‰ ‰(/‡„
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‰ ‰('
+%2ij.process.ImageProcessor"Fij.process.ImageProcessor#convertToShort(Z)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*22convertToShort(Z)¬
+©
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‰ ‰('
+ipij.process.ImageProcessor"__id*!
+
+%2ij.process.ImageProcessor*
+1*ž
+6]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaˆ ˆ(-…‚
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaˆ ˆ(%
+%1ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToByte(Z)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*22convertToByte(Z)¬
+©
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaˆ ˆ(%
+ipij.process.ImageProcessor"__id*!
+
+%1ij.process.ImageProcessor*
+1*¿
+9]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaƒ ƒ(ÉÆ
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaƒ ƒ($	
+%0int"(ij.process.ImageProcessor#getBitDepth()I*!
+
+ipij.process.ImageProcessor2getBitDepth()*
+3
+4
+5
+6
+1*ç
+1]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŽ	 Ž("‚
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŽ Ž(!
+
+ipij.process.ImageProcessor:
+ipij.process.ImageProcessorB
+ij.ImageStack

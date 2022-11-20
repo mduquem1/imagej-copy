@@ -1,0 +1,67 @@
+
+Cij.plugin.filter.ParticleAnalyzer#isThresholdedRGB(Lij/ImagePlus;)Zq
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java« «(!"6*œ
+2q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java°, °(0ÛØ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java°, °(<	
+%3int"&ij.process.ImageProcessor#getHeight()I*#
+!
+maskij.process.ImageProcessor2getHeight()À½
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java°> °(M	
+%4int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()*
+1*Ø
+3q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¯( ¯(+º
+·
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¯ ¯(,!
+maskij.process.ImageProcessor"__id*
+
+objjava.lang.ObjectÙÖ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java°	 °(	
+%1int"%ij.process.ImageProcessor#getWidth()I*#
+!
+maskij.process.ImageProcessor2
+getWidth()¾»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java° °((	
+%2int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()*
+2
+1*ó
+4q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java®
+ ®("{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java® ®(
+""*Ã
+6q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¬ ¬(
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¬ ¬(&
+%0java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+impij.ImagePlus*
+Mask2getProperty(Ljava/lang/String;)¯
+¬
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¬ ¬('
+objjava.lang.Object"__id*
+
+%0java.lang.Object*
+3
+4*ó
+1q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java° °(N"{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java° °(N
+"":
+impij.ImagePlusB%#
+!ij.plugin.filter.ParticleAnalyzer

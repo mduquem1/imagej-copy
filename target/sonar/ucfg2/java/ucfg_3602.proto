@@ -1,0 +1,147 @@
+
+1ij.ImagePlus#getMask()Lij/process/ImageProcessor;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaË Ë("10*æ
+
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÒ Ò(¢
+ü
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÒ Ò(
+%8ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipúô
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÒ Ò(
+
+%9void"?ij.process.ImageProcessor#setMask(Lij/process/ImageProcessor;)V*!
+
+%8ij.process.ImageProcessor*#
+!
+maskij.process.ImageProcessor2$setMask(Lij/process/ImageProcessor;)£
+†
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÚ Ú( 
+%10ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipï
+í
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÚ Ú(
+%11
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi «
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÚ Ú(
+%12java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+%11
+ij.gui.Roi2getBounds()ÜÉ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÚ Ú(
+%13void"7ij.process.ImageProcessor#setRoi(Ljava/awt/Rectangle;)V*"
+ 
+%10ij.process.ImageProcessor*
+
+%12java.awt.Rectangle2setRoi(Ljava/awt/Rectangle;)*
+1*Ä
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java (î
+ë
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java (
+%7
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi*
+2
+1*é
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java (¢
+ü
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java (
+%6ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+3
+1*…
+5\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÔ
+ Ô("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÔ Ô(
+""*Ö
+6\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÌ Ì(î
+ë
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÌ Ì(
+%4
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi“œ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÌ Ì(%
+%5ij.process.ImageProcessor"/ij.gui.Roi#getMask()Lij/process/ImageProcessor;*
+
+%4
+ij.gui.Roi2	getMask()≠
+™
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÌ Ì(&!
+maskij.process.ImageProcessor"__id*!
+
+%5ij.process.ImageProcessor*
+4
+5*…
+7\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÎ
+ Î("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÎ Î(
+""*—
+8\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÍ Í(¢
+ü
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÍ Í(
+%2ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip√¿
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÍ Í(
+
+%3void"%ij.process.ImageProcessor#resetRoi()V*!
+
+%2ij.process.ImageProcessor2
+resetRoi()*
+7*é
+9\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÍ Í(	¢
+ü
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÍ Í(	
+%1ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+7
+8*Å
+10\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÈ È(	î
+ë
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÈ È(	
+%0
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi*
+6
+9*Á
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÙ	 Ù("É
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÙ Ù(#
+!
+maskij.process.ImageProcessorB
+ij.ImagePlus

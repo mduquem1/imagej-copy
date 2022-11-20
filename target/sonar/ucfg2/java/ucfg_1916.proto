@@ -1,0 +1,471 @@
+
+ij.IJ#d2s(DI)Ljava/lang/String;U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‡ ‡("21*¿
+17U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‰
+ ‰("c
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‰ ‰(
+
+3.4e38*˙
+6U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¯
+ ¯(ï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¯
+ ¯( 
+%55java.text.DecimalFormat[]"__id**
+ij.IJ"
+sf≤
+Ø
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¯
+ ¯(
+%56java.text.DecimalFormat"
+__arrayGet*"
+ 
+%55java.text.DecimalFormat[]*
+""‹Ÿ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¯
+ ¯(%
+%57java.lang.String"2java.text.NumberFormat#format(D)Ljava/lang/String;* 
+
+%56java.text.DecimalFormat*
+""2	format(D)"r
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¯ ¯(&
+
+%57java.lang.String*ﬁ
+18U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java„ „(t
+r
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java„	 „(
+%3float"__id*
+""*
+17
+10
+1*ÇD
+7U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÌ Ì(ñì
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÌ	 Ì(
+%9java.text.DecimalFormat[]"java.text.DecimalFormat[]î
+ë
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÌ Ì(
+ij.IJ"
+sf"__id*!
+
+%9java.text.DecimalFormat[]ï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÓ Ó( 
+%10java.text.DecimalFormat[]"__id**
+ij.IJ"
+sfõ
+ò
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÓ& Ó()%
+%11java.text.DecimalFormatSymbols"__id**
+ij.IJ"
+dfsìê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÓ Ó(
+%12java.text.DecimalFormat"java.text.DecimalFormatå
+â
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÓ Ó(*
+%13"Sjava.text.DecimalFormat#<init>(Ljava/lang/String;Ljava/text/DecimalFormatSymbols;)V* 
+
+%12java.text.DecimalFormat*	
+0.0E0*'
+%
+%11java.text.DecimalFormatSymbolsπ
+∂
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÓ Ó(*
+%14"
+__arraySet*"
+ 
+%10java.text.DecimalFormat[]*2* 
+
+%12java.text.DecimalFormatï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÔ Ô( 
+%15java.text.DecimalFormat[]"__id**
+ij.IJ"
+sfõ
+ò
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÔ' Ô(*%
+%16java.text.DecimalFormatSymbols"__id**
+ij.IJ"
+dfsìê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÔ Ô(
+%17java.text.DecimalFormat"java.text.DecimalFormatç
+ä
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÔ Ô(+
+%18"Sjava.text.DecimalFormat#<init>(Ljava/lang/String;Ljava/text/DecimalFormatSymbols;)V* 
+
+%17java.text.DecimalFormat*
+
+0.00E0*'
+%
+%16java.text.DecimalFormatSymbolsπ
+∂
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÔ Ô(+
+%19"
+__arraySet*"
+ 
+%15java.text.DecimalFormat[]*2* 
+
+%17java.text.DecimalFormatï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java ( 
+%20java.text.DecimalFormat[]"__id**
+ij.IJ"
+sfõ
+ò
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java( (+%
+%21java.text.DecimalFormatSymbols"__id**
+ij.IJ"
+dfsìê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java (
+%22java.text.DecimalFormat"java.text.DecimalFormaté
+ã
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java (,
+%23"Sjava.text.DecimalFormat#<init>(Ljava/lang/String;Ljava/text/DecimalFormatSymbols;)V* 
+
+%22java.text.DecimalFormat*	
+0.000E0*'
+%
+%21java.text.DecimalFormatSymbolsπ
+∂
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java (,
+%24"
+__arraySet*"
+ 
+%20java.text.DecimalFormat[]*2* 
+
+%22java.text.DecimalFormatï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÒ Ò( 
+%25java.text.DecimalFormat[]"__id**
+ij.IJ"
+sfõ
+ò
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÒ) Ò(,%
+%26java.text.DecimalFormatSymbols"__id**
+ij.IJ"
+dfsìê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÒ Ò(
+%27java.text.DecimalFormat"java.text.DecimalFormatè
+å
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÒ Ò(-
+%28"Sjava.text.DecimalFormat#<init>(Ljava/lang/String;Ljava/text/DecimalFormatSymbols;)V* 
+
+%27java.text.DecimalFormat*
+
+0.0000E0*'
+%
+%26java.text.DecimalFormatSymbolsπ
+∂
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÒ Ò(-
+%29"
+__arraySet*"
+ 
+%25java.text.DecimalFormat[]*2* 
+
+%27java.text.DecimalFormatï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÚ Ú( 
+%30java.text.DecimalFormat[]"__id**
+ij.IJ"
+sfõ
+ò
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÚ* Ú(-%
+%31java.text.DecimalFormatSymbols"__id**
+ij.IJ"
+dfsìê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÚ Ú(
+%32java.text.DecimalFormat"java.text.DecimalFormatê
+ç
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÚ Ú(.
+%33"Sjava.text.DecimalFormat#<init>(Ljava/lang/String;Ljava/text/DecimalFormatSymbols;)V* 
+
+%32java.text.DecimalFormat*
+	0.00000E0*'
+%
+%31java.text.DecimalFormatSymbolsπ
+∂
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÚ Ú(.
+%34"
+__arraySet*"
+ 
+%30java.text.DecimalFormat[]*2* 
+
+%32java.text.DecimalFormatï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÛ Û( 
+%35java.text.DecimalFormat[]"__id**
+ij.IJ"
+sfõ
+ò
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÛ+ Û(.%
+%36java.text.DecimalFormatSymbols"__id**
+ij.IJ"
+dfsìê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÛ Û(
+%37java.text.DecimalFormat"java.text.DecimalFormatë
+é
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÛ Û(/
+%38"Sjava.text.DecimalFormat#<init>(Ljava/lang/String;Ljava/text/DecimalFormatSymbols;)V* 
+
+%37java.text.DecimalFormat*
+
+0.000000E0*'
+%
+%36java.text.DecimalFormatSymbolsπ
+∂
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÛ Û(/
+%39"
+__arraySet*"
+ 
+%35java.text.DecimalFormat[]*2* 
+
+%37java.text.DecimalFormatï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÙ Ù( 
+%40java.text.DecimalFormat[]"__id**
+ij.IJ"
+sfõ
+ò
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÙ, Ù(/%
+%41java.text.DecimalFormatSymbols"__id**
+ij.IJ"
+dfsìê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÙ Ù(
+%42java.text.DecimalFormat"java.text.DecimalFormatí
+è
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÙ Ù(0
+%43"Sjava.text.DecimalFormat#<init>(Ljava/lang/String;Ljava/text/DecimalFormatSymbols;)V* 
+
+%42java.text.DecimalFormat*
+0.0000000E0*'
+%
+%41java.text.DecimalFormatSymbolsπ
+∂
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÙ Ù(0
+%44"
+__arraySet*"
+ 
+%40java.text.DecimalFormat[]*2* 
+
+%42java.text.DecimalFormatï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaı ı( 
+%45java.text.DecimalFormat[]"__id**
+ij.IJ"
+sfõ
+ò
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaı- ı(0%
+%46java.text.DecimalFormatSymbols"__id**
+ij.IJ"
+dfsìê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaı ı(
+%47java.text.DecimalFormat"java.text.DecimalFormatì
+ê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaı ı(1
+%48"Sjava.text.DecimalFormat#<init>(Ljava/lang/String;Ljava/text/DecimalFormatSymbols;)V* 
+
+%47java.text.DecimalFormat*
+0.00000000E0*'
+%
+%46java.text.DecimalFormatSymbolsπ
+∂
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaı ı(1
+%49"
+__arraySet*"
+ 
+%45java.text.DecimalFormat[]*2* 
+
+%47java.text.DecimalFormatï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaˆ ˆ( 
+%50java.text.DecimalFormat[]"__id**
+ij.IJ"
+sfõ
+ò
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaˆ. ˆ(1%
+%51java.text.DecimalFormatSymbols"__id**
+ij.IJ"
+dfsìê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaˆ ˆ(
+%52java.text.DecimalFormat"java.text.DecimalFormatî
+ë
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaˆ ˆ(2
+%53"Sjava.text.DecimalFormat#<init>(Ljava/lang/String;Ljava/text/DecimalFormatSymbols;)V* 
+
+%52java.text.DecimalFormat*
+0.000000000E0*'
+%
+%51java.text.DecimalFormatSymbolsπ
+∂
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaˆ ˆ(2
+%54"
+__arraySet*"
+ 
+%50java.text.DecimalFormat[]*2	* 
+
+%52java.text.DecimalFormat*
+6*Ÿ
+19U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‚
+ ‚(à
+Ö
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‚
+ ‚(
+%2java.lang.String"__concat* *
+"""q
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‚ ‚(
+
+%2java.lang.String*Å
+8U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÏ$ Ï(*
+}
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÏ$ Ï(-
+%6java.util.Locale"__id*
+""†ù
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÏ Ï(#$
+%7java.text.DecimalFormatSymbols"java.text.DecimalFormatSymbolsﬁ
+€
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÏ Ï(.
+%8":java.text.DecimalFormatSymbols#<init>(Ljava/util/Locale;)V*&
+$
+%7java.text.DecimalFormatSymbols*
+
+%6java.util.Localeö
+ó
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÏ Ï(.
+ij.IJ"
+dfs"__id*&
+$
+%7java.text.DecimalFormatSymbols*
+7*ˇ
+9U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÎ Î(ö
+ó
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÎ Î($
+%5java.text.DecimalFormatSymbols"__id**
+ij.IJ"
+dfs*
+7
+8*ê
+20U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java· ·(®
+•
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java· ·(+
+%1boolean"java.lang.Double#isInfinite(D)Z*"
+java.lang.Double*
+""*
+18
+19*ã
+21U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java· ·(£
+†
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java· ·(
+%0boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+19
+20*˙
+10U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÍ Í(	î
+ë
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÍ Í(	
+%4java.text.DecimalFormat[]"__id**
+ij.IJ"
+sf*
+6
+9*˙
+1U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¸	 ¸(ï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¸	 ¸( 
+%58java.text.DecimalFormat[]"__id**
+ij.IJ"
+df≤
+Ø
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¸	 ¸(
+%59java.text.DecimalFormat"
+__arrayGet*"
+ 
+%58java.text.DecimalFormat[]*
+""‹Ÿ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¸	 ¸($
+%60java.lang.String"2java.text.NumberFormat#format(D)Ljava/lang/String;* 
+
+%59java.text.DecimalFormat*
+""2	format(D)"r
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¸ ¸(%
+
+%60java.lang.String:
+"":
+""B	"
+ij.IJ

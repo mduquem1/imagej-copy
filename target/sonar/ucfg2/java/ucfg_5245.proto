@@ -1,0 +1,669 @@
+
+0ij.io.ImageWriter#write(Ljava/io/OutputStream;)Va
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaê ê("41*»
+24a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java£ £(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java£ £(
+%31ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fiØ
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java£ £('
+%32ij.VirtualStack"__id*)*'
+
+%31ij.io.FileInfo"
+virtualStack*
+22
+23*ñ
+25a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java° ©(
+¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java£ £(
+
+%30ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi*
+24
+22*Ï
+27a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaü ü(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaü! ü(#
+%27ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaü! ü(*
+%28java.lang.Object"__id*#*!
+
+%27ij.io.FileInfo"
+pixels´®
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaü ü(+
+%29void";ij.io.ImageWriter#write8BitImage(Ljava/io/OutputStream;[B)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%28java.lang.Object2(write8BitImage(Ljava/io/OutputStream;[B)*
+0*é
+28a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaù ù(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaù# ù(%
+%24ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaù# ù(,
+%25java.lang.Object"__id*#*!
+
+%24ij.io.FileInfo"
+pixelsÕ 
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaù ù(-
+%26void"Lij.io.ImageWriter#write8BitStack(Ljava/io/OutputStream;[Ljava/lang/Object;)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%25java.lang.Object29write8BitStack(Ljava/io/OutputStream;[Ljava/lang/Object;)*
+0*ñ
+29a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaú ú(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaú ú(
+%23ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi*
+27
+28*ú
+30a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaõ õ(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaõ  õ("
+%20ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fiØ
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaõ  õ(/
+%21ij.VirtualStack"__id*)*'
+
+%20ij.io.FileInfo"
+virtualStack÷”
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaõ õ(0
+%22void"Qij.io.ImageWriter#write8BitVirtualStack(Ljava/io/OutputStream;Lij/VirtualStack;)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%21ij.VirtualStack2>write8BitVirtualStack(Ljava/io/OutputStream;Lij/VirtualStack;)*
+0*»
+31a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaö ö(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaö ö(
+%18ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fiØ
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaö ö('
+%19ij.VirtualStack"__id*)*'
+
+%18ij.io.FileInfo"
+virtualStack*
+29
+30*î
+10a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaµ º(
+¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∂ ∂(
+
+%59ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi*
+7
+9*ñ
+32a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaò †(
+¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaö ö(
+
+%17ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi*
+29
+31*°
+34a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaï ï(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaï ï(
+%13ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaï ï(
+%14ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaï ï(
+%15ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi√¿
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaï ï(.
+
+%16int""ij.io.FileInfo#getBytesPerPixel()I*
+
+%15ij.io.FileInfo2getBytesPerPixel()*
+2*Ó
+12a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java≥ ≥(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java≥# ≥(%
+%56ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java≥# ≥(,
+%57java.lang.Object"__id*#*!
+
+%56ij.io.FileInfo"
+pixels≠™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java≥ ≥(-
+%58void"<ij.io.ImageWriter#writeFloatImage(Ljava/io/OutputStream;[F)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%57java.lang.Object2)writeFloatImage(Ljava/io/OutputStream;[F)*
+0*Ì
+35a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaî î(>óî
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaî î(
+%11java.io.IOException"java.io.IOException‰
+·
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaî
+ î(?
+%12"/java.io.IOException#<init>(Ljava/lang/String;)V*
+
+%11java.io.IOException*&$
+"ImageWriter: fi.pixels not a stack*
+0*ê
+13a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java± ±(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java±$ ±(&
+%53ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java±$ ±(-
+%54java.lang.Object"__id*#*!
+
+%53ij.io.FileInfo"
+pixelsœÃ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java± ±(.
+%55void"Mij.io.ImageWriter#writeFloatStack(Ljava/io/OutputStream;[Ljava/lang/Object;)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%54java.lang.Object2:writeFloatStack(Ljava/io/OutputStream;[Ljava/lang/Object;)*
+0*¡
+36a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaì1 ì(3°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaì1 ì(3
+%9ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi©
+¶
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaì1 ì(:
+%10java.lang.Object"__id*"* 
+
+%9ij.io.FileInfo"
+pixels*
+35
+34*ñ
+14a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∞ ∞(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∞ ∞(
+%52ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi*
+13
+12*≈
+37a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaì ì(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaì ì(
+%7ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaì ì(%
+%8ij.VirtualStack"__id*(*&
+
+%7ij.io.FileInfo"
+virtualStack*
+36
+34*û
+15a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaØ Ø(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaØ! Ø(#
+%49ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fiØ
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaØ! Ø(0
+%50ij.VirtualStack"__id*)*'
+
+%49ij.io.FileInfo"
+virtualStackÿ’
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaØ Ø(1
+%51void"Rij.io.ImageWriter#writeFloatVirtualStack(Ljava/io/OutputStream;Lij/VirtualStack;)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%50ij.VirtualStack2?writeFloatVirtualStack(Ljava/io/OutputStream;Lij/VirtualStack;)*
+0*ï
+38a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaì ì(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaì ì(
+%6ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi*
+37
+34*»
+16a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaÆ Æ(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaÆ Æ(
+%47ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fiØ
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaÆ Æ('
+%48ij.VirtualStack"__id*)*'
+
+%47ij.io.FileInfo"
+virtualStack*
+14
+15*‰
+39a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaí í(8ñì
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaí í(
+%4java.io.IOException"java.io.IOException‹
+Ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaí
+ í(9
+%5"/java.io.IOException#<init>(Ljava/lang/String;)V*
+
+%4java.io.IOException* 
+ImageWriter: fi.pixels==null*
+0*ñ
+17a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java≠ ¥(
+¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaÆ Æ(
+
+%46ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi*
+14
+16*ê
+18a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java™ ¨(
+¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java´# ´(%
+%43ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java´# ´(,
+%44java.lang.Object"__id*#*!
+
+%43ij.io.FileInfo"
+pixelsœÃ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java´ ´(-
+%45void"Mij.io.ImageWriter#writeRGB48Image(Ljava/io/OutputStream;[Ljava/lang/Object;)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%44java.lang.Object2:writeRGB48Image(Ljava/io/OutputStream;[Ljava/lang/Object;)*
+0*
+0 "x
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java¿ ¿(
+implicit return*´	
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaó
+ ó(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaó
+ ó(
+%72ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaò ò(
+
+%73int"__id*
+""
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaô ô(
+
+%74int"__id*
+""
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java° °(
+
+%75int"__id*
+""
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java¢ ¢( 
+
+%76int"__id*
+""
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java™ ™(
+
+%77int"__id*
+""
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java≠ ≠(
+
+%78int"__id*
+""
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaµ µ(
+
+%79int"__id*
+""*
+25
+17
+18
+10
+32
+0*È
+5a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaª ª(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaª ª(!
+%69ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaª ª((
+%70java.lang.Object"__id*#*!
+
+%69ij.io.FileInfo"
+pixels©¶
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaª ª()
+%71void":ij.io.ImageWriter#writeRGBImage(Ljava/io/OutputStream;[I)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%70java.lang.Object2'writeRGBImage(Ljava/io/OutputStream;[I)*
+0*ã
+6a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaπ π(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaπ" π($
+%66ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaπ" π(+
+%67java.lang.Object"__id*#*!
+
+%66ij.io.FileInfo"
+pixelsÀ»
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaπ π(,
+%68void"Kij.io.ImageWriter#writeRGBStack(Ljava/io/OutputStream;[Ljava/lang/Object;)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%67java.lang.Object28writeRGBStack(Ljava/io/OutputStream;[Ljava/lang/Object;)*
+0*ì
+7a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∏ ∏(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∏ ∏(
+%65ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi*
+5
+6*ô
+8a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∑ ∑(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∑ ∑(!
+%62ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fiØ
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∑ ∑(.
+%63ij.VirtualStack"__id*)*'
+
+%62ij.io.FileInfo"
+virtualStack‘—
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∑ ∑(/
+%64void"Pij.io.ImageWriter#writeRGBVirtualStack(Ljava/io/OutputStream;Lij/VirtualStack;)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%63ij.VirtualStack2=writeRGBVirtualStack(Ljava/io/OutputStream;Lij/VirtualStack;)*
+0*≈
+9a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∂ ∂(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∂ ∂(
+%60ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fiØ
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java∂ ∂('
+%61ij.VirtualStack"__id*)*'
+
+%60ij.io.FileInfo"
+virtualStack*
+7
+8*≈
+40a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaë ë(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaë ë(
+%2ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaë ë((
+%3ij.VirtualStack"__id*(*&
+
+%2ij.io.FileInfo"
+virtualStack*
+38
+39*¿
+41a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaë ë(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaë ë(
+%0ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi®
+•
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.javaë ë(
+%1java.lang.Object"__id*"* 
+
+%0ij.io.FileInfo"
+pixels*
+38
+40*Ó
+20a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java® ®(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java®# ®(%
+%40ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java®# ®(,
+%41java.lang.Object"__id*#*!
+
+%40ij.io.FileInfo"
+pixels≠™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java® ®(-
+%42void"<ij.io.ImageWriter#write16BitImage(Ljava/io/OutputStream;[S)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%41java.lang.Object2)write16BitImage(Ljava/io/OutputStream;[S)*
+0*ê
+21a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java¶ ¶(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java¶$ ¶(&
+%37ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java¶$ ¶(-
+%38java.lang.Object"__id*#*!
+
+%37ij.io.FileInfo"
+pixelsœÃ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java¶ ¶(.
+%39void"Mij.io.ImageWriter#write16BitStack(Ljava/io/OutputStream;[Ljava/lang/Object;)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%38java.lang.Object2:write16BitStack(Ljava/io/OutputStream;[Ljava/lang/Object;)*
+0*ñ
+22a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java• •(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java• •(
+%36ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fi*
+20
+21*û
+23a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java§ §(¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java§! §(#
+%33ij.io.FileInfo"__id**
+ij.io.ImageWriter"
+fiØ
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java§! §(0
+%34ij.VirtualStack"__id*)*'
+
+%33ij.io.FileInfo"
+virtualStackÿ’
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageWriter.java§ §(1
+%35void"Rij.io.ImageWriter#write16BitVirtualStack(Ljava/io/OutputStream;Lij/VirtualStack;)V*
+ij.io.ImageWriter*
+
+outjava.io.OutputStream*
+
+%34ij.VirtualStack2?write16BitVirtualStack(Ljava/io/OutputStream;Lij/VirtualStack;)*
+0:
+outjava.io.OutputStreamB
+ij.io.ImageWriter

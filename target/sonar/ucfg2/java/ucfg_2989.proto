@@ -1,0 +1,49 @@
+
+Cij.process.StackStatistics#getMedian([JIILij/measure/Calibration;)Dj
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.javaŸ Ÿ("2"3"9*á
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.java„$ „(%ê
+ç
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.java„$ „(%
+%1double"__id*
+	
+%3int*
+1*Á
+3j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.java„ „(⁄◊
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.java„ „(#
+%2double"$ij.measure.Calibration#getCValue(I)D*
+
+calij.measure.Calibration*
+""2getCValue(I)ì
+ê
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.java„ „(#
+%1double"__id*
+
+%2double*
+1*Û
+9j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.java‹
+ ‹(ã
+à
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.java‹
+ ‹(
+%0double"__id*
+"""t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.java‹ ‹(
+""*Â
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.java„ „(&"t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.java„ „(&
+"":
+"":
+"":
+"":
+calij.measure.CalibrationB
+ij.process.StackStatistics

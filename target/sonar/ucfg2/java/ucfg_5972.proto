@@ -1,0 +1,622 @@
+
+$ij.plugin.Animator#startAnimation()V`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaY Y("62* 
+24b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java§ §(£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java§ §(
+%45ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java§ §(
+%46ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp´±
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java§ §($
+
+%47int"ij.ImagePlus#getChannel()I*
+
+%46ij.ImagePlus2getChannel()£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java§- §(0
+%48ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp°­
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java§- §(;
+
+%49int"ij.ImagePlus#getFrame()I*
+
+%48ij.ImagePlus2
+getFrame()áÞ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java§ §(<
+%50void"ij.ImagePlus#setPosition(III)V*
+
+%45ij.ImagePlus*
+
+
+%47int*
+""*
+
+
+%49int2setPosition(III)£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¨ ¨(
+%51ij.ImagePlus"__id**
+ij.plugin.Animator"
+impÉÆ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¨ ¨(
+%52void"$ij.ImagePlus#updateStatusbarValue()V*
+
+%51ij.ImagePlus2updateStatusbarValue()*
+36*Ö
+25b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¦ ¦("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¦ ¦(
+""*Ï
+26b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¦ ¦(£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¦ ¦(
+%43ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp´±
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¦ ¦(
+%44boolean"ij.ImagePlus#isLocked()Z*
+
+%43ij.ImagePlus2
+isLocked()*
+24
+25*’
+50`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javav v(£
+ 
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javav v(
+%23void"java.lang.Thread#yield()V*"
+java.lang.Thread*
+43*„
+51`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javat t(•
+’
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javat t("
+%22void"ij.IJ#wait(I)V*	"
+ij.IJ*
+""*
+43*¢
+52`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javar r(¯
+¬
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javar r(%
+%21long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+50
+51*à
+53`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaq
+ q(¨
+¥
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaq
+ q(
+%19ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swinÂ¿
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaq
+ q(
+%20boolean" ij.gui.StackWindow#getAnimate()Z*
+
+%19ij.gui.StackWindow2getAnimate()*
+40
+52*Á
+54`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javan n(¡
+ž
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javan n(
+%17ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp®«
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javan n(
+
+%18int"ij.ImagePlus#getFrame()I*
+
+%17ij.ImagePlus2
+getFrame()*
+53*š
+10b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÀ À(ª
+§
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÀ À(5
+%67long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""*
+4*–
+11b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¿ ¿(
+¥
+¢
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¿ ¿(
+%66void"java.lang.Thread#yield()V*"
+java.lang.Thread*
+10*–
+33b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java– –(¥
+¢
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java– –(
+%42void"java.lang.Thread#yield()V*"
+java.lang.Thread*
+26*ˆ
+34b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java” ”(—
+”
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java” ”("
+%41void"ij.IJ#wait(I)V*	"
+ij.IJ*
+""*
+26*•	
+56`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaj j(¡
+ž
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaj j(
+%11ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp²¯
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaj j(
+
+%12int"ij.ImagePlus#getNFrames()I*
+
+%11ij.ImagePlus2getNFrames()¡
+ž
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javak k(
+%13ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp²¯
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javak k(
+
+%14int"ij.ImagePlus#getNSlices()I*
+
+%13ij.ImagePlus2getNSlices()¡
+ž
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javam m(	
+%15ij.ImagePlus"__id**
+ij.plugin.Animator"
+impÌÉ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javam m(!
+%16boolean"%ij.ImagePlus#isDisplayedHyperStack()Z*
+
+%15ij.ImagePlus2isDisplayedHyperStack()*
+39
+54*ˆ
+12b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java½ ½(—
+”
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java½ ½(!
+%65void"ij.IJ#wait(I)V*	"
+ij.IJ*
+""*
+10*¦
+35b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java’ ’(±
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java’ ’(%
+%40long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+33
+34*æ
+36b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java‘
+ ‘(ª
+§
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java‘
+ ‘(
+%38ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swinÄÁ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java‘
+ ‘(
+%39boolean" ij.gui.StackWindow#getAnimate()Z*
+
+%38ij.gui.StackWindow2getAnimate()*
+35
+23*Õ
+14b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java» »(œ
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java» »()
+%63java.lang.String"__concat*
+""*
+ fpsÁ
+¾
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java» »(*
+%64void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%63java.lang.String*
+11
+12*Ç
+37b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaŽ Ž(£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaŽ Ž(
+%36ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp°­
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaŽ Ž(
+
+%37int"ij.ImagePlus#getSlice()I*
+
+%36ij.ImagePlus2
+getSlice()*
+36*ˆ
+16b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¹; ¹(@
+Œ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¹; ¹(@
+%60boolean"__id*
+
+%62boolean*
+14
+11
+12*é
+39b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java (	£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java (	
+%34ij.ImagePlus"__id**
+ij.plugin.Animator"
+impÎË
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java (!
+%35boolean"%ij.ImagePlus#isDisplayedHyperStack()Z*
+
+%34ij.ImagePlus2isDisplayedHyperStack()*
+37
+22*Ø
+17b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¹& ¹((ÍÊ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¹& ¹(:
+%61boolean"%ij.gui.ImageCanvas#cursorOverImage()Z*
+
+icij.gui.ImageCanvas2cursorOverImage()
+Œ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¹& ¹(:
+%60boolean"__id*
+
+%61boolean*
+14
+11
+12*–
+18b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¸ ¸(£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¸ ¸(
+%58ij.ImagePlus"__id**
+ij.plugin.Animator"
+impÔÑ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¸ ¸(#
+%59ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+%58ij.ImagePlus2getCanvas()¤
+¡
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java¸ ¸($
+icij.gui.ImageCanvas"__id*
+
+%59ij.gui.ImageCanvas*
+16
+17*¢
+19b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java´ ´(±
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java´ ´((
+%57long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+18*€
+0 "y
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÔ Ô(
+implicit return*ß
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÒ Ò(£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÒ Ò(
+%72ij.ImagePlus"__id**
+ij.plugin.Animator"
+impÉÆ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÒ Ò(
+%73void"$ij.ImagePlus#updateStatusbarValue()V*
+
+%72ij.ImagePlus2updateStatusbarValue()*
+21*é
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÐ Ð(ª
+§
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÐ Ð(
+%70ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swinÉÆ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÐ Ð(
+%71void" ij.gui.StackWindow#showSlice(I)V*
+
+%70ij.gui.StackWindow*
+""2showSlice(I)*
+21
+1*Õ
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÏ Ï("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÏ Ï(
+""*Ì
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÏ Ï(
+£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÏ Ï(
+
+%68ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp´±
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaÏ Ï(
+%69boolean"ij.ImagePlus#isLocked()Z*
+
+%68ij.ImagePlus2
+isLocked()*
+2
+3*Ü
+60`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java_ _(§
+¤
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java_ _(
+%3ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swinÅÂ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java_ _(
+
+%4void"!ij.gui.StackWindow#setAnimate(Z)V*
+
+%3ij.gui.StackWindow*22setAnimate(Z)®
+«
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java` `(0
+
+%5long"%java.lang.System#currentTimeMillis()J*"
+java.lang.SystemÇ
+Ä
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaa a(
+%6java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread}
+{
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaa% a(8	
+%7int"__id*
+""ÊÇ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaa a(9
+
+%8void" java.lang.Thread#setPriority(I)V*
+
+%6java.lang.Thread*
+	
+%7int2setPriority(I) 
+
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javac c(
+%9ij.ImagePlus"__id**
+ij.plugin.Animator"
+impãà
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javac c((
+%10ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%9ij.ImagePlus2getCalibration()«
+¨
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javac c()
+calij.measure.Calibration"__id*
+
+%10ij.measure.Calibration*
+56*”
+61`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java^ ^(¿¼
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java^ ^(
+
+%2void"#ij.plugin.Animator#stopAnimation()V*
+ij.plugin.Animator2stopAnimation()"j
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java^ ^(
+""*Ö
+40b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaŠ Š(
+"l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaŠ Š(
+
+""*Ý
+62`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java] ](
+§
+¤
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java] ](
+
+%0ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swinÀ½
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java] ](
+%1boolean" ij.gui.StackWindow#getAnimate()Z*
+
+%0ij.gui.StackWindow2getAnimate()*
+60
+61* 
+41b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java‡ ‡(£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java‡ ‡(
+%26ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java‡ ‡(
+%27ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp´±
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java‡ ‡($
+
+%28int"ij.ImagePlus#getChannel()I*
+
+%27ij.ImagePlus2getChannel()£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java‡& ‡()
+%29ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp°­
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java‡& ‡(4
+
+%30int"ij.ImagePlus#getSlice()I*
+
+%29ij.ImagePlus2
+getSlice()áÞ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java‡ ‡(<
+%31void"ij.ImagePlus#setPosition(III)V*
+
+%26ij.ImagePlus*
+
+
+%28int*
+
+
+%30int*
+""2setPosition(III)£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaˆ ˆ(
+%32ij.ImagePlus"__id**
+ij.plugin.Animator"
+impÉÆ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaˆ ˆ(
+%33void"$ij.ImagePlus#updateStatusbarValue()V*
+
+%32ij.ImagePlus2updateStatusbarValue()*
+53*Ö
+42b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java† †("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java† †(
+""*¦
+20b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java±
+ ±(±
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java±
+ ±($
+%56long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+18
+19*Ï
+43b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java† †(£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java† †(
+%24ij.ImagePlus"__id**
+ij.plugin.Animator"
+imp´±
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java† †(
+%25boolean"ij.ImagePlus#isLocked()Z*
+
+%24ij.ImagePlus2
+isLocked()*
+41
+42*å
+21b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java°	 °(ª
+§
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java°	 °(
+%54ij.gui.StackWindow"__id* *
+ij.plugin.Animator"
+swinÄÁ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java°	 °(
+%55boolean" ij.gui.StackWindow#getAnimate()Z*
+
+%54ij.gui.StackWindow2getAnimate()*
+20
+0*¢
+22b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java­ ­(±
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.java­ ­(+
+%53long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+21*Ö
+23b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaª ª(
+"l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Animator.javaª ª(
+
+""B
+ij.plugin.Animator

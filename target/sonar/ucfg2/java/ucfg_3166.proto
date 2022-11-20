@@ -1,0 +1,50 @@
+
+.ij.macro.Functions#addPlotText(Lij/gui/Plot;)Db
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaí í("1*≤
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaì ì(‡›
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaì ì(
+%0java.lang.String"5ij.macro.Functions#getFirstString()Ljava/lang/String;*
+ij.macro.Functions2getFirstString()†
+ù
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaì ì( 
+strjava.lang.String"__id*
+
+%0java.lang.StringΩ∫
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaî î(
+%1double" ij.macro.Functions#getNextArg()D*
+ij.macro.Functions2getNextArg()Ω∫
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaï ï(
+%2double" ij.macro.Functions#getLastArg()D*
+ij.macro.Functions2getLastArg()…∆
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javañ ñ(&
+
+%3void" ij.gui.Plot#setJustification(I)V*
+
+plotij.gui.Plot*
+""2setJustification(I)Çˇ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaó ó(
+
+%4void"+ij.gui.Plot#addLabel(DDLjava/lang/String;)V*
+
+plotij.gui.Plot*
+""*
+""*
+
+strjava.lang.String2addLabel(DDLjava/lang/String;)É
+Ä
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaò	 ò(
+%5double"__id*
+"""l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaò ò(
+"":
+plotij.gui.PlotB
+ij.macro.Functions

@@ -345,7 +345,7 @@ public class FFT implements PlugIn, Measurements {
 			IJ.error("FFT", "Padded image is too large ("+maxN+"x"+maxN+")");
 			return null;
 		}
-		ImageStatistics stats = ImageStatistics.getStatistics(ip, MEAN, null);
+		ImageStatistics stats = ImageStatistics.getStatistics(ip, MEAN, null, null);
 		ImageProcessor ip2 = ip.createProcessor(maxN, maxN);
 		ip2.setValue(stats.mean);
 		ip2.fill();

@@ -1,0 +1,79 @@
+
+*ij.process.ImageProcessor#isInvertedLut()Zi
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¥ ¥("8"9*Ô
+4i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java® ®(àÝ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java® ®(	
+%1int")java.awt.image.IndexColorModel#getRed(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2	getRed(I)äá
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java® ®()	
+%2int"+java.awt.image.IndexColorModel#getGreen(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2getGreen(I)âß
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java®* ®(:	
+%3int"*java.awt.image.IndexColorModel#getBlue(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2
+getBlue(I)àÝ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¯ ¯(	
+%4int")java.awt.image.IndexColorModel#getRed(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2	getRed(I)äá
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¯ ¯(%	
+%5int"+java.awt.image.IndexColorModel#getGreen(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2getGreen(I)âß
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¯& ¯(4	
+%6int"*java.awt.image.IndexColorModel#getBlue(I)I*'
+%
+icmjava.awt.image.IndexColorModel*
+""2
+getBlue(I)*
+4
+1*ã
+7i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaª
+ ª("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaª ª(
+""*Å
+8i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¨ ¨(*ƒ
+€
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¨ ¨(,$
+%0java.awt.image.IndexColorModel"Nij.process.ImageProcessor#getIndexColorModel()Ljava/awt/image/IndexColorModel;*
+ij.process.ImageProcessorÃ
+À
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¨ ¨(-%
+icmjava.awt.image.IndexColorModel"__id*&
+$
+%0java.awt.image.IndexColorModel*	
+4
+7
+1*ã
+9i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§
+ §("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§ §(
+""*ã
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaµ µ(!"s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java· ·(
+""B
+ij.process.ImageProcessor

@@ -1,0 +1,92 @@
+
+%ij.gui.Plot#getPlotObjectIndex(I[[F)I[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¥ ¥("12*Ç
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java± ±("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java± ±(
+""*¤
+7[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¬	 ¬(µ
+²
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¬	 ¬(6
+%6boolean"java.util.Arrays#equals([F[F)Z*"
+java.util.Arrays*
+""*
+""*
+
+3
+8
+12*—
+8[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java« «(¨
+¥
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java« «(C	
+%5int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*
+""*
+
+3
+7
+12*¹
+9[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java©  ©(*ÑÎ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java©  ©(=
+%4	float[][]"'ij.gui.PlotObject#getAllDataValues()[[F*!
+
+
+plotObjectij.gui.PlotObject2getAllDataValues()*
+8*ß
+11[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java§ §()£
+ 
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java§ §()
+%2java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjects§
+¤
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java§ §(0
+%3ij.gui.PlotObject"
+__arrayGet*
+
+%2java.util.Vector*
+""¢
+Ÿ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java§ §(1
+
+plotObjectij.gui.PlotObject"__id*
+
+%3ij.gui.PlotObject*
+9
+12*º
+12[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¦ ¦(£
+ 
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¦ ¦( 
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjects§¤
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¦ ¦('	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()*
+11
+1*Ç
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java³
+ ³("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java³ ³(
+"":
+"":
+""B
+ij.gui.Plot

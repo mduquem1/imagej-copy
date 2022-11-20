@@ -1,0 +1,55 @@
+
+Fij.io.ImageReader#readPixels(Ljava/io/InputStream;J)Ljava/lang/Object;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java⁄ ⁄("6*”
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaﬂ
+ ﬂ("k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaﬂ ﬂ(
+""*ı
+4a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaﬁ% ﬁ(&Ñ
+Å
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaﬁ% ﬁ(&	
+%1int"__id*
+	
+%3int*
+2
+1*ı
+5a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaﬁ# ﬁ($Ñ
+Å
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaﬁ# ﬁ($	
+%1int"__id*
+	
+%2int*
+2
+1*≤
+6a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java€ €(úô
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java› ›( 
+%0java.lang.Object"Eij.io.ImageReader#readPixels(Ljava/io/InputStream;)Ljava/lang/Object;*
+ij.io.ImageReader*
+
+injava.io.InputStream2!readPixels(Ljava/io/InputStream;)¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java› ›(!
+pixelsjava.lang.Object"__id*
+
+%0java.lang.Object*
+4
+5*Í
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java·
+ ·("Å
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java· ·(
+
+pixelsjava.lang.Object:
+injava.io.InputStream:
+""B
+ij.io.ImageReader

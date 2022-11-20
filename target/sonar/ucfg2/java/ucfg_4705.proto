@@ -1,0 +1,181 @@
+
+5ij.gui.ImageCanvas#canEnlarge(II)Ljava/awt/Dimension;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaö ö("18*Â
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java ( –“
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java (
+%14java.awt.Dimension"java.awt.Dimension»
+¸
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java
+ (,
+%15"java.awt.Dimension#<init>(II)V*
+
+%14java.awt.Dimension*
+""*
+"""
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java (-
+
+%14java.awt.Dimension*ò	
+14b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaû û(ßÜ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaû û( 
+%3java.awt.Rectangle"2java.awt.Component#getBounds()Ljava/awt/Rectangle;*
+
+winij.gui.ImageWindow2getBounds()£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaû û(!
+r1java.awt.Rectangle"__id*
+
+%3java.awt.RectangleÙÖ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaü ü(!
+%4java.awt.Insets"/ij.gui.ImageWindow#getInsets()Ljava/awt/Insets;*
+
+winij.gui.ImageWindow2getInsets()¡
+
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaü ü("
+insetsjava.awt.Insets"__id*
+
+%4java.awt.InsetsÖÓ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaı ı(
+%5java.awt.Point"0java.awt.Component#getLocation()Ljava/awt/Point;*
+ij.gui.ImageCanvas2getLocation()œ
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaı ı(
+locjava.awt.Point"__id*
+
+%5java.awt.Point*
+10
+12*Ö
+15b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaú ú("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaú ú(
+""*“
+16b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaù ù(¢
+Ÿ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaù ù(
+%1ij.ImagePlus"__id**
+ij.gui.ImageCanvas"
+impÒÏ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaù ù(#
+%2ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+%1ij.ImagePlus2getWindow()¤
+¡
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaù ù($
+winij.gui.ImageWindow"__id*
+
+%2ij.gui.ImageWindow*
+14
+15*Â
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java‹ ‹( –“
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java‹ ‹(
+%12java.awt.Dimension"java.awt.Dimension»
+¸
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java‹
+ ‹(,
+%13"java.awt.Dimension#<init>(II)V*
+
+%12java.awt.Dimension*
+""*
+"""
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java‹ ‹(-
+
+%12java.awt.Dimension*Ö
+17b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaø
+ ø("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaø ø(
+""*‹
+18b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java÷ ÷(–
+“
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java÷ ÷(
+%0boolean"ij.IJ#altKeyDown()Z*	"
+ij.IJ*
+16
+17*Â
+8b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java‰ ‰( –“
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java‰ ‰(
+%10java.awt.Dimension"java.awt.Dimension»
+¸
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java‰
+ ‰(,
+%11"java.awt.Dimension#<init>(II)V*
+
+%10java.awt.Dimension*
+""*
+"""
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java‰ ‰(-
+
+%10java.awt.Dimension*—
+10b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java… …(÷
+ô
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java… …(-
+%9java.awt.Rectangle"Gij.gui.GUI#getMaxWindowBounds(Ljava/awt/Component;)Ljava/awt/Rectangle;*"
+
+ij.gui.GUI*
+
+winij.gui.ImageWindow¤
+¡
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java… …(.
+maxjava.awt.Rectangle"__id*
+
+%9java.awt.Rectangle*
+2
+5
+8
+1*¼
+12b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaÿ ÿ(
+}
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaÿ0 ÿ(@	
+%6int"__id*
+""
+}
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java€2 €(B	
+%7int"__id*
+""ÉÆ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java€E €(Z	
+%8int"%ij.gui.ImageWindow#getSliderHeight()I*
+
+winij.gui.ImageWindow2getSliderHeight()*
+10*Õ
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java
+ ("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java (
+"":
+"":
+""B
+ij.gui.ImageCanvas

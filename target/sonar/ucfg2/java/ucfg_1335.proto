@@ -1,0 +1,207 @@
+
+Pij.plugin.Binner#shrink(Lij/process/ImageProcessor;I)Lij/process/ImageProcessor;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javañ ñ("19"21*›
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java© ©(ı
+Ú
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java© ©($
+%13float"7ij.plugin.Binner#getSum(Lij/process/ImageProcessor;II)F*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*
+""*
+""Á‰
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java© ©(%
+%14void"$ij.process.ImageProcessor#setf(IIF)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+
+%13float2	setf(IIF)*
+4
+6
+8
+10
+12
+1*›
+6`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaß ß(ı
+Ú
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaß ß($
+%11float"7ij.plugin.Binner#getMax(Lij/process/ImageProcessor;II)F*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*
+""*
+""Á‰
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaß ß(%
+%12void"$ij.process.ImageProcessor#setf(IIF)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+
+%11float2	setf(IIF)*
+4
+6
+8
+10
+12
+1*Ã
+18`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaù
+ ù(€
+ÿ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaù
+ ù(D
+%4ij.process.ImageProcessor"nij.plugin.Binner#shrinkRGB(Lij/process/ColorProcessor;Lij/process/ColorProcessor;I)Lij/process/ImageProcessor;*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*"
+ 
+ip2ij.process.ImageProcessor*
+"""Ö
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaù ù(E!
+
+%4ij.process.ImageProcessor*‚
+19`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaô
+ ô(∆√
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaô
+ ô(	
+%1int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()»≈
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaö
+ ö(	
+%2int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()òï
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaõ õ(/
+%3ij.process.ImageProcessor"Hij.process.ImageProcessor#createProcessor(II)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*
+""*
+""2createProcessor(II)∞
+≠
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaõ õ(0 
+ip2ij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessor*
+4
+6
+18
+8
+10
+1
+12*€
+8`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java• •(Ù
+Ò
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java• •($
+%9float"7ij.plugin.Binner#getMin(Lij/process/ImageProcessor;II)F*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*
+""*
+""Ê„
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java• •(%
+%10void"$ij.process.ImageProcessor#setf(IIF)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+
+%9float2	setf(IIF)*
+4
+6
+8
+10
+12
+1*ó
+21`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaó ó(®
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaó ó( 
+%0java.lang.String[]"__id*!*
+ij.plugin.Binner"	
+methods*
+19*ﬁ
+10`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java£ £(˜
+Ù
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java£ £('
+%7float":ij.plugin.Binner#getMedian(Lij/process/ImageProcessor;II)F*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*
+""*
+""Â‚
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java£ £((
+
+%8void"$ij.process.ImageProcessor#setf(IIF)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+
+%7float2	setf(IIF)*
+4
+6
+8
+10
+12
+1*ﬂ
+12`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java° °(¯
+ı
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java° °((
+%5float";ij.plugin.Binner#getAverage(Lij/process/ImageProcessor;II)F*
+ij.plugin.Binner*!
+
+ipij.process.ImageProcessor*
+""*
+""Â‚
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java° °()
+
+%6void"$ij.process.ImageProcessor#setf(IIF)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+
+%5float2	setf(IIF)*
+4
+6
+8
+10
+12
+1*Ó
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java¨	 ¨("Ü
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java¨ ¨("
+ 
+ip2ij.process.ImageProcessor:
+ipij.process.ImageProcessor:
+""B
+ij.plugin.Binner

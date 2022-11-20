@@ -1,0 +1,471 @@
+
+&ij.ImagePlus#show(Ljava/lang/String;)V\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaä ä("44*œ
+24\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaô ô(­ª
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaõ õ(!
+
+%19int"ij.ImagePlus#getStackSize()I*
+ij.ImagePlus2getStackSize()*
+22
+23*å
+27\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaò ò(¿¼
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaò ò(
+%17java.awt.Image"'ij.ImagePlus#getImage()Ljava/awt/Image;*
+ij.ImagePlus2
+getImage()™
+–
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaò ò(
+ij.ImagePlus"
+img"__id*
+
+%17java.awt.Image™
+–
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaó ó(
+
+%18java.awt.Image"__id**
+ij.ImagePlus"
+img*
+24
+0*£
+28\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javañ ñ(¸µ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javañ ñ(
+%16void"!ij.ImagePlus#invertLookupTable()V*
+ij.ImagePlus2invertLookupTable()*
+27*á
+29\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javağV ğ(X£
+ 
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javağV ğ(X 
+%14ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipÌÉ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javağV ğ(e
+%15boolean"'ij.process.ImageProcessor#isColorLut()Z*"
+ 
+%14ij.process.ImageProcessor2isColorLut()*
+27
+28*ç
+30\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javağ@ ğ(B£
+ 
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javağ@ ğ(B 
+%12ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipÒÏ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javağ@ ğ(R
+%13boolean"*ij.process.ImageProcessor#isInvertedLut()Z*"
+ 
+%12ij.process.ImageProcessor2isInvertedLut()*
+27
+29*’
+31\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javağ3 ğ(5£
+ 
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javağ3 ğ(5 
+%11ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+27
+30*š
+32\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javağ ğ(*«¨
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javağ ğ(,
+
+%10int"ij.ImagePlus#getBitDepth()I*
+ij.ImagePlus2getBitDepth()*
+27
+31*ì
+11\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‚ ‚(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‚ ‚(
+
+%41int"__id*
+""*
+2
+7
+9
+1*î
+34\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaì ì(Ì
+É
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaì ì(*
+
+%8void"5ij.WindowManager#setTempCurrentImage(Lij/ImagePlus;)V*"
+ij.WindowManager*
+ij.ImagePlusÒ
+Ï
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaí í(&
+
+%9void"7ij.macro.Interpreter#addBatchModeImage(Lij/ImagePlus;)V*"
+ij.macro.Interpreter*
+ij.ImagePlus"f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaî î(
+
+""*£
+12\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java (¸µ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java (
+%40void"!ij.ImagePlus#waitTillActivated()V*
+ij.ImagePlus2waitTillActivated()*
+11*“
+35\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaë ë(¨¥
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaë ë(
+
+%7void"ij.ImagePlus#saveRoi()V*
+
+impij.ImagePlus2	saveRoi()*
+34*Á
+36\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaê ê( ½
+º
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaê ê(2
+%6ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager’
+
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaê ê(3
+impij.ImagePlus"__id*
+
+%6ij.ImagePlus*
+35
+34*Å
+14\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÿ ÿ(Å
+Â
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÿ ÿ(
+%38void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*#
+!
+statusMessagejava.lang.String
+‹
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java€ €(
+%39boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+11
+12*
+37\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé' é(+¤¡
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(4
+
+%5void"ij.CompositeImage#reset()V*
+ij.ImagePlus2reset()*
+36*Ë
+15\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaş ş(ÉÆ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaş ş(
+%35ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+ij.ImagePlus2getCanvas()
+š
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaş ş("
+%36ij.gui.Overlay"__id**
+ij.ImagePlus"	
+overlayôñ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaş ş(#
+%37void"0ij.gui.ImageCanvas#setOverlay(Lij/gui/Overlay;)V*
+
+%35ij.gui.ImageCanvas*
+
+%36ij.gui.Overlay2setOverlay(Lij/gui/Overlay;)*
+14*
+38\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(®«
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(
+%4boolean"ij.ImagePlus#isComposite()Z*
+ij.ImagePlus2isComposite()*
+36
+37*¸
+16\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaı ı(!ÉÆ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaı ı(#
+%34ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+ij.ImagePlus2getCanvas()*
+14
+15*¢
+39\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaè$ è(/¯
+¬
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaè$ è(=
+%3boolean"#ij.macro.Interpreter#isBatchMode()Z*"
+ij.macro.Interpreter*
+38
+27
+32*Œ
+17\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaı ı(
+š
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaı ı(
+%33ij.gui.Overlay"__id**
+ij.ImagePlus"	
+overlay*
+14
+16*Ø
+18\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaü ü(•
+’
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaü ü(
+%31
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roiÕÒ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaü ü($
+%32void"$ij.gui.Roi#setImage(Lij/ImagePlus;)V*
+
+%31
+ij.gui.Roi*
+ij.ImagePlus2setImage(Lij/ImagePlus;)*
+17*„
+19\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaü ü(
+•
+’
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaü ü(
+
+%30
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi*
+17
+18*z
+0 "s
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‘ ‘(
+implicit return*©
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java (z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java (
+
+%49int"__id*
+""ÄÁ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java (
+%50void" ij.ImagePlus#notifyListeners(I)V*
+ij.ImagePlus*
+
+
+%49int2notifyListeners(I)*
+0*ø
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java (
+Œ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java (
+%48void"ij.IJ#wait(I)V*	"
+ij.IJ*2*
+1*¶
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‹ ‹(ÊÇ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‹ ‹(
+%47void"ij.ImagePlus#setPosition(III)V*
+ij.ImagePlus*
+""*
+""*
+""2setPosition(III)*
+2
+1*è
+7\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‡ ‡(©¦
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‡ ‡(
+
+%44int"ij.ImagePlus#getChannel()I*
+ij.ImagePlus2getChannel()¥¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaˆ ˆ(
+
+%45int"ij.ImagePlus#getSlice()I*
+ij.ImagePlus2
+getSlice()¥¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‰ ‰(
+
+%46int"ij.ImagePlus#getFrame()I*
+ij.ImagePlus2
+getFrame()*	
+2
+4
+1*Ú
+9\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaƒ ƒ(¸µ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaƒ ƒ(
+%42void"!ij.ImagePlus#resetDisplayRange()V*
+ij.ImagePlus2resetDisplayRange()°­
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java„ „(
+%43void"ij.ImagePlus#updateAndDraw()V*
+ij.ImagePlus2updateAndDraw()*	
+2
+7
+1*
+40\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaè è(’
+
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaè è(
+%2	ij.ImageJ"__id**
+ij.ImagePlus"
+ij*
+38
+39*‡
+41\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaç ç(ˆ
+…
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaç ç(
+ij.ImagePlus"
+win"__id*
+""
+Š
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaè è(
+%1boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+39
+40*Ê
+42\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaæ æ(
+"f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaæ æ(
+
+""*á
+20\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaû û(
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaû û(
+%28ij.gui.ImageWindow"ij.gui.ImageWindowÃ
+À
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaû
+ û(
+%29"*ij.gui.ImageWindow#<init>(Lij/ImagePlus;)V*
+
+%28ij.gui.ImageWindow*
+ij.ImagePlus
+š
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaû û(
+ij.ImagePlus"
+win"__id*
+
+%28ij.gui.ImageWindow*
+19*š
+21\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaù ù(ˆ
+…
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaù2 ù(C
+%24java.lang.String"__id*
+""ˆ…
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaù& ù(D
+%25java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+ij.ImagePlus*
+
+%24java.lang.String2getProperty(Ljava/lang/String;)‹
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaù ù(
+%26ij.gui.PlotWindow"ij.gui.PlotWindowé
+æ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaù
+ ù(F
+%27"6ij.gui.PlotWindow#<init>(Lij/ImagePlus;Lij/gui/Plot;)V*
+
+%26ij.gui.PlotWindow*
+ij.ImagePlus*
+
+%25java.lang.Objectœ
+™
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaù ù(F
+ij.ImagePlus"
+win"__id*
+
+%26ij.gui.PlotWindow*
+19*™
+44\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaå å(ª§
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaå å(
+%0boolean"ij.ImagePlus#isVisible()Z*
+ij.ImagePlus2isVisible()*
+41
+42*‚
+22\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaø ø(ˆ
+…
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaø ø()
+%22java.lang.String"__id*
+""ˆ…
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaø ø(*
+%23java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+ij.ImagePlus*
+
+%22java.lang.String2getProperty(Ljava/lang/String;)*
+20
+21*á
+23\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java÷ ÷(
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java÷ ÷(
+%20ij.gui.StackWindow"ij.gui.StackWindowÃ
+À
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java÷
+ ÷(
+%21"*ij.gui.StackWindow#<init>(Lij/ImagePlus;)V*
+
+%20ij.gui.StackWindow*
+ij.ImagePlus
+š
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java÷ ÷(
+ij.ImagePlus"
+win"__id*
+
+%20ij.gui.StackWindow*
+19:!
+statusMessagejava.lang.StringB
+ij.ImagePlus

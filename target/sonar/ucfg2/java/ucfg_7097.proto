@@ -1,0 +1,24 @@
+
+(ij.plugin.ImageInfo#yy(DLij/ImagePlus;)Dc
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageInfo.javaë ë("1*á
+1c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageInfo.javaì	 ì(²¯
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageInfo.javaì ì(,	
+%0int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()Ò
+Ï
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageInfo.javaì	 ì(-
+%1double"&ij.plugin.filter.Analyzer#updateY(DI)D*"
+ij.plugin.filter.Analyzer*
+""*
+	
+%0int"m
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageInfo.javaì ì(.
+"":
+"":
+impij.ImagePlusB
+ij.plugin.ImageInfo

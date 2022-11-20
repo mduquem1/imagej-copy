@@ -1,0 +1,172 @@
+
+Rij.macro.ExtensionDescriptor#convertArray([Lij/macro/Variable;)[Ljava/lang/Object;j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.java| |(&"9*™
+3j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.java (Ω
+∫
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.java (
+%13ij.macro.Variable"
+__arrayGet*
+
+arrayij.macro.Variable[]*
+""¿Ω
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.java (
+
+%14int"ij.macro.Variable#getType()I*
+
+%13ij.macro.Variable2	getType()ã
+à
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÄ Ä(
+
+%15int"__id*
+""ã
+à
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÉ É(
+
+%16int"__id*
+""ã
+à
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÜ Ü(
+
+%17int"__id*
+""*
+4
+5
+6
+7*∞
+4l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaâ ä(¥
+±
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaä ä(
+%12"
+__arraySet*
+
+oArrayjava.lang.Object[]*
+""*
+""*
+3
+1*ê
+5l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÜ à(æ
+ª
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaá! á()
+%8ij.macro.Variable"
+__arrayGet*
+
+arrayij.macro.Variable[]*
+""Â‚
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaá! á(4
+%9ij.macro.Variable[]"0ij.macro.Variable#getArray()[Lij/macro/Variable;*
+
+%8ij.macro.Variable2
+getArray()ü
+ú
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaá á(5
+%10java.lang.Object[]"Rij.macro.ExtensionDescriptor#convertArray([Lij/macro/Variable;)[Ljava/lang/Object;* "
+ij.macro.ExtensionDescriptor*
+
+%9ij.macro.Variable[]…
+∆
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaá á(5
+%11"
+__arraySet*
+
+oArrayjava.lang.Object[]*
+""*
+
+%10java.lang.Object[]*
+3
+1*´
+6l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÉ Ö(æ
+ª
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÑ$ Ñ(,
+%4ij.macro.Variable"
+__arrayGet*
+
+arrayij.macro.Variable[]*
+""≈¬
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÑ$ Ñ(7
+%5double"ij.macro.Variable#getValue()D*
+
+%4ij.macro.Variable2
+getValue()ﬁ
+€
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÑ Ñ(9
+%6java.lang.Double"-java.lang.Double#valueOf(D)Ljava/lang/Double;*"
+java.lang.Double*
+
+%5double≈
+¬
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÑ Ñ(9
+%7"
+__arraySet*
+
+oArrayjava.lang.Object[]*
+""*
+
+%6java.lang.Double*
+3
+1*Á
+7l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÄ Ç(æ
+ª
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÅ Å(
+%1ij.macro.Variable"
+__arrayGet*
+
+arrayij.macro.Variable[]*
+""‚ﬂ
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÅ Å((
+%2java.lang.String"/ij.macro.Variable#getString()Ljava/lang/String;*
+
+%1ij.macro.Variable2getString()≈
+¬
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaÅ Å((
+%3"
+__arraySet*
+
+oArrayjava.lang.Object[]*
+""*
+
+%2java.lang.String*
+3
+1*…
+9j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.java}" }('ùö
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.java} }(0
+%0java.lang.Object[]"java.lang.Object[]Ø
+¨
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.java} }(1
+oArrayjava.lang.Object[]"__id*
+
+%0java.lang.Object[]*
+3
+1*Ç
+1l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaé é("é
+l
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.javaé é(
+
+oArrayjava.lang.Object[]:
+arrayij.macro.Variable[]B "
+ij.macro.ExtensionDescriptor

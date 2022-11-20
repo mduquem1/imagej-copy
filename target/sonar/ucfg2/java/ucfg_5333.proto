@@ -1,0 +1,45 @@
+
+6ij.plugin.frame.Editor#getFontName()Ljava/lang/String;f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaã ã("4*–
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä/ ä(:£
+ 
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä/ ä(:
+%2java.lang.String"__id*
+
+%4java.lang.String*
+1*–
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä" ä(.£
+ 
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä" ä(.
+%2java.lang.String"__id*
+
+%3java.lang.String*
+1*‡
+4f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä ä(¾
+»
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä ä(
+%0java.awt.CheckboxMenuItem"__id***(
+ij.plugin.frame.Editor"
+
+monospacedÐÍ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä ä(!
+%1boolean"%java.awt.CheckboxMenuItem#getState()Z*!
+
+%0java.awt.CheckboxMenuItem2
+getState()*
+2
+3*ð
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä ä(;"‚
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä ä(;
+
+%2java.lang.StringB
+ij.plugin.frame.Editor

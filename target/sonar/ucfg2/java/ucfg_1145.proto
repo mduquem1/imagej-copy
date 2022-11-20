@@ -1,0 +1,40 @@
+
+Eij.plugin.filter.ThresholdToSelection#run(Lij/ImagePlus;)Lij/gui/Roi;s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java" "("1*ë
+1s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java# #(7ÌÉ
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java#! #(5+
+%0%ij.plugin.filter.ThresholdToSelection"%ij.plugin.filter.ThresholdToSelectionÞ
+Û
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java# #(7
+%1"/ij.plugin.filter.ThresholdToSelection#<init>()V*-
++
+%0%ij.plugin.filter.ThresholdToSelectionÛ
+Ø
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java# #(8,
+tts%ij.plugin.filter.ThresholdToSelection"__id*-
++
+%0%ij.plugin.filter.ThresholdToSelectionøõ
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java$ $('
+%2ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()ÛØ
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java$	 $((
+%3
+ij.gui.Roi"Vij.plugin.filter.ThresholdToSelection#convert(Lij/process/ImageProcessor;)Lij/gui/Roi;*.
+,
+tts%ij.plugin.filter.ThresholdToSelection*!
+
+%2ij.process.ImageProcessor2$convert(Lij/process/ImageProcessor;)"‰
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java$ $()
+
+%3
+ij.gui.Roi:
+impij.ImagePlusB)"'
+%ij.plugin.filter.ThresholdToSelection

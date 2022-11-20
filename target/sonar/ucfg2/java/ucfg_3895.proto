@@ -1,0 +1,28 @@
+
+=ij.Menus#getPluginsSubmenu(Ljava/lang/String;)Ljava/awt/Menu;X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaï ï("1*Õ
+1X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javað	 ð(°
+­
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javað ð()
+%0java.lang.String"__concat*
+
+Plugins>*!
+
+submenuNamejava.lang.StringÏ
+Ì
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javað	 ð(*
+%1java.awt.Menu"3ij.Menus#getMenu(Ljava/lang/String;)Ljava/awt/Menu;*"
+
+ij.Menus*
+
+%0java.lang.String"q
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javað ð(+
+
+%1java.awt.Menu:
+submenuNamejava.lang.StringB
+
+ij.Menus

@@ -1,0 +1,16 @@
+
+@ij.process.ImageProcessor#getStats()Lij/process/ImageStatistics;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaû û( "1*µ
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaü	 ü(²
+¯
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaü	 ü(, 
+%0ij.process.ImageStatistics"aij.process.ImageStatistics#getStatistics(Lij/process/ImageProcessor;)Lij/process/ImageStatistics;*"
+ij.process.ImageStatistics*
+ij.process.ImageProcessor"
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaü ü(-"
+ 
+%0ij.process.ImageStatisticsB
+ij.process.ImageProcessor

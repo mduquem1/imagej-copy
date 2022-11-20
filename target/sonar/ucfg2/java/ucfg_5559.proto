@@ -1,0 +1,231 @@
+
+!ij.text.TextCanvas#getChars(II)[C`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.java ("35*õ
+35b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÄ Ä(¶
+£
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÄ Ä(
+%0ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp*
+33
+34*ß
+24b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaà à(ß
+§
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaà à(
+%14ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp*
+14
+5
+17
+23
+12*˜
+14b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaó ó(	ë
+é
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaó ó(
+%15java.io.PrintStream"__id*
+""û
+õ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaó ó($
+%16java.lang.String"__concat*
+
+start=*
+""∫
+∑
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaó ó(6
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+, chars.length=≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaó ó(C
+%18java.lang.String"__concat*
+
+%17java.lang.String*
+""¸˘
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaó ó(D
+%19void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%15java.io.PrintStream*
+
+%18java.lang.String2println(Ljava/lang/String;)"l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaò ò(
+""*÷
+25b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÜ
+ Ü("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÜ Ü(
+""*É
+27b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ Ñ(Lé
+ã
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ Ñ(L
+charschar[]"__id*
+
+%9char[]*
+24
+25*÷
+17b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaî î("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaî î(
+""*Å
+28b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑG Ñ(Kê
+ç
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑG Ñ(K
+%9char[]"__id*
+
+%11
+<nulltype>*
+27*ﬂ
+29b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ. Ñ(0ß
+§
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ. Ñ(0
+%12ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ. Ñ(6
+%13java.util.Vector"__id*%*#
+
+%12ij.text.TextPanel"
+vData‚ﬂ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ. Ñ(E
+%10java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%13java.util.Vector*
+""2elementAt(I)ñ
+ì
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ. Ñ(E
+%9char[]"__id*
+
+%10java.lang.Objectñ
+ì
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ% Ñ(F
+%9char[]"__id*
+
+%10java.lang.Object*
+27*·
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaß	 ß("x
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaß ß(
+
+chars2char[]*ˆ
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.java£ £(!á
+Ñ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.java£ £(+
+chars2char[]"__id*
+""*
+1*˙
+30b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ Ñ(¶
+£
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ Ñ(
+%6ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp´
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ Ñ(
+%7java.util.Vector"__id*$*"
+
+%6ij.text.TextPanel"
+vDataÆ´
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÑ Ñ($	
+%8int"java.util.Vector#size()I*
+
+%7java.util.Vector2size()*
+28
+29*÷
+31b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÉ
+ É("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÉ É(
+""*˙
+32b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÇ Ç(	¶
+£
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÇ Ç(
+%3ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp´
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÇ Ç(
+%4java.util.Vector"__id*$*"
+
+%3ij.text.TextPanel"
+vDataÆ´
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÇ Ç(	
+%5int"java.util.Vector#size()I*
+
+%4java.util.Vector2size()*
+30
+31*÷
+33b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÅ
+ Å("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÅ Å(
+""*…
+34b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÄ Ä(¶
+£
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÄ Ä(
+%1ij.text.TextPanel"__id**
+ij.text.TextCanvas"
+tp´
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaÄ Ä(
+%2java.util.Vector"__id*$*"
+
+%1ij.text.TextPanel"
+vData*
+32
+33*÷
+12b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaõ õ("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaõ õ(
+""*·
+23b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaâ
+ â("w
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextCanvas.javaâ â(
+
+charschar[]:
+"":
+""B
+ij.text.TextCanvas

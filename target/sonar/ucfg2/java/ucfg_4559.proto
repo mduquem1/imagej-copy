@@ -1,0 +1,301 @@
+
+Gij.plugin.filter.FFTCustomFilter#getFilter()Lij/process/ImageProcessor;p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java… …("27*›
+13p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java• •(œ™
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java• •(7
+%12void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Process entire stack*
+""2 addCheckbox(Ljava/lang/String;Z)*
+12*Þ
+24p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java‹ ‹($£ 
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java‹ ‹(,
+%2java.lang.String[]"java.lang.String[]µ
+²
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java‹ ‹(-
+titlesjava.lang.String[]"__id*
+
+%2java.lang.String[]*
+14
+22*Ž
+
+14p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java’' ’(3§¤
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java’ ’(&
+%8ij.gui.GenericDialog"ij.gui.GenericDialogÛ
+Ø
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java’ ’(4
+%9"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%8ij.gui.GenericDialog*
+
+FFT Filterµ
+²
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java’ ’(5
+gdij.gui.GenericDialog"__id*
+
+%8ij.gui.GenericDialogÂ
+¿
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java“" “(5
+%10java.lang.String"
+__arrayGet*
+
+titlesjava.lang.String[]*
+""†ƒ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java“ “(6
+%11void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*	
+Filter:*
+
+titlesjava.lang.String[]*
+
+%10java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)*
+13
+12*ì
+25p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaˆ ˆ(÷
+ô
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaˆ ˆ(>
+
+%1void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+FFT*,*
+(A filter (as an open image) is required."z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java‰ ‰(
+""*»
+27p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java† †(¸
+µ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java† †()
+%0int[]"ij.WindowManager#getIDList()[I*"
+ij.WindowManager*
+24
+25*Ì
+19p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaŽ Ž(*É
+Æ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaŽ Ž(*
+%7"
+__arraySet*
+
+titlesjava.lang.String[]*
+""*
+
+%4java.lang.String*
+14
+22*‘
+1p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java©	 ©("™
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java© ©(%
+#
+filterij.process.ImageProcessor*á
+2p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java¨ ¨(š
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java¨ ¨(' 
+%27ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToByte(Z)Lij/process/ImageProcessor;*%
+#
+filterij.process.ImageProcessor*22convertToByte(Z)Ä
+Á
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java¨ ¨('#
+filterij.process.ImageProcessor"__id*"
+ 
+%27ij.process.ImageProcessor*
+1*á
+3p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java§ §(áÞ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java§ §(*
+
+%26int"(ij.process.ImageProcessor#getBitDepth()I*%
+#
+filterij.process.ImageProcessor2getBitDepth()*
+2
+1*Ã
+4p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java¦ ¦(#üù
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java¦ ¦(2 
+%25ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+	filterImpij.ImagePlus2getProcessor()Ä
+Á
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java¦ ¦(3#
+filterij.process.ImageProcessor"__id*"
+ 
+%25ij.process.ImageProcessor*
+3
+1*á
+5p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java£ £(í
+ê
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java£ £(3
+%24void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+FFT*!
+The filter cannot be a stack."z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java¤ ¤(
+""*Ì
+6p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java¢ ¢(ÌÉ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java¢ ¢(
+
+%23int"ij.ImagePlus#getStackSize()I*
+
+	filterImpij.ImagePlus2getStackSize()*
+4
+5*þ
+7p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaŸ Ÿ(Š
+‡
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaŸ Ÿ(P
+%22void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+FFT*><
+:The filter cannot be the same as the image being filtered."z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java   (
+""*Æ
+8p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java (%Ô
+Ñ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java (B
+%20ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""­
+ª
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java (C
+	filterImpij.ImagePlus"__id*
+
+%20ij.ImagePlus¿
+¼
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaž ž(
+%21ij.ImagePlus"__id*-*+"
+ ij.plugin.filter.FFTCustomFilter"
+imp*
+6
+7*Ú
+9p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaœ œ(ÝÚ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaœ œ(%
+%19boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+8*¬
+20p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaŽ( Ž(*­
+ª
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaŽ( Ž(*
+%4java.lang.String"__id*
+
+%6java.lang.String*
+19*Š
+21p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaŽ Ž(ÛØ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaŽ Ž('
+%5java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()­
+ª
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaŽ Ž('
+%4java.lang.String"__id*
+
+%5java.lang.String*
+19*â
+10p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaš š(áÞ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaš š('
+
+%18int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()*
+8
+9*ÿ
+22p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java ( Ó
+Ð
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java (3
+%3ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""¦
+£
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java (4
+impij.ImagePlus"__id*
+
+%3ij.ImagePlus*
+20
+21*ò
+11p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java™
+ ™("z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java™ ™(
+""*»	
+12p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java– –(œ
+™
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java– –(
+%13java.lang.String"__id*
+""Ü
+Ù
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java– –(9
+%14java.lang.String"__concat*
+
+%13java.lang.String*'%
+#/docs/menus/process.html#fft-filter‹ˆ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java– –(:
+%15void"1ij.gui.GenericDialog#addHelp(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%14java.lang.String2addHelp(Ljava/lang/String;)ÒÏ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java— —(
+%16void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()×Ô
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java˜ ˜(
+%17boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+10
+11B$"
+ ij.plugin.filter.FFTCustomFilter

@@ -1,0 +1,26 @@
+
+bij.ImageJ#runUserPlugIn(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)Ljava/lang/Object;Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaÐ Ð("1* 
+1Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaÑ	 Ñ(È
+Å
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaÑ	 Ñ(G
+%0java.lang.Object"^ij.IJ#runUserPlugIn(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)Ljava/lang/Object;*	"
+ij.IJ*!
+
+commandNamejava.lang.String*
+
+	classNamejava.lang.String*
+
+argjava.lang.String*
+"""u
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaÑ Ñ(H
+
+%0java.lang.Object:
+commandNamejava.lang.String:
+	classNamejava.lang.String:
+argjava.lang.String:
+""B
+	ij.ImageJ

@@ -1,0 +1,37 @@
+
+ij.plugin.AVI_Reader#getSize()Id
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÇ Ç("3*Ù
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÈ! È(""n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÈ È(#
+""*¥
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÈ È(±
+®
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÈ È(
+%0java.util.Vector"__id*(*&
+ij.plugin.AVI_Reader"
+
+frameInfos*
+2
+1*À
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÉ É(±
+®
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÉ É(
+%1java.util.Vector"__id*(*&
+ij.plugin.AVI_Reader"
+
+frameInfos°­
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÉ É(	
+%2int"java.util.Vector#size()I*
+
+%1java.util.Vector2size()"n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÉ É( 
+""B
+ij.plugin.AVI_Reader

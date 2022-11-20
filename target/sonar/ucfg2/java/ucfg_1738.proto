@@ -1,0 +1,111 @@
+
+1ij.gui.Plot#getMultiplySymbol()Ljava/lang/String;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¡ ¡("6*‰
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¥3 ¥(B†
+ƒ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¥3 ¥(B
+%9java.lang.String"__id*
+""˜
+•
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¥3 ¥(B
+%8java.lang.String"__id*
+
+%9java.lang.String*
+1*Œ
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¥" ¥(0¤
+¡
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¥" ¥(0
+%8java.lang.String"__id*$
+"
+multiplySymboljava.lang.String*
+1*™
+5[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¤ ¤(œ
+™
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¤, ¤(.
+%4ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+pp©
+¦
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¤, ¤(4
+%5ij.gui.PlotObject"__id*(*&
+
+%4ij.gui.PlotProperties"
+frame¦
+£
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¤, ¤(<
+%6java.lang.String"__id*&*$
+
+%5ij.gui.PlotObject"	
+options“
+
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¤ ¤(P
+%7java.lang.String"Wij.util.Tools#getStringFromList(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+ij.util.Tools*
+
+%6java.lang.String*
+multiplysymbol=¤
+¡
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¤ ¤(P"
+multiplySymboljava.lang.String"__id*
+
+%7java.lang.String*
+2
+3*•
+6[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¢ ¢(œ
+™
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¢2 ¢(4
+%0ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+pp©
+¦
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¢2 ¢(:
+%1ij.gui.PlotObject"__id*(*&
+
+%0ij.gui.PlotProperties"
+frame¦
+£
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¢2 ¢(B
+%2java.lang.String"__id*&*$
+
+%1ij.gui.PlotObject"	
+optionsŒ
+‰
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¢ ¢(O
+%3java.lang.String"Wij.util.Tools#getStringFromList(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+ij.util.Tools*
+
+%2java.lang.String*
+
+msymbol=¤
+¡
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¢ ¢(P"
+multiplySymboljava.lang.String"__id*
+
+%3java.lang.String*	
+2
+3
+5*Ù
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¥ ¥(C"w
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¥ ¥(C
+
+%8java.lang.StringB
+ij.gui.Plot

@@ -1,0 +1,89 @@
+
+2ij.gui.Roi#getFeretBreadth(Ljava/awt/Shape;DDDDD)DZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java÷ ÷("1*Í
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java◊ ◊(£†
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaŸ Ÿ(*#
+%0java.awt.geom.AffineTransform"java.awt.geom.AffineTransformµ
+≤
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaŸ Ÿ(,
+%1"'java.awt.geom.AffineTransform#<init>()V*%
+#
+%0java.awt.geom.AffineTransform±
+Æ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaŸ Ÿ(-#
+atjava.awt.geom.AffineTransform"__id*%
+#
+%0java.awt.geom.AffineTransformz
+x
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java⁄ ⁄(
+%2double"__id*
+""„‡
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java⁄ ⁄((
+
+%3void"*java.awt.geom.AffineTransform#rotate(DDD)V*%
+#
+atjava.awt.geom.AffineTransform*
+""*
+""*
+""2rotate(DDD)π∂
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java€ €(,
+%4java.awt.Shape"Vjava.awt.geom.AffineTransform#createTransformedShape(Ljava/awt/Shape;)Ljava/awt/Shape;*%
+#
+atjava.awt.geom.AffineTransform*
+
+shapejava.awt.Shape2(createTransformedShape(Ljava/awt/Shape;)í
+è
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java€ €(-
+sjava.awt.Shape"__id*
+
+%4java.awt.Shapeﬂ‹
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java‹ ‹(!
+%5java.awt.geom.Rectangle2D"7java.awt.Shape#getBounds2D()Ljava/awt/geom/Rectangle2D;*
+
+sjava.awt.Shape2getBounds2D()®
+•
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java‹ ‹("
+rjava.awt.geom.Rectangle2D"__id*!
+
+%5java.awt.geom.Rectangle2D«ƒ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java› ›(
+%6double"*java.awt.geom.RectangularShape#getWidth()D* 
+
+rjava.awt.geom.Rectangle2D2
+getWidth()…∆
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java›  ›(-
+%7double"+java.awt.geom.RectangularShape#getHeight()D* 
+
+rjava.awt.geom.Rectangle2D2getHeight()∫
+∑
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java›	 ›(.
+%8double"java.lang.Math#min(DD)D*"
+java.lang.Math*
+
+%6double*
+
+%7double"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java› ›(/
+"":
+shapejava.awt.Shape:
+"":
+"":
+"":
+"":
+""B
+
+ij.gui.Roi

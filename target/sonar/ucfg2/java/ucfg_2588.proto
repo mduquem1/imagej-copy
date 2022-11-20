@@ -1,0 +1,162 @@
+
+,ij.gui.Roi#getGroupName(I)Ljava/lang/String;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaï ï(""13"14*å
+13Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaò ò(ü
+ú
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaò ò(
+%0java.lang.String[]"__id**
+
+ij.gui.Roi"
+
+groupNames*
+10
+12*∆
+14Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaó
+ ó("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaó ó(
+""*◊
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java° °(#"v
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java° °(#
+
+%9java.lang.String*˘
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java° °("í
+è
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java° °("
+%9java.lang.String"__id*
+
+%10
+<nulltype>*
+1*Ä
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java° °(ô
+ñ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java° °(
+%9java.lang.String"__id*
+
+namejava.lang.String*
+1*ñ
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java°	 °(¨©
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java°	 °(	
+%8int"java.lang.String#length()I*
+
+namejava.lang.String2length()*
+2
+3*≈
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java†
+ †("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java† †(
+""*œ
+6Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû û(ü
+ú
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû û(
+%6java.lang.String[]"__id**
+
+ij.gui.Roi"
+
+groupNamesß
+§
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû û()
+%7java.lang.String"
+__arrayGet*
+
+%6java.lang.String[]*
+""ô
+ñ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû û(*
+namejava.lang.String"__id*
+
+%7java.lang.String*
+4
+5*≈
+7Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaù
+ ù("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaù ù(
+""*â
+8Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaú ú(ü
+ú
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaú ú(
+%5java.lang.String[]"__id**
+
+ij.gui.Roi"
+
+groupNames*
+6
+7*£
+9Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaõ õ( £
+†
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaõ õ( 
+%3java.lang.String"__id*$*"
+
+ij.gui.Roi"
+groupNamesStringÙÒ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaõ õ(+
+%4java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*
+
+%3java.lang.String*
+,2split(Ljava/lang/String;)ü
+ú
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaõ õ(+
+
+ij.gui.Roi"
+
+groupNames"__id*
+
+%4java.lang.String[]*
+8*ä
+10Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaö ö(ü
+ú
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaö ö(
+%2java.lang.String[]"__id**
+
+ij.gui.Roi"
+
+groupNames*
+8
+9*∆
+11Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaô
+ ô("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaô ô(
+""*ê
+12Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaò ò(*£
+†
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaò ò(*
+%1java.lang.String"__id*$*"
+
+ij.gui.Roi"
+groupNamesString*
+10
+11:
+""B"
+
+ij.gui.Roi

@@ -1,0 +1,142 @@
+
+3ij.CompositeImage#getChannelColor()Ljava/awt/Color;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java‡ ‡("10*≤
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÏ Ï(çä
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÏ Ï(
+%11java.awt.Color"java.awt.Colorª
+∏
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÏ
+ Ï(
+%12"java.awt.Color#<init>(III)V*
+
+%11java.awt.Color*
+""*
+""*
+"""|
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÏ Ï(
+
+%11java.awt.Color*€
+5a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÊ Ê(’“
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÊ Ê(	
+%7int",java.awt.image.IndexColorModel#getMapSize()I*&
+$
+cmjava.awt.image.IndexColorModel2getMapSize()◊‘
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÁ
+ Á(	
+%8int")java.awt.image.IndexColorModel#getRed(I)I*&
+$
+cmjava.awt.image.IndexColorModel*
+""2	getRed(I)€ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaË
+ Ë(	
+%9int"+java.awt.image.IndexColorModel#getGreen(I)I*&
+$
+cmjava.awt.image.IndexColorModel*
+""2getGreen(I)⁄◊
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÈ
+ È(
+
+%10int"*java.awt.image.IndexColorModel#getBlue(I)I*&
+$
+cmjava.awt.image.IndexColorModel*
+""2
+getBlue(I)*
+2
+1*
+6a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÂ
+ Â(ä
+á
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÂ
+ Â(
+%6java.awt.Color"__id*
+"""{
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÂ Â(
+
+%6java.awt.Color*∏
+7a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java„ „(§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java„ „(
+%3ij.process.LUT[]"__id**
+ij.CompositeImage"
+lut¡æ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java„ „(,	
+%4int"$ij.CompositeImage#getChannelIndex()I*
+ij.CompositeImage2getChannelIndex()Ø
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java„ „(-
+%5ij.process.LUT"
+__arrayGet*
+
+%3ij.process.LUT[]*
+	
+%4int™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java„ „(.$
+cmjava.awt.image.IndexColorModel"__id*
+
+%5ij.process.LUT*
+5
+6*
+8a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java‚
+ ‚(ä
+á
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java‚
+ ‚(
+%2java.awt.Color"__id*
+"""{
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java‚ ‚(
+
+%2java.awt.Color*Ó
+9a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java· ·(~
+|
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java· ·("	
+%1int"__id*
+""*
+7
+8*ñ
+10a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java· ·(	§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java· ·(	
+%0ij.process.LUT[]"__id**
+ij.CompositeImage"
+lut*
+8
+9*Ú
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÓ
+ Ó(ã
+à
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÓ
+ Ó(
+%13java.awt.Color"__id*
+"""|
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÓ Ó(
+
+%13java.awt.ColorB
+ij.CompositeImage

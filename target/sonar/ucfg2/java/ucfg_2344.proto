@@ -1,0 +1,68 @@
+
+@ij.process.ShortProcessor#createMask()Lij/process/ByteProcessor;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java–	 –	( "9*¸
+7i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java”	 ”	()‹Ÿ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java”	 ”	(+
+%2double",ij.process.ImageProcessor#getMinThreshold()D*
+ij.process.ShortProcessor2getMinThreshold()‹Ÿ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java‘	 ‘	(+
+%3double",ij.process.ImageProcessor#getMaxThreshold()D*
+ij.process.ShortProcessor2getMaxThreshold()®•
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java’	 ’	((
+%4ij.process.ByteProcessor"ij.process.ByteProcessorÃ
+…
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java’	 ’	(7
+%5"$ij.process.ByteProcessor#<init>(II)V* 
+
+%4ij.process.ByteProcessor*
+""*
+""∏
+µ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java’	 ’	(8 
+maskij.process.ByteProcessor"__id* 
+
+%4ij.process.ByteProcessorÔÏ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java÷	 ÷	(+
+%6java.lang.Object"6ij.process.ByteProcessor#getPixels()Ljava/lang/Object;*"
+ 
+maskij.process.ByteProcessor2getPixels()°
+û
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java÷	 ÷	(,
+mpixelsbyte[]"__id*
+
+%6java.lang.Object*
+1*„
+8i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java“	
+ “	("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java“	 “	(
+""*‚
+9i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java—	 —	(‹Ÿ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java—	 —	(
+%0double",ij.process.ImageProcessor#getMinThreshold()D*
+ij.process.ShortProcessor2getMinThreshold()ä
+á
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java—	 —	(%
+%1double"__id*
+""*
+7
+8*Ä
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java‹		 ‹	("è
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ShortProcessor.java‹	 ‹	("
+ 
+maskij.process.ByteProcessorB
+ij.process.ShortProcessor

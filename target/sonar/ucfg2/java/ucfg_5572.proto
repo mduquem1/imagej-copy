@@ -1,0 +1,29 @@
+
+Jij.gui.TextRoi#create(DDLjava/lang/String;Ljava/awt/Font;)Lij/gui/TextRoi;\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java^ ^("1*Á
+1\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java_ _(áÑ
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java_ _(
+%0ij.gui.TextRoi"ij.gui.TextRoiÅ
+˛
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java_	 _(&
+%1";ij.gui.TextRoi#<init>(DDLjava/lang/String;Ljava/awt/Font;)V*
+
+%0ij.gui.TextRoi*
+""*
+""*
+
+textjava.lang.String*
+
+fontjava.awt.Font"v
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java_ _('
+
+%0ij.gui.TextRoi:
+"":
+"":
+textjava.lang.String:
+fontjava.awt.FontB"
+ij.gui.TextRoi

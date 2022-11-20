@@ -1,0 +1,120 @@
+
+-ij.gui.Roi#lineCircleIntersection(DDDDDDDZ)[DZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaç ç(."14*∆
+13Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java° °("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java° °(
+""*˛	
+14Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaë ë(¢
+ü
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaì ì(5
+%0double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""¢
+ü
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaô ô(3
+%1double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""¨
+©
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaõ õ(&
+%2double"java.lang.Math#atan2(DD)D*"
+java.lang.Math*
+""*
+""¨
+©
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaú ú(&
+%3double"java.lang.Math#atan2(DD)D*"
+java.lang.Math*
+""*
+""°
+û
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû û(%
+%4double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""°
+û
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü ü(%
+%5double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""°
+û
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java† †(
+%6double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+13
+12*Æ
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÆ Æ(¢
+ü
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÆ Æ(#
+%10double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""¢
+ü
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaØ Ø(#
+%11double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""*
+1*Ø
+9Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java® ®(°
+û
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java® ®(#
+%8double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""°
+û
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java© ©(#
+%9double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""*
+5
+1*ê
+12Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¢ ¢(¢
+ü
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¢ ¢(5
+%7double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*	
+5
+9
+1*˛
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaµ µ(∂
+≥
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaµ µ(2
+%12double[]"java.util.Arrays#copyOf([DI)[D*"
+java.util.Arrays*
+""*
+"""d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∂ ∂(
+"":
+"":
+"":
+"":
+"":
+"":
+"":
+"":
+""B"
+
+ij.gui.Roi

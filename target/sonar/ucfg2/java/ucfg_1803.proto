@@ -1,0 +1,121 @@
+
+Lij.gui.PlotObject#cloneArrayList(Ljava/util/ArrayList;)Ljava/util/ArrayList;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java®" ®"(!"11*Æ
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java∞" ∞"(1≈
+¬
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java∞" ∞"(1
+%8java.lang.Object"
+__arraySet*
+
+destjava.util.ArrayList*
+""*
+
+%7java.lang.Object*
+10*Ñ
+5[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaØ" Ø"(D±
+Æ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaØ" Ø"(D'
+cloneMethodjava.lang.reflect.Method"__id* 
+
+%6java.lang.reflect.MethodËÂ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java∞" ∞"(0
+%7java.lang.Object"Xjava.lang.reflect.Method#invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;*)
+'
+cloneMethodjava.lang.reflect.Method*
+
+ojava.lang.Object*!
+
+	noObjectsjava.lang.Object[]2-invoke(Ljava/lang/Object;[Ljava/lang/Object;)*
+4*∫
+6[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaØ"0 Ø"(7“œ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaØ" Ø"(C
+%6java.lang.reflect.Method"Yjava.lang.Class#getMethod(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;*
+
+%5java.lang.Class*	
+clone* 
+
+	noClassesjava.lang.Class[]2/getMethod(Ljava/lang/String;[Ljava/lang/Class;)*
+5*≤
+7[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaØ" Ø"( «
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaØ" Ø"(%
+%5java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+ojava.lang.Object2
+getClass()*
+6*±
+9[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java≠" ≠"(´
+®
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java≠" ≠"(
+%4java.lang.Object"
+__arrayGet*
+
+destjava.util.ArrayList*
+""ó
+î
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java≠" ≠"(
+ojava.lang.Object"__id*
+
+%4java.lang.Object*
+7
+10*õ
+10[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¨" ¨"(Ø¨
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¨" ¨"(	
+%3int"java.util.ArrayList#size()I*
+
+destjava.util.ArrayList2size()*
+9
+1*¬
+11[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java©" ©"("ŒÀ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java©" ©"(*
+%0java.lang.Object"-java.util.ArrayList#clone()Ljava/lang/Object;*
+
+srcjava.util.ArrayList2clone()ù
+ö
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java©" ©"(,
+destjava.util.ArrayList"__id*
+
+%0java.lang.Objectåâ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java™" ™"("
+%1java.lang.Class[]"java.lang.Class[]°
+û
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java™" ™"(#
+	noClassesjava.lang.Class[]"__id*
+
+%1java.lang.Class[]éã
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java´" ´"($
+%2java.lang.Object[]"java.lang.Object[]£
+†
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java´" ´"(%
+	noObjectsjava.lang.Object[]"__id*
+
+%2java.lang.Object[]*
+10*ﬁ
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java≥"	 ≥"("|
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java≥" ≥"(
+
+destjava.util.ArrayList:
+srcjava.util.ArrayListB
+ij.gui.PlotObject

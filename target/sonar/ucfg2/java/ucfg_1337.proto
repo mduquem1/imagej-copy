@@ -1,0 +1,23 @@
+
+;ij.plugin.Binner#getAverage(Lij/process/ImageProcessor;II)F`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java· ·("4"1*Ä
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java» »(ÔÑ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java» »(.
+%0float"#ij.process.ImageProcessor#getf(II)F*!
+
+ipij.process.ImageProcessor*
+""*
+""2getf(II)*
+4
+1*Ñ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java½ ½("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java½ ½((
+"":
+ipij.process.ImageProcessor:
+"":
+""B
+ij.plugin.Binner

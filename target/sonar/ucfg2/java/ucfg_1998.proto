@@ -1,0 +1,33 @@
+
+1ij.IJ#openImage(Ljava/lang/String;)Lij/ImagePlus;U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaù ù(""1*‚
+1U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaû û({y
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaü ü(
+%0ij.io.Opener"ij.io.Openeré
+ã
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaü ü(
+%1"ij.io.Opener#<init>()V*
+
+%0ij.io.Opener˘ˆ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaü ü(0
+%2ij.ImagePlus"8ij.io.Opener#openImage(Ljava/lang/String;)Lij/ImagePlus;*
+
+%0ij.io.Opener*
+
+pathjava.lang.String2openImage(Ljava/lang/String;)ã
+à
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaü ü(1
+impij.ImagePlus"__id*
+
+%2ij.ImagePlus"n
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java° °(
+
+impij.ImagePlus:
+pathjava.lang.StringB	"
+ij.IJ

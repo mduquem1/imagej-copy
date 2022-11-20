@@ -1,0 +1,99 @@
+
+<ij.io.Opener#updateUrl(Ljava/lang/String;)Ljava/lang/String;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javað ð("5"6*Ä
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaö	 ö(ÔÑ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaö	 ö(7
+%3java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+urljava.lang.String*
+imagej.nih.gov/ij*
+
+imagej.net29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)š
+—
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaö ö(7
+urljava.lang.String"__id*
+
+%3java.lang.StringÖÓ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java÷	 ÷(9
+%4java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+urljava.lang.String*
+rsb.info.nih.gov/ij*
+
+imagej.net29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)š
+—
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java÷ ÷(9
+urljava.lang.String"__id*
+
+%4java.lang.StringÔÑ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaø	 ø(7
+%5java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+urljava.lang.String*
+rsbweb.nih.gov/ij*
+
+imagej.net29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)š
+—
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaø ø(7
+urljava.lang.String"__id*
+
+%5java.lang.String*
+1*Ê
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaô	 ô(ÄÁ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaô	 ô('
+%2java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+urljava.lang.String*	
+http:*
+
+https:29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)š
+—
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaô ô('
+urljava.lang.String"__id*
+
+%2java.lang.String*
+1*ú
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaó ó(Ž
+‹
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaó ó(
+%1boolean"ij.IJ#isJava18()Z*	"
+ij.IJ*
+2
+3*Ü
+5\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaò
+ ò("y
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaò ò(
+
+urljava.lang.String*Þ
+6\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javañ ñ(òï
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javañ ñ(+
+%0boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+urljava.lang.String*	
+nih.gov2"contains(Ljava/lang/CharSequence;)*
+4
+5*Ü
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaú	 ú("y
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaú ú(
+
+urljava.lang.String:
+urljava.lang.StringB"
+ij.io.Opener

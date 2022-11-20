@@ -109,14 +109,14 @@ public class ContrastEnhancer implements PlugIn, Measurements {
 				ImageProcessor ip = stack.getProcessor(i);
 				ip.setRoi(imp.getRoi());
 				if (!useStackHistogram)
-					stats = ImageStatistics.getStatistics(ip, MIN_MAX, null);
+					stats = ImageStatistics.getStatistics(ip, MIN_MAX, null, null);
 				stretchHistogram(ip, saturated, stats);
 			}
 		} else {
 			ImageProcessor ip = imp.getProcessor();
 			ip.setRoi(imp.getRoi());
 			if (stats==null)
-				stats = ImageStatistics.getStatistics(ip, MIN_MAX, null);
+				stats = ImageStatistics.getStatistics(ip, MIN_MAX, null, null);
 			if (imp.isComposite())
 				stretchCompositeImageHistogram((CompositeImage)imp, saturated, stats);
 			else

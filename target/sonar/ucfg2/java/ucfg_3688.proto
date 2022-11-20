@@ -1,0 +1,72 @@
+
+%ij.ImagePlus#isSmaller(Lij/gui/Roi;)Z\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÍ	 Í("3*É
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÏ Ï("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÏ Ï(
+""*í
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÎ Î(ÑÎ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÎ Î(#
+%0ij.process.ImageProcessor"/ij.gui.Roi#getMask()Lij/process/ImageProcessor;*
+
+r
+ij.gui.Roi2	getMask()­
+ª
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÎ Î($!
+maskij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+2
+1*Ù
+
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÐ Ð(y
+w
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÐ Ð(:	
+%1int"__id*
+""îë
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÐ Ð(;
+
+%2void",ij.process.ImageProcessor#setThreshold(DDI)V*#
+!
+maskij.process.ImageProcessor*2ÿ*2ÿ*
+	
+%1int2setThreshold(DDI)y
+w
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÑ> Ñ(B	
+%3int"__id*
+""y
+w
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÑC Ñ(H	
+%4int"__id*
+""ø
+õ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÑ Ñ(U 
+%5ij.process.ImageStatistics"•ij.process.ImageStatistics#getStatistics(Lij/process/ImageProcessor;ILij/measure/Calibration;Lij/process/CentroidHelper;)Lij/process/ImageStatistics;*"
+ij.process.ImageStatistics*#
+!
+maskij.process.ImageProcessor*
+""*
+""*
+""°
+­
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÑ Ñ(V#
+statsij.process.ImageStatistics"__id*"
+ 
+%5ij.process.ImageStatistics"f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÒ Ò("
+"":
+r
+ij.gui.RoiB
+ij.ImagePlus

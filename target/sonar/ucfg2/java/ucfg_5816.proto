@@ -1,0 +1,310 @@
+
+Eij.plugin.filter.RankFilters#setup(Ljava/lang/String;Lij/ImagePlus;)Ij
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaI I("31*∫
+13j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.java^ ^(æª
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.java^ ^(%
+
+%10int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+6
+12*Ä
+24j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaR R(à
+Ö
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaS S(	
+%4int"__id*
+""*
+6*Ó
+25j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaQ Q(ÒÓ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaQ Q(!
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+
+variance2equals(Ljava/lang/Object;)*
+24
+23*Ï
+15j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.java\ \(ÏÈ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.java\ \(
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+nan2equals(Ljava/lang/Object;)*
+13
+6
+11*Ë
+27j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaO O(ÏÈ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaO O(
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+max2equals(Ljava/lang/Object;)*
+25
+6*Î
+17j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaZ Z(ÔÏ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaZ Z(
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+
+tophat2equals(Ljava/lang/Object;)*
+15
+6*Ë
+29j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaM M(ÏÈ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaM M(
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+min2equals(Ljava/lang/Object;)*
+27
+6*Ó
+19j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaX X(ÚÔ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaX X("
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+	despeckle2equals(Ljava/lang/Object;)*
+17
+6*Â
+1j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaq	 q("t
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaq q(
+""*Ä
+2j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javao o(	â
+Ü
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javao o(
+
+%30int"__id*
+""*
+1*Õ
+
+3j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javam m(ÿ’
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javam m($
+%24java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()∏µ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javam< m(J
+
+%25int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()∫∑
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javamL m([
+
+%26int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()ûõ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javam2 m(;
+%27java.awt.Rectangle"java.awt.Rectangleœ
+Ã
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javam. m(\
+%28"java.awt.Rectangle#<init>(II)V*
+
+%27java.awt.Rectangle*
+
+
+%25int*
+
+
+%26intçä
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javam m(]
+%29boolean"2java.awt.Rectangle#contains(Ljava/awt/Rectangle;)Z*
+
+%24java.awt.Rectangle*
+
+%27java.awt.Rectangle2contains(Ljava/awt/Rectangle;)*
+2
+1*‡
+4j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javal l(∆√
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javal l(
+%23
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()ù
+ö
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javal l(
+roi
+ij.gui.Roi"__id*
+
+%23
+ij.gui.Roi*
+3
+1*◊
+6j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javak k(›
+⁄
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javak k(#
+%22boolean"2ij.plugin.filter.RankFilters#isMultiStepFilter(I)Z* 
+ij.plugin.filter.RankFilters*
+""*
+4
+1*∞
+7j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javah h(“
+œ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javah h(?
+%19java.lang.String"__concat*#!
+Argument missing or undefined: *
+
+argjava.lang.StringÁ
+‰
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javah h(@
+%20void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+RankFilters*
+
+%19java.lang.Stringâ
+Ü
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javai
+ i(
+
+%21int"__id*
+"""t
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javai i(
+""* 
+8j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javae e(÷”
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javae e(
+%17void")ij.plugin.filter.RankFilters#showMasks()V* 
+ij.plugin.filter.RankFilters2showMasks()â
+Ü
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaf
+ f(
+
+%18int"__id*
+"""t
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaf f(
+""*È
+9j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javad d(ÔÏ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javad d( 
+%16boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+masks2equals(Ljava/lang/Object;)*
+7
+8*°
+31j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaJ J(µ
+≤
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaJ J('
+ij.plugin.filter.RankFilters"
+imp"__id*
+
+impij.ImagePlusÌÍ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaK K(
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+mean2equals(Ljava/lang/Object;)*
+6
+29*Ì
+21j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaV V(ÒÓ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaV V(!
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+
+outliers2equals(Ljava/lang/Object;)*
+6
+19*˘
+10j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javac c(Ì
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javac c(% 
+%14ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()é
+ã
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javac c(&
+%15void"Jij.plugin.filter.RankFilters#setDisplayRange(Lij/process/ImageProcessor;)V* 
+ij.plugin.filter.RankFilters*"
+ 
+%14ij.process.ImageProcessor*
+6*Î
+11j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javab b(ÔÏ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javab b( 
+%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+final2equals(Ljava/lang/Object;)*
+9
+10*Ó
+12j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.java_ _(˘
+ˆ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.java_ _(E
+%11void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+RankFilters*+)
+'\"Remove NaNs\" requires a 32-bit imageâ
+Ü
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.java` `(
+
+%12int"__id*
+"""t
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.java` `(
+""*Î
+23j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaT T(ÔÏ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/RankFilters.javaT T(!
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*
+
+median2equals(Ljava/lang/Object;)*
+6
+21:
+argjava.lang.String:
+impij.ImagePlusB 
+ij.plugin.filter.RankFilters

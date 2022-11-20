@@ -1,0 +1,21 @@
+
+1ij.gui.ImageCanvas#getCursorLoc()Ljava/awt/Point;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java“ “("1*©
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java” ”(çä
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java” ”(
+%0java.awt.Point"java.awt.Point±
+Æ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java”	 ”("
+%1"java.awt.Point#<init>(II)V*
+
+%0java.awt.Point*
+""*
+"""|
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java” ”(#
+
+%0java.awt.PointB
+ij.gui.ImageCanvas

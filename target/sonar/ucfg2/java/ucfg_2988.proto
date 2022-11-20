@@ -1,0 +1,29 @@
+
+=ij.process.StackStatistics#getMode(Lij/measure/Calibration;)Dj
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.javaÆ
+ Æ("6*Ñ
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.javaÕ Õ("Ú×
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.javaÕ Õ(3
+%1double"$ij.measure.Calibration#getCValue(D)D*
+
+calij.measure.Calibration*
+""2getCValue(D)*
+1*‚
+6j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.javaÐ Ð(ˆ
+…
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.javaÐ Ð(%	
+%0int"__id*
+""*
+2
+1*å
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.javaÖ Ö("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackStatistics.javaÖ Ö(
+"":
+calij.measure.CalibrationB
+ij.process.StackStatistics

@@ -1,0 +1,162 @@
+
+1ij.Undo#swapImages(Lij/ImagePlus;Lij/ImagePlus;)ZW
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java   ("6*ø
+2W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÕ
+ Õ("a
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÕ Õ(
+""*Ù
+3W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÃ/ Ã(1ç
+ä
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÃ/ Ã(@
+%6boolean"ij.IJ#macroRunning()Z*	"
+ij.IJ*
+2
+1*¿
+4W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÃ Ã(	´®
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÃ Ã(	
+%4int"ij.ImagePlus#getBitDepth()I*
+
+imp1ij.ImagePlus2getBitDepth()´®
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÃ Ã(+	
+%5int"ij.ImagePlus#getBitDepth()I*
+
+imp2ij.ImagePlus2getBitDepth()*
+2
+3*∏
+5W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÀ* À(.ß§
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÀ* À(:	
+%2int"ij.ImagePlus#getHeight()I*
+
+imp1ij.ImagePlus2getHeight()ß§
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÀ< À(L	
+%3int"ij.ImagePlus#getHeight()I*
+
+imp2ij.ImagePlus2getHeight()*
+2
+4*¥
+6W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÀ À(
+•¢
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÀ À(	
+%0int"ij.ImagePlus#getWidth()I*
+
+imp1ij.ImagePlus2
+getWidth()•¢
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÀ À(&	
+%1int"ij.ImagePlus#getWidth()I*
+
+imp2ij.ImagePlus2
+getWidth()*
+2
+5*“
+1W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaŒ Œ(›⁄
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaŒ Œ(*
+%7ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+imp1ij.ImagePlus2getProcessor()ß
+§
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaŒ Œ(+ 
+ip1ij.process.ImageProcessor"__id*!
+
+%7ij.process.ImageProcessor›⁄
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaœ œ(*
+%8ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+imp2ij.ImagePlus2getProcessor()ß
+§
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaœ œ(+ 
+ip2ij.process.ImageProcessor"__id*!
+
+%8ij.process.ImageProcessorΩ∫
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java– –(
+%9double"#ij.process.ImageProcessor#getMin()D*"
+ 
+ip1ij.process.ImageProcessor2getMin()æª
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java— —(
+%10double"#ij.process.ImageProcessor#getMax()D*"
+ 
+ip1ij.process.ImageProcessor2getMax()æª
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java“ “(
+%11double"#ij.process.ImageProcessor#getMin()D*"
+ 
+ip2ij.process.ImageProcessor2getMin()æª
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java” ”(
+%12double"#ij.process.ImageProcessor#getMax()D*"
+ 
+ip2ij.process.ImageProcessor2getMax()ﬂ‹
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java‘ ‘('
+%13java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*"
+ 
+ip1ij.process.ImageProcessor2getPixels()ëé
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java‘ ‘((
+%14void"@ij.process.ImageProcessor#setSnapshotPixels(Ljava/lang/Object;)V*"
+ 
+ip2ij.process.ImageProcessor*
+
+%13java.lang.Object2%setSnapshotPixels(Ljava/lang/Object;)ŒÀ
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java’ ’(
+%15void",ij.process.ImageProcessor#swapPixelArrays()V*"
+ 
+ip2ij.process.ImageProcessor2swapPixelArrays()ÔÏ
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java÷ ÷('
+%16java.lang.Object"?ij.process.ImageProcessor#getSnapshotPixels()Ljava/lang/Object;*"
+ 
+ip2ij.process.ImageProcessor2getSnapshotPixels()Å˛
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java÷ ÷((
+%17void"8ij.process.ImageProcessor#setPixels(Ljava/lang/Object;)V*"
+ 
+ip1ij.process.ImageProcessor*
+
+%16java.lang.Object2setPixels(Ljava/lang/Object;)˛˚
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java◊ ◊(
+%18void"@ij.process.ImageProcessor#setSnapshotPixels(Ljava/lang/Object;)V*"
+ 
+ip2ij.process.ImageProcessor*
+""2%setSnapshotPixels(Ljava/lang/Object;)‹Ÿ
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaÿ ÿ(
+%19void"+ij.process.ImageProcessor#setMinAndMax(DD)V*"
+ 
+ip1ij.process.ImageProcessor*
+""*
+""2setMinAndMax(DD)‹Ÿ
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.javaŸ Ÿ(
+%20void"+ij.process.ImageProcessor#setMinAndMax(DD)V*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""2setMinAndMax(DD)"a
+W
+K/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Undo.java⁄ ⁄(
+"":
+imp1ij.ImagePlus:
+imp2ij.ImagePlusB"	
+ij.Undo

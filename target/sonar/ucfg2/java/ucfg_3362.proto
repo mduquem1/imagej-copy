@@ -1,0 +1,33 @@
+
+/ij.macro.Functions#hideOverlay(Lij/ImagePlus;)Db
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¶7 ¶7("1*–
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java·7 ·7(­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java·7 ·7(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÁ¾
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java·7 ·7(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()ÄÁ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¸7 ¸7(
+
+%2void"ij.ImagePlus#setHideOverlay(Z)V*
+
+impij.ImagePlus*22setHideOverlay(Z)ƒ
+€
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¹7	 ¹7(
+%3double"__id*
+"""l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¹7 ¹7(
+"":
+impij.ImagePlusB
+ij.macro.Functions

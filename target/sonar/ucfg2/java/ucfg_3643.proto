@@ -1,0 +1,144 @@
+
+6ij.ImagePlus#getPropertiesAsArray()[Ljava/lang/String;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaû û(%"7*∆
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java§ §(ﬁ€
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java§ §((
+%9java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*
+
+enjava.util.Enumeration2nextElement()ö
+ó
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java§ §()
+keyjava.lang.String"__id*
+
+%9java.lang.Object´
+®
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java• •(!
+%10java.util.Properties"__id*%*#
+ij.ImagePlus"
+imagePropertiesùö
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java• •(2
+%11java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%10java.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;)ù
+ö
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java• •(3
+valuejava.lang.String"__id*
+
+%11java.lang.String∂
+≥
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java¶ ¶(
+%12"
+__arraySet*
+
+propsjava.lang.String[]*
+""*
+
+keyjava.lang.String∏
+µ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaß ß(
+%13"
+__arraySet*
+
+propsjava.lang.String[]*
+""*
+
+valuejava.lang.String*
+3*∏
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java£. £(0Ã…
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java£. £(B
+%8boolean"(java.util.Enumeration#hasMoreElements()Z*
+
+enjava.util.Enumeration2hasMoreElements()*
+2
+1*©
+
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java° °(-™
+ß
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java° °(-
+%3java.util.Properties"__id*%*#
+ij.ImagePlus"
+imageProperties∞≠
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java° °(4	
+%4int"java.util.Properties#size()I*
+
+%3java.util.Properties2size()èå
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java° °(7
+%5java.lang.String[]"java.lang.String[]†
+ù
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java° °(8
+propsjava.lang.String[]"__id*
+
+%5java.lang.String[]™
+ß
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java£ £(%
+%6java.util.Properties"__id*%*#
+ij.ImagePlus"
+imagePropertiesÿ’
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java£ £(,
+%7java.util.Enumeration"2java.util.Properties#keys()Ljava/util/Enumeration;*
+
+%6java.util.Properties2keys()£
+†
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java£ £(,
+enjava.util.Enumeration"__id*
+
+%7java.util.Enumeration*
+3*…
+5\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java†
+ †("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java† †(
+""*…
+6\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaü ü(.™
+ß
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaü ü(.
+%1java.util.Properties"__id*%*#
+ij.ImagePlus"
+imageProperties∞≠
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaü ü(5	
+%2int"java.util.Properties#size()I*
+
+%1java.util.Properties2size()*
+4
+5*ñ
+7\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaü ü(™
+ß
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaü ü(
+%0java.util.Properties"__id*%*#
+ij.ImagePlus"
+imageProperties*
+5
+6*‡
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java©	 ©("}
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java© ©(
+
+propsjava.lang.String[]B
+ij.ImagePlus

@@ -1,0 +1,293 @@
+
+Yij.plugin.SurfacePlotter#drawAxis(Lij/process/ImageProcessor;IIIILjava/lang/String;IIII)Vh
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java√ √("13"12*ë
+13h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java≈ ≈(ë
+é
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java≈ ≈(
+%0java.awt.Color"__id*
+""áÑ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java≈ ≈(
+
+%1void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*!
+
+ipij.process.ImageProcessor*
+
+%0java.awt.Color2setColor(Ljava/awt/Color;)*
+9*≠
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÊ" Ê('í
+è
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÊ" Ê(-
+%24java.awt.Color"__id*
+""£
+†
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÊ" Ê(-
+%22java.awt.Color"__id*
+
+%24java.awt.Color*
+1*≠
+3h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÊ Ê(í
+è
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÊ Ê(!
+%23java.awt.Color"__id*
+""£
+†
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÊ Ê(!
+%22java.awt.Color"__id*
+
+%23java.awt.Color*
+1*…
+5h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÂ) Â(+¶£
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÂ Â(
+%20ij.process.ColorBlitter"ij.process.ColorBlitter˜
+Ù
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÂ Â(,
+%21"<ij.process.ColorBlitter#<init>(Lij/process/ColorProcessor;)V* 
+
+%20ij.process.ColorBlitter*!
+
+ipij.process.ImageProcessorÆ
+´
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÂ Â(,
+bij.process.Blitter"__id* 
+
+%20ij.process.ColorBlitter*
+2
+3*√
+6h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java„' „()§°
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java„ „(
+%18ij.process.ByteBlitter"ij.process.ByteBlitterÙ
+Ò
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java„ „(*
+%19":ij.process.ByteBlitter#<init>(Lij/process/ByteProcessor;)V*
+
+%18ij.process.ByteBlitter*!
+
+ipij.process.ImageProcessor≠
+™
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java„ „(*
+bij.process.Blitter"__id*
+
+%18ij.process.ByteBlitter*
+2
+3*å
+7h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java· ·(î
+ë
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java· ·(
+bij.process.Blitter"__id*
+""*
+5
+6*≈
+8h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaﬂ ﬂ(	–Õ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaﬂ ﬂ(
+%17void"#ij.process.ImageProcessor#invert()V*%
+#
+ipTextij.process.ImageProcessor2invert()*
+7*Í
+9h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÕ Õ(∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaŒ Œ($
+%4double"java.lang.Math#atan(D)D*"
+java.lang.Math*
+""Ø
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java–) –(8
+%5double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""Ø
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java—) —(8
+%6double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""Ø
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java”* ”(9
+%7double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""Ø
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java‘* ‘(9
+%8double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""Ø
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java÷* ÷(9
+%9double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java◊* ◊(9
+%10double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""¯ı
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaŸ Ÿ(
+%11void")ij.process.ImageProcessor#drawLine(IIII)V*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""*
+""2drawLine(IIII)¯ı
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java€ €(#
+%12void")ij.process.ImageProcessor#drawLine(IIII)V*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""*
+""2drawLine(IIII)¯ı
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java‹ ‹(#
+%13void")ij.process.ImageProcessor#drawLine(IIII)V*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""*
+""2drawLine(IIII)±
+Æ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java›8 ›(D
+%14double"java.lang.Math#atan(D)D*"
+java.lang.Math*
+""ä
+á
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java›G ›(N
+%15double"__id*
+""°û
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java› ›(U 
+%16ij.process.ImageProcessor"nij.plugin.SurfacePlotter#drawString(Lij/process/ImageProcessor;Ljava/lang/String;I)Lij/process/ImageProcessor;*
+ij.plugin.SurfacePlotter*!
+
+ipij.process.ImageProcessor*
+
+labeljava.lang.String*
+""2:drawString(Lij/process/ImageProcessor;Ljava/lang/String;I)º
+π
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java› ›(V#
+ipTextij.process.ImageProcessor"__id*"
+ 
+%16ij.process.ImageProcessor*
+7
+8*ë
+12h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java« «(ë
+é
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java« «(
+%2java.awt.Color"__id*
+""áÑ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java« «(
+
+%3void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*!
+
+ipij.process.ImageProcessor*
+
+%2java.awt.Color2setColor(Ljava/awt/Color;)*
+9*˘
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÊ Ê(.°
+û
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÊ Ê(.
+cjava.awt.Color"__id*
+
+%22java.awt.Coloréã
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÁ Á(
+%25void"9ij.process.Blitter#setTransparentColor(Ljava/awt/Color;)V*
+
+bij.process.Blitter*
+
+cjava.awt.Color2%setTransparentColor(Ljava/awt/Color;)”–
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaË Ë((
+
+%26int"%ij.process.ImageProcessor#getWidth()I*%
+#
+ipTextij.process.ImageProcessor2
+getWidth()∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaËR Ë(a
+%27double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""’“
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÈ È()
+
+%28int"&ij.process.ImageProcessor#getHeight()I*%
+#
+ipTextij.process.ImageProcessor2getHeight()∞
+≠
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÈR È(a
+%29double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""á
+Ñ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÍ! Í(9
+
+%30int"__id*
+""¬ø
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÍ Í(:
+%31void"<ij.process.Blitter#copyBits(Lij/process/ImageProcessor;III)V*
+
+bij.process.Blitter*%
+#
+ipTextij.process.ImageProcessor*
+""*
+""*
+
+
+%30int2(copyBits(Lij/process/ImageProcessor;III)"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaÏ Ï(	
+"":
+ipij.process.ImageProcessor:
+"":
+"":
+"":
+"":
+labeljava.lang.String:
+"":
+"":
+"":
+""B
+ij.plugin.SurfacePlotter

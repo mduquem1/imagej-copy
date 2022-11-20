@@ -1,0 +1,50 @@
+
+ij.gui.Roi#getImageID()IZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaπ π("4*‚
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª(&|
+z
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª(&	
+%1int"__id*
+	
+%3int*
+1*Ü
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª(°û
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª(	
+%2int"ij.ImagePlus#getID()I*
+
+impij.ImagePlus2getID()|
+z
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª(	
+%1int"__id*
+	
+%2int*
+1*è
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∫ ∫(í
+è
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∫ ∫(
+%0ij.ImagePlus"__id**
+
+ij.gui.Roi"
+impê
+ç
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∫ ∫(
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+2
+3*≈
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª('"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª('
+""B
+
+ij.gui.Roi

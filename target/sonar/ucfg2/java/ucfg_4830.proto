@@ -1,0 +1,279 @@
+
+(ij.plugin.AVI_Reader#readStreamHeader()Vd
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaì ì("5*
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaØ Ø(+¨
+©
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaØ Ø(>
+%36java.lang.String"__concat*
+Video stream with *
+""÷
+”
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaØ Ø(j
+%37java.lang.String"__concat*
+
+%36java.lang.String*-+
+) (more than 1) frames/chunk not supportedöó
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaØ Ø(
+%38java.lang.Exception"java.lang.Exception⁄
+◊
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaØ	 Ø(k
+%39"/java.lang.Exception#<init>(Ljava/lang/String;)V*
+
+%38java.lang.Exception*
+
+%37java.lang.String*
+0*Ø%
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java° °(¬
+ø
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java° °((
+%11void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+VIDEO STREAM HEADER (strh):‹
+Ÿ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java¢$ ¢(B
+%12java.lang.String"6ij.plugin.AVI_Reader#fourccString(I)Ljava/lang/String;*
+ij.plugin.AVI_Reader*
+""¬
+ø
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java¢
+ ¢(B
+%13java.lang.String"__concat*
+   fccStreamHandler='*
+
+%12java.lang.StringÆ
+´
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java¢
+ ¢(F
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+'º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java¢ ¢(G
+%15void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%14java.lang.String´
+®
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java£
+ £(-
+%16java.lang.String"__concat*
+   dwStreamFlags=*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java£ £(.
+%17void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%16java.lang.String±
+Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java§
+ §(8
+%18java.lang.String"__concat*
+   wPriority,wLanguage=*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java§ §(9
+%19void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%18java.lang.String≥
+∞
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java•
+ •(=
+%20java.lang.String"__concat*
+   dwStreamInitialFrames=*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java• •(>
+%21void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%20java.lang.String´
+®
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java¶
+ ¶(-
+%22java.lang.String"__concat*
+   dwStreamScale=*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java¶ ¶(.
+%23void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%22java.lang.String™
+ß
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaß
+ ß(+
+%24java.lang.String"__concat*
+   dwStreamRate=*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaß ß(,
+%25void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%24java.lang.String´
+®
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java®
+ ®(-
+%26java.lang.String"__concat*
+   dwStreamStart=*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java® ®(.
+%27void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%26java.lang.String¨
+©
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java©
+ ©(/
+%28java.lang.String"__concat*
+   dwStreamLength=*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java© ©(0
+%29void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%28java.lang.Stringπ
+∂
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java™
+ ™(I
+%30java.lang.String"__concat*#!
+   dwStreamSuggestedBufferSize=*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java™ ™(J
+%31void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%30java.lang.String≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java´
+ ´(1
+%32java.lang.String"__concat*
+   dwStreamQuality=*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java´ ´(2
+%33void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%32java.lang.String∞
+≠
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java¨
+ ¨(7
+%34java.lang.String"__concat*
+   dwStreamSampleSize=*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java¨ ¨(8
+%35void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%34java.lang.String*
+2
+1*î
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaî î(∫∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaî î(	
+%0int"ij.plugin.AVI_Reader#readInt()I*
+ij.plugin.AVI_Reader2	readInt()∫∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaï ï(	
+%1int"ij.plugin.AVI_Reader#readInt()I*
+ij.plugin.AVI_Reader2	readInt()∫∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javañ ñ( 	
+%2int"ij.plugin.AVI_Reader#readInt()I*
+ij.plugin.AVI_Reader2	readInt()∫∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaó ó(#	
+%3int"ij.plugin.AVI_Reader#readInt()I*
+ij.plugin.AVI_Reader2	readInt()∫∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaò ò(	
+%4int"ij.plugin.AVI_Reader#readInt()I*
+ij.plugin.AVI_Reader2	readInt()∫∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaô ô(	
+%5int"ij.plugin.AVI_Reader#readInt()I*
+ij.plugin.AVI_Reader2	readInt()∫∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaö ö(	
+%6int"ij.plugin.AVI_Reader#readInt()I*
+ij.plugin.AVI_Reader2	readInt()∫∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaõ õ(	
+%7int"ij.plugin.AVI_Reader#readInt()I*
+ij.plugin.AVI_Reader2	readInt()∫∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaú  ú()	
+%8int"ij.plugin.AVI_Reader#readInt()I*
+ij.plugin.AVI_Reader2	readInt()∫∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaù ù(	
+%9int"ij.plugin.AVI_Reader#readInt()I*
+ij.plugin.AVI_Reader2	readInt()ª∏
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaû û( 
+
+%10int"ij.plugin.AVI_Reader#readInt()I*
+ij.plugin.AVI_Reader2	readInt()*	
+2
+4
+1*Ç
+0 "{
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java≥ ≥(
+implicit return*˙
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java± ±(É
+Ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java± ±(
+
+%40int"__id*
+""É
+Ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java≤ ≤(
+
+%41int"__id*
+""*
+0B
+ij.plugin.AVI_Reader

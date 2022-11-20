@@ -1,0 +1,67 @@
+
+Gij.process.TypeConverter#convertRGBToFloat()Lij/process/FloatProcessor;f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.java{ {(!"7*ä
+6f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.java (∏
+µ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.java (
+%5ij.process.ImageProcessor"__id*$*"
+ij.process.TypeConverter"
+ip‹Ÿ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.java (+
+%6double[]"+ij.process.ColorProcessor#getRGBWeights()[D*!
+
+%5ij.process.ImageProcessor2getRGBWeights()*
+1*á	
+7f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.java| |(∏
+µ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.java| |(
+%0ij.process.ImageProcessor"__id*$*"
+ij.process.TypeConverter"
+ipÏÈ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.java| |(&
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+%0ij.process.ImageProcessor2getPixels()Õ
+ 
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.java} }(3
+%2double[]"1ij.process.ColorProcessor#getWeightingFactors()[D*"
+ij.process.ColorProcessor∏
+µ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.java~ ~(
+%3ij.process.ImageProcessor"__id*$*"
+ij.process.TypeConverter"
+ip‹Ÿ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.java~ ~(*
+%4double[]"+ij.process.ColorProcessor#getRGBWeights()[D*!
+
+%3ij.process.ImageProcessor2getRGBWeights()*
+6
+1*É
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaä ä(!©¶
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaä ä(
+%7ij.process.FloatProcessor"ij.process.FloatProcessor◊
+‘
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaä	 ä(4
+%8"'ij.process.FloatProcessor#<init>(II[F)V*!
+
+%7ij.process.FloatProcessor*
+""*
+""*
+"""ç
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaä ä(5!
+
+%7ij.process.FloatProcessorB
+ij.process.TypeConverter

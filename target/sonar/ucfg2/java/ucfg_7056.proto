@@ -1,0 +1,142 @@
+
+.ij.plugin.GifDecoder#read(Ljava/lang/String;)Id
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java◊ ◊("14*Å
+13d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java⁄ ⁄(£
+†
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java⁄ ⁄(
+namejava.lang.String"__id*
+
+%0java.lang.StringÂ‚
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java€ €(	
+%1int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+namejava.lang.String*
+://2indexOf(Ljava/lang/String;)*
+7
+11*√
+14d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java⁄
+ ⁄(–Õ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java⁄
+ ⁄(
+%0java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+namejava.lang.String2trim()*
+13*æ
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java· ·(µ
+≤
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java· ·("
+%11java.io.BufferedInputStream"__id* *
+ij.plugin.GifDecoder"
+inïí
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java· ·(
+
+%12int"9ij.plugin.GifDecoder#read(Ljava/io/BufferedInputStream;)I*
+ij.plugin.GifDecoder*$
+"
+%11java.io.BufferedInputStream2#read(Ljava/io/BufferedInputStream;)*
+1*•
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaﬂ ﬂ(;¥
+±
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaﬂ ﬂ(;
+ij.plugin.GifDecoder"
+in"__id*#
+!
+%9java.io.BufferedInputStream*
+4*è
+6d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaﬂ	 ﬂ(;©¶
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaﬂ ﬂ( !
+%9java.io.BufferedInputStream"java.io.BufferedInputStreamÚ
+Ô
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaﬂ	 ﬂ(;
+%10":java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V*#
+!
+%9java.io.BufferedInputStream*
+
+%7java.io.FileInputStream*
+5*ˆ
+7d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaﬂ5 ﬂ(9°û
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaﬂ% ﬂ(4
+%7java.io.FileInputStream"java.io.FileInputStream·
+ﬁ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaﬂ! ﬂ(:
+%8"3java.io.FileInputStream#<init>(Ljava/lang/String;)V*
+
+%7java.io.FileInputStream*
+
+namejava.lang.String*
+6*•
+8d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java› ›(2¥
+±
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java› ›(2
+ij.plugin.GifDecoder"
+in"__id*#
+!
+%5java.io.BufferedInputStream*
+4*ä
+9d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java›	 ›(2©¶
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java› ›( !
+%5java.io.BufferedInputStream"java.io.BufferedInputStreamÌ
+Í
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java›	 ›(2
+%6":java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V*#
+!
+%5java.io.BufferedInputStream*
+
+%4java.io.InputStream*
+8*Ë
+10d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java‹ ‹(ö
+ó
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java‹ ‹(
+urljava.net.URL"__id*
+
+%2java.net.URLŸ÷
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java›! ›(1
+%4java.io.InputStream".java.net.URL#openStream()Ljava/io/InputStream;*
+
+urljava.net.URL2openStream()*
+9*Ã
+11d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java‹ ‹(ãà
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java‹ ‹(
+%2java.net.URL"java.net.URLÀ
+»
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java‹ ‹(
+%3"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%2java.net.URL*
+
+namejava.lang.String*
+10*Ÿ
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaÊ	 Ê("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaÊ Ê(
+"":
+namejava.lang.StringB
+ij.plugin.GifDecoder

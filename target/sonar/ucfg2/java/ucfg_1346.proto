@@ -1,0 +1,37 @@
+
++ij.process.BinaryInterpolator$IDT#init([B)Im
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryInterpolator.javaÇ Ç(
+"7"1*ç
+5m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryInterpolator.javaã ã(êç
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryInterpolator.javaã ã(&
+%1boolean"2ij.process.BinaryInterpolator#isJustOutside([BII)Z*%#
+!ij.process.BinaryInterpolator$IDT*
+
+pbyte[]*
+""*
+""2isJustOutside([BII)*
+7
+1*ä
+7m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryInterpolator.javaá á(äá
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryInterpolator.javaà	 à(
+%0boolean"/ij.process.BinaryInterpolator#isBoundary([BII)Z*%#
+!ij.process.BinaryInterpolator$IDT*
+
+pbyte[]*
+""*
+""2isBoundary([BII)*	
+5
+7
+1*Î
+1m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryInterpolator.javaé
+ é("w
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/BinaryInterpolator.javaé é(
+"":
+pbyte[]B%#
+!ij.process.BinaryInterpolator$IDT

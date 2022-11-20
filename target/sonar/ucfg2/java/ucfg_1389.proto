@@ -1,0 +1,184 @@
+
+Dij.io.ImageReader#readRGB48(Ljava/io/InputStream;)Ljava/lang/Object;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java½ ½("28*Ë
+24a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÂ Â(&ž›
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÃ Ã(+
+%4java.io.DataInputStream"java.io.DataInputStreamâ
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÃ Ã(/
+%5"6java.io.DataInputStream#<init>(Ljava/io/InputStream;)V*
+
+%4java.io.DataInputStream*
+
+injava.io.InputStream­
+ª
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÃ Ã(0
+disjava.io.DataInputStream"__id*
+
+%4java.io.DataInputStream¡
+ž
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÆ Æ(
+%6ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+21
+23*Ó
+3a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaç ç(¢
+Ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaç ç(
+%18ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi¿
+¼
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaç ç(,
+%19void"#ij.io.ImageReader#showProgress(II)V*
+ij.io.ImageReader*
+""*
+""*
+21*ý
+15a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÒ Ò(†
+ƒ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÒ Ò(!
+bufferbyte[]"__id*
+""àÝ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÓ Ó(
+%16void"&java.io.DataInputStream#readFully([B)V* 
+
+disjava.io.DataInputStream*
+
+bufferbyte[]2readFully([B)¢
+Ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÖ Ö(
+%17ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+3*‘
+26a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÀ À(¡
+ž
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÀ À(
+%3ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+24*—
+27a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¿
+ ¿(®«
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¿
+ ¿(!
+%2java.lang.Object"Nij.io.ImageReader#readCompressedRGB48(Ljava/io/InputStream;)Ljava/lang/Object;*
+ij.io.ImageReader*
+
+injava.io.InputStream2*readCompressedRGB48(Ljava/io/InputStream;)"}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¿ ¿("
+
+%2java.lang.Object*’
+17a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÏ Ï(¢
+Ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÏ Ï(
+%15ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+15*•
+28a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¾ ¾(¡
+ž
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¾ ¾(
+%0ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi~
+|
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¾ ¾(.	
+%1int"__id*
+""*
+26
+27*º
+18a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÍ Í(ÊÇ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÍ Í(
+%14long""java.io.FilterInputStream#skip(J)J* 
+
+disjava.io.DataInputStream*
+""2skip(J)*
+17*à
+19a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÌ Ì(¢
+Ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÌ Ì(
+%11ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi¢
+Ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÌ4 Ì(6
+%12ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi¢
+Ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÌX Ì(Z
+%13ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+17
+18*™
+21a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÊ Ê(¢
+Ÿ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÊ Ê(
+%10ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+17
+19
+1*Ó
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaé é("k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaê ê(
+""*Ù
+23a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÇ Ç(¡
+ž
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÇ Ç(
+%7ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi¡
+ž
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÇ Ç(
+%8ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi¡
+ž
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÈ È(
+%9ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+21:
+injava.io.InputStreamB
+ij.io.ImageReader

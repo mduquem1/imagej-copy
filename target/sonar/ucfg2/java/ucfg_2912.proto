@@ -1,0 +1,108 @@
+
+Sij.plugin.Coordinates#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Ze
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java¡ ¡(!"17*¸
+13e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java© ©(ÎË
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java© ©(!
+%5double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÎË
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.javaª ª(!
+%6double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÎË
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java« «(!
+%7double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÎË
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java¬ ¬(!
+%8double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+5
+12*®
+14e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java§ §(ÏÌ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java§ §(
+%4boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()"o
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java§ §( 
+""*Â
+15e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java¦ ¦(ÎË
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java¦ ¦(
+%3double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+14*—
+16e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java£ £(ÎË
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java£ £(
+%1double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÎË
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java¤ ¤(
+%2double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+14
+15*Â
+5e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java² ²(ÐÍ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java² ²(
+%12boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+1*û
+17e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java¢ ¢(
+ƒ
+€
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java¢ ¢(	
+%0int"__id*
+""*
+13
+16*Û
+6e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java° °(C"o
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java° °(C
+""*æ
+12e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java® ®(ÎË
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java® ®("
+%9double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÏÌ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java¯ ¯("
+%10double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÐÍ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java° °(
+%11boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+6*Û
+1e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java² ²(4"o
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Coordinates.java² ²(4
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.Coordinates

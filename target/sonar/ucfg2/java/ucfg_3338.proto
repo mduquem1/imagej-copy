@@ -1,0 +1,178 @@
+
+9ij.macro.Functions#findArrayMaxima(Z)[Lij/macro/Variable;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaù2 ù2("14*ﬁ
+13b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java£2 £2(	≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java£2 £2(	
+%6ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpøº
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java£2 £2(
+
+%7void" ij.macro.Interpreter#getComma()V*
+
+%6ij.macro.Interpreter2
+getComma()≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java§2 §2(
+%8ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÀ»
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java§2 §2()
+%9double"%ij.macro.Interpreter#getExpression()D*
+
+%8ij.macro.Interpreter2getExpression()*
+12*¢
+14b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaû2 û2(≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaü2 ü2(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp«ƒ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaü2 ü2(
+
+%1void"$ij.macro.Interpreter#getLeftParen()V*
+
+%0ij.macro.Interpreter2getLeftParen()Ÿ÷
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java†2 †2(
+%2ij.macro.Variable[]"1ij.macro.Functions#getArray()[Lij/macro/Variable;*
+ij.macro.Functions2
+getArray()§
+°
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java†2 †2(
+aij.macro.Variable[]"__id*
+
+%2ij.macro.Variable[]Ω∫
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java°2 °2(!
+%3double" ij.macro.Functions#getNextArg()D*
+ij.macro.Functions2getNextArg()≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¢2 ¢2(
+%4ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¿Ω
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¢2 ¢2(	
+%5int"!ij.macro.Interpreter#nextToken()I*
+
+%4ij.macro.Interpreter2nextToken()*
+13
+12*˜
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java≥2 ≥2(îë
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java≥2 ≥2(
+%17ij.macro.Variable"ij.macro.Variable∞
+≠
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java≥2 ≥2("
+%18"ij.macro.Variable#<init>(D)V*
+
+%17ij.macro.Variable*
+""ª
+∏
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java≥2 ≥2("
+%19"
+__arraySet*
+
+a2ij.macro.Variable[]*
+""*
+
+%17ij.macro.Variable*
+3
+1*≥
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java∞2 ∞2(òï
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java±2 ±2("
+%16ij.macro.Variable[]"ij.macro.Variable[]¶
+£
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java±2 ±2(#
+a2ij.macro.Variable[]"__id*
+
+%16ij.macro.Variable[]*
+3
+1*”
+6b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaØ2 Ø2(‰
+·
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaØ2 Ø2(<
+%15int[]"1ij.plugin.filter.MaximumFinder#findMaxima([DDI)[I*"" 
+ij.plugin.filter.MaximumFinder*
+""*
+""*
+""*
+5*”
+7b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java≠2 ≠2(‰
+·
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java≠2 ≠2(<
+%14int[]"1ij.plugin.filter.MaximumFinder#findMinima([DDI)[I*"" 
+ij.plugin.filter.MaximumFinder*
+""*
+""*
+""*
+5*Ë
+10b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java™2 ™2(±
+Æ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java™2
+ ™2(
+%12ij.macro.Variable"
+__arrayGet*
+
+aij.macro.Variable[]*
+""Ω∫
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java™2
+ ™2(
+%13double"ij.macro.Variable#getValue()D*
+
+%12ij.macro.Variable2
+getValue()*
+
+6
+7
+10*Û
+12b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¶2 ¶2(Æ
+´
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¶2 ¶2(
+%10ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÀ»
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¶2 ¶2(
+%11void"%ij.macro.Interpreter#getRightParen()V*
+
+%10ij.macro.Interpreter2getRightParen()*
+
+6
+7
+10*Î
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¥2	 ¥2("Å
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¥2 ¥2(
+
+a2ij.macro.Variable[]:
+""B
+ij.macro.Functions

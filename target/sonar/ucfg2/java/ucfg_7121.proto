@@ -1,0 +1,1396 @@
+
+ij.gui.Toolbar#addPopupMenus()V^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¶ ¶("19*ò#
+13^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∆# ∆(/†ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∆ ∆(" 
+%70java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItemﬁ
+€
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∆ ∆(A
+%71"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*"
+ 
+%70java.awt.CheckboxMenuItem*
+
+Point Tool*
+""Æ
+´
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∆ ∆(A
+ij.gui.Toolbar"
+	pointItem"__id*"
+ 
+%70java.awt.CheckboxMenuItemÆ
+´
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java« «( 
+%72java.awt.CheckboxMenuItem"__id*!*
+ij.gui.Toolbar"
+	pointItem£†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java« «(!
+%73void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*"
+ 
+%72java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java» »(
+%74java.awt.PopupMenu"__id*"* 
+ij.gui.Toolbar"
+
+pointPopupÆ
+´
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java» »( 
+%75java.awt.CheckboxMenuItem"__id*!*
+ij.gui.Toolbar"
+	pointItemìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java» »(
+%76java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%74java.awt.PopupMenu*"
+ 
+%75java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)†ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java… …(' 
+%77java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItem‰
+·
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java… …(K
+%78"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*"
+ 
+%77java.awt.CheckboxMenuItem*
+Multi-point Tool*
+""≥
+∞
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java… …(K$
+ij.gui.Toolbar"
+multiPointItem"__id*"
+ 
+%77java.awt.CheckboxMenuItem≥
+∞
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java   ( 
+%79java.awt.CheckboxMenuItem"__id*&*$
+ij.gui.Toolbar"
+multiPointItem£†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java   (&
+%80void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*"
+ 
+%79java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÀ À(
+%81java.awt.PopupMenu"__id*"* 
+ij.gui.Toolbar"
+
+pointPopup≥
+∞
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÀ À( 
+%82java.awt.CheckboxMenuItem"__id*&*$
+ij.gui.Toolbar"
+multiPointItemìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÀ À( 
+%83java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%81java.awt.PopupMenu*"
+ 
+%82java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÃ Ã(
+%84java.awt.PopupMenu"__id*"* 
+ij.gui.Toolbar"
+
+pointPopupÎË
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÃ Ã(
+%85void"-java.awt.Component#add(Ljava/awt/PopupMenu;)V*
+ij.gui.Toolbar*
+
+%84java.awt.PopupMenu2add(Ljava/awt/PopupMenu;)íè
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŒ Œ(
+%86java.awt.PopupMenu"java.awt.PopupMenu•
+¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŒ Œ(
+%87"java.awt.PopupMenu#<init>()V*
+
+%86java.awt.PopupMenuß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŒ Œ(
+ij.gui.Toolbar"
+	linePopup"__id*
+
+%86java.awt.PopupMenuñ
+ì
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaœ œ(
+
+%88int"ij.Menus#getFontSize()I*"
+
+ij.Menus*
+11
+12*∂
+14^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≈ ≈(®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≈ ≈(
+%67java.awt.PopupMenu"__id*"* 
+ij.gui.Toolbar"
+
+pointPopup™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≈ ≈(%
+%68java.awt.Font"!ij.Menus#getFont()Ljava/awt/Font;*"
+
+ij.MenusÒÓ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≈ ≈(&
+%69void"0java.awt.MenuComponent#setFont(Ljava/awt/Font;)V*
+
+%67java.awt.PopupMenu*
+
+%68java.awt.Font2setFont(Ljava/awt/Font;)*
+13*ï3
+15^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∏" ∏(3|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∏? ∏(G
+
+%38int"__id*
+""†ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∏ ∏(! 
+%39java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItem„
+‡
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∏ ∏(H
+%40"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*"
+ 
+%39java.awt.CheckboxMenuItem*
+Oval selections*
+""≠
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∏ ∏(H
+ij.gui.Toolbar"
+
+ovalItem"__id*"
+ 
+%39java.awt.CheckboxMenuItem≠
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaπ π(
+ 
+%41java.awt.CheckboxMenuItem"__id* *
+ij.gui.Toolbar"
+
+ovalItem£†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaπ π( 
+%42void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*"
+ 
+%41java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)ß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∫ ∫(
+%43java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	ovalPopup≠
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∫ ∫( 
+%44java.awt.CheckboxMenuItem"__id* *
+ij.gui.Toolbar"
+
+ovalItemìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∫ ∫(
+%45java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%43java.awt.PopupMenu*"
+ 
+%44java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaªH ª(S
+
+%46int"__id*
+""†ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaª ª($ 
+%47java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItemÈ
+Ê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaª ª(T
+%48"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*"
+ 
+%47java.awt.CheckboxMenuItem*
+Elliptical selections*
+""∞
+≠
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaª ª(T!
+ij.gui.Toolbar"
+ellipseItem"__id*"
+ 
+%47java.awt.CheckboxMenuItem∞
+≠
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaº º( 
+%49java.awt.CheckboxMenuItem"__id*#*!
+ij.gui.Toolbar"
+ellipseItem£†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaº º(#
+%50void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*"
+ 
+%49java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)ß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaΩ Ω(
+%51java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	ovalPopup∞
+≠
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaΩ Ω( 
+%52java.awt.CheckboxMenuItem"__id*#*!
+ij.gui.Toolbar"
+ellipseItemìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaΩ Ω(
+%53java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%51java.awt.PopupMenu*"
+ 
+%52java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaæE æ(N
+
+%54int"__id*
+""†ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaæ æ(" 
+%55java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItemË
+Â
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaæ æ(O
+%56"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*"
+ 
+%55java.awt.CheckboxMenuItem*
+Selection Brush Tool*
+""Æ
+´
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaæ æ(O
+ij.gui.Toolbar"
+	brushItem"__id*"
+ 
+%55java.awt.CheckboxMenuItemÆ
+´
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaø ø( 
+%57java.awt.CheckboxMenuItem"__id*!*
+ij.gui.Toolbar"
+	brushItem£†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaø ø(!
+%58void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*"
+ 
+%57java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)ß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¿ ¿(
+%59java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	ovalPopupÆ
+´
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¿ ¿( 
+%60java.awt.CheckboxMenuItem"__id*!*
+ij.gui.Toolbar"
+	brushItemìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¿ ¿(
+%61java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%59java.awt.PopupMenu*"
+ 
+%60java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)ß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¡ ¡(
+%62java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	ovalPopupÎË
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¡ ¡(
+%63void"-java.awt.Component#add(Ljava/awt/PopupMenu;)V*
+ij.gui.Toolbar*
+
+%62java.awt.PopupMenu2add(Ljava/awt/PopupMenu;)íè
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java√ √(
+%64java.awt.PopupMenu"java.awt.PopupMenu•
+¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java√ √(
+%65"java.awt.PopupMenu#<init>()V*
+
+%64java.awt.PopupMenu®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java√ √( 
+ij.gui.Toolbar"
+
+pointPopup"__id*
+
+%64java.awt.PopupMenuñ
+ì
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaƒ ƒ(
+
+%66int"ij.Menus#getFontSize()I*"
+
+ij.Menus*
+13
+14*µ
+16^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∑ ∑(ß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∑ ∑(
+%35java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	ovalPopup™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∑ ∑($
+%36java.awt.Font"!ij.Menus#getFont()Ljava/awt/Font;*"
+
+ij.MenusÒÓ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∑ ∑(%
+%37void"0java.awt.MenuComponent#setFont(Ljava/awt/Font;)V*
+
+%35java.awt.PopupMenu*
+
+%36java.awt.Font2setFont(Ljava/awt/Font;)*
+15*ò3
+17^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™" ™(-{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™9 ™(A	
+%6int"__id*
+""üú
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™ ™(!
+%7java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItem€
+ÿ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™ ™(B
+%8"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*!
+
+%7java.awt.CheckboxMenuItem*
+	Rectangle*
+""¨
+©
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™ ™(B
+ij.gui.Toolbar"
+
+rectItem"__id*!
+
+%7java.awt.CheckboxMenuItem¨
+©
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java´ ´(
+
+%9java.awt.CheckboxMenuItem"__id* *
+ij.gui.Toolbar"
+
+rectItem¢ü
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java´ ´( 
+%10void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*!
+
+%9java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)ß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¨ ¨(
+%11java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	rectPopup≠
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¨ ¨( 
+%12java.awt.CheckboxMenuItem"__id* *
+ij.gui.Toolbar"
+
+rectItemìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¨ ¨(
+%13java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%11java.awt.PopupMenu*"
+ 
+%12java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≠F ≠(V
+
+%14int"__id*
+""†ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≠ ≠(& 
+%15java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItemÂ
+‚
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≠ ≠(W
+%16"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*"
+ 
+%15java.awt.CheckboxMenuItem*
+Rounded Rectangle*
+""≤
+Ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≠ ≠(W#
+ij.gui.Toolbar"
+roundRectItem"__id*"
+ 
+%15java.awt.CheckboxMenuItem≤
+Ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÆ Æ( 
+%17java.awt.CheckboxMenuItem"__id*%*#
+ij.gui.Toolbar"
+roundRectItem£†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÆ Æ(%
+%18void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*"
+ 
+%17java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)ß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaØ Ø(
+%19java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	rectPopup≤
+Ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaØ Ø( 
+%20java.awt.CheckboxMenuItem"__id*%*#
+ij.gui.Toolbar"
+roundRectItemìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaØ Ø(
+%21java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%19java.awt.PopupMenu*"
+ 
+%20java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∞H ∞(X
+
+%22int"__id*
+""†ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∞ ∞(( 
+%23java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItemÂ
+‚
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∞ ∞(Y
+%24"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*"
+ 
+%23java.awt.CheckboxMenuItem*
+Rotated Rectangle*
+""¥
+±
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∞ ∞(Y%
+ij.gui.Toolbar"
+rotatedRectItem"__id*"
+ 
+%23java.awt.CheckboxMenuItem¥
+±
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java± ±( 
+%25java.awt.CheckboxMenuItem"__id*'*%
+ij.gui.Toolbar"
+rotatedRectItem£†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java± ±('
+%26void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*"
+ 
+%25java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)ß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≤ ≤(
+%27java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	rectPopup¥
+±
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≤ ≤( 
+%28java.awt.CheckboxMenuItem"__id*'*%
+ij.gui.Toolbar"
+rotatedRectItemìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≤ ≤( 
+%29java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%27java.awt.PopupMenu*"
+ 
+%28java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)ß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≥ ≥(
+%30java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	rectPopupÎË
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java≥ ≥(
+%31void"-java.awt.Component#add(Ljava/awt/PopupMenu;)V*
+ij.gui.Toolbar*
+
+%30java.awt.PopupMenu2add(Ljava/awt/PopupMenu;)íè
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaµ µ(
+%32java.awt.PopupMenu"java.awt.PopupMenu•
+¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaµ µ(
+%33"java.awt.PopupMenu#<init>()V*
+
+%32java.awt.PopupMenuß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaµ µ(
+ij.gui.Toolbar"
+	ovalPopup"__id*
+
+%32java.awt.PopupMenuñ
+ì
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java∂ ∂(
+
+%34int"ij.Menus#getFontSize()I*"
+
+ij.Menus*
+15
+16*∞
+18^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java© ©(¶
+£
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java© ©(
+%3java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	rectPopup©
+¶
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java© ©($
+%4java.awt.Font"!ij.Menus#getFont()Ljava/awt/Font;*"
+
+ij.MenusÓÎ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java© ©(%
+
+%5void"0java.awt.MenuComponent#setFont(Ljava/awt/Font;)V*
+
+%3java.awt.PopupMenu*
+
+%4java.awt.Font2setFont(Ljava/awt/Font;)*
+17*È
+19^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaß ß(ëé
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaß ß(
+%0java.awt.PopupMenu"java.awt.PopupMenu£
+†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaß ß(
+%1"java.awt.PopupMenu#<init>()V*
+
+%0java.awt.PopupMenu¶
+£
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaß ß(
+ij.gui.Toolbar"
+	rectPopup"__id*
+
+%0java.awt.PopupMenuï
+í
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java® ®(	
+%2int"ij.Menus#getFontSize()I*"
+
+ij.Menus*
+17
+18*|
+0 "u
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÇ Ç(
+implicit return*Ö
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÅ Å(™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÅ Å(
+%190java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+switchPopupÌÍ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÅ Å(
+%191void"-java.awt.Component#add(Ljava/awt/PopupMenu;)V*
+ij.gui.Toolbar*
+
+%190java.awt.PopupMenu2add(Ljava/awt/PopupMenu;)*
+0*∫
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÄ Ä(™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÄ Ä(
+%187java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+switchPopup´
+®
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÄ Ä(&
+%188java.awt.Font"!ij.Menus#getFont()Ljava/awt/Font;*"
+
+ij.MenusÙÒ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÄ Ä('
+%189void"0java.awt.MenuComponent#setFont(Ljava/awt/Font;)V*
+
+%187java.awt.PopupMenu*
+
+%188java.awt.Font2setFont(Ljava/awt/Font;)*
+1* 3
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÔ Ô(™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÔ Ô(
+%156java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopup˘
+ˆ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÔ Ô()
+%157void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%156java.awt.PopupMenu*
+White/Black™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java (
+%158java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopup˘
+ˆ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java ()
+%159void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%158java.awt.PopupMenu*
+Black/White™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÒ Ò(
+%160java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopupÒ
+Ó
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÒ Ò(!
+%161void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%160java.awt.PopupMenu*
+Red™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÚ Ú(
+%162java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopupÛ
+
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÚ Ú(#
+%163void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%162java.awt.PopupMenu*	
+Green™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÛ Û(
+%164java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopupÚ
+Ô
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÛ Û("
+%165void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%164java.awt.PopupMenu*
+Blue™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÙ Ù(
+%166java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopupÙ
+Ò
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÙ Ù($
+%167void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%166java.awt.PopupMenu*
+
+Yellow™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaı ı(
+%168java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopupÚ
+Ô
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaı ı("
+%169void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%168java.awt.PopupMenu*
+Cyan™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaˆ ˆ(
+%170java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopupı
+Ú
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaˆ ˆ(%
+%171void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%170java.awt.PopupMenu*	
+Magenta™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˜ ˜(
+%172java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopupæª
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˜ ˜(
+%173void"java.awt.Menu#addSeparator()V*
+
+%172java.awt.PopupMenu2addSeparator()™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¯ ¯(
+%174java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopup˚
+¯
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¯ ¯(+
+%175void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%174java.awt.PopupMenu*
+Foreground...™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˘ ˘(
+%176java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopup˚
+¯
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˘ ˘(+
+%177void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%176java.awt.PopupMenu*
+Background...™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˙ ˙(
+%178java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopup˜
+Ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˙ ˙('
+%179void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%178java.awt.PopupMenu*
+	Colors...™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˚ ˚(
+%180java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopup˝
+˙
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˚ ˚(-
+%181void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%180java.awt.PopupMenu*
+Color Picker...™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¸ ¸(
+%182java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopupÌÍ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¸ ¸(
+%183void"-java.awt.Component#add(Ljava/awt/PopupMenu;)V*
+ij.gui.Toolbar*
+
+%182java.awt.PopupMenu2add(Ljava/awt/PopupMenu;)ìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˛ ˛(
+%184java.awt.PopupMenu"java.awt.PopupMenuß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˛ ˛(
+%185"java.awt.PopupMenu#<init>()V*
+
+%184java.awt.PopupMenu™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˛ ˛(!
+ij.gui.Toolbar"
+switchPopup"__id*
+
+%184java.awt.PopupMenuó
+î
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaˇ ˇ(
+%186int"ij.Menus#getFontSize()I*"
+
+ij.Menus*
+2
+1*∫
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÓ Ó(™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÓ Ó(
+%153java.awt.PopupMenu"__id*#*!
+ij.gui.Toolbar"
+pickerPopup´
+®
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÓ Ó(&
+%154java.awt.Font"!ij.Menus#getFont()Ljava/awt/Font;*"
+
+ij.MenusÙÒ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÓ Ó('
+%155void"0java.awt.MenuComponent#setFont(Ljava/awt/Font;)V*
+
+%153java.awt.PopupMenu*
+
+%154java.awt.Font2setFont(Ljava/awt/Font;)*
+3*∫#
+5^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‚ ‚(®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‚ ‚(
+%132java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	zoomPopup¯
+ı
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‚ ‚(&
+%133void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%132java.awt.PopupMenu*
+
+Reset Zoom®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java„ „(
+%134java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	zoomPopupı
+Ú
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java„ „(#
+%135void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%134java.awt.PopupMenu*	
+Zoom In®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‰ ‰(
+%136java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	zoomPopupˆ
+Û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‰ ‰($
+%137void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%136java.awt.PopupMenu*
+
+Zoom Out®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÂ Â(
+%138java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	zoomPopup˜
+Ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÂ Â(%
+%139void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%138java.awt.PopupMenu*
+	View 100%®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÊ Ê(
+%140java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	zoomPopupˇ
+¸
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÊ Ê(-
+%141void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%140java.awt.PopupMenu*
+Zoom To Selection®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÁ Á(
+%142java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	zoomPopup˙
+˜
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÁ Á((
+%143void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%142java.awt.PopupMenu*
+Scale to Fit®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaË Ë(
+%144java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	zoomPopupÙ
+Ò
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaË Ë("
+%145void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%144java.awt.PopupMenu*
+
+Set...®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÈ È(
+%146java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	zoomPopupˆ
+Û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÈ È($
+%147void"Cij.gui.Toolbar#addMenuItem(Ljava/awt/PopupMenu;Ljava/lang/String;)V*
+ij.gui.Toolbar*
+
+%146java.awt.PopupMenu*
+
+Maximize®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÍ Í(
+%148java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	zoomPopupÌÍ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÍ Í(
+%149void"-java.awt.Component#add(Ljava/awt/PopupMenu;)V*
+ij.gui.Toolbar*
+
+%148java.awt.PopupMenu2add(Ljava/awt/PopupMenu;)ìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÏ Ï(
+%150java.awt.PopupMenu"java.awt.PopupMenuß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÏ Ï(
+%151"java.awt.PopupMenu#<init>()V*
+
+%150java.awt.PopupMenu™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÏ Ï(!
+ij.gui.Toolbar"
+pickerPopup"__id*
+
+%150java.awt.PopupMenuó
+î
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÌ Ì(
+%152int"ij.Menus#getFontSize()I*"
+
+ij.Menus*
+3
+4*∏
+6^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java· ·(®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java· ·(
+%129java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	zoomPopup´
+®
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java· ·($
+%130java.awt.Font"!ij.Menus#getFont()Ljava/awt/Font;*"
+
+ij.MenusÙÒ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java· ·(%
+%131void"0java.awt.MenuComponent#setFont(Ljava/awt/Font;)V*
+
+%129java.awt.PopupMenu*
+
+%130java.awt.Font2setFont(Ljava/awt/Font;)*
+5*î
+7^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java⁄ ⁄(L°û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java⁄ ⁄("!
+%117java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItem‡
+›
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java⁄ ⁄(L
+%118"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*#
+!
+%117java.awt.CheckboxMenuItem*
+
+Arrow tool*
+""Ø
+¨
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java⁄ ⁄(L
+ij.gui.Toolbar"
+	arrowItem"__id*#
+!
+%117java.awt.CheckboxMenuItemØ
+¨
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java€ €(!
+%119java.awt.CheckboxMenuItem"__id*!*
+ij.gui.Toolbar"
+	arrowItem•¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java€ €(!
+%120void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*#
+!
+%119java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‹ ‹(
+%121java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	linePopupØ
+¨
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‹ ‹(!
+%122java.awt.CheckboxMenuItem"__id*!*
+ij.gui.Toolbar"
+	arrowItemñì
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‹ ‹(
+%123java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%121java.awt.PopupMenu*#
+!
+%122java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java› ›(
+%124java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	linePopupÌÍ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java› ›(
+%125void"-java.awt.Component#add(Ljava/awt/PopupMenu;)V*
+ij.gui.Toolbar*
+
+%124java.awt.PopupMenu2add(Ljava/awt/PopupMenu;)ìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaﬂ ﬂ(
+%126java.awt.PopupMenu"java.awt.PopupMenuß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaﬂ ﬂ(
+%127"java.awt.PopupMenu#<init>()V*
+
+%126java.awt.PopupMenu®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaﬂ ﬂ(
+ij.gui.Toolbar"
+	zoomPopup"__id*
+
+%126java.awt.PopupMenuó
+î
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‡ ‡(
+%128int"ij.Menus#getFontSize()I*"
+
+ij.Menus*
+5
+6*•+
+9^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java— —(V†ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java— —() 
+%93java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItem·
+ﬁ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java— —(V
+%94"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*"
+ 
+%93java.awt.CheckboxMenuItem*
+Straight Line*
+""µ
+≤
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java— —(V&
+ij.gui.Toolbar"
+straightLineItem"__id*"
+ 
+%93java.awt.CheckboxMenuItemµ
+≤
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java“ “( 
+%95java.awt.CheckboxMenuItem"__id*(*&
+ij.gui.Toolbar"
+straightLineItem£†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java“ “((
+%96void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*"
+ 
+%95java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)ß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java” ”(
+%97java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	linePopupµ
+≤
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java” ”(  
+%98java.awt.CheckboxMenuItem"__id*(*&
+ij.gui.Toolbar"
+straightLineItemìê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java” ”(!
+%99java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%97java.awt.PopupMenu*"
+ 
+%98java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)}
+{
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‘B ‘(J
+%100int"__id*
+""°û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‘ ‘(%!
+%101java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItem‰
+·
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‘ ‘(K
+%102"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*#
+!
+%101java.awt.CheckboxMenuItem*
+Segmented Line*
+""≤
+Ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‘ ‘(K"
+ij.gui.Toolbar"
+polyLineItem"__id*#
+!
+%101java.awt.CheckboxMenuItem≤
+Ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java’ ’(!
+%103java.awt.CheckboxMenuItem"__id*$*"
+ij.gui.Toolbar"
+polyLineItem•¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java’ ’($
+%104void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*#
+!
+%103java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java÷ ÷(
+%105java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	linePopup≤
+Ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java÷ ÷(!
+%106java.awt.CheckboxMenuItem"__id*$*"
+ij.gui.Toolbar"
+polyLineItemñì
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java÷ ÷(
+%107java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%105java.awt.PopupMenu*#
+!
+%106java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)}
+{
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java◊A ◊(I
+%108int"__id*
+""°û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java◊ ◊(%!
+%109java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItem„
+‡
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java◊ ◊(J
+%110"6java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;Z)V*#
+!
+%109java.awt.CheckboxMenuItem*
+Freehand Line*
+""≤
+Ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java◊ ◊(J"
+ij.gui.Toolbar"
+freeLineItem"__id*#
+!
+%109java.awt.CheckboxMenuItem≤
+Ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÿ ÿ(!
+%111java.awt.CheckboxMenuItem"__id*$*"
+ij.gui.Toolbar"
+freeLineItem•¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÿ ÿ($
+%112void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*#
+!
+%111java.awt.CheckboxMenuItem*
+ij.gui.Toolbar2.addItemListener(Ljava/awt/event/ItemListener;)®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŸ Ÿ(
+%113java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	linePopup≤
+Ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŸ Ÿ(!
+%114java.awt.CheckboxMenuItem"__id*$*"
+ij.gui.Toolbar"
+freeLineItemñì
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŸ Ÿ(
+%115java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+%113java.awt.PopupMenu*#
+!
+%114java.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)}
+{
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java⁄; ⁄(?
+%116int"__id*
+""*
+7*Á
+11^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java—* —(9|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java—E —(I
+
+%92int"__id*
+""*
+9*µ
+12^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java– –(ß
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java– –(
+%89java.awt.PopupMenu"__id*!*
+ij.gui.Toolbar"
+	linePopup™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java– –($
+%90java.awt.Font"!ij.Menus#getFont()Ljava/awt/Font;*"
+
+ij.MenusÒÓ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java– –(%
+%91void"0java.awt.MenuComponent#setFont(Ljava/awt/Font;)V*
+
+%89java.awt.PopupMenu*
+
+%90java.awt.Font2setFont(Ljava/awt/Font;)*
+11B
+ij.gui.Toolbar

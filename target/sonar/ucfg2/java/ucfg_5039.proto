@@ -1,0 +1,30 @@
+
+1ij.CompositeImage#getChannelLut()Lij/process/LUT;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java° °("1*û
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java±
+ ±(Á¾
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java±
+ ±(	
+%0int"$ij.CompositeImage#getChannelIndex()I*
+ij.CompositeImage2getChannelIndex()¤
+¡
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java²	 ²(
+%1ij.process.LUT[]"__id**
+ij.CompositeImage"
+lutª
+§
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java²	 ²(
+%2ij.process.LUT"
+__arrayGet*
+
+%1ij.process.LUT[]*
+"""{
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java² ²(
+
+%2ij.process.LUTB
+ij.CompositeImage

@@ -1,0 +1,89 @@
+
+(ij.plugin.frame.Editor#getCurrentLine()If
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÕ Õ("13*–	
+13f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaŒ Œ(Æ
+´
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaŒ Œ(
+%0java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+ta—Œ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaŒ Œ(!	
+%1int"*java.awt.TextComponent#getCaretPosition()I*
+
+%0java.awt.TextArea2getCaretPosition()Æ
+´
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java– –(
+%2java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+ta›⁄
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java– –(
+%3java.lang.String"2java.awt.TextComponent#getText()Ljava/lang/String;*
+
+%2java.awt.TextArea2	getText()•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java– –(
+textjava.lang.String"__id*
+
+%3java.lang.Stringô
+ñ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java— —(
+%4boolean"ij.IJ#isWindows()Z*	"
+ij.IJ*
+11
+12*ó
+11f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java” ”(∏µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java” ”('	
+%6int"java.lang.String#length()I*
+
+textjava.lang.String2length()ä
+á
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java” ”()
+charschar[]"__id*
+""∆√
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java‘
+ ‘(
+%7char[]" java.lang.String#toCharArray()[C*
+
+textjava.lang.String2toCharArray()í
+è
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java‘ ‘(
+charschar[]"__id*
+
+%7char[]*
+1*’
+12f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java“
+ “(∏µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java“
+ “('
+%5java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+textjava.lang.String*
+\r\n*
+\n20replaceAll(Ljava/lang/String;Ljava/lang/String;)•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java“ “('
+textjava.lang.String"__id*
+
+%5java.lang.String*
+11*›
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÂ	 Â("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÂ Â(
+""B
+ij.plugin.frame.Editor

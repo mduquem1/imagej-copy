@@ -1,0 +1,111 @@
+
+Cij.gui.GUI#showCompositeAdvisory(Lij/ImagePlus;Ljava/lang/String;)ZZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java† †(/"2"5*≈
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java¢ ¢("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java¢ ¢(
+""*˙
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java°W °(Yê
+ç
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java°W °(h
+%3boolean"ij.IJ#macroRunning()Z*	"
+ij.IJ*
+2
+1*ô
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java°> °(AØ¨
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java°> °(P	
+%2int"ij.ImagePlus#getNChannels()I*
+
+impij.ImagePlus2getNChannels()*
+2
+3*ö
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java° °(∑¥
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java° °(,	
+%0int" ij.ImagePlus#getCompositeMode()I*
+
+impij.ImagePlus2getCompositeMode()w
+u
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java°. °(:	
+%1int"__id*
+""*
+2
+4*Å
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java£ £(üú
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java£ £('	
+%4int"ij.ImagePlus#getC()I*
+
+impij.ImagePlus2getC()ú
+ô
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java£ £('
+%5java.lang.String"__concat*
+
+Channel *
+	
+%4int“
+œ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java£ £([
+%6java.lang.String"__concat*
+
+%5java.lang.String*53
+1 of this color composite image will be processed.ò
+ï
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java£ £(\
+msgjava.lang.String"__id*
+
+%6java.lang.Stringëé
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java§ §(&
+%7ij.gui.GenericDialog"ij.gui.GenericDialog“
+œ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java§ §(-
+%8"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%7ij.gui.GenericDialog*
+
+titlejava.lang.Stringü
+ú
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java§ §(.
+gdij.gui.GenericDialog"__id*
+
+%7ij.gui.GenericDialog˙˜
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java• •(
+
+%9void"4ij.gui.GenericDialog#addMessage(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+msgjava.lang.String2addMessage(Ljava/lang/String;)ºπ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java¶ ¶(
+%10void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()¡æ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaß
+ ß(
+%11boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaß ß(
+"":
+impij.ImagePlus:
+titlejava.lang.StringB"
+
+ij.gui.GUI

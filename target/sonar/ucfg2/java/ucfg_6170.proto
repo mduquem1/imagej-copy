@@ -1,0 +1,20 @@
+
+ij.Executer#getListenerCount()I[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.java’ ’(#"1*’
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.java“	 “(ž
+›
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.java“	 “(
+%0java.util.Vector"__id**
+ij.Executer"
+	listeners§¤
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.java“	 “(	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.java“ “(
+""B"
+ij.Executer

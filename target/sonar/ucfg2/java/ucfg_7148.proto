@@ -1,0 +1,66 @@
+
+ij.gui.Toolbar#isValidTool(I)Z^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java’	 ’("6"7*Í
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java–
+ –("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java– –(
+""*¾
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java•- •(2¢
+Ÿ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java•- •(2
+%3java.lang.String[]"__id**
+ij.gui.Toolbar"
+names«
+¨
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java•- •(8
+%4java.lang.String"
+__arrayGet*
+
+%3java.lang.String[]*
+""*
+2
+1*ž
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java• •(°­
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java• •()	
+%2int"ij.gui.Toolbar#getNumTools()I*
+ij.gui.Toolbar2getNumTools()*
+3
+1*è
+5^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java• •(
+{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java• •(	
+%1int"__id*
+""*
+4
+1*Í
+6^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java”
+ ”("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java” ”(
+""*ž
+7^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java“ “(°­
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java“ “(#	
+%0int"ij.gui.Toolbar#getNumTools()I*
+ij.gui.Toolbar2getNumTools()*
+5
+6*Í
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java—	 —("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java— —(
+"":
+""B
+ij.gui.Toolbar

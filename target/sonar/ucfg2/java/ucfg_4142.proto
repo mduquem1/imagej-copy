@@ -1,0 +1,27 @@
+
+/ij.process.MedianCut#convert(I)Ljava/awt/Image;b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java[ [("1*…
+1b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java\ \(#þû
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java\ \(-
+%0ij.process.ImageProcessor"@ij.process.MedianCut#convertToByte(I)Lij/process/ImageProcessor;*
+ij.process.MedianCut*
+""2convertToByte(I)±
+®
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java\ \(.
+ipij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessorèå
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java]	 ](
+%1java.awt.Image"7ij.process.ImageProcessor#createImage()Ljava/awt/Image;*!
+
+ipij.process.ImageProcessor2createImage()"|
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java] ](
+
+%1java.awt.Image:
+""B
+ij.process.MedianCut

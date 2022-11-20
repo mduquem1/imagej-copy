@@ -1,0 +1,117 @@
+
+*ij.ImageStack#toString()Ljava/lang/String;]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‰ ‰("4*„
+2]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŠ Š(!š
+—
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŠ Š(!
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*„
+3]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŠ Š(š
+—
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŠ Š(
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*š
+4]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŠ Š(­ª
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŠ Š(
+%0boolean"ij.ImageStack#isVirtual()Z*
+ij.ImageStack2isVirtual()*
+2
+3*§
+1]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŠ Š("™
+–
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaŠ Š("
+vjava.lang.String"__id*
+
+%1java.lang.String§¤
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹ ‹(	
+%4int"ij.ImageStack#getWidth()I*
+ij.ImageStack2
+getWidth()
+š
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹
+ ‹(
+%5java.lang.String"__concat*
+
+stack[*
+	
+%4int¥
+¢
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹
+ ‹(!
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+x©¦
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹" ‹(-	
+%7int"ij.ImageStack#getHeight()I*
+ij.ImageStack2getHeight()«
+¨
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹
+ ‹(-
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+	
+%7int¥
+¢
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹
+ ‹(1
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+x 
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹2 ‹(8
+
+%10int"ij.ImageStack#size()I*
+ij.ImageStack2size()­
+ª
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹
+ ‹(8
+%11java.lang.String"__concat*
+
+%9java.lang.String*
+
+
+%10int¹
+¶
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹
+ ‹(:
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+
+vjava.lang.String§
+¤
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹
+ ‹(>
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+]"z
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.java‹ ‹(@
+
+%13java.lang.StringB
+ij.ImageStack

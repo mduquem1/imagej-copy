@@ -1,0 +1,79 @@
+
+Vij.process.ImageProcessor#maskSizeError(Lij/process/ImageProcessor;)Ljava/lang/String;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¦ ¦("1*Ó
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§	 §(ÑÎ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§ §(&	
+%0int"%ij.process.ImageProcessor#getWidth()I*#
+!
+maskij.process.ImageProcessor2
+getWidth()®
+«
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§	 §(&
+%1java.lang.String"__concat*
+Mask size (*
+	
+%0int±
+®
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§	 §(*
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+xÓÐ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§+ §(;	
+%3int"&ij.process.ImageProcessor#getHeight()I*#
+!
+maskij.process.ImageProcessor2getHeight()·
+´
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§	 §(;
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+	
+%3int¿
+¼
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§	 §(M
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+) != ROI size (²
+¯
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§	 ¨(
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""±
+®
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§	 ¨(
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+x²
+¯
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§	 ¨(
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+""±
+®
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§	 ¨(
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+)"…
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java§ ¨(
+
+%9java.lang.String:!
+maskij.process.ImageProcessorB
+ij.process.ImageProcessor

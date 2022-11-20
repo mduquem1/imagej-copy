@@ -1,0 +1,60 @@
+
+Cij.process.LUT#createLutFromColor(Ljava/awt/Color;)Lij/process/LUT;\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javaS S(%"5*ö
+5\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javaT T(~
+|
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javaT T(
+rLutbyte[]"__id*
+""~
+|
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javaU U(
+gLutbyte[]"__id*
+""~
+|
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javaV V(
+bLutbyte[]"__id*
+""«¨
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javaW W(	
+%0int"java.awt.Color#getRed()I*
+
+colorjava.awt.Color2getRed()¯¬
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javaX X(	
+%1int"java.awt.Color#getGreen()I*
+
+colorjava.awt.Color2
+getGreen()­ª
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javaY Y(	
+%2int"java.awt.Color#getBlue()I*
+
+colorjava.awt.Color2	getBlue()*
+1*»
+1\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javab b(‡„
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javab b(
+%3ij.process.LUT"ij.process.LUTÕ
+Ò
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javab	 b("
+%4"ij.process.LUT#<init>([B[B[B)V*
+
+%3ij.process.LUT*
+
+rLutbyte[]*
+
+gLutbyte[]*
+
+bLutbyte[]"v
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.javab b(#
+
+%3ij.process.LUT:
+colorjava.awt.ColorB"
+ij.process.LUT

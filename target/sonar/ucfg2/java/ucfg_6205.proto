@@ -1,0 +1,50 @@
+
+/ij.plugin.Startup#runMacro(Ljava/lang/String;)Z_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.javaH H("3*Ï
+2_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.javaL
+ L("i
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.javaL L(
+""*ä
+3_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.javaI I((–“
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.javaI I(&
+%0ij.macro.Interpreter"ij.macro.Interpreter¨
+¥
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.javaI I((
+%1"ij.macro.Interpreter#<init>()V*
+
+%0ij.macro.Interpreter¨
+¥
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.javaI I()
+interpij.macro.Interpreter"__id*
+
+%0ij.macro.InterpreterÀ½
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.javaJ J(
+%2java.lang.String"Pij.macro.Interpreter#run(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;* 
+
+interpij.macro.Interpreter*
+
+macrojava.lang.String*
+""2)run(Ljava/lang/String;Ljava/lang/String;)ÃÀ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.javaK K(
+%3boolean" ij.macro.Interpreter#wasError()Z* 
+
+interpij.macro.Interpreter2
+wasError()*
+2
+1*Ï
+1_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.javaN
+ N("i
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.javaN N(
+"":
+macrojava.lang.StringB
+ij.plugin.Startup

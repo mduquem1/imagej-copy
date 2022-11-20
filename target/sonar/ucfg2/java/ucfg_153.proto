@@ -1,0 +1,208 @@
+
+4ij.plugin.tool.BrushTool#getHelp()Ljava/lang/String;h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java∞ ∞("7*ú
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaπN π(Uß
+§
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaπN π(U
+%12java.lang.String"__id*
+
+%14java.lang.String*
+1*ú
+3h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaπC π(Kß
+§
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaπC π(K
+%12java.lang.String"__id*
+
+%13java.lang.String*
+1*ù
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java± ±(C≠
+™
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java± ±(C
+
+ctrlStringjava.lang.String"__id*
+
+%1java.lang.StringØ
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ ¥(
+%4java.lang.String"__concat*
+
+<html>*
+<font size=+1>√
+¿
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ µ(
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+<b>Key modifiers</b>≥
+∞
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ ∂(
+
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+<ul>È
+Ê
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ ∑(@
+%7java.lang.String"__concat*
+
+%6java.lang.String*><
+:<li> <i>shift</i> to draw horizontal or vertical lines<br>Ö
+Ç
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ ∏(\
+%8java.lang.String"__concat*
+
+%7java.lang.String*ZX
+V<li> <i>alt</i> to draw in background color (or<br>to erase if painting on overlay<br>≥
+∞
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ π(
+
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+<li>Ã
+…
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ π(
+%10java.lang.String"__concat*
+
+%9java.lang.String* 
+
+
+ctrlStringjava.lang.StringŒ
+À
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ π(6
+%11java.lang.String"__concat*
+
+%10java.lang.String*!
+<i>-shift-drag</i> to change *
+2
+3*ö
+5h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java±5 ±(B•
+¢
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java±5 ±(B
+%1java.lang.String"__id*
+
+%3java.lang.String*
+4*ö
+6h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java±( ±(4•
+¢
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java±( ±(4
+%1java.lang.String"__id*
+
+%2java.lang.String*
+4*ï
+7h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java± ±(ù
+ö
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java± ±(&
+%0boolean"ij.IJ#isMacintosh()Z*	"
+ij.IJ*
+5
+6*ú
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ π(V∆
+√
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ π(V
+%15java.lang.String"__concat*
+
+%11java.lang.String*
+
+%12java.lang.Stringª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ π(c
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+
+ width<br>µ
+≤
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ ∫(
+
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+<li>Õ
+ 
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ ∫(
+%18java.lang.String"__concat*
+
+%17java.lang.String* 
+
+
+ctrlStringjava.lang.Stringﬁ
+€
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ ∫(F
+%19java.lang.String"__concat*
+
+%18java.lang.String*1/
+-<i>-click</i> to change (\"pick up\") the<br>Ô
+Ï
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ ª(D
+%20java.lang.String"__concat*
+
+%19java.lang.String*B@
+>drawing color, or use the Color<br>Picker (<i>shift-k</i>)<br>∂
+≥
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ º(
+%21java.lang.String"__concat*
+
+%20java.lang.String*	
+</ul>ã
+à
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ Ω(`
+%22java.lang.String"__concat*
+
+%21java.lang.String*^\
+ZUse <i>Edit&gt;Selection&gt;Create Mask</i> to create<br>a mask from the painted overlay. á
+Ñ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ æ(\
+%23java.lang.String"__concat*
+
+%22java.lang.String*ZX
+VUse<br><i>Image&gt;Overlay&gt;Remove Overlay</i> to remove<br>the painted overlay.<br>∂
+≥
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ ø(
+%24java.lang.String"__concat*
+
+%23java.lang.String*	
+ <br>∏
+µ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≥ ¿(
+%25java.lang.String"__concat*
+
+%24java.lang.String*	
+</font>"Ö
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java≤ ¿(
+
+%25java.lang.StringB
+ij.plugin.tool.BrushTool

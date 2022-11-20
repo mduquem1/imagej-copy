@@ -1,0 +1,37 @@
+
+ij.io.FileSaver#saveAsText()Z_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java» »("3*Ï
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¾
+ ¾("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¾ ¾(
+""*µ
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¼ ¼(¥¢
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¼ ¼('
+%0java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+Text*
+.txt2-getPath(Ljava/lang/String;Ljava/lang/String;)ž
+›
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¼ ¼((
+pathjava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*Ç
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¿	 ¿(õò
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¿	 ¿(
+%1boolean"/ij.io.FileSaver#saveAsText(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsText(Ljava/lang/String;)"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¿ ¿(
+""B
+ij.io.FileSaver

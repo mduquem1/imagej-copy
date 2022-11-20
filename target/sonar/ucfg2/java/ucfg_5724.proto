@@ -1,0 +1,61 @@
+
+*ij.gui.Overlay#duplicate()Lij/gui/Overlay;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÿ ÿ("5*∞
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java‹ ‹(°
+û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java‹ ‹(
+%2
+ij.gui.Roi"
+__arrayGet*
+
+roisij.gui.Roi[]*
+""æª
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java‹ ‹($
+%3java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+
+%2
+ij.gui.Roi2clone()›⁄
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java‹ ‹(%
+
+%4void"!ij.gui.Overlay#add(Lij/gui/Roi;)V*
+
+overlay2ij.gui.Overlay*
+
+%3java.lang.Object2add(Lij/gui/Roi;)*
+3
+1*¶
+5^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaŸ Ÿ(Ω∫
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaŸ Ÿ(
+%0ij.gui.Roi[]"%ij.gui.Overlay#toArray()[Lij/gui/Roi;*
+ij.gui.Overlay2	toArray()ï
+í
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaŸ Ÿ(
+roisij.gui.Roi[]"__id*
+
+%0ij.gui.Roi[]¿Ω
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java⁄ ⁄(
+%1ij.gui.Overlay"'ij.gui.Overlay#create()Lij/gui/Overlay;*
+ij.gui.Overlay2create()ù
+ö
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java⁄ ⁄(
+overlay2ij.gui.Overlay"__id*
+
+%1ij.gui.Overlay*
+3
+1*„
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java›	 ›("~
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java› ›(
+
+overlay2ij.gui.OverlayB
+ij.gui.Overlay

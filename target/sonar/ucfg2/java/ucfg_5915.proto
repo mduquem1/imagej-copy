@@ -1,0 +1,63 @@
+
+Çij.plugin.frame.SyncWindows#adaptEvent(Ljava/awt/event/MouseEvent;Ljava/awt/Component;Ljava/awt/Point;)Ljava/awt/event/MouseEvent;k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java ("1*±
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÒ Ò(¬ø
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÒ Ò($	
+%0int"java.awt.AWTEvent#getID()I* 
+
+ejava.awt.event.MouseEvent2getID()œÃ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÒ& Ò(1
+
+%1long"$java.awt.event.InputEvent#getWhen()J* 
+
+ejava.awt.event.MouseEvent2	getWhen()ÿ’
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÒ3 Ò(C	
+%2int")java.awt.event.InputEvent#getModifiers()I* 
+
+ejava.awt.event.MouseEvent2getModifiers()⁄◊
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÚ Ú( 	
+%3int"*java.awt.event.MouseEvent#getClickCount()I* 
+
+ejava.awt.event.MouseEvent2getClickCount()‡›
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÚ" Ú(4
+%4boolean"+java.awt.event.MouseEvent#isPopupTrigger()Z* 
+
+ejava.awt.event.MouseEvent2isPopupTrigger()¨©
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÒ Ò(
+%5java.awt.event.MouseEvent"java.awt.event.MouseEvent 
+«
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÒ	 Ú(5
+%6">java.awt.event.MouseEvent#<init>(Ljava/awt/Component;IJIIIIZ)V*!
+
+%5java.awt.event.MouseEvent*
+
+cjava.awt.Component*
+	
+%0int*
+
+
+%1long*
+	
+%2int*
+""*
+""*
+	
+%3int*
+
+%4boolean"ê
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÒ Ú(6!
+
+%5java.awt.event.MouseEvent:
+ejava.awt.event.MouseEvent:
+cjava.awt.Component:
+pjava.awt.PointB
+ij.plugin.frame.SyncWindows

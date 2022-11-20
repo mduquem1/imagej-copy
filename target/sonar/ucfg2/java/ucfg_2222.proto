@@ -1,0 +1,120 @@
+
+@ij.plugin.RoiScaler#scaleImage(Lij/gui/ImageRoi;DDZ)Lij/gui/Roi;c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaò ò("1*É
+1c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaô ô(ŒÀ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaô ô(
+%0java.lang.Object")ij.gui.ImageRoi#clone()Ljava/lang/Object;*
+
+roiij.gui.ImageRoi2clone()†
+ù
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaô ô(
+roiij.gui.ImageRoi"__id*
+
+%0java.lang.ObjectÓÎ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaö ö()
+%1ij.process.ImageProcessor"9ij.gui.ImageRoi#getProcessor()Lij/process/ImageProcessor;*
+
+roiij.gui.ImageRoi2getProcessor()≥
+∞
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaö ö(* 
+ip2ij.process.ImageProcessor"__id*!
+
+%1ij.process.ImageProcessor «
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaú! ú(/	
+%2int"%ij.process.ImageProcessor#getWidth()I*"
+ 
+ip2ij.process.ImageProcessor2
+getWidth()™
+ß
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaú ú(7
+
+%3long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""Ã…
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaù" ù(1	
+%4int"&ij.process.ImageProcessor#getHeight()I*"
+ 
+ip2ij.process.ImageProcessor2getHeight()™
+ß
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaù ù(9
+
+%5long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""íè
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaû û(-
+%6ij.process.ImageProcessor"@ij.process.ImageProcessor#resize(IIZ)Lij/process/ImageProcessor;*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*22resize(IIZ)≥
+∞
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaû û(- 
+ip2ij.process.ImageProcessor"__id*!
+
+%6ij.process.ImageProcessorôñ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.javaü ü(
+
+%7void":ij.gui.ImageRoi#setProcessor(Lij/process/ImageProcessor;)V*
+
+roiij.gui.ImageRoi*"
+ 
+ip2ij.process.ImageProcessor2)setProcessor(Lij/process/ImageProcessor;)’“
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.java† †($
+%8java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roiij.gui.ImageRoi2getBounds()®
+•
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.java† †(%
+boundsjava.awt.Rectangle"__id*
+
+%8java.awt.Rectangle™
+ß
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.java° °(*
+
+%9long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""´
+®
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.java¢ ¢(*
+%10long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""Õ 
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.java£ £(
+%11void"ij.gui.Roi#setLocation(II)V*
+
+roiij.gui.ImageRoi*
+""*
+""2setLocation(II)ÒÓ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.java§ §(
+%12void"(ij.gui.Roi#copyAttributes(Lij/gui/Roi;)V*
+
+roiij.gui.ImageRoi*
+
+roiij.gui.ImageRoi2copyAttributes(Lij/gui/Roi;)"
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiScaler.java• •(
+
+roiij.gui.ImageRoi:
+roiij.gui.ImageRoi:
+"":
+"":
+""B"
+ij.plugin.RoiScaler

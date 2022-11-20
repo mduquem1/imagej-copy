@@ -1,0 +1,44 @@
+
+6ij.io.RoiEncoder#save(Lij/gui/Roi;Ljava/lang/String;)Z^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java+ +("4*≈
+3^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java. .(⁄◊
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java. .(
+
+%2void"%ij.io.RoiEncoder#write(Lij/gui/Roi;)V*
+
+reij.io.RoiEncoder*
+
+roi
+ij.gui.Roi2write(Lij/gui/Roi;)*
+1*Ê
+4^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java,! ,(%çä
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java, ,( 
+%0ij.io.RoiEncoder"ij.io.RoiEncoderÕ
+ 
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java, ,(&
+%1",ij.io.RoiEncoder#<init>(Ljava/lang/String;)V*
+
+%0ij.io.RoiEncoder*
+
+pathjava.lang.Stringõ
+ò
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java, ,('
+reij.io.RoiEncoder"__id*
+
+%0ij.io.RoiEncoder*
+3*Õ
+1^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java2	 2("h
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java2 2(
+"":
+roi
+ij.gui.Roi:
+pathjava.lang.StringB"
+ij.io.RoiEncoder

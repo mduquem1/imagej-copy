@@ -1,0 +1,98 @@
+
+%ij.ImageJ#version()Ljava/lang/String;Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaû û("4*˝
+2Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaüo ü(|ó
+î
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaüo ü(|
+%9java.lang.String"__id*
+
+%11java.lang.String*
+1*˝
+3Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaüa ü(nó
+î
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaüa ü(n
+%9java.lang.String"__id*
+
+%10java.lang.String*
+1*À
+4Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü	 ü(Ñ
+Å
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü ü(
+%0java.lang.String"__id*
+""ß
+§
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü	 ü(
+%1java.lang.String"__concat*	
+ImageJ *
+
+%0java.lang.StringÑ
+Å
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü ü( 
+%2java.lang.String"__id*
+""¥
+±
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü	 ü( 
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String¢
+ü
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü	 ü('
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+; •
+¢
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü	 ü(/
+%5java.lang.String"__concat*
+
+%4java.lang.String*	
+Java ‚
+ﬂ
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü0 ü(R
+%6java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+java.version¥
+±
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü	 ü(R
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.Stringä
+á
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaüT ü(`
+%8boolean"ij.IJ#is64Bit()Z*	"
+ij.IJ*
+2
+3*é
+1Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü	 ü(}µ
+≤
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü	 ü(}
+%12java.lang.String"__concat*
+
+%7java.lang.String*
+
+%9java.lang.String"v
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaü ü(~
+
+%12java.lang.StringB
+	ij.ImageJ

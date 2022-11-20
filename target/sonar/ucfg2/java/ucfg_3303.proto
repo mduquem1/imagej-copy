@@ -1,0 +1,80 @@
+
+/ij.macro.Functions#matches(Ljava/lang/String;)Db
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaæ+ æ+("8*’
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java√+ √+(%"l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java√+ √+(%
+""*˙
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java√+! √+($ã
+à
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java√+! √+($
+%5double"__id*
+
+%7double*
+3*˙
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java√+ √+( ã
+à
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java√+ √+( 
+%5double"__id*
+
+%6double*
+3*Ï
+7b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java√+
+ √+(˙˜
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java√+
+ √+(
+%4boolean"-java.lang.String#matches(Ljava/lang/String;)Z*
+
+strjava.lang.String*
+
+regexjava.lang.String2matches(Ljava/lang/String;)*
+4
+5*ç
+
+8b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaø+ ø+(Å
+˛
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaø+ ø+(!
+%0java.lang.String"Mij.macro.Functions#getStringFunctionArg(Ljava/lang/String;)Ljava/lang/String;*
+ij.macro.Functions*
+
+strjava.lang.String†
+ù
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaø+ ø+(!
+strjava.lang.String"__id*
+
+%0java.lang.String÷”
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¿+ ¿+(
+%1java.lang.String"0ij.macro.Functions#getString()Ljava/lang/String;*
+ij.macro.Functions2getString()¢
+ü
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¿+ ¿+(
+regexjava.lang.String"__id*
+
+%1java.lang.String≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¡+ ¡+(
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp…∆
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¡+ ¡+(
+
+%3void"%ij.macro.Interpreter#getRightParen()V*
+
+%2ij.macro.Interpreter2getRightParen()*
+7:
+strjava.lang.StringB
+ij.macro.Functions

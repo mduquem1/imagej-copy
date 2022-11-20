@@ -1,0 +1,33 @@
+
+1ij.io.SaveDialog#noExtension(Ljava/lang/String;)Z`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÊ Ê("3"4*Ÿ
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÍ Í(²¯
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÍ Í('	
+%1int"java.lang.String#length()I*
+
+namejava.lang.String2length()*
+1*Ï
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÌ Ì(ßÜ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÌ Ì("	
+%0int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+namejava.lang.String*
+.2indexOf(Ljava/lang/String;)*
+2
+1*Ñ
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaË Ë("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaË Ë(
+""*Ñ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÍ Í(4"j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÍ Í(4
+"":
+namejava.lang.StringB
+ij.io.SaveDialog

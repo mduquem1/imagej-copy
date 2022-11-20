@@ -203,7 +203,7 @@ public class StackLabeler implements ExtendedPlugInFilter, DialogListener {
 			color = Toolbar.getForegroundColor();
 			if ((color.getRGB()&0xffffff)==0) {
 				ip.setRoi(x, y-fontSize, maxWidth+textWidth, fontSize);
-				double mean = ImageStatistics.getStatistics(ip, Measurements.MEAN, null).mean;
+				double mean = ImageStatistics.getStatistics(ip, Measurements.MEAN, null, null).mean;
 				if (mean<50.0 && !ip.isInvertedLut()) color=Color.white;
 				ip.resetRoi();
 			}

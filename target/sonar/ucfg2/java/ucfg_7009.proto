@@ -1,0 +1,84 @@
+
+"ij.Prefs#get(Ljava/lang/String;D)DX
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaã ã("8*¯
+2X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaí í(¥±
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaí í(
+%5double"java.lang.Double#doubleValue()D*
+
+djava.lang.Double2doubleValue()"b
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaí í(
+""*¸
+4X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaè è(î
+ë
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaè è(
+djava.lang.Double"__id*
+
+%4java.lang.Double*
+2
+1*…
+6X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaè è(‰
+·
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaè è(
+%4java.lang.Double">java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;*"
+java.lang.Double*
+
+sjava.lang.String*
+4*Û
+8X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaå å(ö
+ó
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaå å(
+%0java.util.Properties"__id**
+
+ij.Prefs"	
+ijPrefsÉ
+Ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaå! å(+
+%1java.lang.String"__id*
+""¥
+±
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaå! å(/
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+keyjava.lang.Stringñì
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaå å(0
+%3java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%0java.util.Properties*
+
+%2java.lang.String2getProperty(Ljava/lang/String;)î
+ë
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaå å(1
+sjava.lang.String"__id*
+
+%3java.lang.StringÅ
+
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaç ç(
+djava.lang.Double"__id*
+""*
+6
+1*¡
+1X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaî	 î("b
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaî î(
+"":
+keyjava.lang.String:
+""B"
+
+ij.Prefs

@@ -1,0 +1,85 @@
+
+2ij.macro.Functions#getTitleArg()Ljava/lang/String;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÃ: Ã:("5*Ë
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java“: “:(	≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java“: “:(	
+%7ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp…∆
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java“: “:(
+
+%8void"%ij.macro.Interpreter#getRightParen()V*
+
+%7ij.macro.Interpreter2getRightParen()*
+1*Í
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java—: —:(÷”
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java—: —:(
+%6java.lang.String"0ij.macro.Functions#getString()Ljava/lang/String;*
+ij.macro.Functions2getString()¢
+ü
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java—: —:(
+titlejava.lang.String"__id*
+
+%6java.lang.String*
+2*‹
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaœ: œ:(	≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaœ: œ:(	
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp«ƒ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaœ: œ:(
+
+%3void"$ij.macro.Interpreter#getLeftParen()V*
+
+%2ij.macro.Interpreter2getLeftParen()≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java–: –:(
+%4ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¿Ω
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java–: –:(	
+%5int"!ij.macro.Interpreter#nextToken()I*
+
+%4ij.macro.Interpreter2nextToken()*
+2
+3*ı
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÕ: Õ:(ê
+ç
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÕ: Õ:(
+titlejava.lang.String"__id*
+""≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaŒ: Œ:(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¿Ω
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaŒ: Œ:(	
+%1int"!ij.macro.Interpreter#nextToken()I*
+
+%0ij.macro.Interpreter2nextToken()*
+4
+1*Î
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java‘:	 ‘:("Å
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java‘: ‘:(
+
+titlejava.lang.StringB
+ij.macro.Functions

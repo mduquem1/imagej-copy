@@ -1,0 +1,143 @@
+
+Kij.plugin.filter.ImageMath#setBackgroundToNaN(Lij/process/ImageProcessor;)Vj
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaº º("18"10"11*ß
+13j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿ ¿(;ª
+§
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿ ¿(;
+titlejava.lang.String"__id*
+
+%4java.lang.StringÝ
+Ú
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÀ À(N
+%10java.lang.String"__concat*,*
+(Thresholded 32-bit float image required:*
+
+titlejava.lang.Stringé
+æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÀ À(O
+%11void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+NaN Backround*
+
+%10java.lang.String"t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÂ Â(
+""* 
+14j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿8 ¿(:§
+¤
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿8 ¿(:
+%4java.lang.String"__id*
+
+%6java.lang.String*
+13*š
+15j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿ ¿(#²
+¯
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿$ ¿('
+%7ij.ImagePlus"__id*'*%
+ij.plugin.filter.ImageMath"
+impÔÑ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿$ ¿(2
+%8java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%7ij.ImagePlus2
+getTitle()µ
+²
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿ ¿(2
+%9java.lang.String"__concat*
+\n\"*
+
+%8java.lang.String³
+°
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿ ¿(7
+%5java.lang.String"__concat*
+
+%9java.lang.String*
+\"§
+¤
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿ ¿(7
+%4java.lang.String"__id*
+
+%5java.lang.String*
+13*¯
+16j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿ ¿(²
+¯
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¿ ¿(
+%3ij.ImagePlus"__id*'*%
+ij.plugin.filter.ImageMath"
+imp*
+14
+15*Ô
+18j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¼ ¼(áÞ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¼ ¼(
+%0double",ij.process.ImageProcessor#getMinThreshold()D*!
+
+ipij.process.ImageProcessor2getMinThreshold()áÞ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java½ ½(
+%1double",ij.process.ImageProcessor#getMaxThreshold()D*!
+
+ipij.process.ImageProcessor2getMaxThreshold()‹
+ˆ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.java¾ ¾()
+%2double"__id*
+""*
+16
+10
+11*“
+10j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÇ" Ç($ñî
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÇ" Ç(0
+%12java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2getPixels()ÑÎ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÈ È(!
+
+%13int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()ÓÐ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÉ É(#
+
+%14int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()*
+1*æ
+11j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÆ Æ(
+"t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÆ Æ(
+
+""*Æ
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÒ Ò(ÞÛ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÒ Ò(
+%15void"+ij.process.ImageProcessor#resetMinAndMax()V*!
+
+ipij.process.ImageProcessor2resetMinAndMax()"t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageMath.javaÓ Ó(	
+"":
+ipij.process.ImageProcessorB
+ij.plugin.filter.ImageMath

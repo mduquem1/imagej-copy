@@ -1,0 +1,164 @@
+
+:ij.measure.ResultsTable#getFreeColumn(Ljava/lang/String;)Ig
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¤ ¤("13*°
+13g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¥ ¥(·
+´
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¥ ¥(
+%0java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headings*
+3
+12*Å
+2g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaµ µ(	‰
+†
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaµ$ µ(.
+%12double"__id*
+""Å
+Â
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaµ µ(/
+%13void"java.util.Arrays#fill([DD)V*"
+java.util.Arrays*
+""*
+
+%12double*
+1*Â
+3g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java± ±(ËÈ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java± ±(
+%11void"%ij.measure.ResultsTable#addColumns()V*
+ij.measure.ResultsTable2addColumns()*
+2
+1*è
+5g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¯ ¯(†
+ƒ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¯ ¯(
+
+%10int"__id*
+"""q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¯ ¯(
+""*ç
+6g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java® ®(·
+´
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java® ®(
+%7java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headings´
+±
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java® ®(
+%8java.lang.String"
+__arrayGet*
+
+%7java.lang.String[]*
+""þû
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java® ®("
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%8java.lang.String*
+
+headingjava.lang.String2equals(Ljava/lang/Object;)*
+13
+5*ß
+7g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¬ ¬("q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¬ ¬(
+""*ï
+9g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaª ª(·
+´
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaª ª(
+%5java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headingsÁ
+¾
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaª ª(
+%6"
+__arraySet*
+
+%5java.lang.String[]*
+""*
+
+headingjava.lang.String*
+7*Ã
+10g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java© ©(ˆ
+…
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java© ©('
+%3double"__id*
+""Ã
+À
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java© ©((
+
+%4void"java.util.Arrays#fill([DD)V*"
+java.util.Arrays*
+""*
+
+%3double*
+9*ê
+12g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¦ ¦(·
+´
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¦ ¦(
+%1java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headings´
+±
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¦ ¦(
+%2java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*
+""*
+
+6
+9
+10*à
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¶ ¶(
+¸
+µ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¶ ¶(
+
+%14java.lang.String[]"__id*)*'
+ij.measure.ResultsTable"
+
+headingsÃ
+À
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¶ ¶( 
+%15"
+__arraySet*
+
+%14java.lang.String[]*
+""*
+
+headingjava.lang.String"q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java· ·(
+"":
+headingjava.lang.StringB
+ij.measure.ResultsTable

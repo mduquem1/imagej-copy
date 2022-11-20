@@ -1,0 +1,131 @@
+
+7ij.process.FloatProcessor#createImage()Ljava/awt/Image;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaù ù("25"26*á
+24i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java°7 °(Dá
+Ñ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java°E °(R	
+%3int"__id*
+""*
+18
+19
+20*®
+3i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java∂ ∂(Ø
+¨
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java∂ ∂(
+%11byte[]"__id***(
+ij.process.FloatProcessor"	
+pixels8*
+3
+1*ø
+25i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java† †(Æ
+´
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java† †(
+%1byte[]"__id***(
+ij.process.FloatProcessor"	
+pixels8ä
+á
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java°' °(3
+%2double"__id*
+""*
+24
+18
+19
+20*à
+15i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java® ®(á
+Ñ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java™ ™()	
+%8int"__id*
+""*
+3
+9
+10
+1*Œ
+26i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaü ü(÷”
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaü ü(
+
+%0void"*ij.process.FloatProcessor#findMinAndMax()V*
+ij.process.FloatProcessor2findMinAndMax()*
+25*·
+17i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java¶ ¶(Ê„
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java¶ ¶(
+
+%7void"2ij.process.ImageProcessor#makeDefaultColorModel()V*
+ij.process.FloatProcessor2makeDefaultColorModel()*
+15
+1*ª
+18i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java• •(º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java• •(
+%6java.awt.image.ColorModel"__id*%*#
+ij.process.FloatProcessor"
+cm*
+15
+17
+1*À
+19i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java§ §(8”
+–
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java§ §(8
+%5byte[]".ij.process.FloatProcessor#create8BitImage(Z)[B*
+ij.process.FloatProcessor*
+""*
+18*¨
+9i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java∞ ∞(Ø
+¨
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java∞ ∞(
+%10byte[]"__id***(
+ij.process.FloatProcessor"	
+pixels8*
+
+9
+10
+1*ˇ
+20i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java§! §(.á
+Ñ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java§0 §(7	
+%4int"__id*
+""*
+19*¨
+10i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÆ Æ(Æ
+´
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÆ Æ(
+%9byte[]"__id***(
+ij.process.FloatProcessor"	
+pixels8*
+
+9
+10
+1*Ù
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java∫	 ∫(¸˘
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java∫	 ∫(
+%12java.awt.Image"?ij.process.FloatProcessor#createBufferedImage()Ljava/awt/Image;*
+ij.process.FloatProcessor2createBufferedImage()"Ñ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java∫ ∫(
+
+%12java.awt.ImageB
+ij.process.FloatProcessor

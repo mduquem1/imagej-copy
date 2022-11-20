@@ -1,0 +1,28 @@
+
+Dij.plugin.filter.AVI_Writer#setup(Ljava/lang/String;Lij/ImagePlus;)Ii
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/AVI_Writer.javaX X("1*­
+1i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/AVI_Writer.javaY Y(³
+°
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/AVI_Writer.javaY Y(&
+ij.plugin.filter.AVI_Writer"
+imp"__id*
+
+impij.ImagePlus‡
+„
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/AVI_Writer.javaZ Z(	
+%0int"__id*
+""‡
+„
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/AVI_Writer.javaZ Z("	
+%1int"__id*
+"""s
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/AVI_Writer.javaZ Z(#
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.AVI_Writer

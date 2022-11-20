@@ -1,0 +1,236 @@
+
+Jij.plugin.filter.ParticleAnalyzer#setup(Ljava/lang/String;Lij/ImagePlus;)Iq
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÓ Ó("11*å
+2q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÖ Ö(√
+¿
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÖ Ö(
+%20
+ij.gui.Roi"__id*2*0#
+!ij.plugin.filter.ParticleAnalyzer"	
+saveRoi»
+≈
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÖ Ö(5#
+!ij.plugin.filter.ParticleAnalyzer"
+exclusionRoi"__id*
+
+%20
+ij.gui.Roi*
+1*Ç
+3q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÑ Ñ(√
+¿
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÑ Ñ(
+%18
+ij.gui.Roi"__id*2*0#
+!ij.plugin.filter.ParticleAnalyzer"	
+saveRoiª∏
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÑ Ñ('
+%19boolean"ij.gui.Roi#isArea()Z*
+
+%18
+ij.gui.Roi2isArea()*
+2
+1* 
+4q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛ ˛(ê
+ç
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛ ˛(
+
+%10int"__id*
+""ê
+ç
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛ ˛(%
+
+%11int"__id*
+""ê
+ç
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˛& ˛(-
+
+%12int"__id*
+""—
+Œ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˇ ˇ(,
+
+%13int"#ij.IJ#setupDialog(Lij/ImagePlus;I)I*	"
+ij.IJ*
+
+impij.ImagePlus*
+""ê
+ç
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÄ Ä(#
+
+%14int"__id*
+""Õ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÇ Ç(
+%15
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()√
+¿
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÇ Ç(0#
+!ij.plugin.filter.ParticleAnalyzer"	
+saveRoi"__id*
+
+%15
+ij.gui.RoiÕ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÉ É(#
+
+%16int"ij.ImagePlus#getCurrentSlice()I*
+
+impij.ImagePlus2getCurrentSlice()√
+¿
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÑ Ñ(
+%17
+ij.gui.Roi"__id*2*0#
+!ij.plugin.filter.ParticleAnalyzer"	
+saveRoi*
+3
+1*Ö
+5q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˝
+ ˝(è
+å
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˝
+ ˝(	
+%9int"__id*
+"""{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˝ ˝(
+""*Ï
+6q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¸ ¸(ÎË
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¸ ¸(
+%8boolean"/ij.plugin.filter.ParticleAnalyzer#showDialog()Z*%#
+!ij.plugin.filter.ParticleAnalyzer2showDialog()*
+4
+5*‰
+7q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˜ ˜(Á
+‰
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¯ ˘(#
+%5java.lang.String"__concat**(
+&RGB images must be thresholded using\n*!
+Image>Adjust>Color Threshold.Ú
+Ô
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˜ ˘($
+
+%6void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Particle Analyzer*
+
+%5java.lang.Stringè
+å
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˙
+ ˙(	
+%7int"__id*
+"""{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java˙ ˙(
+""*â
+8q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˆ  ˆ(0à
+Ö
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˆ  ˆ(5
+%4boolean"Cij.plugin.filter.ParticleAnalyzer#isThresholdedRGB(Lij/ImagePlus;)Z*%#
+!ij.plugin.filter.ParticleAnalyzer*
+
+impij.ImagePlus*
+6
+7*≈
+9q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˆ ˆ(	ƒ¡
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaˆ ˆ(	
+%3int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+6
+8*®
+10q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÛ Û(ü
+ú
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÛ Û(
+
+%1void"ij.IJ#noImage()V*	"
+ij.IJè
+å
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÙ
+ Ù(	
+%2int"__id*
+"""{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÙ Ù(
+""*»
+11q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÔ Ô(≈
+¬
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÔ Ô(,#
+!ij.plugin.filter.ParticleAnalyzer"
+arg"__id*
+
+argjava.lang.String¡
+æ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java (,#
+!ij.plugin.filter.ParticleAnalyzer"
+imp"__id*
+
+impij.ImagePlusπ
+∂
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÒ Ò(%
+
+%0void""ij.IJ#register(Ljava/lang/Class;)V*	"
+ij.IJ*
+""*
+9
+10*ﬂ
+1q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÜ Ü(∆√
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÜ Ü(
+%21void"ij.ImagePlus#startTiming()V*
+
+impij.ImagePlus2startTiming()–
+Õ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaà à("
+%22java.awt.Color"__id*;*9#
+!ij.plugin.filter.ParticleAnalyzer"
+defaultFontColorÕ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaà à("6#
+!ij.plugin.filter.ParticleAnalyzer"
+nextFontColor"__id*
+
+%22java.awt.Color"{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaä ä(
+"":
+argjava.lang.String:
+impij.ImagePlusB%#
+!ij.plugin.filter.ParticleAnalyzer

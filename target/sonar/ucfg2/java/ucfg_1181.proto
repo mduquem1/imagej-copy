@@ -1,0 +1,54 @@
+
+!ij.gui.OvalRoi#containsPoint(DD)Z^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaž ž("3*Í
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java 
+  ("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java   (
+""*—
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaŸ Ÿ(©
+¦
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaŸ Ÿ( 
+%0boolean"ij.gui.Roi#containsPoint(DD)Z*
+""*
+""*
+""*
+2
+1*õ
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¡, ¡(0©¦
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¡ ¡(+$
+%1java.awt.geom.Ellipse2D$Double"java.awt.geom.Ellipse2D$Doubleß
+Ü
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¡ ¡(J
+%2",java.awt.geom.Ellipse2D$Double#<init>(DDDD)V*&
+$
+%1java.awt.geom.Ellipse2D$Double*
+""*
+""*
+""*
+""¶
+³
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¡ ¡(K#
+ejava.awt.geom.Ellipse2D$Double"__id*&
+$
+%1java.awt.geom.Ellipse2D$DoubleÞÛ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¢	 ¢(
+%3boolean"%java.awt.geom.Ellipse2D#contains(DD)Z*%
+#
+ejava.awt.geom.Ellipse2D$Double*
+""*
+""2contains(DD)"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¢ ¢(
+"":
+"":
+""B
+ij.gui.OvalRoi

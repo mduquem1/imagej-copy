@@ -1,0 +1,84 @@
+
+8ij.io.ImageReader#read8bitImage(Ljava/io/InputStream;)[B_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java- -("11*«
+2_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java; ;(¼
+¹
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java< <('
+
+%5void"#ij.io.ImageReader#showProgress(JJ)V*
+ij.io.ImageReader*
+""*
+""*
+4
+1*ž
+3_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java: :($²¯
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java: :(&
+
+%4void"ij.io.ImageReader#eofError()V*
+ij.io.ImageReader2
+eofError()*
+1*Ì
+4_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java9 9(ÝÚ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java9 9(5	
+%3int"java.io.InputStream#read([BII)I*
+
+injava.io.InputStream*
+
+pixelsbyte[]*
+""*
+""2
+read([BII)*
+2
+3*ó
+9_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java0 0("„
+
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java0 0($
+pixelsbyte[]"__id*
+""*
+4
+1*õ
+10_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java/
+ /(!š—
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java/
+ /(%
+%2byte[]"Bij.io.ImageReader#readCompressed8bitImage(Ljava/io/InputStream;)[B*
+ij.io.ImageReader*
+
+injava.io.InputStream2.readCompressed8bitImage(Ljava/io/InputStream;)"q
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java/ /(&
+
+%2byte[]*Ž
+11_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java. .(Ÿ
+œ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java. .(
+%0ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi|
+z
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java. .(.	
+%1int"__id*
+""*
+9
+10*Û
+1_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java>	 >("u
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java> >(
+
+pixelsbyte[]:
+injava.io.InputStreamB
+ij.io.ImageReader

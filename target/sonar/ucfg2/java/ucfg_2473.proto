@@ -1,0 +1,22 @@
+
+Nij.plugin.Clipboard#isDataFlavorSupported(Ljava/awt/datatransfer/DataFlavor;)Zc
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.java™ ™(%"1*Ä
+1c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaš	 š(ž
+›
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaš	 š(&
+%0 java.awt.datatransfer.DataFlavor"__id*
+""ÉÆ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaš	 š(.
+%1boolean"Ljava.awt.datatransfer.DataFlavor#equals(Ljava/awt/datatransfer/DataFlavor;)Z*(
+&
+%0 java.awt.datatransfer.DataFlavor*,
+*
+flavor java.awt.datatransfer.DataFlavor2*equals(Ljava/awt/datatransfer/DataFlavor;)"m
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaš š(/
+"":*
+flavor java.awt.datatransfer.DataFlavorB
+ij.plugin.Clipboard

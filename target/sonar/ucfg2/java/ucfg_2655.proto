@@ -1,0 +1,80 @@
+
+ij.gui.Roi#offScreenY(I)IZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java‹ ‹("6*¡
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ; ﬁ(=ó
+î
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ; ﬁ(=
+%6ij.gui.ImageCanvas"__id**
+
+ij.gui.Roi"
+ic¬ø
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ; ﬁ(M	
+%4int""ij.gui.ImageCanvas#offScreenY2(I)I*
+
+%6ij.gui.ImageCanvas*
+""2offScreenY2(I)|
+z
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ; ﬁ(M	
+%2int"__id*
+	
+%4int*
+1*ø
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ' ﬁ()ó
+î
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ' ﬁ()
+%5ij.gui.ImageCanvas"__id**
+
+ij.gui.Roi"
+ic¿Ω
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ' ﬁ(8	
+%3int"!ij.gui.ImageCanvas#offScreenY(I)I*
+
+%5ij.gui.ImageCanvas*
+""2offScreenY(I)|
+z
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ' ﬁ(8	
+%2int"__id*
+	
+%3int*
+1*Æ
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ	 ﬁ("ƒ¡
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ	 ﬁ($
+%1boolean"'ij.gui.Roi#useLineSubpixelConvention()Z*
+
+ij.gui.Roi2useLineSubpixelConvention()*
+2
+3*≈
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java› ›("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java› ›(
+""*Å
+6Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java› ›(ó
+î
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java› ›(
+%0ij.gui.ImageCanvas"__id**
+
+ij.gui.Roi"
+ic*
+4
+5*≈
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ ﬁ(N"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaﬁ ﬁ(N
+"":
+""B
+
+ij.gui.Roi

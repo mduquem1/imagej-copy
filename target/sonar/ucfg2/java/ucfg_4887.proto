@@ -1,0 +1,46 @@
+
+`ij.io.DragAndDropHandler#canImport(Ljavax/swing/JComponent;[Ljava/awt/datatransfer/DataFlavor;)Zf
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java ("2*Š
+2f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java   (©
+¦
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java   (.
+
+dataFlavor java.awt.datatransfer.DataFlavor"__id*
+""è
+å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java   (.
+
+dataFlavor java.awt.datatransfer.DataFlavor"
+__arrayGet*7
+5
+transferFlavors"java.awt.datatransfer.DataFlavor[]*
+""*
+4
+1*Ý
+3f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java" "("p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java" "(
+""*Ø
+4f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java! !( âß
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java! !(,
+%0boolean"Wij.io.DragAndDropHandler#isSupportedTransferFlavor(Ljava/awt/datatransfer/DataFlavor;)Z*
+ij.io.DragAndDropHandler*0
+.
+
+dataFlavor java.awt.datatransfer.DataFlavor2=isSupportedTransferFlavor(Ljava/awt/datatransfer/DataFlavor;)*
+2
+3*Ý
+1f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java$	 $("p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java$ $(
+"":
+compjavax.swing.JComponent:5
+transferFlavors"java.awt.datatransfer.DataFlavor[]B
+ij.io.DragAndDropHandler

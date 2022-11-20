@@ -1,0 +1,125 @@
+
+Lij.plugin.ListVirtualStack#convertToRealStack(Lij/ImagePlus;)Lij/ImageStack;h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaQ Q("6*Ì
+3h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaY Y(
+ÿü
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaY Y()
+%12java.lang.String"=ij.plugin.ListVirtualStack#getSliceLabel(I)Ljava/lang/String;*
+ij.plugin.ListVirtualStack*
+""2getSliceLabel(I)ÕÒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaY Y(/
+%13void"Fij.ImageStack#addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+stack2ij.ImageStack*
+
+%12java.lang.String*"
+ 
+ip2ij.process.ImageProcessor27addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)*
+5*Ì
+4h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaU U(­
+ª
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaU U(
+
+%6void"ij.IJ#showProgress(II)V*	"
+ij.IJ*
+""*
+""¦
+£
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaV V(
+%7java.lang.String"__concat*
+	Opening: *
+""°
+­
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaV V("
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+/±
+®
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaV V($
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+""Æ
+Ã
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaV V(%
+%10void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%9java.lang.StringŒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaW W(, 
+%11ij.process.ImageProcessor"Eij.plugin.ListVirtualStack#getProcessor(I)Lij/process/ImageProcessor;*
+ij.plugin.ListVirtualStack*
+""2getProcessor(I)¹
+¶
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaW W(- 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%11ij.process.ImageProcessor*
+3
+5*Â
+5h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaT T(ÊÇ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaT T(!	
+%5int"%ij.plugin.ListVirtualStack#getSize()I*
+ij.plugin.ListVirtualStack2	getSize()*
+4
+1*ê
+
+6h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaR% R(/íê
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaR> R(P
+%0ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()ˆ…
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaR> R(`
+%1java.awt.image.ColorModel"Dij.process.ImageProcessor#getColorModel()Ljava/awt/image/ColorModel;*!
+
+%0ij.process.ImageProcessor2getColorModel()‘Ž
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaR R($
+%2ij.ImageStack"ij.ImageStackó
+ð
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaR R(a
+%3"4ij.ImageStack#<init>(IILjava/awt/image/ColorModel;)V*
+
+%2ij.ImageStack*
+""*
+""*!
+
+%1java.awt.image.ColorModel£
+ 
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaR R(b
+stack2ij.ImageStack"__id*
+
+%2ij.ImageStackÊÇ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaS
+ S(	
+%4int"%ij.plugin.ListVirtualStack#getSize()I*
+ij.plugin.ListVirtualStack2	getSize()*
+5*õ
+1h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.java[	 [("…
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.java[ [(
+
+stack2ij.ImageStack:
+impij.ImagePlusB
+ij.plugin.ListVirtualStack

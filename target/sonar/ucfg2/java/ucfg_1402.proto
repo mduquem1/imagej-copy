@@ -1,0 +1,82 @@
+
++ij.io.ImageReader#packBitsUncompress([BI)[Ba
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java— —(!"15*´
+14a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java’	 ’(±Æ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java’	 ’(	
+%2int"ij.io.ByteVector#size()I*
+
+outputij.io.ByteVector2size()*
+14
+3
+11
+1*¨
+3a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java‡ ‡($∫∑
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java‡ ‡(-
+
+%4void"ij.io.ByteVector#add(B)V*
+
+outputij.io.ByteVector*
+""2add(B)*
+3
+14*“
+15a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java”% ”()êç
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java” ”($
+%0ij.io.ByteVector"ij.io.ByteVector™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java” ”(*
+%1"ij.io.ByteVector#<init>(I)V*
+
+%0ij.io.ByteVector*2Ä¢
+ü
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java” ”(+
+outputij.io.ByteVector"__id*
+
+%0ij.io.ByteVector*
+14*µ
+7a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java€ €(
+√¿
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java€ €(
+
+%3void"ij.io.ByteVector#add([B)V*
+
+outputij.io.ByteVector*
+
+bbyte[]2add([B)Ä
+~
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java‹ ‹(
+bbyte[]"__id*
+""*
+14*Ô
+11a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÿ ÿ(Ä
+~
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÿ ÿ(
+bbyte[]"__id*
+""*
+7*°
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java„	 „(√¿
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java„	 „(
+%5byte[]" ij.io.ByteVector#toByteArray()[B*
+
+outputij.io.ByteVector2toByteArray()"s
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java„ „(
+
+%5byte[]:
+inputbyte[]:
+""B
+ij.io.ImageReader

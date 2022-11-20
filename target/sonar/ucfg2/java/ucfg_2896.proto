@@ -1,0 +1,35 @@
+
+:ij.plugin.filter.Convolver#hasNewLine(Ljava/lang/String;)Zj
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaé	 é("5*Â
+3j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaê$ ê(("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaê ê()
+""*¡
+4j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaê ê(«ƒ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaê ê(
+
+%1char"java.lang.String#charAt(I)C*
+
+textjava.lang.String*
+""2	charAt(I)*
+3
+5*∂
+5j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaè è(ºπ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaè è(	
+%0int"java.lang.String#length()I*
+
+textjava.lang.String2length()*
+4
+1*Â
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaí	 í("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaí í(
+"":
+textjava.lang.StringB
+ij.plugin.filter.Convolver

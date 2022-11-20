@@ -1,0 +1,91 @@
+
+@ij.plugin.filter.Binary#setup(Ljava/lang/String;Lij/ImagePlus;)Ie
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java$ $("8*á
+2e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java,8 ,(Iƒ
+€
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java,8 ,(I	
+%6int"__id*
+"""o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java,1 ,(J
+""*Ã
+3e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java,! ,(#ÎË
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java, ,(/
+%5boolean"$ij.process.ByteProcessor#isBinary()Z*!
+
+ipij.process.ImageProcessor2
+isBinary()*
+2
+1*á
+4e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java+7 +(Hƒ
+€
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java+7 +(H	
+%4int"__id*
+"""o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java+0 +(I
+""*–
+5e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java*  *(#êç
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java*  *(2
+%3ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()´
+±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java* *(3
+ipij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessor*
+3
+4*á
+6e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java)$ )(5ƒ
+€
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java)$ )(5	
+%2int"__id*
+"""o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java) )(6
+""*Å
+8e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java% %(¯
+¬
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java% %("
+ij.plugin.filter.Binary"
+arg"__id*
+
+argjava.lang.String­
+ª
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java& &(!
+
+%0void""ij.IJ#register(Ljava/lang/Class;)V*	"
+ij.IJ*
+""ëè
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java' '()
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+options2equals(Ljava/lang/Object;)*	
+5
+6
+1*Û
+1e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java. .("o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Binary.java. .(
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Binary

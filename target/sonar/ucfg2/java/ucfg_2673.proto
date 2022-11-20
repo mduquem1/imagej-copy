@@ -1,0 +1,220 @@
+
+,ij.gui.Roi#getProperties()Ljava/lang/String;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java‚ ‚("14*∆
+13Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java‰
+ ‰("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java‰ ‰(
+""*â
+14Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java„ „(ú
+ô
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java„ „(
+%0java.util.Properties"__id**
+
+ij.gui.Roi"
+props*
+13
+12*Ü
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÓ Ó(™
+ß
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÓ Ó(
+%15java.lang.String"
+__arrayGet*
+
+keysjava.lang.String[]*
+""†ù
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÓ Ó(
+%16java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+
+%15java.lang.String2append(Ljava/lang/String;)çä
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÔ Ô(
+%17java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+: 2append(Ljava/lang/String;)ù
+ö
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java (
+%18java.util.Properties"__id**
+
+ij.gui.Roi"
+props™
+ß
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java (
+%19java.lang.String"
+__arrayGet*
+
+keysjava.lang.String[]*
+""º
+π
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java (
+%20java.lang.Object"__mapGet*
+
+%18java.util.Properties*
+
+%19java.lang.String†ù
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java ( 
+%21java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/Object;)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+
+%20java.lang.Object2append(Ljava/lang/Object;)çä
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÒ Ò(
+%22java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+sbjava.lang.StringBuffer*
+\n2append(Ljava/lang/String;)*
+3
+1*£
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÎ Î(Õ
+ 
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÎ Î(
+%12void"+java.util.Arrays#sort([Ljava/lang/Object;)V*"
+java.util.Arrays*
+
+keysjava.lang.String[]ñì
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÏ Ï($
+%13java.lang.StringBuffer"java.lang.StringBuffer©
+¶
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÏ Ï(&
+%14" java.lang.StringBuffer#<init>()V*
+
+%13java.lang.StringBuffer§
+°
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÏ Ï('
+sbjava.lang.StringBuffer"__id*
+
+%13java.lang.StringBuffer*
+3
+1*¯
+7Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÍ Í(ÿ’
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÍ Í(#
+%10java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+vjava.util.Vector*
+""2elementAt(I)≥
+∞
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÍ Í(#
+%11"
+__arraySet*
+
+keysjava.lang.String[]*
+""*
+
+%10java.lang.Object*
+5
+7*ø
+9Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË Ë(•¢
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË Ë(%	
+%8int"java.util.Vector#size()I*
+
+vjava.util.Vector2size()çä
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË Ë(&
+%9java.lang.String[]"java.lang.String[]ù
+ö
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË Ë('
+keysjava.lang.String[]"__id*
+
+%9java.lang.String[]*
+5
+7*∏
+10Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÁ Á(‹Ÿ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÁ Á( 
+%6java.lang.Object"5java.util.Enumeration#nextElement()Ljava/lang/Object;*
+
+enjava.util.Enumeration2nextElement()Ì
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÁ Á(!
+
+%7void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+vjava.util.Vector*
+
+%6java.lang.Object2addElement(Ljava/lang/Object;)*
+11*∂
+11Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ$ Ê(& «
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ$ Ê(8
+%5boolean"(java.util.Enumeration#hasMoreElements()Z*
+
+enjava.util.Enumeration2hasMoreElements()*
+9
+10*≈
+12Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÂ Â(âÜ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÂ Â(
+%1java.util.Vector"java.util.Vectorõ
+ò
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÂ Â(
+%2"java.util.Vector#<init>()V*
+
+%1java.util.Vectorñ
+ì
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÂ Â(
+vjava.util.Vector"__id*
+
+%1java.util.Vectorú
+ô
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ Ê(
+%3java.util.Properties"__id**
+
+ij.gui.Roi"
+props÷”
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ Ê("
+%4java.util.Enumeration"2java.util.Properties#keys()Ljava/util/Enumeration;*
+
+%3java.util.Properties2keys()°
+û
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ Ê("
+enjava.util.Enumeration"__id*
+
+%4java.util.Enumeration*
+11*¥
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÛ	 Û(Ÿ÷
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÛ	 Û(
+%23java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuffer2
+toString()"w
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÛ Û(
+
+%23java.lang.StringB
+
+ij.gui.Roi

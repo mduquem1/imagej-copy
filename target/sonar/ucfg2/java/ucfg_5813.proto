@@ -1,0 +1,18 @@
+
+Kij.plugin.FolderOpener#sortFileList([Ljava/lang/String;)[Ljava/lang/String;f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaŠ Š("1*€
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java‹	 ‹(‹
+ˆ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java‹	 ‹(+
+%0java.lang.String[]"Lij.util.StringSorter#sortNumerically([Ljava/lang/String;)[Ljava/lang/String;*"
+ij.util.StringSorter*
+
+listjava.lang.String[]"„
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java‹ ‹(,
+
+%0java.lang.String[]:
+listjava.lang.String[]B
+ij.plugin.FolderOpener

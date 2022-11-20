@@ -1,0 +1,343 @@
+
+8ij.gui.Plot#<init>(Lij/ImagePlus;Ljava/io/InputStream;)V[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaè è("11*Ü
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java† †(=õ
+ò
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java† †(=
+ij.gui.Plot"
+title"__id*
+
+%30java.lang.String*
+0
+1*Ç
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java†. †(=ö
+ó
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java†. †(=
+%30java.lang.String"__id*
+
+%32java.lang.String*
+2*Ã
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java† †( «ƒ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java† †(+
+%31java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()ö
+ó
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java† †(+
+%30java.lang.String"__id*
+
+%31java.lang.String*
+2*
+5[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaù ù(ù
+ö
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaù ù(
+%23ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+ppù
+ö
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaû û(
+%24ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+pp´
+®
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaû û($
+%25ij.gui.PlotObject"__id*)*'
+
+%24ij.gui.PlotProperties"
+frame…∆
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaû û(.
+%26java.awt.Font"*ij.gui.PlotObject#getFont()Ljava/awt/Font;*
+
+%25ij.gui.PlotObject2	getFont()û
+õ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaû0 û(;
+%27java.awt.Font"__id* *
+ij.gui.Plot"
+currentFont¨©
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaû û(<
+%28java.awt.Font"Fij.gui.Plot#nonNullFont(Ljava/awt/Font;Ljava/awt/Font;)Ljava/awt/Font;*
+ij.gui.Plot*
+
+%26java.awt.Font*
+
+%27java.awt.Font2+nonNullFont(Ljava/awt/Font;Ljava/awt/Font;)û
+õ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaû û(<
+ij.gui.Plot"
+currentFont"__id*
+
+%28java.awt.Font⁄◊
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaü ü( 
+%29ij.process.ImageProcessor"5ij.gui.Plot#getProcessor()Lij/process/ImageProcessor;*
+ij.gui.Plot2getProcessor()*
+3
+4*≠
+6[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaô ô(è
+å
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaô ô(
+
+plotObjectij.gui.PlotObject"__id*
+""∞
+≠
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaô ô(
+
+plotObjectij.gui.PlotObject"
+__arrayGet*
+
+%21java.util.Vector*
+""*
+5
+7*ß
+7[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaö ö(øº
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaö ö(
+%22void"ij.gui.PlotObject#updateType()V*!
+
+
+plotObjectij.gui.PlotObject2updateType()*
+6*å
+8[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaô  ô(.§
+°
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaô  ô(.
+%21java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjects*
+6*Ô
+9[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaò ò(ù
+ö
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaò ò(
+%18ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+pp¨
+©
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaò ò(#
+%19ij.gui.PlotObject"__id***(
+
+%18ij.gui.PlotProperties"
+legend∏µ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaò ò(0
+%20void"ij.gui.PlotObject#updateType()V*
+
+%19ij.gui.PlotObject2updateType()*
+8*–
+10[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaï ï(ú
+ô
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaï ï(
+%7ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+pp™
+ß
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaï ï(
+%8ij.gui.PlotObject"__id*)*'
+
+%7ij.gui.PlotProperties"
+xLabel∂≥
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaï ï(
+
+%9void"ij.gui.PlotObject#updateType()V*
+
+%8ij.gui.PlotObject2updateType()ù
+ö
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javañ ñ(
+%10ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+pp¨
+©
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javañ ñ(
+%11ij.gui.PlotObject"__id***(
+
+%10ij.gui.PlotProperties"
+yLabel∏µ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javañ ñ(
+%12void"ij.gui.PlotObject#updateType()V*
+
+%11ij.gui.PlotObject2updateType()ù
+ö
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaó ó(
+%13ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+pp´
+®
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaó ó(
+%14ij.gui.PlotObject"__id*)*'
+
+%13ij.gui.PlotProperties"
+frame∏µ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaó ó(
+%15void"ij.gui.PlotObject#updateType()V*
+
+%14ij.gui.PlotObject2updateType()ù
+ö
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaò ò(	
+%16ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+pp¨
+©
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaò ò(
+%17ij.gui.PlotObject"__id***(
+
+%16ij.gui.PlotProperties"
+legend*
+8
+9*∞
+11[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê/ ê(1úô
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê ê(.
+%0java.io.ObjectInputStream"java.io.ObjectInputStream‡
+›
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê ê(2
+%1"8java.io.ObjectInputStream#<init>(Ljava/io/InputStream;)V*!
+
+%0java.io.ObjectInputStream*
+
+isjava.io.InputStream™
+ß
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê ê(3
+injava.io.ObjectInputStream"__id*!
+
+%0java.io.ObjectInputStream„‡
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaë ë(&
+%2java.lang.Object"8java.io.ObjectInputStream#readObject()Ljava/lang/Object;*!
+
+injava.io.ObjectInputStream2readObject()ó
+î
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaë ë(&
+ij.gui.Plot"
+pp"__id*
+
+%2java.lang.Object„‡
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaí' í(6
+%3java.lang.Object"8java.io.ObjectInputStream#readObject()Ljava/lang/Object;*!
+
+injava.io.ObjectInputStream2readObject()£
+†
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaí í(6!
+ij.gui.Plot"
+allPlotObjects"__id*
+
+%3java.lang.Objectºπ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaì ì(
+
+%4void""java.io.ObjectInputStream#close()V*!
+
+injava.io.ObjectInputStream2close()ú
+ô
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaî î(
+%5ij.gui.PlotProperties"__id**
+ij.gui.Plot"
+pp™
+ß
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaî î(
+%6ij.gui.PlotObject"__id*)*'
+
+%5ij.gui.PlotProperties"
+xLabel*
+5
+10*y
+0 "r
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java® ®(
+implicit return*˙
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¢ ¢(ï
+í
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¢ ¢(
+ij.gui.Plot"
+imp"__id*
+
+impij.ImagePlus·ﬁ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java£ £( 
+%33ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()°
+û
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java£ £(
+ij.gui.Plot"
+ip"__id*"
+ 
+%33ij.process.ImageProcessor÷”
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java§ §('
+%34void"+ij.ImagePlus#setIgnoreGlobalCalibration(Z)V*
+
+impij.ImagePlus*22setIgnoreGlobalCalibration(Z)ﬂ‹
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java• •()
+%35ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()ÜÉ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java• •(*
+%36void"8ij.gui.Plot#adjustCalibration(Lij/measure/Calibration;)V*
+ij.gui.Plot*
+
+%35ij.measure.Calibration2+adjustCalibration(Lij/measure/Calibration;)á
+Ñ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¶ ¶(
+%37java.lang.String"__id*
+""§°
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¶ ¶(&
+%38void"?ij.ImagePlus#setProperty(Ljava/lang/String;Ljava/lang/Object;)V*
+
+impij.ImagePlus*
+
+%37java.lang.String*
+ij.gui.Plot21setProperty(Ljava/lang/String;Ljava/lang/Object;)*
+0:
+impij.ImagePlus:
+isjava.io.InputStreamB
+ij.gui.Plot

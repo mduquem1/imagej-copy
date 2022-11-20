@@ -1,0 +1,65 @@
+
+Nij.plugin.frame.RoiManager#promptForName(Ljava/lang/String;)Ljava/lang/String;j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÂ Â("3*å
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÇ
+ Ç("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÇ Ç(
+""*™
+3j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÃ' Ã(4¡ž
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÃ Ã(&
+%0ij.gui.GenericDialog"ij.gui.GenericDialogÖ
+Ó
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÃ Ã(5
+%1"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%0ij.gui.GenericDialog*
+ROI Manager¯
+¬
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÃ Ã(6
+gdij.gui.GenericDialog"__id*
+
+%0ij.gui.GenericDialogÏÌ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÄ Ä(+
+
+%2void"Kij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;I)V*
+
+gdij.gui.GenericDialog*
+
+Rename As:*
+
+namejava.lang.String*225addStringField(Ljava/lang/String;Ljava/lang/String;I)ËÈ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÅ Å(
+
+%3void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()ÐÍ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÆ Æ(
+%4boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+2
+1*é
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÉ
+ É(îë
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÉ
+ É(
+%5java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()"†
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÉ É(
+
+%5java.lang.String:
+namejava.lang.StringB
+ij.plugin.frame.RoiManager

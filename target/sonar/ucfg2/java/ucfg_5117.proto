@@ -1,0 +1,85 @@
+
+Jij.io.Opener#createColorModel(Lij/io/FileInfo;)Ljava/awt/image/ColorModel;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÌ
+ Ì
+("2"1*Á
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÔ
+ Ô
+(ó
+î
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÔ
+- Ô
+(4
+%0byte[]"__id* *
+
+fiij.io.FileInfo"
+redsô
+ñ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÔ
+6 Ô
+(?
+%1byte[]"__id*"* 
+
+fiij.io.FileInfo"
+greensò
+ï
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÔ
+A Ô
+(I
+%2byte[]"__id*!*
+
+fiij.io.FileInfo"
+bluesß§
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÔ
+ Ô
+($
+%3java.awt.image.IndexColorModel"java.awt.image.IndexColorModelˇ
+¸
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÔ
+
+ Ô
+(J
+%4"0java.awt.image.IndexColorModel#<init>(II[B[B[B)V*&
+$
+%3java.awt.image.IndexColorModel*2*
+""*
+
+%0byte[]*
+
+%1byte[]*
+
+%2byte[]"Ü
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÔ
+ Ô
+(K&
+$
+%3java.awt.image.IndexColorModel*Œ
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÒ
+
+ Ò
+(Ê
+„
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÒ
+
+ Ò
+(?
+%5java.awt.image.ColorModel"Fij.LookUpTable#createGrayscaleColorModel(Z)Ljava/awt/image/ColorModel;*"
+ij.LookUpTable*
+"""Å
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÒ
+ Ò
+(@!
+
+%5java.awt.image.ColorModel:
+fiij.io.FileInfoB
+ij.io.Opener

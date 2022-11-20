@@ -1,0 +1,324 @@
+
+6ij.io.RoiDecoder#getTextRoi(Lij/gui/Roi;I)Lij/gui/Roi;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÃ Ã("15*≤
+13`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaŸ Ÿ(∫∑
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaŸ Ÿ(+	
+%6int"ij.io.RoiDecoder#getShort(I)I*
+ij.io.RoiDecoder*
+""2getShort(I)*
+13
+5
+6
+9*Ä
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java„ „(êç
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java„7 „(=
+%25java.lang.String"java.lang.String∑
+¥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java„3 „(C
+%26"java.lang.String#<init>([C)V*
+
+%25java.lang.String*
+
+textchar[]åâ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java„ „(
+%27ij.gui.TextRoi"ij.gui.TextRoiò
+ï
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java„
+ „(J
+%28"=ij.gui.TextRoi#<init>(DDDDLjava/lang/String;Ljava/awt/Font;)V*
+
+%27ij.gui.TextRoi*
+""*
+""*
+""*
+""*
+
+%25java.lang.String*
+
+fontjava.awt.Fontú
+ô
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java„ „(J
+roi2ij.gui.TextRoi"__id*
+
+%27ij.gui.TextRoi*
+1*è
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‡ ‡(ÙÒ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‡ ‡(('
+%16 java.awt.geom.Rectangle2D$Double"=ij.gui.Roi#getFloatBounds()Ljava/awt/geom/Rectangle2D$Double;*
+
+roi
+ij.gui.Roi2getFloatBounds()∑
+¥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‡ ‡()
+fbjava.awt.geom.Rectangle2D"__id*)
+'
+%16 java.awt.geom.Rectangle2D$Double«ƒ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java· ·(
+%17double"&java.awt.geom.RectangularShape#getX()D*!
+
+fbjava.awt.geom.Rectangle2D2getX()«ƒ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java·! ·(*
+%18double"&java.awt.geom.RectangularShape#getY()D*!
+
+fbjava.awt.geom.Rectangle2D2getY()œÃ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java·, ·(9
+%19double"*java.awt.geom.RectangularShape#getWidth()D*!
+
+fbjava.awt.geom.Rectangle2D2
+getWidth()—Œ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java·; ·(I
+%20double"+java.awt.geom.RectangularShape#getHeight()D*!
+
+fbjava.awt.geom.Rectangle2D2getHeight()êç
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java·O ·(U
+%21java.lang.String"java.lang.String∑
+¥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java·K ·([
+%22"java.lang.String#<init>([C)V*
+
+%21java.lang.String*
+
+textchar[]åâ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java· ·(
+%23ij.gui.TextRoi"ij.gui.TextRoiº
+π
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java·
+ ·(b
+%24"=ij.gui.TextRoi#<init>(DDDDLjava/lang/String;Ljava/awt/Font;)V*
+
+%23ij.gui.TextRoi*
+
+%17double*
+
+%18double*
+
+%19double*
+
+%20double*
+
+%21java.lang.String*
+
+fontjava.awt.Fontú
+ô
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java· ·(b
+roi2ij.gui.TextRoi"__id*
+
+%23ij.gui.TextRoi*
+1*◊
+15`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÕ Õ(Õ 
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÕ Õ(
+%0java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()†
+ù
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÕ Õ( 
+rjava.awt.Rectangle"__id*
+
+%0java.awt.Rectangle}
+{
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaŒ Œ(&	
+%1int"__id*
+""∂≥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaœ œ(	
+%2int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I)∂≥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java– –(/	
+%3int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I)∂≥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‘ ‘($	
+%4int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I)∂≥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java’ ’(%	
+%5int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I)É
+Ä
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java÷ ÷(%
+namechar[]"__id*
+""É
+Ä
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java◊ ◊(%
+textchar[]"__id*
+""*
+13
+5
+6
+9*ñ
+
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‹ ‹(Pêç
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java› ›(!
+%11java.lang.String"java.lang.String∑
+¥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java› ›('
+%12"java.lang.String#<init>([C)V*
+
+%11java.lang.String*
+
+namechar[]äá
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java› ›(
+%13java.awt.Font"java.awt.Font‹
+Ÿ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java› ›(5
+%14"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%13java.awt.Font*
+
+%11java.lang.String*
+""*
+""ö
+ó
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java› ›(6
+fontjava.awt.Font"__id*
+
+%13java.awt.Fontã
+à
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaﬁ ﬁ(
+roi2ij.gui.TextRoi"__id*
+""¬ø
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaﬂ ﬂ(
+%15boolean" ij.gui.Roi#subPixelResolution()Z*
+
+roi
+ij.gui.Roi2subPixelResolution()*
+2
+3*ı
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‹M ‹(Oà
+Ö
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‹M ‹(O
+%8float"__id*
+
+%10float*
+4*≥
+6`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‹ ‹(&ºπ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‹ ‹(L
+%9float"ij.io.RoiDecoder#getFloat(I)F*
+ij.io.RoiDecoder*
+""2getFloat(I)á
+Ñ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‹ ‹(L
+%8float"__id*
+
+%9float*
+4*≠
+9`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java€ €(∫∑
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java€ €(8	
+%7int"ij.io.RoiDecoder#getShort(I)I*
+ij.io.RoiDecoder*
+""2getShort(I)*	
+5
+6
+9*ú
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‰ ‰(–Õ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‰ ‰(*
+%29java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getStrokeColor()ıÚ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java‰ ‰(+
+%30void",ij.gui.Roi#setStrokeColor(Ljava/awt/Color;)V*
+
+roi2ij.gui.TextRoi*
+
+%29java.awt.Color2 setStrokeColor(Ljava/awt/Color;)Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÂ Â(&
+%31java.awt.Color")ij.gui.Roi#getFillColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getFillColor()ÒÓ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÂ Â('
+%32void"*ij.gui.Roi#setFillColor(Ljava/awt/Color;)V*
+
+roi2ij.gui.TextRoi*
+
+%31java.awt.Color2setFillColor(Ljava/awt/Color;)”–
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÊ Ê(
+%33java.lang.String"/ij.io.RoiDecoder#getRoiName()Ljava/lang/String;*
+ij.io.RoiDecoder2getRoiName()ÌÍ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÊ Ê(
+%34void"'ij.gui.Roi#setName(Ljava/lang/String;)V*
+
+roi2ij.gui.TextRoi*
+
+%33java.lang.String2setName(Ljava/lang/String;)ŒÀ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÁ Á(&
+%35void"#ij.gui.TextRoi#setJustification(I)V*
+
+roi2ij.gui.TextRoi*
+""2setJustification(I)–Õ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaË Ë((
+%36void"$ij.gui.TextRoi#setDrawStringMode(Z)V*
+
+roi2ij.gui.TextRoi*
+""2setDrawStringMode(Z)æª
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÈ È(
+%37void"ij.gui.TextRoi#setAngle(D)V*
+
+roi2ij.gui.TextRoi*
+""2setAngle(D)"|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÍ Í(
+
+roi2ij.gui.TextRoi:
+roi
+ij.gui.Roi:
+""B
+ij.io.RoiDecoder

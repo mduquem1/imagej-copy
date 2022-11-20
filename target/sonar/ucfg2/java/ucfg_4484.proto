@@ -1,0 +1,534 @@
+
+&ij.gui.ShapeRoi#getRois()[Lij/gui/Roi;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‘ ‘("17*˙
+13_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaŸ Ÿ("îë
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaŸ Ÿ( 
+%8java.util.ArrayList"java.util.ArrayList¶
+£
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaŸ Ÿ("
+%9"java.util.ArrayList#<init>()V*
+
+%8java.util.ArrayList§
+°
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaŸ Ÿ(#
+roisjava.util.ArrayList"__id*
+
+%8java.util.ArrayList°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java⁄ ⁄(
+%10java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape*
+11
+12*˛
+14_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÿ ÿ(¶
+£
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÿ ÿ(
+%3java.util.Vector"__id*"* 
+ij.gui.ShapeRoi"
+	savedRois¶
+£
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÿ+ ÿ(4
+%4java.util.Vector"__id*"* 
+ij.gui.ShapeRoi"
+	savedRois´®
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÿ+ ÿ(;	
+%5int"java.util.Vector#size()I*
+
+%4java.util.Vector2size()ÜÉ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÿ# ÿ(<
+%6ij.gui.Roi[]"ij.gui.Roi[]éã
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÿ ÿ(=
+%7java.lang.Object[]"@java.util.Vector#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+%3java.util.Vector*
+
+%6ij.gui.Roi[]2toArray([Ljava/lang/Object;)"}
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÿ ÿ(>
+
+%7java.lang.Object[]*ò
+15_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java◊ ◊(¶
+£
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java◊ ◊(
+%2java.util.Vector"__id*"* 
+ij.gui.ShapeRoi"
+	savedRois*
+13
+14*Á
+16_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java÷ ÷(ÜÉ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java÷
+ ÷(
+%1ij.gui.Roi[]"ij.gui.Roi[]"w
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java÷ ÷(
+
+%1ij.gui.Roi[]*í
+17_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java’ ’(†
+ù
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java’ ’(
+%0java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape*
+15
+16*¿
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÓ Ó(¥±
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÓ% Ó(0
+
+%62int"java.util.ArrayList#size()I*
+
+roisjava.util.ArrayList2size()áÑ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÓ Ó(1
+%63ij.gui.Roi[]"ij.gui.Roi[]òï
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÓ Ó(2
+%64java.lang.Object[]"Cjava.util.ArrayList#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+roisjava.util.ArrayList*
+
+%63ij.gui.Roi[]2toArray([Ljava/lang/Object;)"~
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÓ Ó(3
+
+%64java.lang.Object[]*÷
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÏ Ï(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÏ Ï(
+
+%60int"__id*
+""ÎË
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÏ Ï(#
+%61double"Nij.gui.ShapeRoi#parsePath(Ljava/awt/geom/PathIterator;ILjava/util/ArrayList;)D*
+ij.gui.ShapeRoi*%
+#
+pIterjava.awt.geom.PathIterator*
+
+
+%60int*
+
+roisjava.util.ArrayList2=parsePath(Ljava/awt/geom/PathIterator;ILjava/util/ArrayList;)*
+1*â	
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÎ Î(°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÎ Î(
+%56java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape©¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÎ& Î(5$
+%57java.awt.geom.AffineTransform"java.awt.geom.AffineTransformº
+π
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÎ" Î(7
+%58"'java.awt.geom.AffineTransform#<init>()V*&
+$
+%57java.awt.geom.AffineTransform◊‘
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÎ Î(8!
+%59java.awt.geom.PathIterator"[java.awt.Shape#getPathIterator(Ljava/awt/geom/AffineTransform;)Ljava/awt/geom/PathIterator;*
+
+%56java.awt.Shape*&
+$
+%57java.awt.geom.AffineTransform20getPathIterator(Ljava/awt/geom/AffineTransform;)¥
+±
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÎ Î(8#
+pIterjava.awt.geom.PathIterator"__id*#
+!
+%59java.awt.geom.PathIterator*
+2*å
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÈ È(%°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÈ& È(+
+%54java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape≈¬
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÈ È(5!
+%55java.awt.geom.PathIterator"Xij.gui.ShapeRoi#getFlatteningPathIterator(Ljava/awt/Shape;D)Ljava/awt/geom/PathIterator;*
+ij.gui.ShapeRoi*
+
+%54java.awt.Shape*
+""2,getFlatteningPathIterator(Ljava/awt/Shape;D)¥
+±
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÈ È(5#
+pIterjava.awt.geom.PathIterator"__id*#
+!
+%55java.awt.geom.PathIterator*
+2*Ü
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÁ Á(ó
+î
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÁ Á(#
+pIterjava.awt.geom.PathIterator"__id*
+""*
+3
+4*é
+6_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‰$ ‰()°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‰$ ‰()
+%47java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‰> ‰(C
+%48java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‰X ‰(]
+%49java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‰h ‰(s
+
+%50int"__id*
+""ëé
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‰ ‰(
+%51ij.gui.PolygonRoi"ij.gui.PolygonRoi–
+Õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‰ ‰(t
+%52"!ij.gui.PolygonRoi#<init>([I[III)V*
+
+%51ij.gui.PolygonRoi*
+""*
+""*
+""*
+
+
+%50intó
+î
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‰ ‰(u
+r
+ij.gui.Roi"__id*
+
+%51ij.gui.PolygonRoi∂
+≥
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÂ Â(
+%53boolean"
+__arrayAdd*
+
+roisjava.util.ArrayList*: *
+
+r
+ij.gui.Roi*
+1*ê
+7_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java„ „(°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java„ „(
+%46java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape*
+5
+6*∞
+8_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java·0 ·(5°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java·0 ·(5
+%35java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeª∏
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java·  ·(>
+%36double"$java.awt.geom.Line2D$Double#getX1()D*
+
+%35java.awt.Shape2getX1()°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java·U ·(Z
+%37java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeª∏
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java·E ·(c
+%38double"$java.awt.geom.Line2D$Double#getY1()D*
+
+%37java.awt.Shape2getY1()°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java·z ·(
+%39java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeºπ
+`
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java·j ·(à
+%40double"$java.awt.geom.Line2D$Double#getX2()D*
+
+%39java.awt.Shape2getX2()£
+†
+a
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java·ü ·(§
+%41java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeΩ∫
+a
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java·è ·(≠
+%42double"$java.awt.geom.Line2D$Double#getY2()D*
+
+%41java.awt.Shape2getY2()ÖÇ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java· ·(
+%43ij.gui.Line"ij.gui.Line·
+ﬁ
+`
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java· ·(Æ
+%44"ij.gui.Line#<init>(IIII)V*
+
+%43ij.gui.Line*
+
+%36double*
+
+%38double*
+
+%40double*
+
+%42doubleí
+è
+`
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java· ·(Ø
+r
+ij.gui.Roi"__id*
+
+%43ij.gui.Line∂
+≥
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‚ ‚(
+%45boolean"
+__arrayAdd*
+
+roisjava.util.ArrayList*: *
+
+r
+ij.gui.Roi*
+1*ê
+9_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‡ ‡(°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‡ ‡(
+%34java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape*
+7
+8*◊
+10_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁ/ ﬁ(4°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁ/ ﬁ(4
+%23java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeºπ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁ ﬁ(<
+%24double"&java.awt.geom.Ellipse2D$Double#getX()D*
+
+%23java.awt.Shape2getX()°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁV ﬁ([
+%25java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeºπ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁC ﬁ(c
+%26double"&java.awt.geom.Ellipse2D$Double#getY()D*
+
+%25java.awt.Shape2getY()¢
+ü
+`
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁ} ﬁ(Ç
+%27java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape≈¬
+`
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁj ﬁ(é
+%28double"*java.awt.geom.Ellipse2D$Double#getWidth()D*
+
+%27java.awt.Shape2
+getWidth()£
+†
+a
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁ® ﬁ(≠
+%29java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape»≈
+a
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁï ﬁ(∫
+%30double"+java.awt.geom.Ellipse2D$Double#getHeight()D*
+
+%29java.awt.Shape2getHeight()ãà
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁ ﬁ(
+%31ij.gui.OvalRoi"ij.gui.OvalRoiÁ
+‰
+`
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁ ﬁ(ª
+%32"ij.gui.OvalRoi#<init>(IIII)V*
+
+%31ij.gui.OvalRoi*
+
+%24double*
+
+%26double*
+
+%28double*
+
+%30doubleï
+í
+`
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬁ ﬁ(º
+r
+ij.gui.Roi"__id*
+
+%31ij.gui.OvalRoi∂
+≥
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaﬂ ﬂ(
+%33boolean"
+__arrayAdd*
+
+roisjava.util.ArrayList*: *
+
+r
+ij.gui.Roi*
+1*í
+11_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java› ›(°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java› ›(
+%22java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape*
+9
+10*À
+12_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€- €(2°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€- €(2
+%11java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeæª
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€ €(:
+%12double"(java.awt.geom.Rectangle2D$Double#getX()D*
+
+%11java.awt.Shape2getX()°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€V €([
+%13java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeæª
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€A €(c
+%14double"(java.awt.geom.Rectangle2D$Double#getY()D*
+
+%13java.awt.Shape2getY()¢
+ü
+`
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€ €(Ñ
+%15java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape«ƒ
+`
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€j €(ê
+%16double",java.awt.geom.Rectangle2D$Double#getWidth()D*
+
+%15java.awt.Shape2
+getWidth()£
+†
+a
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€¨ €(±
+%17java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape «
+a
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€ó €(æ
+%18double"-java.awt.geom.Rectangle2D$Double#getHeight()D*
+
+%17java.awt.Shape2getHeight()ÉÄ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€ €(
+%19
+ij.gui.Roi"
+ij.gui.Roiﬂ
+‹
+`
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€ €(ø
+%20"ij.gui.Roi#<init>(IIII)V*
+
+%19
+ij.gui.Roi*
+
+%12double*
+
+%14double*
+
+%16double*
+
+%18doubleë
+é
+`
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€ €(¿
+r
+ij.gui.Roi"__id*
+
+%19
+ij.gui.Roi∂
+≥
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‹ ‹(
+%21boolean"
+__arrayAdd*
+
+roisjava.util.ArrayList*: *
+
+r
+ij.gui.Roi*
+1B
+ij.gui.ShapeRoi

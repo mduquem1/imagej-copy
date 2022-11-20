@@ -1,0 +1,73 @@
+
+ij.gui.Wand#getPixel(II)F[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java± ±("9"10*«
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaª ª("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaª ª(3
+""*«
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaπ π("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaπ π((
+""*«
+6[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java∑ ∑("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java∑ ∑(1
+""*‹
+8[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaµ µ(í
+è
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaµ µ(
+%2byte[]"__id**
+ij.gui.Wand"	
+bpixels"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaµ µ(/
+""*Ü
+9[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java¥ ¥(í
+è
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java¥ ¥(
+%1byte[]"__id**
+ij.gui.Wand"	
+bpixels*
+2
+4
+6
+8
+1*ƒ
+10[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java≥ ≥(z
+x
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java≥ ≥(
+%0float"__id*
+"""e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java≥ ≥(
+""*Œ
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaΩ Ω(†
+ù
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaΩ Ω(
+%3ij.process.ImageProcessor"__id**
+ij.gui.Wand"
+ip·ﬁ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaΩ Ω((
+%4float",ij.process.ImageProcessor#getPixelValue(II)F*!
+
+%3ij.process.ImageProcessor*
+""*
+""2getPixelValue(II)"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaΩ Ω()
+"":
+"":
+""B
+ij.gui.Wand

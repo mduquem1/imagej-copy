@@ -1,0 +1,79 @@
+
+ij.io.FileSaver#saveAsPgm()Z_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaú ú("6*œ
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java†
+ †("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java† †(
+""*Ò
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaù ù(9£
+†
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaù ù(9
+	extensionjava.lang.String"__id*
+
+%2java.lang.Stringª∏
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaû û()
+%5java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+PGM*
+
+	extensionjava.lang.String2-getPath(Ljava/lang/String;Ljava/lang/String;)û
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaû û(*
+pathjava.lang.String"__id*
+
+%5java.lang.String*
+2
+1*à
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaù2 ù(8ú
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaù2 ù(8
+%2java.lang.String"__id*
+
+%4java.lang.String*
+3*à
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaù+ ù(1ú
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaù+ ù(1
+%2java.lang.String"__id*
+
+%3java.lang.String*
+3*ø
+6_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaù ù(ú
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaù ù(
+%0ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp±Æ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaù ù(&	
+%1int"ij.ImagePlus#getBitDepth()I*
+
+%0ij.ImagePlus2getBitDepth()*
+4
+5*≈
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¢
+ ¢(Û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¢
+ ¢(
+%6boolean".ij.io.FileSaver#saveAsPgm(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsPgm(Ljava/lang/String;)"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¢ ¢(
+""B
+ij.io.FileSaver

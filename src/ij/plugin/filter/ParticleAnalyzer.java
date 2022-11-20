@@ -581,7 +581,7 @@ public class ParticleAnalyzer implements PlugInFilter, Measurements {
 			mask = ip.getMask();
 			if (displaySummary) {
 				if (mask!=null)
-					totalArea = ImageStatistics.getStatistics(ip, AREA, calibration).area;
+					totalArea = ImageStatistics.getStatistics(ip, AREA, calibration, null).area;
 				else
 					totalArea = r.width*calibration.pixelWidth*r.height*calibration.pixelHeight;
 			}
@@ -759,7 +759,7 @@ public class ParticleAnalyzer implements PlugInFilter, Measurements {
 		int height = ip.getHeight();
 		ip.setRoi(r);
 		if (excludeEdgeParticles && exclusionRoi!=null) {
-			ImageStatistics stats = ImageStatistics.getStatistics(ip, MIN_MAX, null);
+			ImageStatistics stats = ImageStatistics.getStatistics(ip, MIN_MAX, null, null);
 			if (fillColor>=stats.min && fillColor<=stats.max) {
 				double replaceColor = level1-1.0;
 				if (replaceColor<0.0 || replaceColor==fillColor) {
@@ -880,7 +880,7 @@ public class ParticleAnalyzer implements PlugInFilter, Measurements {
 		}
 		ip2.setRoi(r);
 		ip.setValue(fillColor);
-		ImageStatistics stats = getStatistics(ip2, measurements, calibration);
+		ImageStatistics stats = getStatistics(ip2, measurements, calibration, null);
 		boolean include = true;
 		if (excludeEdgeParticles) {
 			if (r.x==minX||r.y==minY||r.x+r.width==maxX||r.y+r.height==maxY)
@@ -936,10 +936,10 @@ public class ParticleAnalyzer implements PlugInFilter, Measurements {
 		ip.fill(mask);
 	}
 
-	ImageStatistics getStatistics(ImageProcessor ip, int mOptions, Calibration cal) {
+	ImageStatistics getStatistics(ImageProcessor ip, int mOptions, Calibration cal, CentroidHelper centroid) {
 		switch (imageType2) {
 			case BYTE:
-				return new ByteStatistics(ip, mOptions, cal);
+				return new ByteStatistics(ip, mOptions, cal, centroid);
 			case SHORT:
 				return new ShortStatistics(ip, mOptions, cal);
 			case FLOAT:

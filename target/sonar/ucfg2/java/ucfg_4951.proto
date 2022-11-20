@@ -1,0 +1,151 @@
+
+7ij.util.DicomTools#sort(Lij/ImageStack;)Lij/ImageStack;`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java ("11"12*‡
+2`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java ("š
+—
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java ("
+%9ij.ImageStack"__id*
+
+stackij.ImageStack*
+1*ˆ
+3`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (›
+˜
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (
+%9ij.ImageStack"__id*
+
+stack2ij.ImageStack*
+1*¬
+5`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (ž
+›
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (%
+%8ij.ImageStack"Oij.util.DicomTools#sortStack(Lij/ImageStack;[Ljava/lang/String;)Lij/ImageStack;*"
+ij.util.DicomTools*
+
+stackij.ImageStack*
+
+stringsjava.lang.String[]›
+˜
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (%
+stack2ij.ImageStack"__id*
+
+%8ij.ImageStack*
+2
+3*£
+6`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java ( ®
+«
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java5 (@
+%5java.lang.String[]"__id*'*%
+ij.util.DicomTools"
+sliceLabels}
+{
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaB (L	
+%6int"__id*
+""åâ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (M
+%7ij.ImageStack"Qij.VirtualStack#sortDicom([Ljava/lang/String;[Ljava/lang/String;I)Lij/ImageStack;*
+
+stackij.ImageStack*
+
+stringsjava.lang.String[]*
+
+%5java.lang.String[]*
+	
+%6int22sortDicom([Ljava/lang/String;[Ljava/lang/String;I)›
+˜
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (M
+stack2ij.ImageStack"__id*
+
+%7ij.ImageStack*
+2
+3*–
+7`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (Ý
+Ú
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (
+
+%3void"/ij.util.StringSorter#sort([Ljava/lang/String;)V*"
+ij.util.StringSorter*
+
+stringsjava.lang.String[]Œ
+‰
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (
+stack2ij.ImageStack"__id*
+""·´
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (
+%4boolean"ij.ImageStack#isVirtual()Z*
+
+stackij.ImageStack2isVirtual()*
+5
+6*ã
+8`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (!"|
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java ("
+
+stackij.ImageStack*²
+9`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (#™
+–
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (7
+%2java.lang.String[]"Wij.util.DicomTools#getSortStrings(Lij/ImageStack;Ljava/lang/String;)[Ljava/lang/String;*"
+ij.util.DicomTools*
+
+stackij.ImageStack*
+	0020,0013¦
+£
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (8
+stringsjava.lang.String[]"__id*
+
+%2java.lang.String[]*
+7
+8*ä
+10`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (#"|
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java ($
+
+stackij.ImageStack*›
+11`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (©¦
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (	
+%1int"ij.ImageStack#size()I*
+
+stackij.ImageStack2size()*
+9
+10*®
+12`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (¿
+¼
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (;
+
+%0void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*!
+Sorting by DICOM image number*
+11*à
+1`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (#"y
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.java (#
+
+%9ij.ImageStack:
+stackij.ImageStackB"
+ij.util.DicomTools

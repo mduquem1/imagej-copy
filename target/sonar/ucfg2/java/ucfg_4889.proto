@@ -1,0 +1,58 @@
+
+Wij.io.DragAndDropHandler#isSupportedTransferFlavor(Ljava/awt/datatransfer/DataFlavor;)Zf
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.javaZ Z()"5*î
+2f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java]9 ](?‚ÿ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java]9 ](M
+%4java.lang.String"@java.awt.datatransfer.DataFlavor#getMimeType()Ljava/lang/String;*,
+*
+flavor java.awt.datatransfer.DataFlavor2getMimeType()öó
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java]9 ](f
+%5boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%4java.lang.String*
+
+text/plain2startsWith(Ljava/lang/String;)*
+1*ô
+3f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java] ](‚ÿ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java] ](
+%2java.lang.String"@java.awt.datatransfer.DataFlavor#getMimeType()Ljava/lang/String;*,
+*
+flavor java.awt.datatransfer.DataFlavor2getMimeType()ùö
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java] ](5
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%2java.lang.String*
+text/uri-list2startsWith(Ljava/lang/String;)*
+2
+1*Œ
+4f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java\ \(–“
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java\ \($
+%1java.lang.Class"Jjava.awt.datatransfer.DataFlavor#getRepresentationClass()Ljava/lang/Class;*,
+*
+flavor java.awt.datatransfer.DataFlavor2getRepresentationClass()*
+3
+1*ø
+5f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java[	 [(‚ÿ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java[	 [(*
+%0boolean"<java.awt.datatransfer.DataFlavor#isFlavorJavaFileListType()Z*,
+*
+flavor java.awt.datatransfer.DataFlavor2isFlavorJavaFileListType()*
+4
+1*Ý
+1f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java[ ](i"p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/DragAndDropHandler.java[ ](i
+"":*
+flavor java.awt.datatransfer.DataFlavorB
+ij.io.DragAndDropHandler

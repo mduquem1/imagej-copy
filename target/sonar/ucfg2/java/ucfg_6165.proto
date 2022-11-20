@@ -1,0 +1,77 @@
+
++ij.Executer#openRecent(Ljava/lang/String;)Z[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaò ò("8*ı
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.java÷ ÷(³
+°
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.java÷ ÷(
+
+%5void"ij.IJ#open(Ljava/lang/String;)V*	"
+ij.IJ*
+
+cmdjava.lang.String"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaø ø(
+""*
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaö ö(ÓĞ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaö ö(
+%2java.awt.MenuItem"+java.awt.Menu#getItem(I)Ljava/awt/MenuItem;*
+
+menujava.awt.Menu*
+""2
+getItem(I)ÏÌ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaö ö(!
+%3java.lang.String".java.awt.MenuItem#getLabel()Ljava/lang/String;*
+
+%2java.awt.MenuItem2
+getLabel()îë
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaö ö(-
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%3java.lang.String*
+
+cmdjava.lang.String2equals(Ljava/lang/Object;)*
+3
+5*
+5[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaõ õ(³°
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaõ õ(%	
+%1int"java.awt.Menu#getItemCount()I*
+
+menujava.awt.Menu2getItemCount()*
+4
+1*Ç
+7[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaô ô("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaô ô(
+""*²
+8[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaó ó(°
+­
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaó ó('
+%0java.awt.Menu"+ij.Menus#getOpenRecentMenu()Ljava/awt/Menu;*"
+
+ij.Menus”
+‘
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaó ó((
+menujava.awt.Menu"__id*
+
+%0java.awt.Menu*
+5
+7*Ç
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaû	 û("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Executer.javaû û(
+"":
+cmdjava.lang.StringB
+ij.Executer

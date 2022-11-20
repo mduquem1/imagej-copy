@@ -1,0 +1,270 @@
+
+hij.plugin.filter.BackgroundSubtracter#slidingParaboloidFloatBackground(Lij/process/FloatProcessor;FZZZ)Vu
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaè	 è()"19*‰
+
+13u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java† †(&ì
+ê
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java†+ †(2	
+%6int"__id*
+""‹Ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java† †(3
+%7double"Nij.plugin.filter.BackgroundSubtracter#filter3x3(Lij/process/FloatProcessor;I)D*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+	
+%6int2'filter3x3(Lij/process/FloatProcessor;I)Ò
+Ó
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java° °(
+
+%8void"6ij.plugin.filter.BackgroundSubtracter#showProgress(D)V*)'
+%ij.plugin.filter.BackgroundSubtracter*
+""ì
+ê
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java¢ ¢(	
+%9int"__id*
+""›⁄
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java¢ ¢(
+%10double"Nij.plugin.filter.BackgroundSubtracter#filter3x3(Lij/process/FloatProcessor;I)D*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+	
+%9int2'filter3x3(Lij/process/FloatProcessor;I)*
+10
+11*√
+19u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaë" ë($˚¯
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaë" ë(0
+%0java.lang.Object"7ij.process.FloatProcessor#getPixels()Ljava/lang/Object;*!
+
+fpij.process.FloatProcessor2getPixels()€ÿ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaí í(!	
+%1int"%ij.process.ImageProcessor#getWidth()I*!
+
+fpij.process.FloatProcessor2
+getWidth()›⁄
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaì ì(#	
+%2int"&ij.process.ImageProcessor#getHeight()I*!
+
+fpij.process.FloatProcessor2getHeight()¬
+ø
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaî" î(9	
+%3int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*
+""¬
+ø
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaï" ï(9	
+%4int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*
+""Ò
+Ó
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaô ô(
+
+%5void"6ij.plugin.filter.BackgroundSubtracter#showProgress(D)V*)'
+%ij.plugin.filter.BackgroundSubtracter*
+""*
+13
+10
+11*∆&
+10u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java´ ´(î
+ë
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java´ ´( 
+
+%12int"__id*
+""¸˘
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java´ ´(;
+%13void"Rij.plugin.filter.BackgroundSubtracter#filter1D(Lij/process/FloatProcessor;IF[F[I)V*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+
+
+%12int*
+""*
+""*
+""2+filter1D(Lij/process/FloatProcessor;IF[F[I)î
+ë
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java¨ ¨( 
+
+%14int"__id*
+""¸˘
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java¨ ¨(;
+%15void"Rij.plugin.filter.BackgroundSubtracter#filter1D(Lij/process/FloatProcessor;IF[F[I)V*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+
+
+%14int*
+""*
+""*
+""2+filter1D(Lij/process/FloatProcessor;IF[F[I)î
+ë
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java≠ ≠( 
+
+%16int"__id*
+""¸˘
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java≠ ≠(;
+%17void"Rij.plugin.filter.BackgroundSubtracter#filter1D(Lij/process/FloatProcessor;IF[F[I)V*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+
+
+%16int*
+""*
+""*
+""2+filter1D(Lij/process/FloatProcessor;IF[F[I)î
+ë
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÆ Æ( 
+
+%18int"__id*
+""¸˘
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÆ Æ(?
+%19void"Rij.plugin.filter.BackgroundSubtracter#filter1D(Lij/process/FloatProcessor;IF[F[I)V*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+
+
+%18int*
+""*
+""*
+""2+filter1D(Lij/process/FloatProcessor;IF[F[I)î
+ë
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaØ Ø( 
+
+%20int"__id*
+""¸˘
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaØ Ø(?
+%21void"Rij.plugin.filter.BackgroundSubtracter#filter1D(Lij/process/FloatProcessor;IF[F[I)V*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+
+
+%20int*
+""*
+""*
+""2+filter1D(Lij/process/FloatProcessor;IF[F[I)î
+ë
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java∞ ∞( 
+
+%22int"__id*
+""¸˘
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java∞ ∞(?
+%23void"Rij.plugin.filter.BackgroundSubtracter#filter1D(Lij/process/FloatProcessor;IF[F[I)V*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+
+
+%22int*
+""*
+""*
+""2+filter1D(Lij/process/FloatProcessor;IF[F[I)î
+ë
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java± ±( 
+
+%24int"__id*
+""¸˘
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java± ±(?
+%25void"Rij.plugin.filter.BackgroundSubtracter#filter1D(Lij/process/FloatProcessor;IF[F[I)V*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+
+
+%24int*
+""*
+""*
+""2+filter1D(Lij/process/FloatProcessor;IF[F[I)î
+ë
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java≤ ≤( 
+
+%26int"__id*
+""¸˘
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java≤ ≤(?
+%27void"Rij.plugin.filter.BackgroundSubtracter#filter1D(Lij/process/FloatProcessor;IF[F[I)V*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+
+
+%26int*
+""*
+""*
+""2+filter1D(Lij/process/FloatProcessor;IF[F[I)î
+ë
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java≥ ≥( 
+
+%28int"__id*
+""¸˘
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java≥ ≥(?
+%29void"Rij.plugin.filter.BackgroundSubtracter#filter1D(Lij/process/FloatProcessor;IF[F[I)V*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+
+
+%28int*
+""*
+""*
+""2+filter1D(Lij/process/FloatProcessor;IF[F[I)*
+0*î
+0 "å
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaº º(
+implicit return*¸
+11u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java¶ ¶(¯ı
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java¶ ¶(8
+%11void"Wij.plugin.filter.BackgroundSubtracter#correctCorners(Lij/process/FloatProcessor;F[F[I)V*)'
+%ij.plugin.filter.BackgroundSubtracter*!
+
+fpij.process.FloatProcessor*
+""*
+""*
+""20correctCorners(Lij/process/FloatProcessor;F[F[I)*
+10:
+fpij.process.FloatProcessor:
+"":
+"":
+"":
+""B)'
+%ij.plugin.filter.BackgroundSubtracter

@@ -1,0 +1,108 @@
+
+-ij.gui.TextRoi#getScaledFont()Ljava/awt/Font;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÄ Ä("7*û
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÉ
+ É(œ
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÉ
+ É(
+%6java.awt.Font"__id**
+ij.gui.TextRoi"
+font"w
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÉ É(
+
+%6java.awt.Font*ˆ
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÈ È(š
+—
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÈ È(
+%5ij.ImagePlus"__id**
+ij.gui.TextRoi"
+imp*
+2
+1*§
+5^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÇ Ç(¹¶
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÇ Ç(!
+%4double"ij.gui.Roi#getMagnification()D*
+ij.gui.TextRoi2getMagnification()*
+2
+4*à
+6^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÆ Æ({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÆ  Æ(*	
+%1int"__id*
+""‡„
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÆ Æ(
+%2java.awt.Font"java.awt.FontÏ
+Ì
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÆ
+ Æ(/
+%3"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%2java.awt.Font*
+	SansSerif*
+	
+%1int*2œ
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÆ Æ(/
+ij.gui.TextRoi"
+font"__id*
+
+%2java.awt.Font*
+5*Š
+7^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÅ Å(
+œ
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÅ Å(
+
+%0java.awt.Font"__id**
+ij.gui.TextRoi"
+font*
+5
+6*ž
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaË
+ Ë(œ
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaË
+ Ë(
+%7java.awt.Font"__id**
+ij.gui.TextRoi"
+fontœ
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaË" Ë(&
+%8java.awt.Font"__id**
+ij.gui.TextRoi"
+fontª§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaË" Ë(0	
+%9int"java.awt.Font#getSize()I*
+
+%8java.awt.Font2	getSize()ÓÐ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaË
+ Ë(6
+%10java.awt.Font"*java.awt.Font#deriveFont(F)Ljava/awt/Font;*
+
+%7java.awt.Font*
+""2deriveFont(F)"x
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaË Ë(7
+
+%10java.awt.FontB
+ij.gui.TextRoi

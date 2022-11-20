@@ -1,0 +1,89 @@
+
+Dij.measure.ResultsTable#getTableAsImage()Lij/process/ImageProcessor;g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaë ë(&"17*Ù
+15g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javað ð(ÛØ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javað ð(
+%0boolean"(ij.measure.ResultsTable#columnExists(I)Z*
+ij.measure.ResultsTable*
+""2columnExists(I)*
+15
+10
+11*Ò
+4g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaû û(ìé
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaû û(1
+%4double"-ij.measure.ResultsTable#getValueAsDouble(II)D*
+ij.measure.ResultsTable*
+""*
+""2getValueAsDouble(II)ìé
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaû û(2
+
+%5void"$ij.process.FloatProcessor#setf(IIF)V*!
+
+fpij.process.FloatProcessor*
+""*
+""*
+
+%4double2	setf(IIF)*
+4
+1*™
+17g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaì ì(›
+˜
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaì ì(
+fpij.process.FloatProcessor"__id*
+""*
+15
+10
+11*§
+8g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaø ø(!¨¥
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaø ø(
+%2ij.process.FloatProcessor"ij.process.FloatProcessorÌ
+É
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaø ø((
+%3"%ij.process.FloatProcessor#<init>(II)V*!
+
+%2ij.process.FloatProcessor*
+""*
+""¶
+³
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaø ø((
+fpij.process.FloatProcessor"__id*!
+
+%2ij.process.FloatProcessor*
+4
+1*ß
+9g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java÷ ÷("q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java÷ ÷(
+""*µ
+10g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaö ö(½º
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaö ö(	
+%1int"ij.measure.ResultsTable#size()I*
+ij.measure.ResultsTable2size()*
+8
+9*à
+11g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaõ õ("q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaõ õ(
+""*û
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaý	 ý("Œ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaý ý(!
+
+fpij.process.FloatProcessorB
+ij.measure.ResultsTable

@@ -1,0 +1,80 @@
+
+Bij.plugin.FileInfoVirtualStack#validateNImages(Lij/io/FileInfo;J)In
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaì ì("8*Ì
+3n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaõ õ("x
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaõ õ(
+""*Ä
+4n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaô ô(¡æ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaô ô( 
+
+%5long"ij.io.FileInfo#getOffset()J*
+
+fiij.io.FileInfo2getOffset()ª∏
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaô4 ô(?
+
+%6long"ij.io.FileInfo#getGap()J*
+
+fiij.io.FileInfo2getGap()*	
+3
+4
+1*¥
+6n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaó ó(∂≥
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaó ó(
+
+%4long"java.io.File#length()J*
+
+fjava.io.File2length()*
+4
+1*Ì
+7n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javañ
+ ñ("x
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javañ ñ(
+""*Ø
+8n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaî î(‚ﬂ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaî î($
+%0java.lang.String".ij.io.FileInfo#getFilePath()Ljava/lang/String;*
+
+fiij.io.FileInfo2getFilePath()ïí
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaî î(
+%1java.io.File"java.io.File”
+–
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaî î(%
+%2"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%1java.io.File*
+
+%0java.lang.String¢
+ü
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaî î(&
+fjava.io.File"__id*
+
+%1java.io.Fileπ∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaï ï(
+%3boolean"java.io.File#exists()Z*
+
+fjava.io.File2exists()*
+6
+7*Ì
+1n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaù	 ù("x
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaù ù(
+"":
+fiij.io.FileInfo:
+""B" 
+ij.plugin.FileInfoVirtualStack

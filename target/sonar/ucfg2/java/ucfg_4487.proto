@@ -1,0 +1,142 @@
+
+!ij.gui.ShapeRoi#guessType(IDZZZ)I_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaï ï("37*†
+35_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaú ú($ß
+§
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaú0 ú(D
+%2double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+30
+31
+11
+1*Ô
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java™% ™((}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java™% ™(1
+
+%12int"__id*
+""Ñ
+Å
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java™% ™(1
+
+%10int"__id*
+
+
+%12int*
+1*ú
+37_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javañ ñ(|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javañ ñ(	
+%0int"__id*
+""≠
+™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaó ó(!
+%1boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+35
+1*Ô
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java™ ™(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java™ ™("
+
+%11int"__id*
+""Ñ
+Å
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java™ ™("
+
+%10int"__id*
+
+
+%11int*
+1*Î
+7_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java®% ®((|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java®% ®(1	
+%9int"__id*
+""Å
+
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java®% ®(1	
+%7int"__id*
+	
+%9int*
+1*Î
+8_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java® ®(|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java® ®("	
+%8int"__id*
+""Å
+
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java® ®("	
+%7int"__id*
+	
+%8int*
+1*Ï
+30_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java†! †($|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java†! †()	
+%5int"__id*
+""Å
+
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java†! †()	
+%3int"__id*
+	
+%5int*
+1*Ï
+31_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java† †(|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java† †(	
+%4int"__id*
+""Å
+
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java† †(	
+%3int"__id*
+	
+%4int*
+1*Ò
+11_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaß ß(|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaß ß( 	
+%6int"__id*
+""*
+3
+4
+7
+8*œ
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java≠	 ≠("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java≠ ≠(
+"":
+"":
+"":
+"":
+"":
+""B
+ij.gui.ShapeRoi

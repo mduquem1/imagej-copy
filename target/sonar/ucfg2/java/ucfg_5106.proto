@@ -1,0 +1,49 @@
+
+:ij.io.Opener#getName(Ljava/lang/String;)Ljava/lang/String;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¾ ¾("5*º
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÃ
+ Ã(ÜÙ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÃ
+ Ã(
+%2java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+pathjava.lang.String*
+""2substring(I)"x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÃ Ã(
+
+%2java.lang.String*®
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÁ Á(Â¿
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÁ Á(	
+%1int" java.lang.String#lastIndexOf(I)I*
+
+pathjava.lang.String*
+\\2lastIndexOf(I)*
+2
+1*°
+5\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¿
+ ¿(Á¾
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¿
+ ¿(	
+%0int" java.lang.String#lastIndexOf(I)I*
+
+pathjava.lang.String*
+/2lastIndexOf(I)*	
+2
+4
+1*Ý
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÅ
+ Å("z
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÅ Å(
+
+pathjava.lang.String:
+pathjava.lang.StringB
+ij.io.Opener

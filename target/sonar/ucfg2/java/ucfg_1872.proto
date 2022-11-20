@@ -1,0 +1,828 @@
+
+3ij.IJ#convert(Ljava/lang/String;)Ljava/lang/String;U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÐ Ð("5*Ó
+2U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‹
+ ‹("w
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‹ ‹(
+
+command2java.lang.String*Û
+3U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‰ ‰((š
+—
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‰ ‰((
+%109java.util.Hashtable"__id**
+ij.IJ"
+commandTable¼
+¹
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‰ ‰(5
+%110java.lang.Object"__mapGet*
+
+%109java.util.Hashtable*
+
+commandjava.lang.Stringš
+—
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‰ ‰(6
+command2java.lang.String"__id*
+
+%110java.lang.Object*
+2
+1*Ë—
+4U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÒ  Ò("Š‡
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÒ Ò(
+%1java.util.Hashtable"java.util.Hashtable£
+ 
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÒ Ò(#
+%2"java.util.Hashtable#<init>(I)V*
+
+%1java.util.Hashtable*2˜
+•
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÒ Ò(#
+ij.IJ"
+commandTable"__id*
+
+%1java.util.Hashtable˜
+•
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÓ Ó(
+%3java.util.Hashtable"__id**
+ij.IJ"
+commandTable³
+°
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÓ Ó()
+%4java.lang.Object"__mapSet*
+
+%3java.util.Hashtable*
+
+New...*
+
+Image...˜
+•
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÔ Ô(
+%5java.util.Hashtable"__id**
+ij.IJ"
+commandTable¹
+¶
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÔ Ô(/
+%6java.lang.Object"__mapSet*
+
+%5java.util.Hashtable*
+	Threshold*
+Make Binary˜
+•
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÕ Õ(
+%7java.util.Hashtable"__id**
+ij.IJ"
+commandTable¼
+¹
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÕ Õ(2
+%8java.lang.Object"__mapSet*
+
+%7java.util.Hashtable*
+
+Display...*
+Appearance...˜
+•
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÖ Ö(
+%9java.util.Hashtable"__id**
+ij.IJ"
+commandTableÉ
+Æ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÖ Ö(>
+%10java.lang.Object"__mapSet*
+
+%9java.util.Hashtable*
+Start Animation*
+Start Animation [\\]™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java× ×(
+%11java.util.Hashtable"__id**
+ij.IJ"
+commandTableÍ
+Ê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java× ×(A
+%12java.lang.Object"__mapSet*
+
+%11java.util.Hashtable*
+Convert Images to Stack*
+Images to Stack™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaØ Ø(
+%13java.util.Hashtable"__id**
+ij.IJ"
+commandTableÍ
+Ê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaØ Ø(A
+%14java.lang.Object"__mapSet*
+
+%13java.util.Hashtable*
+Convert Stack to Images*
+Stack to Images™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÙ Ù(
+%15java.util.Hashtable"__id**
+ij.IJ"
+commandTableÇ
+Ä
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÙ Ù(;
+%16java.lang.Object"__mapSet*
+
+%15java.util.Hashtable*
+Convert Stack to RGB*
+Stack to RGB™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÚ Ú(
+%17java.util.Hashtable"__id**
+ij.IJ"
+commandTableÉ
+Æ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÚ Ú(=
+%18java.lang.Object"__mapSet*
+
+%17java.util.Hashtable*
+Convert to Composite*
+Make Composite™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÛ Û(
+%19java.util.Hashtable"__id**
+ij.IJ"
+commandTable¾
+»
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÛ Û(2
+%20java.lang.Object"__mapSet*
+
+%19java.util.Hashtable*
+	RGB Split*
+Split Channels™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÜ Ü(
+%21java.util.Hashtable"__id**
+ij.IJ"
+commandTableÄ
+Á
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÜ Ü(8
+%22java.lang.Object"__mapSet*
+
+%21java.util.Hashtable*
+RGB Merge...*
+Merge Channels...™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÝ Ý(
+%23java.util.Hashtable"__id**
+ij.IJ"
+commandTableÂ
+¿
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÝ Ý(6
+%24java.lang.Object"__mapSet*
+
+%23java.util.Hashtable*
+Channels...*
+Channels Tool...™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÞ Þ(
+%25java.util.Hashtable"__id**
+ij.IJ"
+commandTable¶
+³
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÞ Þ(*
+%26java.lang.Object"__mapSet*
+
+%25java.util.Hashtable*	
+New... *
+
+Table...™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaß ß(
+%27java.util.Hashtable"__id**
+ij.IJ"
+commandTable¿
+¼
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaß ß(3
+%28java.lang.Object"__mapSet*
+
+%27java.util.Hashtable*
+Arbitrarily...*
+
+Rotate... ™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaà à(
+%29java.util.Hashtable"__id**
+ij.IJ"
+commandTableÁ
+¾
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaà à(5
+%30java.lang.Object"__mapSet*
+
+%29java.util.Hashtable*
+Measurements...*
+Results... ™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaá á(
+%31java.util.Hashtable"__id**
+ij.IJ"
+commandTableÇ
+Ä
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaá á(;
+%32java.lang.Object"__mapSet*
+
+%31java.util.Hashtable*
+List Commands...*
+Find Commands...™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaâ â(
+%33java.util.Hashtable"__id**
+ij.IJ"
+commandTableÄ
+Á
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaâ â(8
+%34java.lang.Object"__mapSet*
+
+%33java.util.Hashtable*
+Capture Screen *
+Capture Screen™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaã ã(
+%35java.util.Hashtable"__id**
+ij.IJ"
+commandTableÄ
+Á
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaã ã(8
+%36java.lang.Object"__mapSet*
+
+%35java.util.Hashtable*
+Add to Manager *
+Add to Manager™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaä ä(
+%37java.util.Hashtable"__id**
+ij.IJ"
+commandTable¯
+¬
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaä ä(#
+%38java.lang.Object"__mapSet*
+
+%37java.util.Hashtable*
+In*
+
+In [+]™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaå å(
+%39java.util.Hashtable"__id**
+ij.IJ"
+commandTable±
+®
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaå å(%
+%40java.lang.Object"__mapSet*
+
+%39java.util.Hashtable*
+Out*	
+Out [-]™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaæ æ(
+%41java.util.Hashtable"__id**
+ij.IJ"
+commandTableÊ
+Ç
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaæ æ(>
+%42java.lang.Object"__mapSet*
+
+%41java.util.Hashtable*
+Enhance Contrast*
+Enhance Contrast...™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaç ç(
+%43java.util.Hashtable"__id**
+ij.IJ"
+commandTableÊ
+Ç
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaç ç(>
+%44java.lang.Object"__mapSet*
+
+%43java.util.Hashtable*
+XY Coodinates... *
+XY Coordinates... ™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaè è(
+%45java.util.Hashtable"__id**
+ij.IJ"
+commandTable¾
+»
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaè è(2
+%46java.lang.Object"__mapSet*
+
+%45java.util.Hashtable*
+Statistics...*
+
+Statistics™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaé é(
+%47java.util.Hashtable"__id**
+ij.IJ"
+commandTableÈ
+Å
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaé é(<
+%48java.lang.Object"__mapSet*
+
+%47java.util.Hashtable*
+Channels Tool... *
+Channels Tool...™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaê ê(
+%49java.util.Hashtable"__id**
+ij.IJ"
+commandTableÆ
+Ã
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaê ê(:
+%50java.lang.Object"__mapSet*
+
+%49java.util.Hashtable*
+Profile Plot Options...*
+
+Plots...™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaë ë(
+%51java.util.Hashtable"__id**
+ij.IJ"
+commandTable¿
+¼
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaë ë(3
+%52java.lang.Object"__mapSet*
+
+%51java.util.Hashtable*
+AuPbSn 40 (56K)*
+	AuPbSn 40™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaì ì(
+%53java.util.Hashtable"__id**
+ij.IJ"
+commandTableÑ
+Î
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaì ì(E
+%54java.lang.Object"__mapSet*
+
+%53java.util.Hashtable*
+Bat Cochlea Volume (19K)*
+Bat Cochlea Volume™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaí í(
+%55java.util.Hashtable"__id**
+ij.IJ"
+commandTableÚ
+×
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaí í(N
+%56java.lang.Object"__mapSet*
+
+%55java.util.Hashtable*!
+Bat Cochlea Renderings (449K)*
+Bat Cochlea Renderings™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaî î(
+%57java.util.Hashtable"__id**
+ij.IJ"
+commandTable·
+´
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaî î(+
+%58java.lang.Object"__mapSet*
+
+%57java.util.Hashtable*
+Blobs (25K)*	
+Blobs™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaï ï(
+%59java.util.Hashtable"__id**
+ij.IJ"
+commandTable¸
+µ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaï ï(,
+%60java.lang.Object"__mapSet*
+
+%59java.util.Hashtable*
+Boats (356K)*	
+Boats™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javað ð(
+%61java.util.Hashtable"__id**
+ij.IJ"
+commandTableÑ
+Î
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javað ð(E
+%62java.lang.Object"__mapSet*
+
+%61java.util.Hashtable*
+Cardio (768K, RGB DICOM)*
+Cardio (RGB DICOM)™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javañ ñ(
+%63java.util.Hashtable"__id**
+ij.IJ"
+commandTableÃ
+À
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javañ ñ(7
+%64java.lang.Object"__mapSet*
+
+%63java.util.Hashtable*
+Cell Colony (31K)*
+Cell Colony™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaò ò(
+%65java.util.Hashtable"__id**
+ij.IJ"
+commandTable·
+´
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaò ò(+
+%66java.lang.Object"__mapSet*
+
+%65java.util.Hashtable*
+Clown (14K)*	
+Clown™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaó ó(
+%67java.util.Hashtable"__id**
+ij.IJ"
+commandTableÍ
+Ê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaó ó(A
+%68java.lang.Object"__mapSet*
+
+%67java.util.Hashtable*
+Confocal Series (2.2MB)*
+Confocal Series™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaô ô(
+%69java.util.Hashtable"__id**
+ij.IJ"
+commandTableÏ
+Ì
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaô ô(C
+%70java.lang.Object"__mapSet*
+
+%69java.util.Hashtable*
+CT (420K, 16-bit DICOM)*
+CT (16-bit DICOM)™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaõ õ(
+%71java.util.Hashtable"__id**
+ij.IJ"
+commandTable¼
+¹
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaõ õ(0
+%72java.lang.Object"__mapSet*
+
+%71java.util.Hashtable*
+Dot Blot (7K)*
+
+Dot Blot™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaö ö(
+%73java.util.Hashtable"__id**
+ij.IJ"
+commandTable»
+¸
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaö ö(/
+%74java.lang.Object"__mapSet*
+
+%73java.util.Hashtable*
+Embryos (42K)*	
+Embryos™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java÷ ÷(
+%75java.util.Hashtable"__id**
+ij.IJ"
+commandTableÐ
+Í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java÷ ÷(D
+%76java.lang.Object"__mapSet*
+
+%75java.util.Hashtable*
+Fluorescent Cells (400K)*
+Fluorescent Cells™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaø ø(
+%77java.util.Hashtable"__id**
+ij.IJ"
+commandTable¿
+¼
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaø ø(3
+%78java.lang.Object"__mapSet*
+
+%77java.util.Hashtable*
+Fly Brain (1MB)*
+	Fly Brain™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaù ù(
+%79java.util.Hashtable"__id**
+ij.IJ"
+commandTable´
+±
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaù ù((
+%80java.lang.Object"__mapSet*
+
+%79java.util.Hashtable*
+
+Gel (105K)*
+Gel™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaú ú(
+%81java.util.Hashtable"__id**
+ij.IJ"
+commandTableÛ
+Ø
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaú ú(O
+%82java.lang.Object"__mapSet*
+
+%81java.util.Hashtable*!
+HeLa Cells (1.3M, 48-bit RGB)*
+HeLa Cells (48-bit RGB)™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaû û(
+%83java.util.Hashtable"__id**
+ij.IJ"
+commandTableµ
+²
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaû û()
+%84java.lang.Object"__mapSet*
+
+%83java.util.Hashtable*
+
+Leaf (36K)*
+Leaf™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaü ü(
+%85java.util.Hashtable"__id**
+ij.IJ"
+commandTableÁ
+¾
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaü ü(5
+%86java.lang.Object"__mapSet*
+
+%85java.util.Hashtable*
+Line Graph (21K)*
+
+Line Graph™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaý ý(
+%87java.util.Hashtable"__id**
+ij.IJ"
+commandTableÑ
+Î
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaý ý(E
+%88java.lang.Object"__mapSet*
+
+%87java.util.Hashtable*
+Mitosis (26MB, 5D stack)*
+Mitosis (5D stack)™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaþ þ(
+%89java.util.Hashtable"__id**
+ij.IJ"
+commandTableÀ
+½
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaþ þ(4
+%90java.lang.Object"__mapSet*
+
+%89java.util.Hashtable*
+MRI Stack (528K)*
+	MRI Stack™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÿ ÿ(
+%91java.util.Hashtable"__id**
+ij.IJ"
+commandTableÕ
+Ò
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÿ ÿ(I
+%92java.lang.Object"__mapSet*
+
+%91java.util.Hashtable*
+M51 Galaxy (177K, 16-bits)*
+M51 Galaxy (16-bits)™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java€ €(
+%93java.util.Hashtable"__id**
+ij.IJ"
+commandTableÓ
+Ð
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java€ €(G
+%94java.lang.Object"__mapSet*
+
+%93java.util.Hashtable*
+Neuron (1.6M, 5 channels)*
+Neuron (5 channels)™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java (
+%95java.util.Hashtable"__id**
+ij.IJ"
+commandTableÀ
+½
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java (4
+%96java.lang.Object"__mapSet*
+
+%95java.util.Hashtable*
+Nile Bend (1.9M)*
+	Nile Bend™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‚ ‚(
+%97java.util.Hashtable"__id**
+ij.IJ"
+commandTableß
+Ü
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‚ ‚(S
+%98java.lang.Object"__mapSet*
+
+%97java.util.Hashtable*#!
+Organ of Corti (2.8M, 4D stack)*
+Organ of Corti (4D stack)™
+–
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaƒ ƒ(
+%99java.util.Hashtable"__id**
+ij.IJ"
+commandTableÀ
+½
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaƒ ƒ(3
+%100java.lang.Object"__mapSet*
+
+%99java.util.Hashtable*
+Particles (75K)*
+	Particlesš
+—
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java„ „(
+%101java.util.Hashtable"__id**
+ij.IJ"
+commandTableÑ
+Î
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java„ „(C
+%102java.lang.Object"__mapSet*
+
+%101java.util.Hashtable*
+T1 Head (2.4M, 16-bits)*
+T1 Head (16-bits)š
+—
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java… …(
+%103java.util.Hashtable"__id**
+ij.IJ"
+commandTableÔ
+Ñ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java… …(F
+%104java.lang.Object"__mapSet*
+
+%103java.util.Hashtable*
+T1 Head Renderings (736K)*
+T1 Head Renderingsš
+—
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java† †(
+%105java.util.Hashtable"__id**
+ij.IJ"
+commandTableÄ
+Á
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java† †(6
+%106java.lang.Object"__mapSet*
+
+%105java.util.Hashtable*
+TEM Filter (112K)*
+
+TEM Filterš
+—
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‡ ‡(
+%107java.util.Hashtable"__id**
+ij.IJ"
+commandTableÃ
+À
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java‡ ‡(5
+%108java.lang.Object"__mapSet*
+
+%107java.util.Hashtable*
+Tree Rings (48K)*
+
+Tree Rings*
+3*ý
+5U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÑ Ñ(˜
+•
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÑ Ñ(
+%0java.util.Hashtable"__id**
+ij.IJ"
+commandTable*
+3
+4*Ò
+1U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java
+ ("v
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java (
+
+commandjava.lang.String:
+commandjava.lang.StringB	"
+ij.IJ

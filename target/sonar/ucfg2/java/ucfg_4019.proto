@@ -1,0 +1,83 @@
+
+6ij.plugin.BMP_Writer#convertImage(Ljava/awt/Image;II)Zb
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.java ("10"11*¯
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaç( ç()á
+Ñ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaç( ç()	
+%7int"__id*
+	
+%9int*
+1*¯
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaç& ç('á
+Ñ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaç& ç('	
+%7int"__id*
+	
+%8int*
+1*∂	
+10d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaÑ Ñ(¶
+£
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaÑ Ñ(
+%3ij.ImagePlus"__id*!*
+ij.plugin.BMP_Writer"
+impËÂ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaÑ Ñ(-
+%4ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%3ij.ImagePlus2getProcessor()åâ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaÑ Ñ(A
+%5ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToByte(Z)Lij/process/ImageProcessor;*!
+
+%4ij.process.ImageProcessor*22convertToByte(Z)ÍÁ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaÑ Ñ(M
+%6java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+%5ij.process.ImageProcessor2getPixels()±
+Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaÑ Ñ(M&
+ij.plugin.BMP_Writer"
+
+byteBitmap"__id*
+
+%6java.lang.Object*
+2
+3*Û
+11d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaÇ Ç(¶
+£
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaÇ Ç(
+%0ij.ImagePlus"__id*!*
+ij.plugin.BMP_Writer"
+impËÂ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaÇ Ç(+
+%1ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%0ij.ImagePlus2getProcessor()ÍÁ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaÇ Ç(7
+%2java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+%1ij.process.ImageProcessor2getPixels()*
+2
+3*Ÿ
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaç ç(*"n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Writer.javaé é(
+"":
+parImagejava.awt.Image:
+"":
+""B
+ij.plugin.BMP_Writer

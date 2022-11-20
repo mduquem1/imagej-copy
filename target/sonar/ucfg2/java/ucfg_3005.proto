@@ -1,0 +1,55 @@
+
+#ij.gui.HistogramPlot#getXValues()[Dd
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaä ä("5*é
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaç ç(	°
+­
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaç ç(
+%2ij.measure.Calibration"__id*!*
+ij.gui.HistogramPlot"
+cal¶
+³
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaç ç(" 
+%3ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+stats¶
+³
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaç- ç(2 
+%4ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+statsÓÐ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaç ç(;
+%5double"$ij.measure.Calibration#getCValue(D)D*
+
+%2ij.measure.Calibration*
+""2getCValue(D)*
+4*ª
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaæ æ(¶
+³
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaæ æ( 
+%1ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+stats*
+3
+1*§
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaå å($¶
+³
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaå å($ 
+%0ij.process.ImageStatistics"__id*#*!
+ij.gui.HistogramPlot"
+stats*
+4*Ù
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaè	 è("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaè è(
+""B
+ij.gui.HistogramPlot

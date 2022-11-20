@@ -1,0 +1,44 @@
+
+Fij.LookUpTable#createGrayscaleColorModel(Z)Ljava/awt/image/ColorModel;\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/LookUpTable.javas s(3"10*ç
+10\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/LookUpTable.javat t(~
+|
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/LookUpTable.javat t(
+rLUTbyte[]"__id*
+""~
+|
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/LookUpTable.javau u(
+gLUTbyte[]"__id*
+""~
+|
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/LookUpTable.javav v(
+bLUTbyte[]"__id*
+""*
+1*£
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/LookUpTable.java„ „(©¦
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/LookUpTable.java„ „($
+%0java.awt.image.IndexColorModel"java.awt.image.IndexColorModel†
+ƒ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/LookUpTable.java„	 „(6
+%1"0java.awt.image.IndexColorModel#<init>(II[B[B[B)V*&
+$
+%0java.awt.image.IndexColorModel*2*2€*
+
+rLUTbyte[]*
+
+gLUTbyte[]*
+
+bLUTbyte[]"ˆ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/LookUpTable.java„ „(8&
+$
+%0java.awt.image.IndexColorModel:
+""B"
+ij.LookUpTable

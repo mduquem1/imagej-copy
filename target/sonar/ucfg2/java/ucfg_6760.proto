@@ -1,0 +1,65 @@
+
+[ij.process.ColorProcessor#getChannel(ILij/process/ByteProcessor;)Lij/process/ByteProcessor;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaü ü( "8"10*á
+7i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java£ £(ÌÍ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java£ £()
+%4java.lang.Object"6ij.process.ByteProcessor#getPixels()Ljava/lang/Object;* 
+
+bpij.process.ByteProcessor2getPixels()°
+û
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java£ £(*
+bPixelsbyte[]"__id*
+
+%4java.lang.Object*
+1*¶
+8i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java¢ ¢(®•
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java¢ ¢(
+%2ij.process.ByteProcessor"ij.process.ByteProcessorÃ
+…
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java¢ ¢((
+%3"$ij.process.ByteProcessor#<init>(II)V* 
+
+%2ij.process.ByteProcessor*
+""*
+""∂
+≥
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java¢ ¢((
+bpij.process.ByteProcessor"__id* 
+
+%2ij.process.ByteProcessor*
+7*…
+9i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java°, °(.–Õ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java°, °(:	
+%1int"&ij.process.ImageProcessor#getHeight()I* 
+
+bpij.process.ByteProcessor2getHeight()*
+7
+8*»
+10i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java° °(ŒÀ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java° °(!	
+%0int"%ij.process.ImageProcessor#getWidth()I* 
+
+bpij.process.ByteProcessor2
+getWidth()*
+8
+9*˛
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java®	 ®("ç
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java® ®( 
+
+bpij.process.ByteProcessor:
+"":
+bpij.process.ByteProcessorB
+ij.process.ColorProcessor

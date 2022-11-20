@@ -2189,14 +2189,16 @@ public abstract class ImageProcessor implements Cloneable {
 	*/
 	public abstract void snapshot();
 
-	/** Restores the pixel data from the snapshot (undo) buffer. */
+	/** Restores the pixel data from the snapshot (undo) buffer. 
+	 * @return */
 	public abstract void reset();
 
 	/** Swaps the pixel and snapshot (undo) buffers. */
 	public abstract void swapPixelArrays();
 
 	/** Restores pixels from the snapshot buffer that are
-		within the rectangular roi but not part of the mask. */
+		within the rectangular roi but not part of the mask. 
+	 * @return */
 	public abstract void reset(ImageProcessor mask);
 
 	/** Sets a new pixel array for the snapshot (undo) buffer. */
@@ -2820,7 +2822,7 @@ public abstract class ImageProcessor implements Cloneable {
 	 * @see ij.ImagePlus#getAllStatistics
 	*/
 	public ImageStatistics getStatistics() {
-		return ImageStatistics.getStatistics(this, Measurements.ALL_STATS, null);
+		return ImageStatistics.getStatistics(this, Measurements.ALL_STATS, null, null);
 	}
 
 	/** Blurs the image by convolving with a Gaussian function. */

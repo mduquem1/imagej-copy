@@ -1,0 +1,98 @@
+
+Lij.io.SaveDialog#getPath(Lij/ImagePlus;Ljava/lang/String;)Ljava/lang/String;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java‡ ‡("4"5*—
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java‰
+ ‰("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java‰ ‰(
+""*¬
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java· ·(5†
+ù
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java· ·(5
+titlejava.lang.String"__id*
+
+%0java.lang.Stringèå
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java‚ ‚( 
+%3ij.io.SaveDialog"ij.io.SaveDialog¢
+ü
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java‚ ‚(=
+%4"Pij.io.SaveDialog#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*
+
+%3ij.io.SaveDialog*	
+Save As*
+
+titlejava.lang.String*
+
+	extensionjava.lang.Stringù
+ö
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java‚ ‚(>
+sdij.io.SaveDialog"__id*
+
+%3ij.io.SaveDialogÿ’
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java„ „(
+%5java.lang.String"0ij.io.SaveDialog#getFileName()Ljava/lang/String;*
+
+sdij.io.SaveDialog2getFileName()*
+2
+1*ä
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java·* ·(4ù
+ö
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java·* ·(4
+%0java.lang.String"__id*
+
+%2java.lang.String*
+3*ÿ
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java· ·(À»
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java· ·()
+%1java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()ù
+ö
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.java· ·()
+%0java.lang.String"__id*
+
+%1java.lang.String*
+3*Ÿ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÊ
+ Ê(⁄◊
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÊ
+ Ê(
+%6java.lang.String"1ij.io.SaveDialog#getDirectory()Ljava/lang/String;*
+
+sdij.io.SaveDialog2getDirectory()ÿ’
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÊ Ê(,
+%7java.lang.String"0ij.io.SaveDialog#getFileName()Ljava/lang/String;*
+
+sdij.io.SaveDialog2getFileName()ª
+∏
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÊ
+ Ê(,
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+
+%7java.lang.String"|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/SaveDialog.javaÊ Ê(-
+
+%8java.lang.String:
+impij.ImagePlus:
+	extensionjava.lang.StringB"
+ij.io.SaveDialog

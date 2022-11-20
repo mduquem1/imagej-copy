@@ -1,0 +1,106 @@
+
+5ij.plugin.ScreenGrabber#captureScreen()Lij/ImagePlus;e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java- -("10*ç
+3e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java3 3(8õ
+ò
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java3 3(8
+impij.ImagePlus"__id*
+
+%5ij.ImagePlus*
+1*Í
+4e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java3& 3(2åâ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java3 3(%
+%5ij.ImagePlus"ij.ImagePlusÈ
+Ê
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java3 3(8
+%6"8ij.ImagePlus#<init>(Ljava/lang/String;Ljava/awt/Image;)V*
+
+%5ij.ImagePlus*
+
+Screenshot*
+
+imgjava.awt.Image*
+3*¢
+5e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java2 2(,≠
+™
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java2 2(,
+imgjava.awt.Image"__id*$
+"
+%4java.awt.image.BufferedImage*
+4
+1*·
+6e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java1 1(7•
+¢
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java1 1(7
+rjava.awt.Rectangle"__id*
+
+%3java.awt.Rectangle«ƒ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java2 2(+"
+%4java.awt.image.BufferedImage"Vjava.awt.Robot#createScreenCapture(Ljava/awt/Rectangle;)Ljava/awt/image/BufferedImage;*
+
+robotjava.awt.Robot*
+
+rjava.awt.Rectangle2)createScreenCapture(Ljava/awt/Rectangle;)*
+5*ﬂ
+7e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java1 1(6Ì
+Í
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java1 1(6
+%3java.awt.Rectangle"Dij.gui.GUI#getScreenBounds(Ljava/awt/Component;)Ljava/awt/Rectangle;*"
+
+ij.gui.GUI*
+
+%2	ij.ImageJ*
+6*º
+8e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java0 0(°
+û
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java0 0(
+robotjava.awt.Robot"__id*
+
+%0java.awt.Robot¶
+£
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java1% 1(5
+%2	ij.ImageJ"ij.IJ#getInstance()Lij/ImageJ;*	"
+ij.IJ*
+7*ß
+9e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java0 0(êç
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java0 0(
+%0java.awt.Robot"java.awt.Robot¢
+ü
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java0 0(
+%1"java.awt.Robot#<init>()V*
+
+%0java.awt.Robot*
+8*Ä
+10e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java. .(ç
+ä
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java. .(
+impij.ImagePlus"__id*
+""*
+9*Í
+1e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java5	 5("~
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScreenGrabber.java5 5(
+
+impij.ImagePlusB
+ij.plugin.ScreenGrabber

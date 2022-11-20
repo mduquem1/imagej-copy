@@ -1432,7 +1432,7 @@ public class ColorThresholder extends PlugInFrame implements PlugIn, Measurement
 	
 		void setHistogram(ImagePlus imp, int j) {
 			ImageProcessor ip = imp.getProcessor();
-			ImageStatistics stats = ImageStatistics.getStatistics(ip, AREA+MODE, null);
+			ImageStatistics stats = ImageStatistics.getStatistics(ip, AREA+MODE, null, null);
 			int maxCount2 = 0;
 			histogram = stats.histogram;
 			for (int i = 0; i < stats.nBins; i++)

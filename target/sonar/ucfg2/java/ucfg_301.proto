@@ -1,0 +1,195 @@
+
+[ij.plugin.filter.EDM#makeFloatEDM(Lij/process/ImageProcessor;IZ)Lij/process/FloatProcessor;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaé é(&"35*≥
+35d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaè è( «
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaè è(!	
+%0int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()Ã…
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaê ê(#	
+%1int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()•¢
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaë  ë(.
+%2ij.process.FloatProcessor"ij.process.FloatProcessor…
+∆
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaë ë(=
+%3"%ij.process.FloatProcessor#<init>(II)V*!
+
+%2ij.process.FloatProcessor*
+""*
+""≥
+∞
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaë ë(>
+fpij.process.FloatProcessor"__id*!
+
+%2ij.process.FloatProcessorÍÁ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaí! í(/
+%4java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2getPixels()ú
+ô
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaí í(0
+bPixelsbyte[]"__id*
+
+%4java.lang.ObjectÍÁ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaì# ì(1
+%5java.lang.Object"7ij.process.FloatProcessor#getPixels()Ljava/lang/Object;*!
+
+fpij.process.FloatProcessor2getPixels()*
+33
+34*∑
+16d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaß ß(æ
+ª
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaß ß(-
+%13void"$ij.plugin.filter.EDM#addProgress(D)V*
+ij.plugin.filter.EDM*
+""*
+
+6
+19
+1*˙
+27d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaõ$ õ(%Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaú ú(%	
+%9int"__id*
+""*
+
+6
+19
+1*⁄
+17d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java¶C ¶(G"n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java¶< ¶(H
+""*é
+18d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java¶ ¶(Ã
+…
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java¶ ¶(*
+%11java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread»≈
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java¶ ¶(:
+%12boolean"!java.lang.Thread#isInterrupted()Z*
+
+%11java.lang.Thread2isInterrupted()*
+16
+17*á
+19d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java§ §(ä
+á
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java§ §([
+%10void"+ij.plugin.filter.EDM#edmLine([B[F[[IIIIII)V*
+ij.plugin.filter.EDM*
+
+bPixelsbyte[]*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+6
+18
+19
+1*º
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java∏ ∏(
+ƒ¡
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java∏ ∏(
+%18void"!ij.process.FloatProcessor#sqrt()V*!
+
+fpij.process.FloatProcessor2sqrt()"â
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaπ π(!
+
+fpij.process.FloatProcessor*≤
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java¥ ¥(æ
+ª
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java¥ ¥(-
+%17void"$ij.plugin.filter.EDM#addProgress(D)V*
+ij.plugin.filter.EDM*
+""*
+6
+1*Ÿ
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java≥C ≥(G"n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java≥< ≥(H
+""*ã
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java≥ ≥(Ã
+…
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java≥ ≥(*
+%15java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread»≈
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java≥ ≥(:
+%16boolean"!java.lang.Thread#isInterrupted()Z*
+
+%15java.lang.Thread2isInterrupted()*
+3
+4*Å
+6d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java± ±(ä
+á
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.java± ±([
+%14void"+ij.plugin.filter.EDM#edmLine([B[F[[IIIIII)V*
+ij.plugin.filter.EDM*
+
+bPixelsbyte[]*
+""*
+""*
+""*
+""*
+""*
+""*
+""*	
+5
+6
+1*˝
+33d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javañP ñ(Qä
+á
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javañP ñ(Q
+%6double"__id*
+	
+%8int*
+27*Ä
+34d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javañ9 ñ(<ç
+ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javañ9 ñ(M
+%6double"__id*
+
+%7double*
+27:
+ipij.process.ImageProcessor:
+"":
+""B
+ij.plugin.filter.EDM

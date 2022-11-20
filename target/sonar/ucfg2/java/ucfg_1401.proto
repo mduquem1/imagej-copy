@@ -1,0 +1,314 @@
+
+%ij.io.ImageReader#lzwUncompress([B)[Ba
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaï ï("26"27*⁄
+13a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaØ Ø(§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaØ Ø(
+%11byte[]"
+__arrayGet*
+
+symbolTablebyte[][]*
+""√¿
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaØ Ø(
+%12void"ij.io.ByteVector#add([B)V*
+
+outij.io.ByteVector*
+
+%11byte[]2add([B)*
+25*Æ
+24a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java£
+ £(ª∏
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java£
+ £( 	
+%5int"ij.io.BitBuffer#getBits(I)I*
+
+bbij.io.BitBuffer*
+""2
+getBits(I)~
+|
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java§ §(	
+%6int"__id*
+""*
+21
+1*°
+25a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¢	 ¢(Æ´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¢	 ¢(	
+%4int"ij.io.ByteVector#size()I*
+
+outij.io.ByteVector2size()*
+24
+1*„
+26a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaò" ò('ç
+ä
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaò ò(,
+symbolTablebyte[][]"__id*
+""êç
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaù ù(!
+%0ij.io.ByteVector"ij.io.ByteVector™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaù ù('
+%1"ij.io.ByteVector#<init>(I)V*
+
+%0ij.io.ByteVector*2Ä@ü
+ú
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaù ù((
+outij.io.ByteVector"__id*
+
+%0ij.io.ByteVectoréã
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaû û(
+%2ij.io.BitBuffer"ij.io.BitBufferµ
+≤
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaû û(%
+%3"ij.io.BitBuffer#<init>([B)V*
+
+%2ij.io.BitBuffer*
+
+inputbyte[]ú
+ô
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaû û(&
+bbij.io.BitBuffer"__id*
+
+%2ij.io.BitBufferã
+à
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaü ü($
+byteBuffer1byte[]"__id*
+""ã
+à
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java† †($
+byteBuffer2byte[]"__id*
+""*
+25*Ø
+16a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java™ ™(ª∏
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¨ ¨(!	
+%9int"ij.io.BitBuffer#getBits(I)I*
+
+bbij.io.BitBuffer*
+""2
+getBits(I)
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java≠ ≠(
+
+%10int"__id*
+""*
+13
+1*ﬂ
+27a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaó
+ ó("v
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaó ó(
+
+inputbyte[]*ó
+18a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java© ©(£
+†
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java© ©(
+%8byte[]"
+__arrayGet*
+
+symbolTablebyte[][]*
+""*
+16
+18*õ
+8a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaø( ø(3ëé
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaø ø('
+%23ij.io.ByteVector"ij.io.ByteVectorø
+º
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaø ø(4
+%24"ij.io.ByteVector#<init>([B)V*
+
+%23ij.io.ByteVector*
+
+byteBuffer2byte[]£
+†
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaø ø(5
+symbolij.io.ByteVector"__id*
+
+%23ij.io.ByteVector§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¿ ¿($
+%25byte[]"
+__arrayGet*
+
+symbolTablebyte[][]*
+""∆√
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¿ ¿(%
+%26void"ij.io.ByteVector#add([B)V*
+
+symbolij.io.ByteVector*
+
+%25byte[]2add([B)§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¡ ¡($
+%27byte[]"
+__arrayGet*
+
+symbolTablebyte[][]*
+""ª∏
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¡ ¡((
+%28void"ij.io.ByteVector#add(B)V*
+
+symbolij.io.ByteVector*
+""2add(B)ƒ¡
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¬ ¬(,
+%29byte[]" ij.io.ByteVector#toByteArray()[B*
+
+symbolij.io.ByteVector2toByteArray()í
+è
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¬ ¬(-
+	outStringbyte[]"__id*
+
+%29byte[]…∆
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java√ √(
+%30void"ij.io.ByteVector#add([B)V*
+
+outij.io.ByteVector*
+
+	outStringbyte[]2add([B)≥
+∞
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaƒ ƒ((
+%31"
+__arraySet*
+
+symbolTablebyte[][]*
+""*
+
+	outStringbyte[]*
+25*°
+9a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaµ µ(§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaµ µ(
+%13byte[]"
+__arrayGet*
+
+symbolTablebyte[][]*
+""√¿
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaµ µ(
+%14void"ij.io.ByteVector#add([B)V*
+
+outij.io.ByteVector*
+
+%13byte[]2add([B)ëé
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java∑ ∑('
+%15ij.io.ByteVector"ij.io.ByteVectorø
+º
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java∑ ∑(4
+%16"ij.io.ByteVector#<init>([B)V*
+
+%15ij.io.ByteVector*
+
+byteBuffer1byte[]£
+†
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java∑ ∑(5
+symbolij.io.ByteVector"__id*
+
+%15ij.io.ByteVector§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java∏ ∏($
+%17byte[]"
+__arrayGet*
+
+symbolTablebyte[][]*
+""∆√
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java∏ ∏(%
+%18void"ij.io.ByteVector#add([B)V*
+
+symbolij.io.ByteVector*
+
+%17byte[]2add([B)§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaπ π(!
+%19byte[]"
+__arrayGet*
+
+symbolTablebyte[][]*
+""ª∏
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaπ π(%
+%20void"ij.io.ByteVector#add(B)V*
+
+symbolij.io.ByteVector*
+""2add(B)ƒ¡
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java∫ ∫(3
+%21byte[]" ij.io.ByteVector#toByteArray()[B*
+
+symbolij.io.ByteVector2toByteArray()≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java∫ ∫(3
+%22"
+__arraySet*
+
+symbolTablebyte[][]*
+""*
+
+%21byte[]*
+25*˜
+21a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¶ ¶(~
+|
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java¶ ¶(	
+%7int"__id*
+""*
+16
+18
+8
+9*†
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÕ	 Õ(¡æ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÕ	 Õ(
+%32byte[]" ij.io.ByteVector#toByteArray()[B*
+
+outij.io.ByteVector2toByteArray()"t
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaÕ Õ(
+
+%32byte[]:
+inputbyte[]B
+ij.io.ImageReader

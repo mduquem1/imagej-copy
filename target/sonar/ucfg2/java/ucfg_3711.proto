@@ -1,0 +1,88 @@
+
+5ij.ImagePlus#getCalibration()Lij/measure/Calibration;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaâ â(""6*˜
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaë" ë(&óî
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaë ë(!
+%5ij.measure.Calibration"ij.measure.Calibration…
+∆
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaë ë('
+%6".ij.measure.Calibration#<init>(Lij/ImagePlus;)V*
+
+%5ij.measure.Calibration*
+ij.ImagePlus®
+•
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaë ë('
+ij.ImagePlus"
+calibration"__id*
+
+%5ij.measure.Calibration*
+1*î
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaê ê(®
+•
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaê ê(
+%4ij.measure.Calibration"__id*!*
+ij.ImagePlus"
+calibration*
+2
+1*â
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaå å(%Æ
+´
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaå å(%
+%1ij.measure.Calibration"__id*'*%
+ij.ImagePlus"
+globalCalibrationﬁ€
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaå å(,
+%2ij.measure.Calibration"5ij.measure.Calibration#copy()Lij/measure/Calibration;*
+
+%1ij.measure.Calibration2copy()•
+¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaå å(-
+gcij.measure.Calibration"__id*
+
+%2ij.measure.CalibrationÎË
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaç ç(
+
+%3void"0ij.measure.Calibration#setImage(Lij/ImagePlus;)V*
+
+gcij.measure.Calibration*
+ij.ImagePlus2setImage(Lij/ImagePlus;)"~
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(
+
+gcij.measure.Calibration*ö
+6\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaã ã(Æ
+´
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaã ã(
+%0ij.measure.Calibration"__id*'*%
+ij.ImagePlus"
+globalCalibration*
+3
+4*å
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaí
+ í(®
+•
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaí
+ í(
+%7ij.measure.Calibration"__id*!*
+ij.ImagePlus"
+calibration"~
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaí í(
+
+%7ij.measure.CalibrationB
+ij.ImagePlus

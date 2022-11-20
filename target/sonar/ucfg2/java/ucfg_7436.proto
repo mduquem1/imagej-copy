@@ -1,0 +1,31 @@
+
+7ij.gui.ImageWindow#getMaxWindow(II)Ljava/awt/Rectangle;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.javaü ü("1*Ÿ
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.javaı	 ı(Š
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.javaı$ ı()
+%0java.awt.Point"java.awt.Point±
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.javaı  ı(5
+%1"java.awt.Point#<init>(II)V*
+
+%0java.awt.Point*
+""*
+""î
+ë
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.javaı	 ı(6
+%2java.awt.Rectangle"Cij.gui.GUI#getMaxWindowBounds(Ljava/awt/Point;)Ljava/awt/Rectangle;*"
+
+ij.gui.GUI*
+
+%0java.awt.Point"€
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.javaı ı(7
+
+%2java.awt.Rectangle:
+"":
+""B
+ij.gui.ImageWindow

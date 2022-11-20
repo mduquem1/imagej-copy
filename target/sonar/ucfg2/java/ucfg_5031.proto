@@ -1,0 +1,63 @@
+
+8ij.CompositeImage#createLutFromBytes([B)Lij/process/LUT;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java” ”("13"14*ı
+13a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java÷ ÷(Ä
+~
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java÷ ÷(
+rbyte[]"__id*
+""Ä
+~
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java◊ ◊(
+gbyte[]"__id*
+""Ä
+~
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÿ ÿ(
+bbyte[]"__id*
+""*
+1*ç
+14a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java’
+ ’(ä
+á
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java’ ’((
+%0java.awt.Color"__id*
+""ôñ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java’
+ ’()
+%1ij.process.LUT"Fij.CompositeImage#createLutFromColor(Ljava/awt/Color;)Lij/process/LUT;*
+ij.CompositeImage*
+
+%0java.awt.Color2$createLutFromColor(Ljava/awt/Color;)"{
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java’ ’(*
+
+%1ij.process.LUT*∆
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java‹ ‹(åâ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java‹ ‹(
+%2ij.process.LUT"ij.process.LUT—
+Œ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java‹	 ‹(
+%3"ij.process.LUT#<init>([B[B[B)V*
+
+%2ij.process.LUT*
+
+rbyte[]*
+
+gbyte[]*
+
+bbyte[]"{
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java‹ ‹(
+
+%2ij.process.LUT:
+bytesbyte[]B
+ij.CompositeImage

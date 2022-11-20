@@ -76,7 +76,7 @@ public class OverlayCommands implements PlugIn {
 				ImageStatistics stats = null;
 				if (roi0!=null) {
 					ImageProcessor ip = imp.getProcessor();
-					stats = ImageStatistics.getStatistics(ip, Measurements.CENTROID, null);
+					stats = ImageStatistics.getStatistics(ip, Measurements.CENTROID, null, null);
 				}
 				if (stats==null || roi0.contains((int)stats.xCentroid,(int)stats.yCentroid)) {
 					if (stats!=null)

@@ -1,0 +1,30 @@
+
+3ij.plugin.FolderOpener#useInfo(Ljava/lang/String;)Zf
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java… …("4"1*ñ
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java†6 †(:þû
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java†6 †(Y
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+infojava.lang.String*
+ImageDescription2startsWith(Ljava/lang/String;)*
+1*ì
+4f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java† †(öó
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java† †(4
+%0boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+infojava.lang.String*
+
+Software2startsWith(Ljava/lang/String;)*
+3
+1*Ý
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java† †(["p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java† †([
+"":
+infojava.lang.StringB"
+ij.plugin.FolderOpener

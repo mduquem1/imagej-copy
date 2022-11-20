@@ -1,0 +1,631 @@
+
+,ij.plugin.Slicer#showDialog(Lij/ImagePlus;)Z`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÖ	 Ö("35*´
+24`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javañ ñ(¡æ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javañ ñ(>
+%9java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+ 
+macroOptionsjava.lang.String*
+
+slice=*	
+output=20replaceAll(Ljava/lang/String;Ljava/lang/String;)ß
+§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javañ ñ(> 
+macroOptionsjava.lang.String"__id*
+
+%9java.lang.StringŒ
+À
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaó ó(!
+%10void"(ij.Macro#setOptions(Ljava/lang/String;)V*"
+
+ij.Macro*"
+ 
+macroOptionsjava.lang.String*
+22*ﬂ
+25`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaï ï(∆√
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaï ï(D
+%8java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+ 
+macroOptionsjava.lang.String*
+
+slice=*
+slice_count=20replaceAll(Ljava/lang/String;Ljava/lang/String;)ß
+§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaï ï(D 
+macroOptionsjava.lang.String"__id*
+
+%8java.lang.String*
+24*ﬂ
+26`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaî î(ÏÈ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaî î(%	
+%7int"-java.lang.String#indexOf(Ljava/lang/String;)I*"
+ 
+macroOptionsjava.lang.String*
+
+input=2indexOf(Ljava/lang/String;)*
+24
+25*—
+27`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaë ë(¥
+±
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaë ë(*
+%6java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macroß
+§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaë ë(+ 
+macroOptionsjava.lang.String"__id*
+
+%6java.lang.String*
+26
+23*’
+28`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaê ê(Ê„
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaê ê(
+
+%5void",ij.plugin.Slicer#saveLineInfo(Lij/gui/Roi;)V*
+ij.plugin.Slicer*
+
+roi
+ij.gui.Roi2saveLineInfo(Lij/gui/Roi;)*
+27*ô
+30`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaè è(!ß§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaè è(+	
+%3int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()}
+{
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaè- è(5	
+%4int"__id*
+""*
+27
+28*«
+31`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaå å(ª∏
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaé é(
+%2
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()í
+è
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaé é(
+roi
+ij.gui.Roi"__id*
+
+%2
+ij.gui.Roi*
+27
+28
+30*Ê
+10`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java∏ ∏(„‡
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java∏ ∏("
+%55java.awt.Component"5ij.gui.GenericDialog#getMessage()Ljava/awt/Component;*
+
+gdij.gui.GenericDialog2getMessage()©
+¶
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java∏ ∏("
+ij.plugin.Slicer"	
+message"__id*
+
+%55java.awt.Componentå
+â
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaπ π(
+%56java.lang.String"__id*
+""«
+ƒ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaπ π(4
+%57java.lang.String"__concat*
+
+%56java.lang.String*" 
+/docs/menus/image.html#reslice˚¯
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaπ π(5
+%58void"1ij.gui.GenericDialog#addHelp(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%57java.lang.String2addHelp(Ljava/lang/String;)¬ø
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java∫ ∫(
+%59void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()«ƒ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaª ª(
+%60boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+8
+9*Ò
+33`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaâ â(ﬂ‹
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaâ â(
+%1java.lang.String"3ij.measure.Calibration#getUnits()Ljava/lang/String;*
+
+calij.measure.Calibration2
+getUnits()†
+ù
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaâ â( 
+unitsjava.lang.String"__id*
+
+%1java.lang.String*
+31*ì
+11`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java∑ ∑(™
+ß
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java∑ ∑(
+%52java.util.Vector"__id*$*"
+ij.plugin.Slicer"
+
+checkboxesﬁ€
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java∑ ∑(%
+%53java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%52java.util.Vector*22elementAt(I)ñì
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java∑ ∑(<
+%54void"Ajava.awt.Checkbox#addItemListener(Ljava/awt/event/ItemListener;)V*
+
+%53java.lang.Object*
+ij.plugin.Slicer2.addItemListener(Ljava/awt/event/ItemListener;)*
+10*Ö
+12`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaµ µ(Â‚
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaµ µ(!
+%51java.util.Vector"6ij.gui.GenericDialog#getCheckboxes()Ljava/util/Vector;*
+
+gdij.gui.GenericDialog2getCheckboxes()™
+ß
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaµ µ(!"
+ij.plugin.Slicer"
+
+checkboxes"__id*
+
+%51java.util.Vector*
+10
+11*ˇ
+35`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÜ Ü(„‡
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÜ Ü((
+%0ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()™
+ß
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÜ Ü()
+calij.measure.Calibration"__id*
+
+%0ij.measure.Calibration*
+33*ñ
+14`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java≥ ≥(¶
+£
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java≥ ≥(
+%48java.util.Vector"__id* *
+ij.plugin.Slicer"
+fields‡›
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java≥ ≥(#
+%49java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%48java.util.Vector*
+""2elementAt(I)õò
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java≥ ≥(:
+%50void"Fjava.awt.TextComponent#addTextListener(Ljava/awt/event/TextListener;)V*
+
+%49java.lang.Object*
+ij.plugin.Slicer2.addTextListener(Ljava/awt/event/TextListener;)*
+15* 
+15`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java≤ ≤(¶
+£
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java≤ ≤(
+%46java.util.Vector"__id* *
+ij.plugin.Slicer"
+fieldsÆ´
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java≤ ≤( 
+
+%47int"java.util.Vector#size()I*
+
+%46java.util.Vector2size()*
+14
+12*Ï*
+17`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¶ ¶(áÑ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¶ ¶()
+%22void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Flip vertically*
+""2 addCheckbox(Ljava/lang/String;Z)âÜ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaß ß(-
+%23void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Rotate 90 degrees*
+""2 addCheckbox(Ljava/lang/String;Z)ãà
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java® ®(6
+%24void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Avoid interpolation*
+""2 addCheckbox(Ljava/lang/String;Z)‘—
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java© ©(
+%25void"$ij.gui.GenericDialog#setInsets(III)V*
+
+gdij.gui.GenericDialog*2 *2 *2 2setInsets(III)Å˛
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java™ ™((
+%26void"4ij.gui.GenericDialog#addMessage(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+(use 1 pixel spacing)2addMessage(Ljava/lang/String;)‘—
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´ ´(
+%27void"$ij.gui.GenericDialog#setInsets(III)V*
+
+gdij.gui.GenericDialog*2*2 *2 2setInsets(III)œÃ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¨ ¨(2
+%28java.lang.String")ij.plugin.Slicer#d2s(D)Ljava/lang/String;*
+ij.plugin.Slicer*
+""2d2s(D)µ
+≤
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¨ ¨(2
+%29java.lang.String"__concat*
+Voxel size: *
+
+%28java.lang.String™
+ß
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¨ ¨(6
+%30java.lang.String"__concat*
+
+%29java.lang.String*
+xœÃ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¨7 ¨(K
+%31java.lang.String")ij.plugin.Slicer#d2s(D)Ljava/lang/String;*
+ij.plugin.Slicer*
+""2d2s(D)æ
+ª
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¨ ¨(K
+%32java.lang.String"__concat*
+
+%30java.lang.String*
+
+%31java.lang.String™
+ß
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¨ ≠(
+%33java.lang.String"__concat*
+
+%32java.lang.String*
+xœÃ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java≠ ≠(
+%34java.lang.String")ij.plugin.Slicer#d2s(D)Ljava/lang/String;*
+ij.plugin.Slicer*
+""2d2s(D)æ
+ª
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¨ ≠(
+%35java.lang.String"__concat*
+
+%33java.lang.String*
+
+%34java.lang.String™
+ß
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¨ ≠(
+%36java.lang.String"__concat*
+
+%35java.lang.String*
+ ﬁ€
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java≠  ≠(-
+%37java.lang.String"2ij.measure.Calibration#getUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2	getUnit()æ
+ª
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¨ ≠(-
+%38java.lang.String"__concat*
+
+%36java.lang.String*
+
+%37java.lang.StringÅ˛
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¨ ≠(.
+%39void"4ij.gui.GenericDialog#addMessage(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%38java.lang.String2addMessage(Ljava/lang/String;)‘—
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÆ Æ(
+%40void"$ij.gui.GenericDialog#setInsets(III)V*
+
+gdij.gui.GenericDialog*2*2 *2 2setInsets(III)ÎË
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaØ  Ø(R
+%41java.lang.String"/ij.plugin.Slicer#getSize(DDI)Ljava/lang/String;*
+ij.plugin.Slicer*
+""*
+""*
+""2getSize(DDI)∂
+≥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaØ Ø(R
+%42java.lang.String"__concat*
+Output size: *
+
+%41java.lang.String≠
+™
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaØ Ø(Y
+%43java.lang.String"__concat*
+
+%42java.lang.String*
+				Å˛
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaØ Ø(Z
+%44void"4ij.gui.GenericDialog#addMessage(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%43java.lang.String2addMessage(Ljava/lang/String;)ÎË
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java∞ ∞( 
+%45java.util.Vector"9ij.gui.GenericDialog#getNumericFields()Ljava/util/Vector;*
+
+gdij.gui.GenericDialog2getNumericFields()¶
+£
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java∞ ∞( 
+ij.plugin.Slicer"
+fields"__id*
+
+%45java.util.Vector*
+15
+12*ü
+18`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java• •(é
+ã
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java• •(#
+%19java.lang.String[]"__id*
+""ß
+§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java•% •(,
+%20java.lang.String"__id*!*
+ij.plugin.Slicer"	
+startAtıÚ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java• •(-
+%21void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+	Start at:*
+
+%19java.lang.String[]*
+
+%20java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)*
+17*Å
+19`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java£ £(íè
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java£ £(6
+%18void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+Slice_count:*
+""*2 2%addNumericField(Ljava/lang/String;DI)*
+17*—
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaŒ	 Œ("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaŒ Œ(
+""*ø
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java» »(ß
+§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java… …(
+%69java.lang.String"__id*!*
+ij.plugin.Slicer"	
+startAt®
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java… …( 
+ij.plugin.Slicer"
+
+startAtS"__id*
+
+%69java.lang.String*
+1*›
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaƒ	 ƒ(Õ 
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaƒ	 ƒ(
+%66boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()Õ 
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java≈ ≈(
+%67boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()Õ 
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java∆ ∆(%
+%68boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+2
+1*¸
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java√ √(Â‚
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java√ √(
+%65java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()ß
+§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java√ √(
+ij.plugin.Slicer"	
+startAt"__id*
+
+%65java.lang.String*
+3*≈
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¡ ¡(ÿ’
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¡ ¡(
+%64void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+impij.ImagePlus*
+
+roi
+ij.gui.Roi2setRoi(Lij/gui/Roi;)*
+3*Ã
+7`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaø ø( «
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaø ø()
+%62double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()í
+è
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¿ ¿(
+%63boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+5*∫
+8`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaΩ Ω( «
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaΩ Ω(%
+%61double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+4
+7*—
+9`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaº
+ º("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaº º(
+""*Å
+21`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¢ ¢(
+í
+è
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¢ ¢(
+%17boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+19*ç
+
+22`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaü' ü(0òï
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaü ü(&
+%12ij.gui.GenericDialog"ij.gui.GenericDialog 
+«
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaü ü(1
+%13"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%12ij.gui.GenericDialog*	
+Reslice¶
+£
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaü ü(2
+gdij.gui.GenericDialog"__id*
+
+%12ij.gui.GenericDialogª
+∏
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java† †(-
+%14java.lang.String"__concat*
+Output spacing (*
+
+unitsjava.lang.String´
+®
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java† †(2
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+):ùö
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java† †(E
+%16void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+
+%15java.lang.String*
+""*22%addNumericField(Ljava/lang/String;DI)*
+18
+21*¡
+23`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaö ö(®
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaö ö(
+%11java.lang.String"__id*"* 
+ij.plugin.Slicer"
+
+startAtSß
+§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaö ö(
+ij.plugin.Slicer"	
+startAt"__id*
+
+%11java.lang.String*
+22:
+impij.ImagePlusB
+ij.plugin.Slicer

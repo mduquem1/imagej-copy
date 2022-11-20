@@ -1,0 +1,1278 @@
+
+<ij.gui.Toolbar#itemStateChanged(Ljava/awt/event/ItemEvent;)V^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java« «("78*ş
+68^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¸$ ¸((‘
+
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¸$ ¸((
+%12
+ij.gui.Roi"__id*
+
+%14
+<nulltype>*
+67*Î
+24^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaì ì("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaì ì(
+""*»
+69^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¸ ¸(º·
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¸ ¸(#
+%13
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()‘
+
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¸ ¸(#
+%12
+ij.gui.Roi"__id*
+
+%13
+ij.gui.Roi*
+67*¥
+25^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaë ë(¸
+µ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaë ë(
+%80void"ij.IJ#run(Ljava/lang/String;)V*	"
+ij.IJ*
+
+labeljava.lang.String*
+24*É
+26^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaé é(Ü
+Ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaé é(
+%79boolean"6ij.gui.Toolbar#installBuiltinTool(Ljava/lang/String;)Z*
+ij.gui.Toolbar*
+
+labeljava.lang.String*
+24*Ó
+27^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaè è(âß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaè è(
+%78boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+cmdjava.lang.String*
+Tool2equals(Ljava/lang/Object;)*
+25
+26*™
+29^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaæ æ(¨
+¥
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaæ æ( 
+ij.gui.Toolbar"
+
+currentSet"__id*
+
+labeljava.lang.String*
+27
+23*ª
+70^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaµ µ({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaµ µ(	
+%7int"__id*
+""°
+­
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaµ µ(
+
+%8void"ij.gui.Toolbar#repaintTool(I)V*"
+ij.gui.Toolbar*
+	
+%7int{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¶ ¶(	
+%9int"__id*
+""±
+®
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¶ ¶(
+%10void"ij.gui.Toolbar#showMessage(I)V*
+ij.gui.Toolbar*
+	
+%9intÀ
+½
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java· ·(2
+%11ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager•
+’
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java· ·(3
+impij.ImagePlus"__id*
+
+%11ij.ImagePlus*
+68
+69* 
+73^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java± ±(³
+°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java± ±(!
+%6java.awt.CheckboxMenuItem"__id*'*%
+ij.gui.Toolbar"
+rotatedRectItem*
+70*ß
+30^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaåq å(vêç
+_
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaåq å(ˆ
+%77boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+labeljava.lang.String*	
+Tool 2endsWith(Ljava/lang/String;)*
+27
+29
+23*¢
+75^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¯ ¯(±
+®
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¯ ¯(
+%5java.awt.CheckboxMenuItem"__id*%*#
+ij.gui.Toolbar"
+roundRectItem*
+70
+73*İ
+31^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaåV å([èå
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaåV å(l
+%76boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+labeljava.lang.String*
+Tool2endsWith(Ljava/lang/String;)*
+27
+30
+23*¤
+76^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java®/ ®(3³
+°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java®5 ®(D
+%4java.awt.CheckboxMenuItem"__id*'*%
+ij.gui.Toolbar"
+rotatedRectItem*
+59
+75*¢
+77^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java® ®(±
+®
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java® ®(+
+%3java.awt.CheckboxMenuItem"__id*%*#
+ij.gui.Toolbar"
+roundRectItem*
+75
+76*‘
+78^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¬, ¬(-ŞÛ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¬, ¬(9
+%0java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.event.ItemEvent2getSource()¦
+£
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¬ ¬(:!
+itemjava.awt.CheckboxMenuItem"__id*
+
+%0java.lang.Object¿
+¼
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java­ ­(%
+%1java.lang.String".ij.gui.Toolbar#getToolName()Ljava/lang/String;*"
+ij.gui.Toolbar¥
+¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java­ ­(& 
+previousNamejava.lang.String"__id*
+
+%1java.lang.String¬
+©
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java® ®(
+%2java.awt.CheckboxMenuItem"__id* *
+ij.gui.Toolbar"
+
+rectItem*
+75
+77*è
+34^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaå" å('óğ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaå" å(E
+%75boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+labeljava.lang.String*
+Remove Custom Tools2equals(Ljava/lang/Object;)*
+27
+31
+23*à
+35^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaä ä(Dçä
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaå	 å( 
+%74boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+labeljava.lang.String*	
+Help...2equals(Ljava/lang/Object;)*
+27
+31
+34
+23*Ö
+36^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaä* ä(-éæ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaä* ä(C
+%73boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+cmdjava.lang.String*
+Plugin Tool2equals(Ljava/lang/Object;)*
+35*å
+37^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaâ â(İÚ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaâ â(!
+%70java.lang.String".java.awt.MenuItem#getLabel()Ljava/lang/String;*#
+!
+itemjava.awt.CheckboxMenuItem2
+getLabel()Ÿ
+œ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaâ â("
+labeljava.lang.String"__id*
+
+%70java.lang.Stringíê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaã ã('
+%71java.lang.String"6java.awt.MenuItem#getActionCommand()Ljava/lang/String;*#
+!
+itemjava.awt.CheckboxMenuItem2getActionCommand()
+š
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaã ã((
+cmdjava.lang.String"__id*
+
+%71java.lang.Stringâß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaä ä(&
+%72boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+cmdjava.lang.String*
+Tool2equals(Ljava/lang/Object;)*
+35
+36*Ì
+38^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaİ İ(|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaß ß(
+
+%66int"__id*
+""¯
+¬
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaß ß(
+%67void"ij.gui.Toolbar#setTool2(I)V*
+ij.gui.Toolbar*
+
+
+%66int|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaà à(
+
+%68int"__id*
+""²
+¯
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaà à(
+%69void"ij.gui.Toolbar#showMessage(I)V*
+ij.gui.Toolbar*
+
+
+%68int*
+0*Ÿ
+39^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÜ Ü(®
+«
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÜ Ü( 
+%65java.awt.CheckboxMenuItem"__id*!*
+ij.gui.Toolbar"
+	arrowItem*
+37
+38*Ì
+40^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÙ Ù(|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÚ Ú(
+
+%61int"__id*
+""¯
+¬
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÚ Ú(
+%62void"ij.gui.Toolbar#setTool2(I)V*
+ij.gui.Toolbar*
+
+
+%61int|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÛ Û(
+
+%63int"__id*
+""²
+¯
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÛ Û(
+%64void"ij.gui.Toolbar#showMessage(I)V*
+ij.gui.Toolbar*
+
+
+%63int*
+0*¢
+41^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaØ Ø(±
+®
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaØ Ø( 
+%60java.awt.CheckboxMenuItem"__id*$*"
+ij.gui.Toolbar"
+freeLineItem*
+39
+40*Ì
+42^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÕ Õ(|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÖ Ö(
+
+%56int"__id*
+""¯
+¬
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÖ Ö(
+%57void"ij.gui.Toolbar#setTool2(I)V*
+ij.gui.Toolbar*
+
+
+%56int|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java× ×(
+
+%58int"__id*
+""²
+¯
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java× ×(
+%59void"ij.gui.Toolbar#showMessage(I)V*
+ij.gui.Toolbar*
+
+
+%58int*
+0*¢
+43^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÔ Ô(±
+®
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÔ Ô( 
+%55java.awt.CheckboxMenuItem"__id*$*"
+ij.gui.Toolbar"
+polyLineItem*
+41
+42*Ì
+44^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaĞ Ğ(|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÒ Ò(
+
+%51int"__id*
+""¯
+¬
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÒ Ò(
+%52void"ij.gui.Toolbar#setTool2(I)V*
+ij.gui.Toolbar*
+
+
+%51int|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÓ Ó(
+
+%53int"__id*
+""²
+¯
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÓ Ó(
+%54void"ij.gui.Toolbar#showMessage(I)V*
+ij.gui.Toolbar*
+
+
+%53int*
+0*¦
+45^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÏ Ï(µ
+²
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÏ Ï(# 
+%50java.awt.CheckboxMenuItem"__id*(*&
+ij.gui.Toolbar"
+straightLineItem*
+43
+44*“
+46^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÎ Î(|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÎ Î(8
+
+%48int"__id*
+""©
+¦
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÎ Î(9
+%49void"ij.IJ#notifyEventListeners(I)V*	"
+ij.IJ*
+
+
+%48int*
+0*Ë
+
+47^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÉ É(³
+°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÉ É(( 
+%41java.awt.CheckboxMenuItem"__id*&*$
+ij.gui.Toolbar"
+multiPointItem|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaË Ë(
+
+%42int"__id*
+""²
+¯
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaË Ë(
+%43void"ij.gui.Toolbar#repaintTool(I)V*"
+ij.gui.Toolbar*
+
+
+%42int|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÌ Ì(
+
+%44int"__id*
+""²
+¯
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÌ Ì(
+%45void"ij.gui.Toolbar#showMessage(I)V*
+ij.gui.Toolbar*
+
+
+%44intÀ
+½
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÍ Í()
+%46java.lang.String".ij.gui.Toolbar#getToolName()Ljava/lang/String;*"
+ij.gui.Toolbarüù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÍ Í(*
+%47boolean",java.lang.String#equals(Ljava/lang/Object;)Z*"
+ 
+previousNamejava.lang.String*
+
+%46java.lang.String2equals(Ljava/lang/Object;)*
+46
+0*¤
+48^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÈ  È($³
+°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÈ& È(4 
+%40java.awt.CheckboxMenuItem"__id*&*$
+ij.gui.Toolbar"
+multiPointItem*
+47
+45*Ÿ
+49^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÈ È(®
+«
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÈ È( 
+%39java.awt.CheckboxMenuItem"__id*!*
+ij.gui.Toolbar"
+	pointItem*
+47
+48*“
+50^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÇ Ç(|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÇ Ç(8
+
+%37int"__id*
+""©
+¦
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÇ Ç(9
+%38void"ij.IJ#notifyEventListeners(I)V*	"
+ij.IJ*
+
+
+%37int*
+0*•	
+51^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÄ Ä(|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÄ Ä(
+
+%31int"__id*
+""²
+¯
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÄ Ä(
+%32void"ij.gui.Toolbar#repaintTool(I)V*"
+ij.gui.Toolbar*
+
+
+%31int|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÅ Å(
+
+%33int"__id*
+""²
+¯
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÅ Å(
+%34void"ij.gui.Toolbar#showMessage(I)V*
+ij.gui.Toolbar*
+
+
+%33intÀ
+½
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÆ Æ()
+%35java.lang.String".ij.gui.Toolbar#getToolName()Ljava/lang/String;*"
+ij.gui.Toolbarüù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÆ Æ(*
+%36boolean",java.lang.String#equals(Ljava/lang/Object;)Z*"
+ 
+previousNamejava.lang.String*
+
+%35java.lang.String2equals(Ljava/lang/Object;)*
+50
+0*
+54^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÀ À(°
+­
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaÀ À( 
+%30java.awt.CheckboxMenuItem"__id*#*!
+ij.gui.Toolbar"
+ellipseItem*
+51*ì
+10^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™ ™(È
+Å
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™ ™(.
+%124java.lang.String"2ij.IJ#getDir(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+macros±
+®
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™ ™(9
+%125java.lang.String"__concat*
+
+%124java.lang.String*
+
+toolsets‹
+ˆ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™: ™(H
+%126java.lang.String"__id*
+""¿
+¼
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™ ™(H
+%127java.lang.String"__concat*
+
+%125java.lang.String*
+
+%126java.lang.String³°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™\ ™(j
+%128int"java.lang.String#length()I*
+
+labeljava.lang.String2length()çä
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™I ™(m
+%129java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+labeljava.lang.String*2 *
+""2substring(II)¿
+¼
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™ ™(m
+%130java.lang.String"__concat*
+
+%127java.lang.String*
+
+%129java.lang.String­
+ª
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™ ™(t
+%131java.lang.String"__concat*
+
+%130java.lang.String*
+.ijmŸ
+œ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java™ ™(t
+pathjava.lang.String"__id*
+
+%131java.lang.String*
+7*Ö
+11^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˜ ˜( æã
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java˜ ˜(.
+%123boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+labeljava.lang.String*
+ 2endsWith(Ljava/lang/String;)*
+9
+10*Ÿ
+56^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¾ ¾(®
+«
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¾ ¾( 
+%29java.awt.CheckboxMenuItem"__id*!*
+ij.gui.Toolbar"
+	brushItem*
+51
+54*ş
+12^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java– –(%­
+ª
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java– –('
+%122void"&ij.gui.Toolbar#installStartupMacros()V*
+ij.gui.Toolbar"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java— —(
+""*Ÿ
+57^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java½4 ½(8®
+«
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java½: ½(C 
+%28java.awt.CheckboxMenuItem"__id*!*
+ij.gui.Toolbar"
+	brushItem*
+49
+56*à
+13^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java• •(ïì
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java• •(2
+%121boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+labeljava.lang.String*
+Startup Macros2equals(Ljava/lang/Object;)*
+11
+12*¡
+58^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java½ ½(#°
+­
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java½% ½(0 
+%27java.awt.CheckboxMenuItem"__id*#*!
+ij.gui.Toolbar"
+ellipseItem*
+57
+56*§
+14^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java (£
+ 
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java (
+%119void"ij.gui.Toolbar#resetTools()V*
+ij.gui.Toolbar•’
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‘ ‘(!
+%120void">ij.plugin.MacroInstaller#installFromIJJar(Ljava/lang/String;)V* 
+
+miij.plugin.MacroInstaller*
+
+pathjava.lang.String2$installFromIJJar(Ljava/lang/String;)*
+0*
+59^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java½ ½(­
+ª
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java½ ½( 
+%26java.awt.CheckboxMenuItem"__id* *
+ij.gui.Toolbar"
+
+ovalItem*
+58
+56*™
+15^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java (¬©
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java (.
+%117java.lang.String"Lij.plugin.MacroInstaller#openFromIJJar(Ljava/lang/String;)Ljava/lang/String;* 
+
+miij.plugin.MacroInstaller*
+
+pathjava.lang.String2!openFromIJJar(Ljava/lang/String;)ş
+û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java (/
+%118void">ij.gui.Toolbar#showCode(Ljava/lang/String;Ljava/lang/String;)V*"
+ij.gui.Toolbar*
+
+labeljava.lang.String*
+
+%117java.lang.String*
+0*Ù
+16^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŠ$ Š(8Ÿœ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŠ( Š(6 
+%110ij.plugin.MacroInstaller"ij.plugin.MacroInstaller³
+°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŠ$ Š(8
+%111""ij.plugin.MacroInstaller#<init>()V*"
+ 
+%110ij.plugin.MacroInstaller­
+ª
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŠ Š(9
+miij.plugin.MacroInstaller"__id*"
+ 
+%110ij.plugin.MacroInstaller³°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‹+ ‹(9
+%112int"java.lang.String#length()I*
+
+labeljava.lang.String2length()çä
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‹ ‹(<
+%113java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+labeljava.lang.String*2 *
+""2substring(II)­
+ª
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‹ ‹(E
+%114java.lang.String"__concat*
+
+%113java.lang.String*
+.txt 
+
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‹ ‹(E
+labeljava.lang.String"__id*
+
+%114java.lang.String²
+¯
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŒ Œ('
+%115java.lang.String"__concat*
+
+/macros/*
+
+labeljava.lang.StringŸ
+œ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŒ Œ('
+pathjava.lang.String"__id*
+
+%115java.lang.String–
+“
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java (%
+%116boolean"ij.IJ#shiftKeyDown()Z*	"
+ij.IJ*
+14
+15*×
+17^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaˆ ˆ(æã
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaˆ ˆ(!
+%109boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+labeljava.lang.String*
+*2endsWith(Ljava/lang/String;)*
+13
+16*“#
+18^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaõ õ(ø
+õ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö ÷(;
+%87java.lang.String"__concat*64
+2Use this drop down menu to switch to alternative\n*86
+4macro toolsets or to load additional plugin tools.\nÔ
+Ñ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö ø(4
+%88java.lang.String"__concat*
+
+%87java.lang.String*1/
+-The toolsets listed in the menu are located\nÕ
+Ò
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö ù(5
+%89java.lang.String"__concat*
+
+%88java.lang.String*20
+.in the ImageJ/macros/toolsets folder and the\nÓ
+Ğ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö ú(3
+%90java.lang.String"__concat*
+
+%89java.lang.String*0.
+,plugin tools are the ones installed in the\n¿
+¼
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö û(
+%91java.lang.String"__concat*
+
+%90java.lang.String*
+Plugins>Tools submenu.\nª
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö ü(
+
+%92java.lang.String"__concat*
+
+%91java.lang.String*
+ \nÒ
+Ï
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö ı(2
+%93java.lang.String"__concat*
+
+%92java.lang.String*/-
++Hold the shift key down while selecting a\nÉ
+Æ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö ş()
+%94java.lang.String"__concat*
+
+%93java.lang.String*&$
+"toolset to view its source code.\nª
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö ÿ(
+
+%95java.lang.String"__concat*
+
+%94java.lang.String*
+ \nÍ
+Ê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö €(-
+%96java.lang.String"__concat*
+
+%95java.lang.String**(
+&More macro toolsets are available at\nª
+§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö (
+
+%97java.lang.String"__concat*
+
+%96java.lang.String*
+  <Š
+‡
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java (
+%98java.lang.String"__id*
+""¼
+¹
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö (
+%99java.lang.String"__concat*
+
+%97java.lang.String*
+
+%98java.lang.String¼
+¹
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö ((
+%100java.lang.String"__concat*
+
+%99java.lang.String*
+/macros/toolsets/>\n¬
+©
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö ‚(
+
+%101java.lang.String"__concat*
+
+%100java.lang.String*
+ \nÎ
+Ë
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö ƒ(,
+%102java.lang.String"__concat*
+
+%101java.lang.String*)'
+%Plugin tools can be downloaded from\nÓ
+Ğ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö „(1
+%103java.lang.String"__concat*
+
+%102java.lang.String*.,
+*the Tools section of the Plugins page at\n¬
+©
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö …(
+
+%104java.lang.String"__concat*
+
+%103java.lang.String*
+  <‹
+ˆ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java… …(
+%105java.lang.String"__id*
+""¿
+¼
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö …(
+%106java.lang.String"__concat*
+
+%104java.lang.String*
+
+%105java.lang.Stringµ
+²
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaö …( 
+%107java.lang.String"__concat*
+
+%106java.lang.String*
+/plugins/>\nğ
+í
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaõ †(
+%108void"8ij.IJ#showMessage(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Tool Switcher and Loader*
+
+%107java.lang.String"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java‡ ‡(
+""*Ø
+19^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaô ô(çä
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaô ô(%
+%86boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+labeljava.lang.String*	
+Help...2equals(Ljava/lang/Object;)*
+17
+18*|
+0 "u
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¥ ¥(
+implicit return*è
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¡1 ¡(5ıú
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¡ ¡(6
+%144void"1ij.plugin.MacroInstaller#run(Ljava/lang/String;)V*"
+ 
+%142ij.plugin.MacroInstaller*
+
+pathjava.lang.String2run(Ljava/lang/String;)*
+0*À
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¡ ¡(,Ÿœ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¡ ¡(* 
+%142ij.plugin.MacroInstaller"ij.plugin.MacroInstaller³
+°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¡ ¡(,
+%143""ij.plugin.MacroInstaller#<init>()V*"
+ 
+%142ij.plugin.MacroInstaller*
+2*‰
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŸ Ÿ(}
+{
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŸ Ÿ(/
+%140int"__id*
+""Ÿ
+œ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaŸ Ÿ(0
+%141void"ij.IJ#setKeyUp(I)V*	"
+ij.IJ*
+
+%140int*
+0*¤
+5^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java (¹
+¶
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java (%
+%139void"ij.IJ#open(Ljava/lang/String;)V*	"
+ij.IJ*
+
+pathjava.lang.String*
+4*„
+7^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java (–
+“
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java ()
+%138boolean"ij.IJ#shiftKeyDown()Z*	"
+ij.IJ*
+3
+5*Ì
+
+9^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java› ›(È
+Å
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java› ›(.
+%132java.lang.String"2ij.IJ#getDir(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+macros±
+®
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java› ›(9
+%133java.lang.String"__concat*
+
+%132java.lang.String*
+
+toolsets‹
+ˆ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java›: ›(H
+%134java.lang.String"__id*
+""¿
+¼
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java› ›(H
+%135java.lang.String"__concat*
+
+%133java.lang.String*
+
+%134java.lang.StringÀ
+½
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java› ›(N
+%136java.lang.String"__concat*
+
+%135java.lang.String*
+
+labeljava.lang.String­
+ª
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java› ›(U
+%137java.lang.String"__concat*
+
+%136java.lang.String*
+.txtŸ
+œ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java› ›(U
+pathjava.lang.String"__id*
+
+%137java.lang.String*
+7*“
+60^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¼ ¼(|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¼ ¼(8
+
+%24int"__id*
+""©
+¦
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¼ ¼(9
+%25void"ij.IJ#notifyEventListeners(I)V*	"
+ij.IJ*
+
+
+%24int*
+0*¯
+61^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java» »(À
+½
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java» »()
+%22java.lang.String".ij.gui.Toolbar#getToolName()Ljava/lang/String;*"
+ij.gui.Toolbarüù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java» »(*
+%23boolean",java.lang.String#equals(Ljava/lang/Object;)Z*"
+ 
+previousNamejava.lang.String*
+
+%22java.lang.String2equals(Ljava/lang/Object;)*
+60
+0*¸
+62^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaº º(?ËÈ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaº º(?
+%21void" ij.gui.Roi#setCornerDiameter(I)V*
+
+roi
+ij.gui.Roi*
+
+
+%18int2setCornerDiameter(I)*
+61*ğ
+63^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaº= º(>ƒ
+€
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaº= º(>
+
+%18int"__id*
+
+
+%20int*
+62*ğ
+64^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaº5 º(<ƒ
+€
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaº5 º(<
+
+%18int"__id*
+
+
+%19int*
+62*¾
+20^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaò ò(£
+ 
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaò ò(
+%84void"ij.gui.Toolbar#removeTools()V*
+ij.gui.Toolbar¬
+©
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaó ó(
+%85void"&ij.gui.Toolbar#installStartupMacros()V*
+ij.gui.Toolbar*
+0*ì
+65^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaº º(|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaº$ º(4
+
+%17int"__id*
+""*
+63
+64*æ
+21^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javañ ñ(õò
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javañ ñ(3
+%83boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+labeljava.lang.String*
+Restore Startup Tools2equals(Ljava/lang/Object;)*
+19
+20*•
+66^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¹ ¹(¦£
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¹ ¹(!
+
+%15int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¹# ¹(0
+
+%16int"__id*
+""*
+61
+65*
+22^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javağ ğ(£
+ 
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javağ ğ(
+%82void"ij.gui.Toolbar#removeTools()V*
+ij.gui.Toolbar*
+0*‚
+67^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¸ ¸()‘
+
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.java¸ ¸()
+roi
+ij.gui.Roi"__id*
+
+%12
+ij.gui.Roi*
+61
+66*ò
+23^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaî î(‹
+ˆ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaî î(
+pathjava.lang.String"__id*
+""óğ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Toolbar.javaï ï(*
+%81boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+labeljava.lang.String*
+Remove Custom Tools2equals(Ljava/lang/Object;)*
+21
+22:
+ejava.awt.event.ItemEventB
+ij.gui.Toolbar

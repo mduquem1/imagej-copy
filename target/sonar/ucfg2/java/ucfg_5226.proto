@@ -1,0 +1,47 @@
+
+#ij.gui.RotatedRectRoi#isHandle(II)Ie
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/RotatedRectRoi.javaÇ Ç("9*Â
+7e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/RotatedRectRoi.javaÌ Ì(·
+´
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/RotatedRectRoi.javaÌ Ì(#	
+%1int"ij.gui.RotatedRectRoi#hxs(I)I*
+ij.gui.RotatedRectRoi*
+""«
+¨
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/RotatedRectRoi.javaÌ Ì(-	
+%2int"java.lang.Math#round(F)I*"
+java.lang.Math*
+""·
+´
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/RotatedRectRoi.javaÌC Ì(I	
+%3int"ij.gui.RotatedRectRoi#hys(I)I*
+ij.gui.RotatedRectRoi*
+""«
+¨
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/RotatedRectRoi.javaÌ8 Ì(S	
+%4int"java.lang.Math#round(F)I*"
+java.lang.Math*
+""*
+7
+1*³
+9e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/RotatedRectRoi.javaÈ È(¾»
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/RotatedRectRoi.javaÈ È(	
+%0int"ij.gui.Roi#getHandleSize()I*
+ij.gui.RotatedRectRoi2getHandleSize()*
+7
+1*Û
+1e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/RotatedRectRoi.javaÒ	 Ò("o
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/RotatedRectRoi.javaÒ Ò(
+"":
+"":
+""B
+ij.gui.RotatedRectRoi

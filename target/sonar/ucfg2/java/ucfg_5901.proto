@@ -1,0 +1,524 @@
+
+?ij.plugin.frame.SyncWindows#buildControlPanel()Ljava/awt/Panel;k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaº º(""1*‡à
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaΩ% Ω(&†ù
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaΩ Ω($
+%0java.awt.GridLayout"java.awt.GridLayout¿
+Ω
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaΩ Ω()
+%1"java.awt.GridLayout#<init>(II)V*
+
+%0java.awt.GridLayout*2*2≤
+Ø
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaΩ Ω(*
+layoutjava.awt.GridLayout"__id*
+
+%0java.awt.GridLayout–Õ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaæ æ(
+
+%2void"java.awt.GridLayout#setVgap(I)V*
+
+layoutjava.awt.GridLayout*22
+setVgap(I)–Õ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaø ø(
+
+%3void"java.awt.GridLayout#setHgap(I)V*
+
+layoutjava.awt.GridLayout*22
+setHgap(I)ñì
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¿ ¿(
+%4java.awt.Panel"java.awt.Panel·
+ﬁ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¿ ¿(
+%5"0java.awt.Panel#<init>(Ljava/awt/LayoutManager;)V*
+
+%4java.awt.Panel*
+
+layoutjava.awt.GridLayout£
+†
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¿ ¿(
+pjava.awt.Panel"__id*
+
+%4java.awt.Panelúô
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java√ √(
+%6java.awt.Checkbox"java.awt.Checkboxÿ
+’
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java√ √(-
+%7".java.awt.Checkbox#<init>(Ljava/lang/String;Z)V*
+
+%6java.awt.Checkbox*
+Sync cursor*2Ω
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java√ √(-*
+ij.plugin.frame.SyncWindows"	
+cCursor"__id*
+
+%6java.awt.CheckboxΩ
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaƒ ƒ(	
+%8java.awt.Checkbox"__id*,**
+ij.plugin.frame.SyncWindows"	
+cCursor∏
+µ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaƒ ƒ(#
+%9	ij.ImageJ"__id*/*-
+ij.plugin.frame.SyncWindows"
+
+ijInstanceõò
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaƒ ƒ($
+%10void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+%8java.awt.Checkbox*
+
+%9	ij.ImageJ2,addKeyListener(Ljava/awt/event/KeyListener;)æ
+ª
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java≈ ≈(
+%11java.awt.Checkbox"__id*,**
+ij.plugin.frame.SyncWindows"	
+cCursorõò
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java≈ ≈(
+%12java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+pjava.awt.Panel*
+
+%11java.awt.Checkbox2add(Ljava/awt/Component;)ùö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java» »(
+%13java.awt.Checkbox"java.awt.Checkbox‹
+Ÿ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java» »(-
+%14".java.awt.Checkbox#<init>(Ljava/lang/String;Z)V*
+
+%13java.awt.Checkbox*
+Sync z-slices*2Ω
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java» »(-)
+ij.plugin.frame.SyncWindows"
+cSlice"__id*
+
+%13java.awt.CheckboxΩ
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java… …(
+%15java.awt.Checkbox"__id*+*)
+ij.plugin.frame.SyncWindows"
+cSliceπ
+∂
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java… …("
+%16	ij.ImageJ"__id*/*-
+ij.plugin.frame.SyncWindows"
+
+ijInstanceùö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java… …(#
+%17void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+%15java.awt.Checkbox*
+
+%16	ij.ImageJ2,addKeyListener(Ljava/awt/event/KeyListener;)Ω
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java   (
+%18java.awt.Checkbox"__id*+*)
+ij.plugin.frame.SyncWindows"
+cSliceõò
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java   (
+%19java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+pjava.awt.Panel*
+
+%18java.awt.Checkbox2add(Ljava/awt/Component;)ùö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaœ œ(
+%20java.awt.Checkbox"java.awt.Checkbox‹
+Ÿ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaœ œ(0
+%21".java.awt.Checkbox#<init>(Ljava/lang/String;Z)V*
+
+%20java.awt.Checkbox*
+Sync channels*2ø
+º
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaœ œ(0+
+ij.plugin.frame.SyncWindows"
+
+cChannel"__id*
+
+%20java.awt.Checkboxø
+º
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java– –(
+
+%22java.awt.Checkbox"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+cChannelπ
+∂
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java– –($
+%23	ij.ImageJ"__id*/*-
+ij.plugin.frame.SyncWindows"
+
+ijInstanceùö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java– –(%
+%24void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+%22java.awt.Checkbox*
+
+%23	ij.ImageJ2,addKeyListener(Ljava/awt/event/KeyListener;)ø
+º
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java— —(
+%25java.awt.Checkbox"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+cChannelõò
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java— —(
+%26java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+pjava.awt.Panel*
+
+%25java.awt.Checkbox2add(Ljava/awt/Component;)ùö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‘ ‘(
+%27java.awt.Checkbox"java.awt.Checkbox‹
+Ÿ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‘ ‘(.
+%28".java.awt.Checkbox#<init>(Ljava/lang/String;Z)V*
+
+%27java.awt.Checkbox*
+Sync t-frames*2Ω
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‘ ‘(.)
+ij.plugin.frame.SyncWindows"
+cFrame"__id*
+
+%27java.awt.CheckboxΩ
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java’ ’(
+%29java.awt.Checkbox"__id*+*)
+ij.plugin.frame.SyncWindows"
+cFrameπ
+∂
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java’ ’("
+%30	ij.ImageJ"__id*/*-
+ij.plugin.frame.SyncWindows"
+
+ijInstanceùö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java’ ’(#
+%31void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+%29java.awt.Checkbox*
+
+%30	ij.ImageJ2,addKeyListener(Ljava/awt/event/KeyListener;)Ω
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java÷ ÷(
+%32java.awt.Checkbox"__id*+*)
+ij.plugin.frame.SyncWindows"
+cFrameõò
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java÷ ÷(
+%33java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+pjava.awt.Panel*
+
+%32java.awt.Checkbox2add(Ljava/awt/Component;)ùö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaŸ Ÿ(
+%34java.awt.Checkbox"java.awt.Checkbox‡
+›
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaŸ Ÿ(3
+%35".java.awt.Checkbox#<init>(Ljava/lang/String;Z)V*
+
+%34java.awt.Checkbox*
+Image coordinates*2æ
+ª
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaŸ Ÿ(3*
+ij.plugin.frame.SyncWindows"	
+cCoords"__id*
+
+%34java.awt.Checkboxæ
+ª
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java⁄ ⁄(	
+%36java.awt.Checkbox"__id*,**
+ij.plugin.frame.SyncWindows"	
+cCoords≠™
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java⁄ ⁄(
+%37void"Ajava.awt.Checkbox#addItemListener(Ljava/awt/event/ItemListener;)V*
+
+%36java.awt.Checkbox*
+ij.plugin.frame.SyncWindows2.addItemListener(Ljava/awt/event/ItemListener;)æ
+ª
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java€ €(	
+%38java.awt.Checkbox"__id*,**
+ij.plugin.frame.SyncWindows"	
+cCoordsπ
+∂
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java€ €(#
+%39	ij.ImageJ"__id*/*-
+ij.plugin.frame.SyncWindows"
+
+ijInstanceùö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java€ €($
+%40void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+%38java.awt.Checkbox*
+
+%39	ij.ImageJ2,addKeyListener(Ljava/awt/event/KeyListener;)æ
+ª
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‹ ‹(
+%41java.awt.Checkbox"__id*,**
+ij.plugin.frame.SyncWindows"	
+cCoordsõò
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‹ ‹(
+%42java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+pjava.awt.Panel*
+
+%41java.awt.Checkbox2add(Ljava/awt/Component;)ùö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaﬂ ﬂ(
+%43java.awt.Checkbox"java.awt.Checkbox⁄
+◊
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaﬂ ﬂ(1
+%44".java.awt.Checkbox#<init>(Ljava/lang/String;Z)V*
+
+%43java.awt.Checkbox*
+Image scaling*2 ø
+º
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaﬂ ﬂ(1+
+ij.plugin.frame.SyncWindows"
+
+cScaling"__id*
+
+%43java.awt.Checkboxø
+º
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‡ ‡(
+
+%45java.awt.Checkbox"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+cScaling≠™
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‡ ‡( 
+%46void"Ajava.awt.Checkbox#addItemListener(Ljava/awt/event/ItemListener;)V*
+
+%45java.awt.Checkbox*
+ij.plugin.frame.SyncWindows2.addItemListener(Ljava/awt/event/ItemListener;)ø
+º
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java· ·(
+
+%47java.awt.Checkbox"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+cScalingπ
+∂
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java· ·($
+%48	ij.ImageJ"__id*/*-
+ij.plugin.frame.SyncWindows"
+
+ijInstanceùö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java· ·(%
+%49void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+%47java.awt.Checkbox*
+
+%48	ij.ImageJ2,addKeyListener(Ljava/awt/event/KeyListener;)ø
+º
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‚ ‚(
+%50java.awt.Checkbox"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+cScalingõò
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‚ ‚(
+%51java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+pjava.awt.Panel*
+
+%50java.awt.Checkbox2add(Ljava/awt/Component;)ôñ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÁ Á(
+%52java.awt.Button"java.awt.Button”
+–
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÁ Á(*
+%53"+java.awt.Button#<init>(Ljava/lang/String;)V*
+
+%52java.awt.Button*
+Synchronize AllΩ
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÁ Á(*+
+ij.plugin.frame.SyncWindows"
+
+bSyncAll"__id*
+
+%52java.awt.ButtonΩ
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaË Ë(
+
+%54java.awt.Button"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+bSyncAll±Æ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaË Ë("
+%55void"Cjava.awt.Button#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%54java.awt.Button*
+ij.plugin.frame.SyncWindows22addActionListener(Ljava/awt/event/ActionListener;)Ω
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÈ È(
+
+%56java.awt.Button"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+bSyncAllπ
+∂
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÈ È($
+%57	ij.ImageJ"__id*/*-
+ij.plugin.frame.SyncWindows"
+
+ijInstanceõò
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÈ È(%
+%58void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+%56java.awt.Button*
+
+%57	ij.ImageJ2,addKeyListener(Ljava/awt/event/KeyListener;)Ω
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÍ Í(
+%59java.awt.Button"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+bSyncAllôñ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÍ Í(
+%60java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+pjava.awt.Panel*
+
+%59java.awt.Button2add(Ljava/awt/Component;)ôñ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÌ Ì(
+%61java.awt.Button"java.awt.Button’
+“
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÌ Ì(.
+%62"+java.awt.Button#<init>(Ljava/lang/String;)V*
+
+%61java.awt.Button*
+Unsynchronize Allø
+º
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÌ Ì(.-
+ij.plugin.frame.SyncWindows"
+
+bUnsyncAll"__id*
+
+%61java.awt.Buttonø
+º
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÓ Ó(
+%63java.awt.Button"__id*/*-
+ij.plugin.frame.SyncWindows"
+
+bUnsyncAll±Æ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÓ Ó($
+%64void"Cjava.awt.Button#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%63java.awt.Button*
+ij.plugin.frame.SyncWindows22addActionListener(Ljava/awt/event/ActionListener;)ø
+º
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÔ Ô(
+%65java.awt.Button"__id*/*-
+ij.plugin.frame.SyncWindows"
+
+bUnsyncAllπ
+∂
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÔ Ô(&
+%66	ij.ImageJ"__id*/*-
+ij.plugin.frame.SyncWindows"
+
+ijInstanceõò
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÔ Ô('
+%67void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+%65java.awt.Button*
+
+%66	ij.ImageJ2,addKeyListener(Ljava/awt/event/KeyListener;)ø
+º
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java (
+%68java.awt.Button"__id*/*-
+ij.plugin.frame.SyncWindows"
+
+bUnsyncAllôñ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java (
+%69java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+pjava.awt.Panel*
+
+%68java.awt.Button2add(Ljava/awt/Component;)"Ñ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÚ Ú(
+
+pjava.awt.PanelB
+ij.plugin.frame.SyncWindows

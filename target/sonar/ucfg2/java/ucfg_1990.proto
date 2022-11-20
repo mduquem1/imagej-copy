@@ -1,0 +1,76 @@
+
+(ij.IJ#getFullVersion()Ljava/lang/String;U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javañ ñ($"5*ö
+2U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaõ õ(†
+ù
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaõ õ(
+%3java.lang.String"__concat*
+0*
+
+buildjava.lang.Stringï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaõ õ(
+buildjava.lang.String"__id*
+
+%3java.lang.String*
+1*ç
+3U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaö ö(®•
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaö ö(	
+%2int"java.lang.String#length()I*
+
+buildjava.lang.String2length()*
+2
+1*Â
+4U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaô ô(É
+Ä
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaô ô(
+buildjava.lang.String"__id*
+99*
+1*¶
+5U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaó ó(
+}
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaó ó(
+%0java.lang.String"__id*
+""ï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaó ó(
+buildjava.lang.String"__id*
+
+%0java.lang.String®•
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaò ò(	
+%1int"java.lang.String#length()I*
+
+buildjava.lang.String2length()*
+3
+4*Ñ
+1U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaú	 ú(
+}
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaú	 ú(
+%4java.lang.String"__id*
+""≥
+∞
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaú	 ú(
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+buildjava.lang.String"q
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaú ú(
+
+%5java.lang.StringB	"
+ij.IJ

@@ -1,0 +1,1420 @@
+
+;ij.io.RoiEncoder#write(Lij/gui/Roi;Ljava/io/OutputStream;)V^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaP P("108*É
+24`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaı ı(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaı ı(
+%128int"__id*
+""
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaı! ı(3
+%129int"__id*
+""’“
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaı ı(4
+%130void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+%128int*
+
+%129int2putShort(II)∫∑
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaˆ ˆ(%
+%131double[]"ij.gui.EllipseRoi#getParams()[D*
+
+roi
+ij.gui.Roi2getParams()*
+23*˜
+68`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaö ö(~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaö ö(
+
+%34int"__id*
+""~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaö ö(*
+
+%35int"__id*
+""ë
+é
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaö ö(_
+ij.io.RoiEncoder"
+data"__id*
+""ö
+ó
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaõ õ(
+%36byte[]"__id**
+ij.io.RoiEncoder"
+dataö
+ó
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaõ õ(
+%37byte[]"__id**
+ij.io.RoiEncoder"
+dataö
+ó
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaõ õ(
+%38byte[]"__id**
+ij.io.RoiEncoder"
+dataö
+ó
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaõ( õ(,
+%39byte[]"__id**
+ij.io.RoiEncoder"
+data~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaú ú($
+
+%40int"__id*
+""~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaú& ú(-
+
+%41int"__id*
+""“œ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaú ú(.
+%42void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%40int*
+
+
+%41int2putShort(II)ö
+ó
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaù ù(
+%43byte[]"__id**
+ij.io.RoiEncoder"
+data~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaù ù(
+
+%44int"__id*
+""~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaû û(
+
+%45int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaû û(
+%46void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%45int*
+""2putShort(II)~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaü ü(
+
+%47int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaü ü( 
+%48void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%47int*
+""2putShort(II)~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java† †(
+
+%49int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java† †(+
+%50void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%49int*
+""2putShort(II)~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java° °(
+
+%51int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java° °()
+%52void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%51int*
+""2putShort(II)¬ø
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java¢ ¢(
+%53boolean" ij.gui.Roi#subPixelResolution()Z*
+
+roi
+ij.gui.Roi2subPixelResolution()*
+46
+47
+50
+53
+65*á
+25`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÚ Ú(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÚ Ú(
+%124int"__id*
+""
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÚ! Ú(8
+%125int"__id*
+""’“
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÚ Ú(9
+%126void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+%124int*
+
+%125int2putShort(II)æª
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÛ Û()
+%127double[]"#ij.gui.RotatedRectRoi#getParams()[D*
+
+roi
+ij.gui.Roi2getParams()*
+23*ı
+29`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÏ Ï(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÏ Ï(0
+%123int"__id*
+""*
+24
+25
+22*ß
+71`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaï ï(∏µ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaï ï(+
+%33int[]"ij.gui.PointRoi#getCounters()[I*
+
+roi
+ij.gui.Roi2getCounters()*
+68*Œ
+30`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÎ Î(”–
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÎ Î(#
+%122boolean"'ij.gui.PointRoi#promptBeforeDeleting()Z*
+
+pointij.gui.PointRoi2promptBeforeDeleting()*
+24
+25
+29
+22*
+74`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaã ã(~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaã ã('
+
+%32int"__id*
+""*
+68
+71*Ì
+31`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÍ Í(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÍ Í(%
+%121int"__id*
+""*
+30*Ø
+75`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaâ â(~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaâ â(/
+
+%30int"__id*
+""∏µ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaä	 ä(
+%31boolean"ij.gui.Roi#getDrawOffset()Z*
+
+roi
+ij.gui.Roi2getDrawOffset()*
+68
+71
+74*ˇ
+32`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÊ Ê(!ö
+ó
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÊ Ê("
+pointij.gui.PointRoi"__id*
+
+roi
+ij.gui.Roi
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÁ Á( 
+%114int"__id*
+""øº
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÁ" Á(6
+%115int"ij.gui.PointRoi#getPointType()I*
+
+pointij.gui.PointRoi2getPointType()”–
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÁ Á(7
+%116void"ij.io.RoiEncoder#putByte(II)V*
+ij.io.RoiEncoder*
+
+%114int*
+
+%115int2putByte(II)
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaË Ë(#
+%117int"__id*
+""µ≤
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaË% Ë(4
+%118int"ij.gui.PointRoi#getSize()I*
+
+pointij.gui.PointRoi2	getSize()’“
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaË Ë(5
+%119void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+%117int*
+
+%118int2putShort(II)≈¬
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÈ È(
+%120boolean" ij.gui.PointRoi#getShowLabels()Z*
+
+pointij.gui.PointRoi2getShowLabels()*
+30
+31*ä
+77`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaá
+ á(‰·
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaá
+ á(
+%29ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+roi
+ij.gui.Roi2getFloatPolygon()¨
+©
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaá á(
+fpij.process.FloatPolygon"__id* 
+
+%29ij.process.FloatPolygon*
+68
+71
+75*´
+78`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÖ
+ Ö(ÖÇ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÖ
+ Ö()
+%28ij.process.FloatPolygon"Eij.gui.PolygonRoi#getNonSplineFloatPolygon()Lij/process/FloatPolygon;*
+
+proiij.gui.PolygonRoi2getNonSplineFloatPolygon()¨
+©
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÖ Ö()
+fpij.process.FloatPolygon"__id* 
+
+%28ij.process.FloatPolygon*
+68
+71
+75*˙
+34`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java· ·(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java· ·(/
+%112int"__id*
+""
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java·0 ·(F
+%113int"__id*
+""*
+24
+25
+32
+22*À
+79`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÉ É(í
+è
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÉ É(
+fpij.process.FloatPolygon"__id*
+""√¿
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÑ Ñ(
+%27boolean" ij.gui.PolygonRoi#isSplineFit()Z*
+
+proiij.gui.PolygonRoi2isSplineFit()*
+77
+78*∏
+35`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java‡ ‡(π∂
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java‡ ‡(
+%111boolean"ij.gui.Roi#getDrawOffset()Z*
+
+roi
+ij.gui.Roi2getDrawOffset()*
+24
+25
+32
+22
+34*‰
+36`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java‹ ‹(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java‹ ‹(
+%103int"__id*
+""ŒÀ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java‹ ‹()
+%104void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+%103int*
+""2putShort(II)
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java› ›("
+%105int"__id*
+""≠™
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java›$ ›(;
+%106int"ij.gui.Arrow#getStyle()I*
+
+roi
+ij.gui.Roi2
+getStyle()”–
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java› ›(<
+%107void"ij.io.RoiEncoder#putByte(II)V*
+ij.io.RoiEncoder*
+
+%105int*
+
+%106int2putByte(II)
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaﬁ ﬁ(&
+%108int"__id*
+""∂≥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaﬁ- ﬁ(G
+%109double"ij.gui.Arrow#getHeadSize()D*
+
+roi
+ij.gui.Roi2getHeadSize()÷”
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaﬁ ﬁ(H
+%110void"ij.io.RoiEncoder#putByte(II)V*
+ij.io.RoiEncoder*
+
+%108int*
+
+%109double2putByte(II)*
+24
+25
+32
+22*Ì
+37`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java€ €(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java€ €("
+%102int"__id*
+""*
+36*®
+38`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java⁄ ⁄(µ≤
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java⁄ ⁄(!
+%101boolean"ij.gui.Arrow#getOutline()Z*
+
+roi
+ij.gui.Roi2getOutline()*
+36
+37*Ì
+39`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaŸ Ÿ(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaŸ Ÿ((
+%100int"__id*
+""*
+38*√
+100^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java[ [(§
+°
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java[ [(
+%7java.lang.String"__id*!*
+ij.io.RoiEncoder"	
+roiNameÆ´
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java[ [(!	
+%8int"java.lang.String#length()I*
+
+%7java.lang.String2length()*
+98*Ñ
+101^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaY Y(√¿
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaY Y(
+%5java.lang.String"&ij.gui.Roi#getName()Ljava/lang/String;*
+
+roi
+ij.gui.Roi2	getName()§
+°
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaY Y(
+ij.io.RoiEncoder"	
+roiName"__id*
+
+%5java.lang.String§
+°
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaZ Z(
+%6java.lang.String"__id*!*
+ij.io.RoiEncoder"	
+roiName*	
+98
+100*È
+102^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaX X(
+{
+y
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaX X(+	
+%4int"__id*
+""*
+101*›
+103^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaT T(•¢
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaT T(	
+%2int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()¡æ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaW W(
+%3boolean"!ij.gui.Roi#getScaleStrokeWidth()Z*
+
+roi
+ij.gui.Roi2getScaleStrokeWidth()*
+
+101
+102*∑
+104^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaS S(»≈
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaS S(!
+
+%1void"&ij.gui.Roi#enableSubPixelResolution()V*
+
+roi
+ij.gui.Roi2enableSubPixelResolution()*
+103*Á
+80^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java}! }($ô
+ñ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java} }(%
+proiij.gui.PolygonRoi"__id*
+
+roi
+ij.gui.RoiÛ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java~ ~(-
+%25java.awt.Polygon"=ij.gui.PolygonRoi#getNonSplineCoordinates()Ljava/awt/Polygon;*
+
+proiij.gui.PolygonRoi2getNonSplineCoordinates()õ
+ò
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java~ ~(.
+pjava.awt.Polygon"__id*
+
+%25java.awt.Polygon¬ø
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÇ Ç(
+%26boolean" ij.gui.Roi#subPixelResolution()Z*
+
+roi
+ij.gui.Roi2subPixelResolution()*
+79
+68
+71*‡
+108^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaQ Q(À»
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaQ Q(
+%0java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()û
+õ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaQ Q( 
+rjava.awt.Rectangle"__id*
+
+%0java.awt.Rectangle*
+
+103
+104*ì
+82^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javat t(¬ø
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javat t(&
+%24void"Dij.io.RoiEncoder#saveShapeRoi(Lij/gui/Roi;ILjava/io/OutputStream;I)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi*
+""*
+
+fjava.io.OutputStream*
+""22saveShapeRoi(Lij/gui/Roi;ILjava/io/OutputStream;I)"h
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javau u(
+
+""*Ù
+83^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javas s(|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javas s(
+
+%23int"__id*
+""*
+68
+80
+82
+71*÷
+
+84^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javae
+ e(|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaf f(
+
+%13int"__id*
+""|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javag g(
+
+%14int"__id*
+""|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javah h(
+
+%15int"__id*
+""|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javai i(
+
+%16int"__id*
+""|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaj j(
+
+%17int"__id*
+""|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javak k(
+
+%18int"__id*
+""|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javal l(
+
+%19int"__id*
+""|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javam m(
+
+%20int"__id*
+""|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javan n(
+
+%21int"__id*
+""|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javao o(
+
+%22int"__id*
+""*
+83*Ü
+40`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java◊ ◊(~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java◊ ◊(
+
+%96int"__id*
+""~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java◊! ◊(1
+
+%97int"__id*
+""“œ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java◊ ◊(2
+%98void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%96int*
+
+
+%97int2putShort(II)æª
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÿ ÿ(&
+%99boolean"ij.gui.Arrow#getDoubleHeaded()Z*
+
+roi
+ij.gui.Roi2getDoubleHeaded()*
+38
+39*ƒ
+41`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java— —(ï
+í
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java— —(
+lineij.gui.Line"__id*
+
+roi
+ij.gui.Roi~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java“ “(
+
+%88int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java“ “(+
+%89void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%88int*
+""2putFloat(IF)~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java” ”(
+
+%90int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java” ”(+
+%91void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%90int*
+""2putFloat(IF)~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java‘ ‘(
+
+%92int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java‘ ‘(+
+%93void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%92int*
+""2putFloat(IF)~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java’ ’(
+
+%94int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java’ ’(+
+%95void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%94int*
+""2putFloat(IF)*
+35
+40*À
+43`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÕ Õ(~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÕ Õ(-
+
+%86int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÕ Õ(7
+%87void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%86int*
+""2putShort(II)*
+24
+25
+41
+32
+22*ø
+44`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÀ À(ºπ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÀ À((
+
+%85int"ij.gui.Roi#getCornerDiameter()I*
+
+roi
+ij.gui.Roi2getCornerDiameter()*
+24
+25
+41
+43
+32
+22*Ñ
+45`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java» »(~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java»	 »(
+
+%82int"__id*
+""∞≠
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java» »(/
+
+%83int"ij.gui.Roi#getPosition()I*
+
+roi
+ij.gui.Roi2getPosition()ŒÀ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java» »(0
+%84void"ij.io.RoiEncoder#putInt(II)V*
+ij.io.RoiEncoder*
+
+
+%82int*
+
+
+%83int2
+putInt(II)*
+24
+25
+41
+32
+44
+22*ª
+46`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java« «(~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java« «($
+
+%80int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java« «((
+%81void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%80int*
+""2putShort(II)*
+45*∑
+47`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java≈ ≈(	~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java≈
+ ≈(
+
+%78int"__id*
+""»≈
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java≈ ≈(
+%79void"ij.io.RoiEncoder#putInt(II)V*
+ij.io.RoiEncoder*
+
+
+%78int*
+""2
+putInt(II)*
+45*Ë
+50`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java¿ ¿(å
+â
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java¿ ¿(
+%76void"ij.IJ#beep()V*	"
+ij.IJÊ
+„
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java¡ ¡(S
+%77void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*GE
+CNon-polygonal selections with more than 65k points cannot be saved.*
+46
+47*ô
+51`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaΩ Ω(ƒ¡
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaΩ Ω('
+%75void"Dij.io.RoiEncoder#saveShapeRoi(Lij/gui/Roi;ILjava/io/OutputStream;I)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi*
+""*
+
+fjava.io.OutputStream*
+""22saveShapeRoi(Lij/gui/Roi;ILjava/io/OutputStream;I)"j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaæ æ(
+""*ÿ
+52`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaº º(ÈÊ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaº º(%
+%74void"'ij.gui.Roi#setName(Ljava/lang/String;)V*
+
+roi
+ij.gui.Roi*
+
+namejava.lang.String2setName(Ljava/lang/String;)*
+51*∆
+97^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaa a(¶
+£
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaa a(
+%11java.lang.String"__id*"* 
+ij.io.RoiEncoder"
+
+roiProps∞≠
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaa a(#
+
+%12int"java.lang.String#length()I*
+
+%11java.lang.String2length()*
+84*Õ
+53`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java∫ ∫(∆√
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java∫ ∫(
+%71java.lang.String"&ij.gui.Roi#getName()Ljava/lang/String;*
+
+roi
+ij.gui.Roi2	getName()†
+ù
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java∫ ∫( 
+namejava.lang.String"__id*
+
+%71java.lang.Stringéã
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaª ª(
+%72ij.gui.ShapeRoi"ij.gui.ShapeRoi¬
+ø
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaª
+ ª(
+%73"%ij.gui.ShapeRoi#<init>(Lij/gui/Roi;)V*
+
+%72ij.gui.ShapeRoi*
+
+roi
+ij.gui.Roiò
+ï
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaª ª(
+roi
+ij.gui.Roi"__id*
+
+%72ij.gui.ShapeRoi*
+51
+52*ë
+98^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java_ _(œÃ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java_ _( 
+%9java.lang.String",ij.gui.Roi#getProperties()Ljava/lang/String;*
+
+roi
+ij.gui.Roi2getProperties()•
+¢
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java_ _(  
+ij.io.RoiEncoder"
+
+roiProps"__id*
+
+%9java.lang.String¶
+£
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java` `(
+%10java.lang.String"__id*"* 
+ij.io.RoiEncoder"
+
+roiProps*
+84
+97*„
+12`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaç ç(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaç ç(
+%150int"__id*
+""ÓÎ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaç ç(-
+%151void"+ij.io.RoiEncoder#putHeader2(Lij/gui/Roi;I)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi*
+""2putHeader2(Lij/gui/Roi;I)*	
+3
+8
+1*Õ
+13`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaã ã(Ÿ
+÷
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaã ã(1
+%149int"2ij.io.RoiEncoder#saveImageRoi(Lij/gui/ImageRoi;I)I*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi*
+""*	
+3
+8
+1*É
+59`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java∞ ∞(~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java∞ ∞(
+
+%60int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java∞ ∞()
+%61void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%60int*
+""2putFloat(IF)~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java± ±(
+
+%62int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java± ±()
+%63void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%62int*
+""2putFloat(IF)~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java≤ ≤(
+
+%64int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java≤ ≤(:
+%65void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%64int*
+""2putFloat(IF)~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java≥ ≥(
+
+%66int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java≥ ≥(;
+%67void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+
+%66int*
+""2putFloat(IF)~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java¥ ¥(.
+
+%68int"__id*
+""~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaµ µ(
+
+%69int"__id*
+""Ã…
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaµ µ()
+%70void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+
+%69int*
+""2putShort(II)*
+46
+47
+50
+53*‚
+16`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaâ â(ÓÎ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaâ â(
+%148void"/ij.io.RoiEncoder#saveTextRoi(Lij/gui/TextRoi;)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi2saveTextRoi(Lij/gui/TextRoi;)*	
+3
+8
+1*«
+19`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÉ É(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÉ É($
+%145int"__id*
+""
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÑ Ñ(
+%146int"__id*
+""ŒÀ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÑ Ñ()
+%147void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+
+%146int*
+""2putShort(II)*
+13
+16
+12*~
+0 "w
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java¢ ¢(
+implicit return*⁄
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java† †(˛˚
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java† †("
+%156void"3ij.io.RoiEncoder#saveOverlayOptions(Lij/gui/Roi;I)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi*
+""2!saveOverlayOptions(Lij/gui/Roi;I)õ
+ò
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java°
+ °(
+%157byte[]"__id**
+ij.io.RoiEncoder"
+dataŒÀ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java° °(
+%158void"java.io.OutputStream#write([B)V*
+
+fjava.io.OutputStream*
+
+%157byte[]2	write([B)*
+0*Å
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaö ö(«ƒ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaö ö(
+%154void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+""*
+""2putFloat(IF)«ƒ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaõ õ(
+%155void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+""*
+""2putFloat(IF)*
+3
+1*Ñ
+8`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaì ì(«ƒ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaì ì(
+%152void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+""*
+""2putShort(II)«ƒ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaî î(
+%153void"ij.io.RoiEncoder#putShort(II)V*
+ij.io.RoiEncoder*
+""*
+""2putShort(II)*	
+3
+8
+1*ë
+61`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java≠	 ≠(‰·
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java≠	 ≠(
+%59ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+roi
+ij.gui.Roi2getFloatPolygon()´
+®
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java≠ ≠(
+pij.process.FloatPolygon"__id* 
+
+%59ij.process.FloatPolygon*
+46
+47
+59
+50
+53*°
+62`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java© ©(√¿
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java© ©(
+%56void" ij.gui.Roi#setCornerDiameter(I)V*
+
+roi
+ij.gui.Roi*2 2setCornerDiameter(I)‰·
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java™	 ™(
+%57ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+roi
+ij.gui.Roi2getFloatPolygon()´
+®
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java™ ™(
+pij.process.FloatPolygon"__id* 
+
+%57ij.process.FloatPolygon«ƒ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java´ ´(
+%58void" ij.gui.Roi#setCornerDiameter(I)V*
+
+roi
+ij.gui.Roi*
+""2setCornerDiameter(I)*
+46
+47
+59
+50
+53*Ø
+63`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaß ß(ºπ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaß ß(#
+
+%55int"ij.gui.Roi#getCornerDiameter()I*
+
+roi
+ij.gui.Roi2getCornerDiameter()*
+61
+62*∑
+20`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÇ3 Ç(6ºπ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÇ& Ç(E
+%144boolean" ij.gui.PolygonRoi#isSplineFit()Z*
+
+roi
+ij.gui.Roi2isSplineFit()*
+13
+16
+19
+12*ó
+64`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java• •(ÍÁ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java• •()
+%54ij.process.FloatPolygon":ij.gui.OvalRoi#getFloatPolygon4()Lij/process/FloatPolygon;*
+
+roi
+ij.gui.Roi2getFloatPolygon4()´
+®
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java• •()
+pij.process.FloatPolygon"__id* 
+
+%54ij.process.FloatPolygon*
+46
+47
+59
+50
+53*˘
+21`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÅ Å(˛˚
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÅ Å(
+%143void"7ij.io.RoiEncoder#saveStrokeWidthAndColor(Lij/gui/Roi;)V*
+ij.io.RoiEncoder*
+
+roi
+ij.gui.Roi2%saveStrokeWidthAndColor(Lij/gui/Roi;)*
+13
+16
+20
+12*Ñ
+65`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java£ £(ë
+é
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java£ £(
+pij.process.FloatPolygon"__id*
+""*
+63
+64*˘
+22`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÄ Ä(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.javaÄ Ä(
+%142int"__id*
+""*
+13
+16
+21
+12*Ü
+23`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java¯ ¯(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java¯ ¯(
+%132int"__id*
+""ŒÀ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java¯ ¯('
+%133void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+%132int*
+""2putFloat(IF)
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java˘ ˘(
+%134int"__id*
+""ŒÀ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java˘ ˘('
+%135void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+%134int*
+""2putFloat(IF)
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java˙ ˙(
+%136int"__id*
+""ŒÀ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java˙ ˙('
+%137void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+%136int*
+""2putFloat(IF)
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java˚ ˚(
+%138int"__id*
+""ŒÀ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java˚ ˚('
+%139void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+%138int*
+""2putFloat(IF)
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java¸ ¸("
+%140int"__id*
+""ŒÀ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiEncoder.java¸ ¸(0
+%141void"ij.io.RoiEncoder#putFloat(IF)V*
+ij.io.RoiEncoder*
+
+%140int*
+""2putFloat(IF)*
+22:
+roi
+ij.gui.Roi:
+fjava.io.OutputStreamB
+ij.io.RoiEncoder

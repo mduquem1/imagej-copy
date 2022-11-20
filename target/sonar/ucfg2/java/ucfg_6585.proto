@@ -1,0 +1,1436 @@
+
+&ij.plugin.RGBStackMerge#mergeStacks()Ve
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java" "("128*∞
+68g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÉ É(∫
+∑
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÉ É(3
+%84void"ij.IJ#run(Ljava/lang/String;)V*	"
+ij.IJ*
+Channels Tool...*
+67*¥
+25g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∏
+ ∏(!î
+ë
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∏
+ ∏(:
+%108ij.ImagePlus"Oij.plugin.RGBStackMerge#mergeUsingRGBProjection([Lij/ImagePlus;Z)Lij/ImagePlus;*
+ij.plugin.RGBStackMerge*
+
+imagesij.ImagePlus[]*
+""†
+ù
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∏ ∏(:
+imp2ij.ImagePlus"__id*
+
+%108ij.ImagePlus*
+15
+8
+11*Ø
+69g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÅ Å(Ü
+É
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÅ Å(
+
+%80int"__id*
+""Õ 
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÅ Å(
+%81void"ij.CompositeImage#setMode(I)V*
+
+ciij.CompositeImage*
+
+
+%80int2
+setMode(I)¿Ω
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÇ Ç(
+%82void"ij.ImagePlus#updateAndDraw()V*
+
+imgij.ImagePlus2updateAndDraw()ô
+ñ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÉ É(
+%83boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+68
+67*‰
+70e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java) (,†
+ù
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java (-
+ciij.CompositeImage"__id*
+
+imgij.ImagePlusºπ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÄ	 Ä(
+
+%78int"ij.CompositeImage#getMode()I*
+
+ciij.CompositeImage2	getMode()Ü
+É
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÄ Ä(#
+
+%79int"__id*
+""*
+69
+64
+65*π
+71e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java~ ~(Ω∫
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java~ ~(
+%77boolean"ij.ImagePlus#isComposite()Z*
+
+imgij.ImagePlus2isComposite()*
+70
+64
+65*∑
+72e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java} }(
+øº
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java} }(
+%76boolean"ij.ImagePlus#isHyperStack()Z*
+
+imgij.ImagePlus2isHyperStack()*
+58
+71*˛
+73e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaz z(	üú
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaz z(C
+%75void"2ij.plugin.RGBStackMerge#error(Ljava/lang/String;)V*
+ij.plugin.RGBStackMerge*:8
+6The source stacks must have the same number of images.2error(Ljava/lang/String;)"o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java{ {(
+""*Ù
+30g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java≥ ≥(≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java≥ ≥(
+%106ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""Ω∫
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java≥ ≥(
+%107int"ij.ImagePlus#getBitDepth()I*
+
+%106ij.ImagePlus2getBitDepth()*
+25
+19
+21
+33*≥
+74e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javay y(
+ª∏
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javay y(
+
+%74int"ij.ImagePlus#getStackSize()I*
+
+imgij.ImagePlus2getStackSize()*
+72
+73* 
+76e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaw w(Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaw w(
+%73ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""ú
+ô
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaw w(
+imgij.ImagePlus"__id*
+
+%73ij.ImagePlus*
+51
+74
+76*∏
+33g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∞ ∞(≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∞ ∞(
+%105ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""*
+25
+19
+30
+21
+33*˘
+79e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaq q(öó
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaq q(=
+%72void"2ij.plugin.RGBStackMerge#error(Ljava/lang/String;)V*
+ij.plugin.RGBStackMerge*53
+1There must be at least one source image or stack.2error(Ljava/lang/String;)"o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javar r(
+
+""*˜
+100e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaD D(9˛˚
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaD D(9
+%39void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+C5 (cyan):*
+
+titlesjava.lang.String[]*
+
+%36java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)*
+98
+99*—
+101e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaD0 D(5¥
+±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaD0 D(8
+%38java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*2§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaD0 D(8
+%36java.lang.String"__id*
+
+%38java.lang.String*
+100*Õ
+102e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaD+ D(/∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaD+ D(/
+%37java.lang.String"__id*%*#
+ij.plugin.RGBStackMerge"
+none§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaD+ D(/
+%36java.lang.String"__id*
+
+%37java.lang.String*
+100*˘
+103e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaC C(9˛˚
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaC C(9
+%35void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+C4 (gray):*
+
+titlesjava.lang.String[]*
+
+%32java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)*
+
+101
+102*—
+104e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaC0 C(5¥
+±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaC0 C(8
+%34java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*2§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaC0 C(8
+%32java.lang.String"__id*
+
+%34java.lang.String*
+103*Õ
+105e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaC+ C(/∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaC+ C(/
+%33java.lang.String"__id*%*#
+ij.plugin.RGBStackMerge"
+none§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaC+ C(/
+%32java.lang.String"__id*
+
+%33java.lang.String*
+103*˘
+106e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaB B(9˛˚
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaB B(9
+%31void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+C3 (blue):*
+
+titlesjava.lang.String[]*
+
+%28java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)*
+
+104
+105*—
+107e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaB0 B(5¥
+±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaB0 B(8
+%30java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*2§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaB0 B(8
+%28java.lang.String"__id*
+
+%30java.lang.String*
+106*Õ
+108e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaB+ B(/∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaB+ B(/
+%29java.lang.String"__id*%*#
+ij.plugin.RGBStackMerge"
+none§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaB+ B(/
+%28java.lang.String"__id*
+
+%29java.lang.String*
+106*˙
+109e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaA A(:ˇ¸
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaA A(:
+%27void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+C2 (green):*
+
+titlesjava.lang.String[]*
+
+%24java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)*
+
+107
+108*Ö
+82e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javag g(Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javag g(
+%60ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""≥∞
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javag g(!
+
+%61int"ij.ImagePlus#getWidth()I*
+
+%60ij.ImagePlus2
+getWidth()Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javah h(
+%62ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""µ≤
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javah h(#
+
+%63int"ij.ImagePlus#getHeight()I*
+
+%62ij.ImagePlus2getHeight()Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javai i(
+%64ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""ª∏
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javai i()
+
+%65int"ij.ImagePlus#getStackSize()I*
+
+%64ij.ImagePlus2getStackSize()Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaj j(
+%66ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""π∂
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaj j('
+
+%67int"ij.ImagePlus#getBitDepth()I*
+
+%66ij.ImagePlus2getBitDepth()Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javak k(
+%68ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""∑¥
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javak k($
+
+%69int"ij.ImagePlus#getNSlices()I*
+
+%68ij.ImagePlus2getNSlices()Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javal l(
+%70ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""∑¥
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javal l($
+
+%71int"ij.ImagePlus#getNFrames()I*
+
+%70ij.ImagePlus2getNFrames()*
+79
+83
+51
+76*à
+83e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javae e(
+…
+∆
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javae e(7
+%58ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""∏
+µ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javae e(7
+%59"
+__arraySet*
+
+imagesij.ImagePlus[]*
+""*
+
+%58ij.ImagePlus*
+79
+82
+83
+51
+76*∑
+86e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java[% [(0ëé
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java[ [(1
+%57ij.ImagePlus[]"ij.ImagePlus[]£
+†
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java[ [(2
+imagesij.ImagePlus[]"__id*
+
+%57ij.ImagePlus[]*
+79
+83
+51
+76*∫
+42g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java• •(¥
+±
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java• •(
+%104ij.ImageStack"
+__arrayGet*
+
+stacksij.ImageStack[]*
+""*
+25
+19
+42
+21
+33*
+88e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaR R(“œ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaR R('
+%54boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()“œ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaS	 S(
+%55boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()“œ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaT T("
+%56boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+86*ñ
+44g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java¢ ¢(ê
+ç
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java¢ ¢(
+imp2ij.ImagePlus"__id*
+""*
+25
+19
+42
+21
+33*∑
+46g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java° °(8Ω
+∫
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java° °(8
+%103"
+__arraySet*
+
+stacksij.ImageStack[]*
+""*
+
+%99ij.ImageStack*
+49
+44*î
+47g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java°4 °(8û
+õ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java°4 °(8
+%99ij.ImageStack"__id*
+
+%101
+<nulltype>*
+46*û
+48g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java° °(%≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java° °((
+%102ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""œÃ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java° °(3
+%100ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%102ij.ImagePlus2
+getStack()°
+û
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java° °(3
+%99ij.ImageStack"__id*
+
+%100ij.ImageStack*
+46*´
+49g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java° °(	±
+Æ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java° °(
+%98ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""*
+47
+48*—
+110e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaA1 A(6¥
+±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaA1 A(9
+%26java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*2§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaA1 A(9
+%24java.lang.String"__id*
+
+%26java.lang.String*
+109*Õ
+111e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaA, A(0∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaA, A(0
+%25java.lang.String"__id*%*#
+ij.plugin.RGBStackMerge"
+none§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaA, A(0
+%24java.lang.String"__id*
+
+%25java.lang.String*
+109*¯
+112e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java@ @(8˝˙
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java@ @(8
+%23void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+	C1 (red):*
+
+titlesjava.lang.String[]*
+
+%20java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)*
+
+110
+111*œ
+113e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java@/ @(4≤
+Ø
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java@/ @(7
+%22java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*2 §
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java@/ @(7
+%20java.lang.String"__id*
+
+%22java.lang.String*
+112*Õ
+114e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java@* @(.∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java@* @(.
+%21java.lang.String"__id*%*#
+ij.plugin.RGBStackMerge"
+none§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java@* @(.
+%20java.lang.String"__id*
+
+%21java.lang.String*
+112*ü
+115e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java?' ?(7ùö
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java? ?(&
+%18ij.gui.GenericDialog"ij.gui.GenericDialog÷
+”
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java? ?(8
+%19"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%18ij.gui.GenericDialog*
+Merge Channels´
+®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java? ?(9
+gdij.gui.GenericDialog"__id*
+
+%18ij.gui.GenericDialog*
+
+113
+114*
+116e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java7) 7(.ºπ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java8 8(.
+%13java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+optionsjava.lang.String*
+red=*
+c1=20replaceAll(Ljava/lang/String;Ljava/lang/String;)®
+•
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java8 8(.
+optionsjava.lang.String"__id*
+
+%13java.lang.Stringæª
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java9 9(0
+%14java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+optionsjava.lang.String*
+
+green=*
+c2=20replaceAll(Ljava/lang/String;Ljava/lang/String;)®
+•
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java9 9(0
+optionsjava.lang.String"__id*
+
+%14java.lang.StringΩ∫
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java: :(/
+%15java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+optionsjava.lang.String*	
+blue=*
+c3=20replaceAll(Ljava/lang/String;Ljava/lang/String;)®
+•
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java: :(/
+optionsjava.lang.String"__id*
+
+%15java.lang.StringΩ∫
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java; ;(/
+%16java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+optionsjava.lang.String*	
+gray=*
+c4=20replaceAll(Ljava/lang/String;Ljava/lang/String;)®
+•
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java; ;(/
+optionsjava.lang.String"__id*
+
+%16java.lang.StringŒ
+À
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java< <(
+%17void"(ij.Macro#setOptions(Ljava/lang/String;)V*"
+
+ij.Macro*
+
+optionsjava.lang.String*
+115*Œ
+90e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaP P(÷”
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaP P(%
+
+%53int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()*
+90
+88*µ
+119e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java. .(Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java. .(
+%8java.lang.String"__id*%*#
+ij.plugin.RGBStackMerge"
+noneæ
+ª
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java. .(
+%9"
+__arraySet*
+
+titlesjava.lang.String[]*
+""*
+
+%8java.lang.Stringì
+ê
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java/ /(*
+%10java.lang.String[]"Oij.plugin.RGBStackMerge#getInitialNames([Ljava/lang/String;)[Ljava/lang/String;*
+ij.plugin.RGBStackMerge*
+
+titlesjava.lang.String[]™
+ß
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java/ /(+
+namesjava.lang.String[]"__id*
+
+%10java.lang.String[]∫
+∑
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java4 4(%
+%11java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro®
+•
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java4 4(&
+optionsjava.lang.String"__id*
+
+%11java.lang.Stringú
+ô
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java5 5(#
+%12boolean"ij.IJ#macroRunning()Z*	"
+ij.IJ*
+
+115
+116*‹
+93e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaM M(
+"o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaM M(
+
+""*…
+94e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaF F(;Ä˝
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaF F(;
+%47void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+C7 (yellow):*
+
+titlesjava.lang.String[]*
+
+%44java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)çä
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaH H(5
+%48void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Create composite*
+""2 addCheckbox(Ljava/lang/String;Z)èå
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaI I(,
+%49void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Keep source images*
+""2 addCheckbox(Ljava/lang/String;Z)èå
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaJ J(2
+%50void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Ignore source LUTs*
+""2 addCheckbox(Ljava/lang/String;Z)«ƒ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaK K(
+%51void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()Ã…
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaL L(
+%52boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+90
+93
+88*œ
+95e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaF2 F(7¥
+±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaF2 F(:
+%46java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*2§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaF2 F(:
+%44java.lang.String"__id*
+
+%46java.lang.String*
+94*π
+51g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaü' ü(2ïí
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaü ü(3
+%97ij.ImageStack[]"ij.ImageStack[]ß
+§
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaü ü(4
+stacksij.ImageStack[]"__id*
+
+%97ij.ImageStack[]*
+49
+44*À
+96e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaF- F(1∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaF- F(1
+%45java.lang.String"__id*%*#
+ij.plugin.RGBStackMerge"
+none§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaF- F(1
+%44java.lang.String"__id*
+
+%45java.lang.String*
+94*˘
+97e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaE E(<Å˛
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaE E(<
+%43void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+C6 (magenta):*
+
+titlesjava.lang.String[]*
+
+%40java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)*
+95
+96*˝
+53g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaö ö(	öó
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaö ö(<
+%96void"2ij.plugin.RGBStackMerge#error(Ljava/lang/String;)V*
+ij.plugin.RGBStackMerge*31
+/The source images must have the same bit depth.2error(Ljava/lang/String;)"q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaõ õ(
+""*œ
+98e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaE3 E(8¥
+±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaE3 E(;
+%42java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*2§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaE3 E(;
+%40java.lang.String"__id*
+
+%42java.lang.String*
+97*≥
+10g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÀ À(!ª∏
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÀ À(.
+%123int"ij.ImagePlus#getNFrames()I*
+
+imp2ij.ImagePlus2getNFrames()*
+8
+9*π
+54g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaô ô(ª∏
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaô ô(+
+
+%95int"ij.ImagePlus#getBitDepth()I*
+
+imgij.ImagePlus2getBitDepth()*
+51
+53
+76*À
+99e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaE. E(2∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaE. E(2
+%41java.lang.String"__id*%*#
+ij.plugin.RGBStackMerge"
+none§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaE. E(2
+%40java.lang.String"__id*
+
+%41java.lang.String*
+97*¥
+11g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÀ À(ª∏
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÀ À(
+%122int"ij.ImagePlus#getNSlices()I*
+
+imp2ij.ImagePlus2getNSlices()*
+8
+10*é
+56g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javañ ñ(	´®
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javañ ñ(M
+%94void"2ij.plugin.RGBStackMerge#error(Ljava/lang/String;)V*
+ij.plugin.RGBStackMerge*DB
+@The source images or stacks must have the same width and height.2error(Ljava/lang/String;)"q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaó ó(
+""*Ì
+57g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaï  ï(&±
+Æ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaï  ï()
+%92ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""∑¥
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaï  ï(5
+
+%93int"ij.ImagePlus#getHeight()I*
+
+%92ij.ImagePlus2getHeight()*
+51
+54
+76
+56*¥
+14g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∆ ∆(≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∆ ∆(!
+%119ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""ÌÍ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∆ ∆(2
+%120ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%119ij.ImagePlus2getCalibration()ñì
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∆ ∆(3
+%121void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+imp2ij.ImagePlus* 
+
+%120ij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)*
+8
+11*Ø
+58g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaï ï(
+µ≤
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaï ï(
+
+%91int"ij.ImagePlus#getWidth()I*
+
+imgij.ImagePlus2
+getWidth()*
+57
+56*≥
+15g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java≈ ≈(≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java≈ ≈(
+%118ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""*
+14
+15
+8
+11*î
+18g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java¿ ¿(Ü
+É
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java¿ ¿(1
+%116ij.ImagePlus"Hij.plugin.CompositeConverter#makeComposite(Lij/ImagePlus;)Lij/ImagePlus;* "
+ij.plugin.CompositeConverter*
+
+imp2ij.ImagePlus†
+ù
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java¿ ¿(1
+imp2ij.ImagePlus"__id*
+
+%116ij.ImagePlusÎË
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java¡ ¡(
+%117void"*ij.ImagePlus#setTitle(Ljava/lang/String;)V*
+
+imp2ij.ImagePlus*
+	Composite2setTitle(Ljava/lang/String;)*
+15
+8
+11*ì
+19g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaΩ Ω(∞
+≠
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaΩ: Ω(C
+%110ij.ImageStack"
+__arrayGet*
+
+stacksij.ImageStack[]*2 ≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaΩE Ω(N
+%111ij.ImageStack"
+__arrayGet*
+
+stacksij.ImageStack[]*2≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaΩP Ω(Y
+%112ij.ImageStack"
+__arrayGet*
+
+stacksij.ImageStack[]*2≤Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaΩ Ω(`
+%113ij.ImageStack"eij.plugin.RGBStackMerge#mergeStacks(IIILij/ImageStack;Lij/ImageStack;Lij/ImageStack;Z)Lij/ImageStack;*
+ij.plugin.RGBStackMerge*
+""*
+""*
+""*
+
+%110ij.ImageStack*
+
+%111ij.ImageStack*
+
+%112ij.ImageStack*
+""2>mergeStacks(IIILij/ImageStack;Lij/ImageStack;Lij/ImageStack;Z)°
+û
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaΩ Ω(a
+rgbij.ImageStack"__id*
+
+%113ij.ImageStackêç
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaæ æ(
+%114ij.ImagePlus"ij.ImagePlusÊ
+„
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaæ
+ æ(#
+%115"7ij.ImagePlus#<init>(Ljava/lang/String;Lij/ImageStack;)V*
+
+%114ij.ImagePlus*
+RGB*
+
+rgbij.ImageStack†
+ù
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaæ æ(#
+imp2ij.ImagePlus"__id*
+
+%114ij.ImagePlus*
+15
+18
+8
+11*π
+121e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java, ,(*æ
+ª
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java, ,(*
+%7"
+__arraySet*
+
+titlesjava.lang.String[]*
+""*
+
+%4java.lang.String*
+
+124
+119*Ö
+0 "~
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java€ €(
+implicit return*ò
+122e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java,( ,(*¢
+ü
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java,( ,(*
+%4java.lang.String"__id*
+
+%6java.lang.String*
+121*‘
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaŸ Ÿ(±Æ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaŸ Ÿ( 
+%132int"ij.ImagePlus#getID()I*
+
+imp2ij.ImagePlus2getID()¨
+©
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaŸ Ÿ(!
+%133void"ij.IJ#selectWindow(I)V*	"
+ij.IJ*
+
+%132int*
+0*Î
+123e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java, ,(–Õ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java, ,('
+%5java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()¢
+ü
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java, ,('
+%4java.lang.String"__id*
+
+%5java.lang.String*
+121*“
+2g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÿ ÿ(€ÿ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÿ ÿ(
+%131ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+imp2ij.ImagePlus2getWindow()*
+0
+1*·
+124e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java+ +( »
+≈
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java+ +(3
+%3ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""õ
+ò
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java+ +(4
+impij.ImagePlus"__id*
+
+%3ij.ImagePlus*
+
+123
+122*ì
+4g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java‘ ‘(≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java‘ ‘(
+%128ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java’ ’(
+%129ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""≤Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java’ ’(
+%130void"ij.ImagePlus#close()V*
+
+%129ij.ImagePlus2close()*
+2
+5*¿
+126e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java) )($òï
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java) )(.
+%2java.lang.String[]"java.lang.String[]™
+ß
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java) )(/
+titlesjava.lang.String[]"__id*
+
+%2java.lang.String[]*
+
+124
+119*¨
+5g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java” ”(≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java” ”(
+%127ij.ImagePlus"
+__arrayGet*
+
+imagesij.ImagePlus[]*
+""*	
+2
+4
+5*€
+127e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java% %(˚¯
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java% %(
+
+%1void"2ij.plugin.RGBStackMerge#error(Ljava/lang/String;)V*
+ij.plugin.RGBStackMerge*
+No images are open.2error(Ljava/lang/String;)"o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java& &(
+
+""*®
+128e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java# #(≠
+™
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java# #()
+%0int[]"ij.WindowManager#getIDList()[I*"
+ij.WindowManager*
+
+126
+127*™
+8g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java– –(∞≠
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java– –(
+%126void"ij.ImagePlus#show()V*
+
+imp2ij.ImagePlus2show()*	
+2
+5
+0* 
+9g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÃ Ã(À»
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÃ Ã(
+%124ij.ImagePlus"$ij.ImagePlus#flatten()Lij/ImagePlus;*
+
+imp2ij.ImagePlus2	flatten()†
+ù
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÃ Ã(
+imp2ij.ImagePlus"__id*
+
+%124ij.ImagePlusÂ‚
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÕ Õ(
+%125void"*ij.ImagePlus#setTitle(Ljava/lang/String;)V*
+
+imp2ij.ImagePlus*
+RGB2setTitle(Ljava/lang/String;)*
+8*ˇ
+60g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaê ê(
+úô
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaê ê(?
+%90void"2ij.plugin.RGBStackMerge#error(Ljava/lang/String;)V*
+ij.plugin.RGBStackMerge*53
+1Source hyperstacks must have the same dimensions.2error(Ljava/lang/String;)"q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaë ë(
+""*≥
+61g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaè$ è('π∂
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaè$ è(4
+
+%89int"ij.ImagePlus#getNFrames()I*
+
+imgij.ImagePlus2getNFrames()*
+58
+60*≥
+62g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaè è(π∂
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaè è(
+
+%88int"ij.ImagePlus#getNSlices()I*
+
+imgij.ImagePlus2getNSlices()*
+60
+61*Å
+63g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaå å(
+ûõ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaå å(A
+%87void"2ij.plugin.RGBStackMerge#error(Ljava/lang/String;)V*
+ij.plugin.RGBStackMerge*75
+3Source hyperstacks cannot have more than 1 channel.2error(Ljava/lang/String;)"q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaç ç(
+""*‡
+20g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaª ª("q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaª ª(
+""*∑
+64g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaã ã(Ω∫
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaã ã(
+
+%86int"ij.ImagePlus#getNChannels()I*
+
+imgij.ImagePlus2getNChannels()*
+62
+63*’
+21g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∫
+ ∫(±Æ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∫
+ ∫((
+%109ij.ImagePlus"Hij.plugin.RGBStackMerge#mergeHyperstacks([Lij/ImagePlus;Z)Lij/ImagePlus;*
+ij.plugin.RGBStackMerge*
+
+imagesij.ImagePlus[]*
+""2"mergeHyperstacks([Lij/ImagePlus;Z)†
+ù
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java∫ ∫((
+imp2ij.ImagePlus"__id*
+
+%109ij.ImagePlus*
+15
+8
+20
+11*Ô
+65g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaà à(
+åâ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaà à(/
+%85void"2ij.plugin.RGBStackMerge#error(Ljava/lang/String;)V*
+ij.plugin.RGBStackMerge*%#
+!Source hyperstacks cannot be RGB.2error(Ljava/lang/String;)"q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaâ â(
+""*‡
+67g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÑ Ñ("q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaÑ Ñ(
+""B
+ij.plugin.RGBStackMerge

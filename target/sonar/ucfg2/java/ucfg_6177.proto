@@ -1,0 +1,321 @@
+
+'ij.plugin.HyperStackMaker#showDialog()Zg
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java6 6("18*–
+13g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java9 9(ÓÐ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java9 9(6
+%5java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+optionsjava.lang.String*
+
+title=*	
+name=29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ê
+Ç
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java9 9(7
+
+%6void"(ij.Macro#setOptions(Ljava/lang/String;)V*"
+
+ij.Macro*
+
+%5java.lang.String*
+12*ú
+14g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java8 8(€ý
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java8 8(1
+%4boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+optionsjava.lang.String*
+
+title=2"contains(Ljava/lang/CharSequence;)*
+13
+12*£
+15g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java7 7(8©
+¦
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java7 7(8
+optionsjava.lang.String"__id*
+
+%1java.lang.String*
+14
+12*”
+16g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java73 7(7ž
+›
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java73 7(7
+%1java.lang.String"__id*
+
+%3
+<nulltype>*
+15*Ø
+17g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java7  7(%»
+¸
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java7  7(2
+%2java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro¤
+¡
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java7  7(2
+%1java.lang.String"__id*
+
+%2java.lang.String*
+15*’
+18g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java7 7(˜
+•
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java7 7(
+%0boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+16
+17*ß
+1g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaW
+ W("q
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaW W(
+""*Ê
+2g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaT T(è
+å
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaT T(7
+%34void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+	New Image*
+Width and height must be >0"q
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaU U(
+""*Ë
+4g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaR
+ R(ÔÑ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaR
+ R(
+%33boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+2
+1*Å
+6g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaP P(ÑÎ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaP P(
+%32double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+4*Å
+8g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaN N(ÑÎ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaN N(
+%31double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+6*á
+10g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaG
+ G(ìé
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaG
+ G(
+%25java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()µ
+²
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaG G(&
+ij.plugin.HyperStackMaker"
+title"__id*
+
+%25java.lang.Stringìé
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaH	 H(
+%26java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()´
+±
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaH H(%
+ij.plugin.HyperStackMaker"
+type"__id*
+
+%26java.lang.Stringìé
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaI	 I(
+%27java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()´
+±
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaI I(%
+ij.plugin.HyperStackMaker"
+mode"__id*
+
+%27java.lang.StringÑÎ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaJ J(!
+%28double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÑÎ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaK K("
+%29double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÑÎ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaL L(
+%30double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+8*à
+11g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaF
+ F("q
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaF F(
+""*®'
+12g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java:' :(:ž›
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java: :(&
+%7ij.gui.GenericDialog"ij.gui.GenericDialogÙ
+Ö
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java: :(;
+%8"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%7ij.gui.GenericDialog*
+New Hyperstack...¬
+©
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java: :(<
+gdij.gui.GenericDialog"__id*
+
+%7ij.gui.GenericDialog´
+±
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java; ;("
+%9java.lang.String"__id*(*&
+ij.plugin.HyperStackMaker"
+titleÆÃ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java; ;('
+%10void"Kij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;I)V*
+
+gdij.gui.GenericDialog*	
+Name:*
+
+%9java.lang.String*225addStringField(Ljava/lang/String;Ljava/lang/String;I)·
+´
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java< <(
+%11java.lang.String[]"__id*(*&
+ij.plugin.HyperStackMaker"
+types´
+±
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java< <(#
+%12java.lang.String"__id*'*%
+ij.plugin.HyperStackMaker"
+typeøõ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java< <($
+%13void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*	
+Type:*
+
+%11java.lang.String[]*
+
+%12java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)·
+´
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java=  =(%
+%14java.lang.String[]"__id*(*&
+ij.plugin.HyperStackMaker"
+modes´
+±
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java=' =(+
+%15java.lang.String"__id*'*%
+ij.plugin.HyperStackMaker"
+mode€ý
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java= =(,
+%16void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Display mode:*
+
+%14java.lang.String[]*
+
+%15java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)ËÈ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java> >(5
+%17void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Width:*
+""*2 *2*
+
+pixels28addNumericField(Ljava/lang/String;DIILjava/lang/String;)ÌÉ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java? ?(7
+%18void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*	
+Height:*
+""*2 *2*
+
+pixels28addNumericField(Ljava/lang/String;DIILjava/lang/String;)ÊÇ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.java@ @(2
+%19void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Channels (c):*
+""*2 *2* 28addNumericField(Ljava/lang/String;DIILjava/lang/String;)ÈÅ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaA A(0
+%20void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Slices (z):*
+""*2 *2* 28addNumericField(Ljava/lang/String;DIILjava/lang/String;)ÈÅ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaB B(0
+%21void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Frames (t):*
+""*2 *2* 28addNumericField(Ljava/lang/String;DIILjava/lang/String;)‹ˆ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaC C('
+%22void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Label images*
+""2 addCheckbox(Ljava/lang/String;Z)ÉÆ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaD D(
+%23void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()ÎË
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackMaker.javaE E(
+%24boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+10
+11B
+ij.plugin.HyperStackMaker

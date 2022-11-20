@@ -1,0 +1,126 @@
+
+$ij.gui.Roi#clone()Ljava/lang/Object;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª(!"13*î
+13Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaΩ Ω(´
+®
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaΩ Ω(
+%0java.lang.Object"*java.lang.Object#clone()Ljava/lang/Object;*
+""*
+12*–
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∆
+ ∆("o
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∆ ∆(
+
+r
+ij.gui.Roi*É
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java≈ ≈(1ú
+ô
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java≈ ≈(1
+
+r
+ij.gui.Roi"
+bounds"__id*
+
+%9java.lang.Object*
+2*˜
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java≈ ≈(©
+¶
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java≈# ≈()&
+%8 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds‰·
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java≈# ≈(1
+%9java.lang.Object"8java.awt.geom.RectangularShape#clone()Ljava/lang/Object;*(
+&
+%8 java.awt.geom.Rectangle2D$Double2clone()*
+3*ì
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¬ ¬(©
+¶
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaƒ ƒ(&
+%7 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds*
+2
+4*â
+6Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¬ ¬(¢ü
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¬ ¬(	
+%6int"ij.gui.Roi#getImageID()I*
+
+ij.gui.Roi2getImageID()*
+5*…
+7Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡ ¡(!‚ﬂ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡ ¡(!
+
+%5void"*ij.gui.Roi#setFillColor(Ljava/awt/Color;)V*
+
+r
+ij.gui.Roi*
+
+%4java.awt.Color2setFillColor(Ljava/awt/Color;)*
+6*ß
+8Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡ ¡(¿Ω
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡ ¡( 
+%4java.awt.Color")ij.gui.Roi#getFillColor()Ljava/awt/Color;*
+
+ij.gui.Roi2getFillColor()*
+7*’
+9Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¿ ¿(ÓÎ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¿ ¿(
+
+%3void"-ij.gui.Roi#setStroke(Ljava/awt/BasicStroke;)V*
+
+r
+ij.gui.Roi*
+
+%2java.awt.BasicStroke2!setStroke(Ljava/awt/BasicStroke;)*
+8*Æ
+10Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¿ ¿(∆√
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¿ ¿(
+%2java.awt.BasicStroke",ij.gui.Roi#getStroke()Ljava/awt/BasicStroke;*
+
+ij.gui.Roi2getStroke()*
+9*≈
+12Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaΩ Ω(ê
+ç
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaΩ Ω(
+r
+ij.gui.Roi"__id*
+
+%0java.lang.Object∆√
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæ æ(
+
+%1void"$ij.gui.Roi#setImage(Lij/ImagePlus;)V*
+
+r
+ij.gui.Roi*
+""2setImage(Lij/ImagePlus;)*
+8
+10B
+
+ij.gui.Roi

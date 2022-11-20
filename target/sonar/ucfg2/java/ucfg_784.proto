@@ -1,0 +1,47 @@
+
+Bij.gui.GenericDialog#makeLabel(Ljava/lang/String;)Ljava/awt/Label;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaﬂ ﬂ("3*«
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java· ·(Ø
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java· ·(
+%1java.lang.String"__concat*
+
+labeljava.lang.String*
+ §
+°
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java· ·(
+labeljava.lang.String"__id*
+
+%1java.lang.String*
+1*ç
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java‡ ‡(ô
+ñ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java‡ ‡(
+%0boolean"ij.IJ#isMacintosh()Z*	"
+ij.IJ*
+2
+1*Œ
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java‚ ‚(èå
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java‚ ‚(
+%2java.awt.Label"java.awt.Label–
+Õ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java‚	 ‚(
+%3"*java.awt.Label#<init>(Ljava/lang/String;)V*
+
+%2java.awt.Label*
+
+labeljava.lang.String"~
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java‚ ‚(
+
+%2java.awt.Label:
+labeljava.lang.StringB
+ij.gui.GenericDialog

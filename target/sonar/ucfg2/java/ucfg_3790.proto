@@ -1,0 +1,29 @@
+
+-ij.plugin.Colors#getBlue(Ljava/lang/String;)I`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java³ ³("1*§
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java´	 ´(‰
+†
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java´ ´(%
+%0java.awt.Color"__id*
+""–
+“
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java´	 ´(&
+%1java.awt.Color"Kij.plugin.Colors#decode(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors*
+
+hexColorjava.lang.String*
+
+%0java.awt.Color®«
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java´	 ´(0	
+%2int"java.awt.Color#getBlue()I*
+
+%1java.awt.Color2	getBlue()"j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java´ ´(1
+"":
+hexColorjava.lang.StringB"
+ij.plugin.Colors

@@ -1,0 +1,79 @@
+
+7ij.gui.Roi#getRotationCenter()Lij/process/FloatPolygon;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÛ Û(&"3*þ
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaß ß(¿¼
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaß ß(
+%4double"&java.awt.geom.RectangularShape#getX()D* 
+
+rjava.awt.geom.Rectangle2D2getX()ÇÄ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaß ß("
+%5double"*java.awt.geom.RectangularShape#getWidth()D* 
+
+rjava.awt.geom.Rectangle2D2
+getWidth()¿¼
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaà à(
+%6double"&java.awt.geom.RectangularShape#getY()D* 
+
+rjava.awt.geom.Rectangle2D2getY()ÉÆ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaà à(#
+%7double"+java.awt.geom.RectangularShape#getHeight()D* 
+
+rjava.awt.geom.Rectangle2D2getHeight()*
+1*œ	
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÜ Ü(%—”
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÜ Ü(#
+%0ij.process.FloatPolygon"ij.process.FloatPolygon©
+¦
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÜ Ü(%
+%1"!ij.process.FloatPolygon#<init>()V*
+
+%0ij.process.FloatPolygon¤
+¡
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÜ Ü(&
+pij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygonèå
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÝ Ý("&
+%2 java.awt.geom.Rectangle2D$Double"=ij.gui.Roi#getFloatBounds()Ljava/awt/geom/Rectangle2D$Double;*
+
+ij.gui.Roi2getFloatBounds()¯
+¬
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÝ Ý(#
+rjava.awt.geom.Rectangle2D"__id*(
+&
+%2 java.awt.geom.Rectangle2D$Double¨
+¥
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÞ Þ(
+%3boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+2
+1*°
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaâ â(ÐÍ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaâ â(
+
+%8void"%ij.process.FloatPolygon#addPoint(DD)V*
+
+pij.process.FloatPolygon*
+""*
+""2addPoint(DD)"|
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaã ã(
+
+pij.process.FloatPolygonB
+
+ij.gui.Roi

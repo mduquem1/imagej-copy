@@ -1,0 +1,50 @@
+
+(ij.io.TiffDecoder#OpenImageFileHeader()Ja
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaÇ Ç("6*ƒ
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaå å(´
+®
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaå å(
+%2ij.io.RandomAccessStream"__id**
+ij.io.TiffDecoder"
+in¿Ω
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaå å(
+
+%3void"!ij.io.RandomAccessStream#close()V* 
+
+%2ij.io.RandomAccessStream2close()"k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaç ç(
+""*Ë
+6a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaÜ Ü(´
+®
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaÜ Ü(
+%0ij.io.RandomAccessStream"__id**
+ij.io.TiffDecoder"
+in…∆
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaÜ Ü( 
+%1short"%ij.io.RandomAccessStream#readShort()S* 
+
+%0ij.io.RandomAccessStream2readShort()*
+2
+1*ª
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaè è(≥∞
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaè è(	
+%4int"ij.io.TiffDecoder#getShort()I*
+ij.io.TiffDecoder2
+getShort()Ø¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaê ê(	
+%5int"ij.io.TiffDecoder#getInt()I*
+ij.io.TiffDecoder2getInt()"k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/TiffDecoder.javaë ë(
+""B
+ij.io.TiffDecoder

@@ -1,0 +1,179 @@
+
+,ij.process.Cube#toString()Ljava/lang/String;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaä ä("1*–"
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaã ã(ü
+ú
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaã ã(
+%0java.lang.String"__concat*
+
+lower=*
+""≤
+Ø
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaã ã()
+%1java.lang.String"__concat*
+
+%0java.lang.String*	
+ upper=≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaã ã(1
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+""†
+ù
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaã ã(2
+sjava.lang.String"__id*
+
+%2java.lang.String±
+Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaå å(
+%3java.lang.String"__concat*
+
+sjava.lang.String*	
+ count=≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaå å(
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+""≤
+Ø
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaå å('
+%5java.lang.String"__concat*
+
+%4java.lang.String*	
+ level=≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaå å(/
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""†
+ù
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaå å(/
+sjava.lang.String"__id*
+
+%6java.lang.String∞
+≠
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaç ç(
+%7java.lang.String"__concat*
+
+sjava.lang.String*
+
+ rmin=≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaç ç(
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+""±
+Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaç ç($
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+
+ rmax=Æ
+´
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaç ç(+
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+""°
+û
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaç ç(+
+sjava.lang.String"__id*
+
+%10java.lang.String±
+Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaé é(
+%11java.lang.String"__concat*
+
+sjava.lang.String*
+
+ gmin=Ø
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaé é(
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+""≥
+∞
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaé é($
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+
+ gmax=Ø
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaé é(+
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+""°
+û
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaé é(+
+sjava.lang.String"__id*
+
+%14java.lang.String±
+Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaè è(
+%15java.lang.String"__concat*
+
+sjava.lang.String*
+
+ bmin=Ø
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaè è(
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+""≥
+∞
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaè è($
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+
+ bmax=Ø
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaè è(+
+%18java.lang.String"__concat*
+
+%17java.lang.String*
+""°
+û
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaè è(+
+sjava.lang.String"__id*
+
+%18java.lang.String"
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.javaê ê(
+
+sjava.lang.StringB
+ij.process.Cube

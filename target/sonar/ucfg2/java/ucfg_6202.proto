@@ -1,0 +1,66 @@
+
+5ij.plugin.Startup#getStartupMacro()Ljava/lang/String;_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java) )("4*Ï
+2_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java,
+ ,("i
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java, ,(
+""*Ý
+3_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java+ +(îë
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java+ +(/
+%4boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+macrojava.lang.String*
+
+Error:2startsWith(Ljava/lang/String;)*
+2
+1*Ÿ
+4_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java* *(Í
+Ê
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java*! *(:
+%0java.lang.String"8ij.IJ#getDirectory(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+macros£
+ 
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java*; *(?
+%1java.lang.String"__id**
+ij.plugin.Startup"
+NAMEº
+·
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java*! *(?
+%2java.lang.String"__concat*
+
+%0java.lang.String*
+
+%1java.lang.StringÛ
+Ø
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java* *(@
+%3java.lang.String"8ij.IJ#openAsString(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+%2java.lang.StringŸ
+œ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java* *(A
+macrojava.lang.String"__id*
+
+%3java.lang.String*
+2
+3*ä
+1_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java.
+ .("~
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Startup.java. .(
+
+macrojava.lang.StringB
+ij.plugin.Startup

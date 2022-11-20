@@ -1,0 +1,66 @@
+
+cij.plugin.filter.BackgroundSubtracter#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Zs
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java| |($"6*„
+2u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÅ$ Å(&·ﬁ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÅ$ Å(7
+%3boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+1*Ê
+3u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÄ Ä(·ﬁ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÄ Ä(-
+%2boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+2
+1*˜
+4s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java ("}
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java (
+""*‡
+5s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java~  ~("›⁄
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java~  ~(2
+%1boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+3
+4*ﬂ
+6s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java} }(‹Ÿ
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java} }(#
+%0double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+4
+5*ß
+1u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÇ Ç(·ﬁ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÇ Ç(.
+%4boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()·ﬁ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÉ É(+
+%5boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()·ﬁ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÑ Ñ(*
+%6boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()"
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÖ Ö(
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB)'
+%ij.plugin.filter.BackgroundSubtracter

@@ -1,0 +1,19 @@
+
+Hij.process.IntProcessor#getBufferedImage()Ljava/awt/image/BufferedImage;e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/IntProcessor.javae e(&"1*ò
+1e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/IntProcessor.javaf	 f(áÑ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/IntProcessor.javaf	 f(
+%0ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToByte(Z)Lij/process/ImageProcessor;*
+ij.process.IntProcessor*22convertToByte(Z)ëé
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/IntProcessor.javaf	 f(/"
+%1java.awt.image.BufferedImage"Jij.process.ImageProcessor#getBufferedImage()Ljava/awt/image/BufferedImage;*!
+
+%0ij.process.ImageProcessor2getBufferedImage()"ç
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/IntProcessor.javaf f(0$
+"
+%1java.awt.image.BufferedImageB
+ij.process.IntProcessor

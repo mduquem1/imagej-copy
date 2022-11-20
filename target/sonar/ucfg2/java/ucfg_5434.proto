@@ -1,0 +1,65 @@
+
+9ij.gui.ImageRoi#getProcessor()Lij/process/ImageProcessor;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaÜ Ü(#"3*ñ
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaà
+ à(®
+•
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaà
+ à(
+%1ij.process.ImageProcessor"__id**
+ij.gui.ImageRoi"
+ip"Ñ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaà à(!
+
+%1ij.process.ImageProcessor*ó
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaá á(®
+•
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaá á(
+%0ij.process.ImageProcessor"__id**
+ij.gui.ImageRoi"
+ip*
+2
+1*‚
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaä ä(û
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaä ä(
+%2java.awt.Image"__id**
+ij.gui.ImageRoi"
+img†ù
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaä ä(
+%3ij.process.ColorProcessor"ij.process.ColorProcessor⁄
+◊
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaä ä(
+%4"3ij.process.ColorProcessor#<init>(Ljava/awt/Image;)V*!
+
+%3ij.process.ColorProcessor*
+
+%2java.awt.Image®
+•
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaä ä(
+ij.gui.ImageRoi"
+ip"__id*!
+
+%3ij.process.ColorProcessor®
+•
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaã
+ ã(
+%5ij.process.ImageProcessor"__id**
+ij.gui.ImageRoi"
+ip"Ñ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageRoi.javaã ã(!
+
+%5ij.process.ImageProcessorB
+ij.gui.ImageRoi

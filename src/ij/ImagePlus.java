@@ -1099,7 +1099,7 @@ public class ImagePlus implements ImageObserver, Measurements, Cloneable {
 			ip.setRoi(roi);
 		else
 			ip.resetRoi();
-		return ImageStatistics.getStatistics(ip, AREA+MEAN+MODE+MIN_MAX, null);
+		return ImageStatistics.getStatistics(ip, AREA+MEAN+MODE+MIN_MAX, null, null);
 	}
 
 	/** Returns an ImageStatistics object generated using the
@@ -1141,7 +1141,7 @@ public class ImagePlus implements ImageObserver, Measurements, Cloneable {
 			histMax=cal.getRawValue(histMax);
 		}
 		ip2.setHistogramRange(histMin, histMax);
-		ImageStatistics stats = ImageStatistics.getStatistics(ip2, mOptions, cal);
+		ImageStatistics stats = ImageStatistics.getStatistics(ip2, mOptions, cal, null);
 		ip2.setHistogramSize(256);
 		ip2.setHistogramRange(0.0, 0.0);
 		return stats;
@@ -2254,7 +2254,7 @@ public class ImagePlus implements ImageObserver, Measurements, Cloneable {
 		ImageProcessor mask = r.getMask();
 		if (mask==null) return false;
 		mask.setThreshold(255, 255, ImageProcessor.NO_LUT_UPDATE);
-		ImageStatistics stats = ImageStatistics.getStatistics(mask, MEAN+LIMIT, null);
+		ImageStatistics stats = ImageStatistics.getStatistics(mask, MEAN+LIMIT, null, null);
 		return stats.area<=width*height;
 	}
 

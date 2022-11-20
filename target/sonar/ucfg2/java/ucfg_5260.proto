@@ -1,0 +1,431 @@
+
+$ij.plugin.frame.Editor#<init>(IIII)Vf
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÉ É("13*ù
+13f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÑ Ñ(Ô
+Ï
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÑ Ñ(!
+%0ij.plugin.frame.PlugInFrame"7ij.plugin.frame.PlugInFrame#<init>(Ljava/lang/String;)V*
+ij.plugin.frame.Editor*
+
+Editorÿ
+’
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÖ Ö(
+
+%1void"-ij.WindowManager#addWindow(Ljava/awt/Frame;)V*"
+ij.WindowManager*
+ij.plugin.frame.Editor—Œ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÜ Ü(
+
+%2void"%ij.plugin.frame.Editor#addMenuBar(I)V*
+ij.plugin.frame.Editor*
+""2addMenuBar(I)Ñ
+Å
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaá á(	
+%3int"__id*
+""*
+5
+12*ã
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java£ £(ò
+ï
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java£ £(%
+%58boolean"ij.IJ#isLinux()Z*	"
+ij.IJ*
+0*“
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaù ù(®
+•
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaù ù("
+%48	ij.ImageJ"ij.IJ#getInstance()Lij/ImageJ;*	"
+ij.IJòï
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaù ù(#
+%49void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+ij.plugin.frame.Editor*
+
+%48	ij.ImageJ2,addKeyListener(Ljava/awt/event/KeyListener;)Ø
+¨
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaû û(
+%50java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+ta®•
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaû û(
+%51void"Djava.awt.Component#addMouseListener(Ljava/awt/event/MouseListener;)V*
+
+%50java.awt.TextArea*
+ij.plugin.frame.Editor20addMouseListener(Ljava/awt/event/MouseListener;)Ø
+¨
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaü ü(
+%52java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+taõò
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaü ü(	
+%53java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+ij.plugin.frame.Editor*
+
+%52java.awt.TextArea2add(Ljava/awt/Component;)µ≤
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java† †(
+%54void"java.awt.Window#pack()V*
+ij.plugin.frame.Editor2pack()¬ø
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java° °(
+%55void"!ij.plugin.frame.Editor#setFont()V*
+ij.plugin.frame.Editor2	setFont()–Õ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java¢ ¢(
+%56void"(ij.plugin.frame.Editor#positionWindow()V*
+ij.plugin.frame.Editor2positionWindow()ô
+ñ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java£ £(
+%57boolean"ij.IJ#isJava18()Z*	"
+ij.IJ*
+2
+0*ø
+4f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaú ú(Ø
+¨
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaú ú(
+%45java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+taê
+ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaú% ú(0
+%46java.awt.Color"__id*
+""áÑ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaú ú(1
+%47void"7java.awt.TextComponent#setBackground(Ljava/awt/Color;)V*
+
+%45java.awt.TextArea*
+
+%46java.awt.Color2setBackground(Ljava/awt/Color;)*
+3*Õ
+5f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaô ô(òï
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaô ô(
+%38java.awt.TextArea"java.awt.TextAreaΩ
+∫
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaô ô("
+%39"java.awt.TextArea#<init>(II)V*
+
+%38java.awt.TextArea*
+""*
+""Ø
+¨
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaô ô(" 
+ij.plugin.frame.Editor"
+ta"__id*
+
+%38java.awt.TextAreaØ
+¨
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaö ö(
+%40java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+ta®•
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaö ö(
+%41void"Fjava.awt.TextComponent#addTextListener(Ljava/awt/event/TextListener;)V*
+
+%40java.awt.TextArea*
+ij.plugin.frame.Editor2.addTextListener(Ljava/awt/event/TextListener;)Ø
+¨
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaõ õ(
+%42java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+ta†ù
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaõ õ(
+%43void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+%42java.awt.TextArea*
+ij.plugin.frame.Editor2,addKeyListener(Ljava/awt/event/KeyListener;)ò
+ï
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaú ú(
+%44boolean"ij.IJ#isLinux()Z*	"
+ij.IJ*
+3
+4*Â
+
+6f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaï ï(≥
+∞
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaï ï(
+%33java.awt.Choice"__id*(*&
+ij.plugin.frame.Editor"
+
+languageüú
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaï ï(!
+%34void"?java.awt.Choice#addItemListener(Ljava/awt/event/ItemListener;)V*
+
+%33java.awt.Choice*
+ij.plugin.frame.Editor2.addItemListener(Ljava/awt/event/ItemListener;)≥
+∞
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javañ ñ(
+%35java.awt.Choice"__id*(*&
+ij.plugin.frame.Editor"
+
+languageòï
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javañ ñ(
+%36java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+paneljava.awt.Panel*
+
+%35java.awt.Choice2add(Ljava/awt/Component;)…∆
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaó ó(
+%37java.awt.Component"Rjava.awt.Container#add(Ljava/lang/String;Ljava/awt/Component;)Ljava/awt/Component;*
+ij.plugin.frame.Editor*	
+North*
+
+paneljava.awt.Panel2+add(Ljava/lang/String;Ljava/awt/Component;)*
+5*
+8f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaî î(≥
+∞
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaî î(
+%29java.awt.Choice"__id*(*&
+ij.plugin.frame.Editor"
+
+languageî
+ë
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaî î(
+%30java.lang.String[]"__id*
+""µ
+≤
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaî î(!
+%31java.lang.String"
+__arrayGet*
+
+%30java.lang.String[]*
+""¯ı
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaî î("
+%32void",java.awt.Choice#addItem(Ljava/lang/String;)V*
+
+%29java.awt.Choice*
+
+%31java.lang.String2addItem(Ljava/lang/String;)*
+9*ä
+9f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaì ì(î
+ë
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaì ì(
+%28java.lang.String[]"__id*
+""*
+6
+8*Ë
+10f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaí í(îë
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaí í(
+%26java.awt.Choice"java.awt.Choiceß
+§
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaí í(
+%27"java.awt.Choice#<init>()V*
+
+%26java.awt.Choice≥
+∞
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaí í(&
+ij.plugin.frame.Editor"
+
+language"__id*
+
+%26java.awt.Choice*
+9*Ñ
+0 "}
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java• •(
+implicit return*»
+11f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaé é((îë
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaé é(
+%20java.awt.Button"java.awt.Button∆
+√
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaé é()
+%21"+java.awt.Button#<init>(Ljava/lang/String;)V*
+
+%20java.awt.Button*	
+Install∏
+µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaé é()+
+ij.plugin.frame.Editor"
+installButton"__id*
+
+%20java.awt.Button∏
+µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaè è(
+%22java.awt.Button"__id*-*+
+ij.plugin.frame.Editor"
+installButtonß§
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaè è()
+%23void"Cjava.awt.Button#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%22java.awt.Button*
+ij.plugin.frame.Editor22addActionListener(Ljava/awt/event/ActionListener;)∏
+µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaê ê(
+%24java.awt.Button"__id*-*+
+ij.plugin.frame.Editor"
+installButtonòï
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaê ê(
+%25java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+paneljava.awt.Panel*
+
+%24java.awt.Button2add(Ljava/awt/Component;)*
+10*≤
+12f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà* à(4Ñ
+Å
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà* à(9	
+%4int"__id*
+""õò
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà à()
+%5java.awt.FlowLayout"java.awt.FlowLayout≈
+¬
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà à(@
+%6" java.awt.FlowLayout#<init>(III)V*
+
+%5java.awt.FlowLayout*
+	
+%4int*2 *2 ëé
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà à(
+%7java.awt.Panel"java.awt.Panelÿ
+’
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà à(A
+%8"0java.awt.Panel#<init>(Ljava/awt/LayoutManager;)V*
+
+%7java.awt.Panel*
+
+%5java.awt.FlowLayout¢
+ü
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà à(B
+paneljava.awt.Panel"__id*
+
+%7java.awt.Panelìê
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ â(
+%9java.awt.Button"java.awt.Button¡
+æ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ â( 
+%10"+java.awt.Button#<init>(Ljava/lang/String;)V*
+
+%9java.awt.Button*
+Run≥
+∞
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ â( '
+ij.plugin.frame.Editor"
+	runButton"__id*
+
+%9java.awt.Button¥
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä ä(
+%11java.awt.Button"__id*)*'
+ij.plugin.frame.Editor"
+	runButtonß§
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä ä($
+%12void"Cjava.awt.Button#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%11java.awt.Button*
+ij.plugin.frame.Editor22addActionListener(Ljava/awt/event/ActionListener;)Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaã' ã(1
+
+%13int"__id*
+""êç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaã ã(
+%14java.awt.Font"java.awt.Font‹
+Ÿ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaã ã(H
+%15"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%14java.awt.Font*
+	SansSerif*
+
+
+%13int*
+""Û
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaã ã(I
+%16void",java.awt.Container#setFont(Ljava/awt/Font;)V*
+
+paneljava.awt.Panel*
+
+%14java.awt.Font2setFont(Ljava/awt/Font;)¥
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaå å(
+%17java.awt.Button"__id*)*'
+ij.plugin.frame.Editor"
+	runButtonòï
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaå å(
+%18java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+paneljava.awt.Panel*
+
+%17java.awt.Button2add(Ljava/awt/Component;)Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaç ç(
+
+%19int"__id*
+""*
+10
+11:
+"":
+"":
+"":
+""B
+ij.plugin.frame.Editor

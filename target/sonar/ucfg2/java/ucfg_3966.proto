@@ -1,0 +1,97 @@
+
+'ij.plugin.AnimatedGifEncoder2#finish()Zc
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.javaŒ Œ("6"8*„
+3c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java÷ ÷(∂
+≥
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java÷ ÷(
+%4java.io.OutputStream"__id***(
+ij.plugin.AnimatedGifEncoder2"
+out∫∑
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java÷ ÷(
+
+%5void"java.io.OutputStream#close()V*
+
+%4java.io.OutputStream2close()*
+1*Ê
+5c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java‘ ‘(∂
+≥
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java‘ ‘(
+%2java.io.OutputStream"__id***(
+ij.plugin.AnimatedGifEncoder2"
+out∫∑
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java‘ ‘(
+
+%3void"java.io.OutputStream#flush()V*
+
+%2java.io.OutputStream2flush()*
+3
+1*Î
+6c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java” ”(∂
+≥
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java” ”(
+%0java.io.OutputStream"__id***(
+ij.plugin.AnimatedGifEncoder2"
+out¬ø
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java” ”(
+
+%1void"java.io.OutputStream#write(I)V*
+
+%0java.io.OutputStream*2;2write(I)*
+5*◊
+8c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.javaœ œ("m
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.javaœ œ(
+""*Ω	
+1c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java⁄ ⁄(†
+ù
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.javaﬁ ﬁ((
+ij.plugin.AnimatedGifEncoder2"
+gct"__id*
+""†
+ù
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.javaﬂ ﬂ((
+ij.plugin.AnimatedGifEncoder2"
+out"__id*
+""¢
+ü
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java‡ ‡(*
+ij.plugin.AnimatedGifEncoder2"
+image"__id*
+""£
+†
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java· ·(+
+ij.plugin.AnimatedGifEncoder2"
+pixels"__id*
+""™
+ß
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java‚ ‚(2
+ij.plugin.AnimatedGifEncoder2"
+indexedPixels"__id*
+""•
+¢
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.java„ „(-
+ij.plugin.AnimatedGifEncoder2"
+
+colorTab"__id*
+"""m
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GifWriter.javaÁ Á(
+""B!
+ij.plugin.AnimatedGifEncoder2

@@ -1,0 +1,28 @@
+
+#ij.WindowManager#getCurrentIndex()I^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java> >("1*˜
+1^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java?	 ?(¦
+£
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java?	 ?(
+%0java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList¬
+©
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java? ?((
+%1ij.gui.ImageWindow"__id*'*%
+ij.WindowManager"
+currentWindowðí
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java?	 ?()	
+%2int"-java.util.Vector#indexOf(Ljava/lang/Object;)I*
+
+%0java.util.Vector*
+
+%1ij.gui.ImageWindow2indexOf(Ljava/lang/Object;)"h
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java? ?(*
+""B"
+ij.WindowManager

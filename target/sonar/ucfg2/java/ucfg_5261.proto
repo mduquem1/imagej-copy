@@ -1,0 +1,95 @@
+
+6ij.plugin.frame.Editor#getOptions(Ljava/lang/String;)If
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java§ §("10*÷
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java® ®(
+„
+
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java® ®(	
+%7int"__id*
+""*
+1*ä
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java­ ­(
+îë
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java­ ­(
+%6boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.ijm2endsWith(Ljava/lang/String;)*
+2
+1*÷
+4f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java¬ ¬(
+„
+
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java¬ ¬(	
+%5int"__id*
+""*
+3*ã
+5f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java«P «(Tíê
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java«P «(d
+%4boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.py2endsWith(Ljava/lang/String;)*
+3
+4*ä
+6f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java«7 «(;îë
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java«7 «(L
+%3boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.bsh2endsWith(Ljava/lang/String;)*
+4
+5*ã
+7f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java« «(#íê
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java« «(3
+%2boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.js2endsWith(Ljava/lang/String;)*
+4
+6*ä
+8f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java« «(
+îë
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java« «(
+%1boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.ijm2endsWith(Ljava/lang/String;)*
+4
+7*İ
+9f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaª
+ ª("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaª ª(
+""*û
+10f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java¨ ¨(„
+
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java¨ ¨(	
+%0int"__id*
+""*
+8
+9*İ
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java¯	 ¯("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java¯ ¯(
+"":
+namejava.lang.StringB"
+ij.plugin.frame.Editor

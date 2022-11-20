@@ -1,0 +1,40 @@
+
+6ij.plugin.frame.Channels#getImage()Lij/CompositeImage;h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Channels.java∞ ∞("4*·
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Channels.java≥
+ ≥("r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Channels.java≥ ≥(
+""*∑
+3h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Channels.java≤ ≤(øº
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Channels.java≤ ≤(%
+%1boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+2
+1*‚
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Channels.java± ±(…
+∆
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Channels.java± ±(1
+%0ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerû
+õ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Channels.java± ±(2
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+2
+3*Ò
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Channels.javaµ µ("Å
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Channels.javaµ µ(
+
+impij.ImagePlusB
+ij.plugin.frame.Channels

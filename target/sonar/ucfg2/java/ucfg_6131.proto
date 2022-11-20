@@ -1,0 +1,95 @@
+
+ij.gui.Wand#isLine(II)Z[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java¡ ¡("3"4"10"1*û
+
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java”E ”(P§
+°
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java” ”(P
+%4java.lang.String"__concat*
+
+%1java.lang.String*
+""£
+†
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java” ”(T
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+ §
+°
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java” ”(Y
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""£
+†
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java” ”(]
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+ ¨
+©
+\
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java”^ ”(Ä
+%8java.lang.String"ij.IJ#d2s(D)Ljava/lang/String;*	"
+ij.IJ*
+""∑
+¥
+\
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java” ”(Ä
+%9java.lang.String"__concat*
+
+%7java.lang.String*
+
+%8java.lang.String≥
+∞
+\
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java” ”(Å
+%10void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%9java.lang.String*
+1*Ä
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java”< ”(Cò
+ï
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java”< ”(C
+%1java.lang.String"__id*
+
+%3java.lang.String*
+2*Ä
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java”4 ”(;ò
+ï
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java”4 ”(;
+%1java.lang.String"__id*
+
+%2java.lang.String*
+2*ú
+10[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaŒ Œ(©
+¶
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.javaœ œ(
+%0boolean"ij.gui.Wand#inside(II)Z*
+ij.gui.Wand*
+""*
+""*
+3
+4
+10
+1*«
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java‘ ‘(#"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Wand.java‘ ‘(/
+"":
+"":
+""B
+ij.gui.Wand

@@ -1,0 +1,61 @@
+
+Hij.process.FloatProcessor#createProcessor(II)Lij/process/ImageProcessor;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÏ Ï(&"1*û
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÌ* Ì(/ÖÇ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÌR Ì(a
+%0java.awt.image.ColorModel"Dij.process.ImageProcessor#getColorModel()Ljava/awt/image/ColorModel;*
+ij.process.FloatProcessor2getColorModel()™ß
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÌ Ì()
+%1ij.process.FloatProcessor"ij.process.FloatProcessorñ
+ì
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÌ Ì(b
+%2"Bij.process.FloatProcessor#<init>(II[FLjava/awt/image/ColorModel;)V*!
+
+%1ij.process.FloatProcessor*
+""*
+""*
+""*!
+
+%0java.awt.image.ColorModelπ
+∂
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÌ Ì(c 
+ip2ij.process.ImageProcessor"__id*!
+
+%1ij.process.FloatProcessor «
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÓ Ó(
+%3double"#ij.process.FloatProcessor#getMin()D*
+ij.process.FloatProcessor2getMin() «
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÓ Ó(%
+%4double"#ij.process.FloatProcessor#getMax()D*
+ij.process.FloatProcessor2getMax()˝˙
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÓ Ó(&
+
+%5void"+ij.process.ImageProcessor#setMinAndMax(DD)V*"
+ 
+ip2ij.process.ImageProcessor*
+
+%3double*
+
+%4double2setMinAndMax(DD)˜Ù
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÔ Ô(1
+
+%6void"4ij.process.ImageProcessor#setInterpolationMethod(I)V*"
+ 
+ip2ij.process.ImageProcessor*
+""2setInterpolationMethod(I)"è
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java ("
+ 
+ip2ij.process.ImageProcessor:
+"":
+""B
+ij.process.FloatProcessor

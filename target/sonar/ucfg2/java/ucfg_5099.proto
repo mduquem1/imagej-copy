@@ -1,0 +1,84 @@
+
+Iij.io.Opener#openTiff(Ljava/lang/String;Ljava/lang/String;)Lij/ImagePlus;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaà à("11*…
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaî
+ î("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaî î(
+""*á
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaç ç(õ
+ò
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaç ç(
+infoij.io.FileInfo[]"__id*
+
+%3ij.io.FileInfo[]*
+2
+1*æ
+8\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaç
+ ç(’“
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaç
+ ç(
+%3ij.io.FileInfo[]"0ij.io.TiffDecoder#getTiffInfo()[Lij/io/FileInfo;*
+
+tdij.io.TiffDecoder2getTiffInfo()*
+4*Ú
+9\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaã ã(â
+Ü
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaã ã(
+infoij.io.FileInfo[]"__id*
+""*
+8*´
+10\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaä ä(¡æ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaä ä((
+
+%2void"$ij.io.TiffDecoder#enableDebugging()V*
+
+tdij.io.TiffDecoder2enableDebugging()*
+9*ú
+11\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaâ# â(,çä
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaâ â("
+%0ij.io.TiffDecoder"ij.io.TiffDecoderÄ
+˝
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaâ â(3
+%1"?ij.io.TiffDecoder#<init>(Ljava/lang/String;Ljava/lang/String;)V*
+
+%0ij.io.TiffDecoder*
+
+	directoryjava.lang.String*
+
+namejava.lang.Stringõ
+ò
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaâ â(4
+tdij.io.TiffDecoder"__id*
+
+%0ij.io.TiffDecoder*
+9
+10*‘
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaï	 ï(˙˜
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaï	 ï(
+%7ij.ImagePlus"7ij.io.Opener#openTiff2([Lij/io/FileInfo;)Lij/ImagePlus;*
+ij.io.Opener*
+
+infoij.io.FileInfo[]2openTiff2([Lij/io/FileInfo;)"t
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaï ï(
+
+%7ij.ImagePlus:
+	directoryjava.lang.String:
+namejava.lang.StringB
+ij.io.Opener

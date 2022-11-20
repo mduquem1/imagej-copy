@@ -1,0 +1,42 @@
+
+$ij.macro.Functions#getStringWidth()Db
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaé+ é+("1*½
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaê+ ê+(»¸
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaê+ ê+(
+
+%0void" ij.macro.Functions#resetImage()V*
+ij.macro.Functions2resetImage()îë
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaë+ ë+($
+%1ij.process.ImageProcessor"<ij.macro.Functions#getProcessor()Lij/process/ImageProcessor;*
+ij.macro.Functions2getProcessor()±
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaë+ ë+(%
+ipij.process.ImageProcessor"__id*!
+
+%1ij.process.ImageProcessorŽ‹
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaì+ ì+(
+
+%2void"8ij.macro.Functions#setFont(Lij/process/ImageProcessor;)V*
+ij.macro.Functions*!
+
+ipij.process.ImageProcessor2$setFont(Lij/process/ImageProcessor;)ÜÙ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaí+ í+()
+%3java.lang.String"3ij.macro.Functions#getStringArg()Ljava/lang/String;*
+ij.macro.Functions2getStringArg()’
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaí+	 í+(*	
+%4int"=ij.process.ImageProcessor#getStringWidth(Ljava/lang/String;)I*!
+
+ipij.process.ImageProcessor*
+
+%3java.lang.String2"getStringWidth(Ljava/lang/String;)"l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaí+ í+(+
+""B
+ij.macro.Functions

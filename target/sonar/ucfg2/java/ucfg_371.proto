@@ -1,0 +1,60 @@
+
+Iij.plugin.ListVirtualStack#openUrl(Ljava/lang/String;)[Ljava/lang/String;h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaw
+ w("3*Ì
+2h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaz z(è
+å
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javaz z(#
+
+%2void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Stack From List*
+
+strjava.lang.String"r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.java{ {(
+""*ƒ
+3h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javax x(è
+å
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javax x(&
+%0java.lang.String";ij.IJ#openUrlAsString(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+urljava.lang.String¦
+£
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javax x('
+strjava.lang.String"__id*
+
+%0java.lang.String÷ô
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.javay y( 
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+strjava.lang.String*
+
+<Error: 2startsWith(Ljava/lang/String;)*
+2
+1*„
+1h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.java}
+ }(‹
+ˆ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.java}
+ }( 
+%3java.lang.String[]"Lij.util.Tools#split(Ljava/lang/String;Ljava/lang/String;)[Ljava/lang/String;*"
+ij.util.Tools*
+
+strjava.lang.String*
+\n"†
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ListVirtualStack.java} }(!
+
+%3java.lang.String[]:
+urljava.lang.StringB
+ij.plugin.ListVirtualStack

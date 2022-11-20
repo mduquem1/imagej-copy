@@ -1,0 +1,159 @@
+
+Dij.plugin.HyperStackReducer#reduce(Lij/gui/Overlay;)Lij/gui/Overlay;k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaÉ É("29*Ô
+2k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaï ï(˜Ù
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaï ï((
+%13void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*
+""*
+""*
+""*
+""*
+""*
+""2crop(IIIIII)*
+1*Ó
+14k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaè è(ıÚ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaè è(.
+%10void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*2*
+""*
+""*
+""*
+""*
+""2crop(IIIIII)*
+1*Î
+26k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaâ â(ÚÔ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaâ â(0
+
+%7void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*
+""*
+""*2*
+""*2*
+""2crop(IIIIII)*
+1*Ì
+6k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaì ì(ıÚ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaì ì(,
+%12void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*
+""*
+""*
+""*
+""*2*
+""2crop(IIIIII)*
+1*Î
+18k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaç ç(ÚÔ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaç ç(2
+
+%9void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*2*
+""*2*
+""*
+""*
+""2crop(IIIIII)*
+1*Û
+29k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaÑ Ñ(¥
+±
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaÑ Ñ(
+%0ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+impª∏
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaÑ Ñ(	
+%1int"ij.ImagePlus#getChannel()I*
+
+%0ij.ImagePlus2getChannel()¥
+±
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaÖ Ö(
+%2ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp∑¥
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaÖ Ö(	
+%3int"ij.ImagePlus#getSlice()I*
+
+%2ij.ImagePlus2
+getSlice()¥
+±
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaÜ Ü(
+%4ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp∑¥
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaÜ Ü(	
+%5int"ij.ImagePlus#getFrame()I*
+
+%4ij.ImagePlus2
+getFrame()‹Ÿ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaá á((
+%6ij.gui.Overlay"*ij.gui.Overlay#duplicate()Lij/gui/Overlay;*
+
+overlayij.gui.Overlay2duplicate()™
+ß
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaá á()
+overlay2ij.gui.Overlay"__id*
+
+%6ij.gui.Overlay*
+2
+14
+26
+6
+18
+10
+22
+1*Ó
+10k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaë ë(ıÚ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaë ë(,
+%11void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*
+""*
+""*2*
+""*
+""*
+""2crop(IIIIII)*
+1*Î
+22k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaã ã(ÚÔ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaã ã(2
+
+%8void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*2*
+""*
+""*
+""*2*
+""2crop(IIIIII)*
+1*˛
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javañ	 ñ("ã
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javañ ñ(
+
+overlay2ij.gui.Overlay:
+overlayij.gui.OverlayB
+ij.plugin.HyperStackReducer

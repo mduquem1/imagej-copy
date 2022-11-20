@@ -1,0 +1,30 @@
+
+ ij.gui.Plot#getNumPlotObjects()I[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java…
+ …
+("1*—
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java†
+	 †
+(£
+ 
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java†
+	 †
+(
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjects§¤
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java†
+	 †
+(	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java†
+ †
+(
+""B
+ij.gui.Plot

@@ -1,0 +1,141 @@
+
+Bij.io.FileOpener#validateFileInfo(Ljava/io/File;Lij/io/FileInfo;)Z`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.javaœ œ( "19*ë
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java° °(
+—
+”
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java° °(D
+%10void"=ij.io.FileOpener#error(Ljava/lang/String;Lij/io/FileInfo;JJ)V*"
+ij.io.FileOpener*&$
+"Offset + image size > file length.*
+
+fiij.io.FileInfo*
+""*
+"""j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java± ±(
+""*Ò
+14`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java¤ ¤("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java¤ ¤(
+""*Þ
+17`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java   (
+‰
+†
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java   (7
+
+%1void"=ij.io.FileOpener#error(Ljava/lang/String;Lij/io/FileInfo;JJ)V*"
+ij.io.FileOpener*
+Width or height <= 0.*
+
+fiij.io.FileInfo*
+""*
+"""j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java¡ ¡(
+""*õ
+6`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java­ ­(…
+‚
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java­ ­(!
+
+%7long"__id*
+
+
+%9long*
+2
+1*õ
+7`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java­ ­(…
+‚
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java­ ­(
+
+%7long"__id*
+
+
+%8long*
+2
+1*®
+19`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java (³°
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java (
+
+%0long"ij.io.FileInfo#getOffset()J*
+
+fiij.io.FileInfo2getOffset()*
+14
+17
+11
+12*Û
+8`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java« «(¨¥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java« «(
+
+%5long"java.io.File#length()J*
+
+fjava.io.File2length()À½
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java¬! ¬(6	
+%6int""ij.io.FileInfo#getBytesPerPixel()I*
+
+fiij.io.FileInfo2getBytesPerPixel()*
+6
+7*Ñ
+9`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.javaª
+ ª("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.javaª ª(
+""*í
+10`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java©& ©((}
+{
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java©6 ©(O	
+%4int"__id*
+""*
+8
+9*î
+11`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java© ©(}
+{
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java© ©("	
+%3int"__id*
+""*
+9
+10*Ü
+12`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java¦ ¦(
+‡
+„
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java¦ ¦(5
+
+%2void"=ij.io.FileOpener#error(Ljava/lang/String;Lij/io/FileInfo;JJ)V*"
+ij.io.FileOpener*
+Offset is negative.*
+
+fiij.io.FileInfo*
+""*
+"""j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java§ §(
+""*Ñ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java³	 ³("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java³ ³(
+"":
+fjava.io.File:
+fiij.io.FileInfoB"
+ij.io.FileOpener

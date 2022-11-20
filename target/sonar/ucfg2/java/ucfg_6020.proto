@@ -1,0 +1,19 @@
+
+ij.util.ThreadUtil#getNbCpus()I`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java' '("1*ë
+1`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java(	 ((È
+Å
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java(	 ((
+%0java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.RuntimeÌÉ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java(	 ((3	
+%1int"(java.lang.Runtime#availableProcessors()I*
+
+%0java.lang.Runtime2availableProcessors()"j
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java( ((4
+""B"
+ij.util.ThreadUtil

@@ -1,0 +1,95 @@
+
+'ij.gui.Overlay#create()Lij/gui/Overlay;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java   ("1*¥
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÀ À("âÜ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÀ À( 
+%0ij.gui.Overlay"ij.gui.Overlayõ
+ò
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÀ À("
+%1"ij.gui.Overlay#<init>()V*
+
+%0ij.gui.Overlayù
+ö
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÀ À(#
+overlay2ij.gui.Overlay"__id*
+
+%0ij.gui.Overlay√¿
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÃ Ã(
+
+%2void"ij.gui.Overlay#drawLabels(Z)V*
+
+overlay2ij.gui.Overlay*
+""2drawLabels(Z)¡æ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÕ Õ(
+
+%3void"ij.gui.Overlay#drawNames(Z)V*
+
+overlay2ij.gui.Overlay*
+""2drawNames(Z)Õ 
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaŒ Œ(+
+
+%4void""ij.gui.Overlay#drawBackgrounds(Z)V*
+
+overlay2ij.gui.Overlay*
+""2drawBackgrounds(Z)£
+†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaœ œ(#
+%5java.awt.Color"__id*"* 
+ij.gui.Overlay"
+
+labelColor˜Ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaœ œ($
+
+%6void"/ij.gui.Overlay#setLabelColor(Ljava/awt/Color;)V*
+
+overlay2ij.gui.Overlay*
+
+%5java.awt.Color2setLabelColor(Ljava/awt/Color;)°
+û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java– –(!
+%7java.awt.Font"__id*!*
+ij.gui.Overlay"
+	labelFont¸˘
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java– –(2
+
+%8void".ij.gui.Overlay#setLabelFont(Ljava/awt/Font;Z)V*
+
+overlay2ij.gui.Overlay*
+
+%7java.awt.Font*
+""2setLabelFont(Ljava/awt/Font;Z)’“
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java— —(0
+
+%9void"&ij.gui.Overlay#setIsCalibrationBar(Z)V*
+
+overlay2ij.gui.Overlay*
+""2setIsCalibrationBar(Z)ƒ¡
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java“ “(!
+%10void"ij.gui.Overlay#selectable(Z)V*
+
+overlay2ij.gui.Overlay*
+""2selectable(Z)»≈
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java” ”("
+%11void"ij.gui.Overlay#setDraggable(Z)V*
+
+overlay2ij.gui.Overlay*
+""2setDraggable(Z)"~
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java‘ ‘(
+
+overlay2ij.gui.OverlayB
+ij.gui.Overlay

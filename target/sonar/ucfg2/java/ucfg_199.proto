@@ -1,0 +1,288 @@
+
+Wij.gui.PlotContentsDialog#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Zi
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaç ç(!"30"31*ï
+24i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaõ õ(Œ
+À
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaõ õ(
+%11void"2ij.gui.PlotContentsDialog#makeSourcePlotObjects()V*
+ij.gui.PlotContentsDialog 
+«
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaú ú(
+%12void".ij.gui.PlotContentsDialog#addObjectFromPlot()V*
+ij.gui.PlotContentsDialog*
+2
+1*‡
+14i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java®	 ®(
+„‡
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java®	 ®(
+%22java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()ø
+º
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java® ®(&
+%23java.awt.Choice[]"__id*/*-
+ij.gui.PlotContentsDialog"
+columnChoice∂
+≥
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java® ®()
+%24java.awt.Choice"
+__arrayGet*
+
+%23java.awt.Choice[]*
+""*
+2
+14
+10
+1*ú
+25i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaö ö(‚ﬂ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaö ö(
+%9java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()ª
+∏
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaö ö("
+%10java.awt.Choice"__id*-*+
+ij.gui.PlotContentsDialog"
+
+plotChoice*
+24
+23*É
+26i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaô ô(á
+Ñ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaô ô((	
+%8int"__id*
+""*
+25
+20*í
+17i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java£ £( 
+«
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java£ £(
+%20void".ij.gui.PlotContentsDialog#makeSourceColumns()V*
+ij.gui.PlotContentsDialogÀ
+»
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java§ §(
+%21void"/ij.gui.PlotContentsDialog#addObjectFromTable()V*
+ij.gui.PlotContentsDialog*
+2
+1*œ
+28i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaï ï(’
+“
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaï ï(%
+
+%7void"2ij.gui.PlotContentsDialog#setDialogStyleFields(I)V*
+ij.gui.PlotContentsDialog*
+""*
+2
+1*®
+18i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java¢ ¢(„‡
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java¢ ¢(
+%18java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java¢ ¢(#
+%19java.awt.Choice"__id*.*,
+ij.gui.PlotContentsDialog"
+tableChoice*
+2
+14
+17
+10
+1*–
+
+29i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaí í(!º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaí í(!
+%1java.awt.Choice"__id*/*-
+ij.gui.PlotContentsDialog"
+objectChoiceÀ»
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaí í(4	
+%2int"#java.awt.Choice#getSelectedIndex()I*
+
+%1java.awt.Choice2getSelectedIndex()‚ﬂ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaì ì(
+%3java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaì  ì(,
+%4java.awt.Choice"__id*/*-
+ij.gui.PlotContentsDialog"
+objectChoice‚ﬂ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaî î(
+%5java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaî î($
+%6java.awt.Choice"__id*/*-
+ij.gui.PlotContentsDialog"
+objectChoice*
+
+2
+28
+1*É
+19i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java°- °(7à
+Ö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java°; °(J
+
+%17int"__id*
+""*
+18
+8*„
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaπ	 π("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaπ π(
+""*¡
+2i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java∏ ∏(À
+»
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java∏ ∏(
+%32void"/ij.gui.PlotContentsDialog#setPlotObjectStyle()V*
+ij.gui.PlotContentsDialog*
+1*Ω
+5i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java≥ ≥(ƒ
+¡
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java≥ ≥(
+%31void"(ij.gui.PlotContentsDialog#addFitCurve()V*
+ij.gui.PlotContentsDialog*
+2
+1*§
+6i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java≤) ≤(*„‡
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java≤) ≤(6
+%29java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()¬
+ø
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java≤: ≤(K
+%30java.awt.Choice"__id*4*2
+ij.gui.PlotContentsDialog"
+fitFunctionChoice*	
+2
+5
+1*ù
+7i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java≤ ≤(„‡
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java≤ ≤(
+%27java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()æ
+ª
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java≤ ≤(%
+%28java.awt.Choice"__id*0*.
+ij.gui.PlotContentsDialog"
+fitDataChoice*
+5
+6*Ñ
+8i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java± ±(à
+Ö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java± ±("
+
+%26int"__id*
+""*	
+2
+7
+1*É
+30i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaê ê(á
+Ñ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaë ë(	
+%0int"__id*
+""*
+26
+29*Ñ
+20i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java° °(à
+Ö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java° °()
+
+%16int"__id*
+""*
+18
+19*‰
+31i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaè
+ è("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaè è(
+""*≈
+10i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java≠ ≠(À
+»
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java≠ ≠(
+%25void"/ij.gui.PlotContentsDialog#addObjectFromTable()V*
+ij.gui.PlotContentsDialog*
+2
+1*ƒ
+22i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaû û( 
+«
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaû û(
+%15void".ij.gui.PlotContentsDialog#addObjectFromPlot()V*
+ij.gui.PlotContentsDialog*
+2
+1*°
+23i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaù ù(„‡
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaù ù(
+%13java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.AWTEvent2getSource()Ω
+∫
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaù ù(+
+%14java.awt.Choice"__id*/*-
+ij.gui.PlotContentsDialog"
+objectChoice*
+
+2
+22
+1:
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.gui.PlotContentsDialog

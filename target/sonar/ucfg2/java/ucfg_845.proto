@@ -1,0 +1,503 @@
+
+*ij.gui.GenericDialog#getNextChoiceIndex()Id
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java™
+ ™
+("23*ê
+13d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaª
+; ª
+(?ù
+ö
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaª
+; ª
+(?
+%16java.lang.String"__id*
+
+%18
+<nulltype>*
+12*Œ
+14d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaª
+ ª
+("µ≤
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaª
+ ª
+(:
+%17java.lang.String"Lij.macro.Interpreter#getStringVariable(Ljava/lang/String;)Ljava/lang/String;* 
+
+interpij.macro.Interpreter*
+
+itemjava.lang.String2%getStringVariable(Ljava/lang/String;)£
+†
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaª
+ ª
+(:
+%16java.lang.String"__id*
+
+%17java.lang.String*
+12*Ç
+15d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∫
+ ∫
+($⁄
+◊
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∫
+ ∫
+(2
+%15ij.macro.Interpreter"8ij.macro.Interpreter#getInstance()Lij/macro/Interpreter;*"
+ij.macro.InterpreterÆ
+´
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∫
+ ∫
+(3
+interpij.macro.Interpreter"__id*
+
+%15ij.macro.Interpreter*
+13
+14*˜
+16d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∏
+ ∏
+(˛˚
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∏
+ ∏
+(/
+%14boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+itemjava.lang.String*
+
+oldItemjava.lang.String2equals(Ljava/lang/Object;)*
+
+15
+8
+1*«
+17d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∂
+ ∂
+(¸˘
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∂
+ ∂
+(
+%12void"+java.awt.Choice#select(Ljava/lang/String;)V*
+
+
+thisChoicejava.awt.Choice*
+
+itemjava.lang.String2select(Ljava/lang/String;)œÃ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∑
+ ∑
+((
+
+%13int"#java.awt.Choice#getSelectedIndex()I*
+
+
+thisChoicejava.awt.Choice2getSelectedIndex()*
+
+16
+8
+1*†
+18d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaµ
+ µ
+(Ü
+É
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaµ
+ µ
+("
+%11java.lang.String"Lij.gui.GenericDialog#getChoiceVariable(Ljava/lang/String;)Ljava/lang/String;*
+ij.gui.GenericDialog*
+
+itemjava.lang.String§
+°
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaµ
+ µ
+("
+itemjava.lang.String"__id*
+
+%11java.lang.String*
+17*Â
+19d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java¥
+ ¥
+(ÓÎ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java¥
+ ¥
+()
+%10boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+itemjava.lang.String*
+&2startsWith(Ljava/lang/String;)*
+17
+18*Ÿ
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java 
+  
+("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÀ
+ À
+(
+""*ı
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java«
+ «
+(ÎË
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java«
+ «
+(:
+%32java.lang.String"3java.awt.Choice#getSelectedItem()Ljava/lang/String;*
+
+
+thisChoicejava.awt.Choice2getSelectedItem()ñ
+ì
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java«
+ «
+(;
+%33void"Hij.gui.GenericDialog#recordOption(Ljava/lang/Object;Ljava/lang/String;)V*
+ij.gui.GenericDialog*
+
+
+thisChoicejava.awt.Choice*
+
+%32java.lang.String*
+1*ø
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∆
+! ∆
+()÷”
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∆
+! ∆
+(+
+%30java.lang.String",java.awt.Dialog#getTitle()Ljava/lang/String;*
+ij.gui.GenericDialog2
+getTitle()ÚÔ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∆
+! ∆
+(D
+%31boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%30java.lang.String*
+Merge Channels2equals(Ljava/lang/Object;)*
+2
+1*˜
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java≈
+ ≈
+(ÎË
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java≈
+ ≈
+(.
+%28java.lang.String"3java.awt.Choice#getSelectedItem()Ljava/lang/String;*
+
+
+thisChoicejava.awt.Choice2getSelectedItem()§
+°
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java≈
+ ≈
+(/
+itemjava.lang.String"__id*
+
+%28java.lang.StringÎË
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∆
+
+ ∆
+(
+%29boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+itemjava.lang.String*
+
+*None*2equals(Ljava/lang/Object;)*	
+2
+4
+1*’
+8d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java√
+! √
+(5º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java√
+! √
+(5
+%25java.util.Vector"__id*2*0
+ij.gui.GenericDialog"
+defaultChoiceIndexes‰·
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java√
+! √
+(L
+%26java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%25java.util.Vector*
+""2elementAt(I)ª∏
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java√
+ √
+(Y
+
+%27int"java.lang.Integer#intValue()I*
+
+%26java.lang.Object2
+intValue()*
+5
+1*¢
+20d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∞
+ ∞
+( ∞
+≠
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∞
+ ∞
+( 
+%4java.util.Hashtable"__id*$*"
+ij.gui.GenericDialog"
+labels…
+∆
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∞
+ ∞
+(8
+%5java.lang.Object"__mapGet*
+
+%4java.util.Hashtable*
+
+
+thisChoicejava.awt.Choice§
+°
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java∞
+ ∞
+(9
+labeljava.lang.String"__id*
+
+%5java.lang.ObjectÍÁ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java±
+ ±
+(0
+%6java.lang.String"3java.awt.Choice#getSelectedItem()Ljava/lang/String;*
+
+
+thisChoicejava.awt.Choice2getSelectedItem()¶
+£
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java±
+ ±
+(1
+oldItemjava.lang.String"__id*
+
+%6java.lang.StringŒÀ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java≤
+ ≤
+(/	
+%7int"#java.awt.Choice#getSelectedIndex()I*
+
+
+thisChoicejava.awt.Choice2getSelectedIndex()≥
+∞
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java≥
+  ≥
+(,
+%8java.lang.String"__id***(
+ij.gui.GenericDialog"
+macroOptions¬
+ø
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java≥
+ ≥
+(=
+%9java.lang.String"[ij.Macro#getValue(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+
+ij.Macro*
+
+%8java.lang.String*
+
+labeljava.lang.String*
+
+oldItemjava.lang.String£
+†
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java≥
+ ≥
+(>
+itemjava.lang.String"__id*
+
+%9java.lang.String*
+17
+19*á
+21d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java≠
+ ≠
+(%≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java≠
+ ≠
+(%
+%1java.util.Vector"__id*$*"
+ij.gui.GenericDialog"
+choice‚ﬂ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java≠
+ ≠
+(<
+%2java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%1java.util.Vector*
+""2elementAt(I)®
+•
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java≠
+ ≠
+(>
+
+thisChoicejava.awt.Choice"__id*
+
+%2java.lang.ObjectŒÀ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÆ
+ Æ
+(+	
+%3int"#java.awt.Choice#getSelectedIndex()I*
+
+
+thisChoicejava.awt.Choice2getSelectedIndex()*
+
+8
+20
+1*ó
+10d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaø
+ ø
+(¢
+ü
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaø
+ ø
+(
+itemjava.lang.String"__id*
+
+sjava.lang.String*
+8
+1*⁄
+22d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java¨
+ ¨
+("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java¨
+ ¨
+(
+""*¥
+
+11d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(÷”
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(
+%19java.lang.String",java.awt.Dialog#getTitle()Ljava/lang/String;*
+ij.gui.GenericDialog2
+getTitle()∞
+≠
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(#
+%20java.lang.String"__concat*
+\"*
+
+itemjava.lang.StringÃ
+…
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(E
+%21java.lang.String"__concat*
+
+%20java.lang.String*#!
+\" is not a valid choice for \"ƒ
+¡
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(K
+%22java.lang.String"__concat*
+
+%21java.lang.String*
+
+labeljava.lang.StringØ
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(P
+%23java.lang.String"__concat*
+
+%22java.lang.String*
+\"Î
+Ë
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaΩ
+ Ω
+(Q
+%24void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+%19java.lang.String*
+
+%23java.lang.String*
+8
+1*§
+23d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java´
+ ´
+(≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java´
+ ´
+(
+%0java.util.Vector"__id*$*"
+ij.gui.GenericDialog"
+choice*
+21
+22*ò
+12d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaª
+ ª
+(@°
+û
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaª
+ ª
+(@
+sjava.lang.String"__id*
+
+%16java.lang.String*
+10
+11B
+ij.gui.GenericDialog

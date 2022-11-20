@@ -1,0 +1,31 @@
+
+=ij.gui.HistogramPlot#scaleDown(Lij/process/ImageProcessor;D)Id
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaÅ Å("3*Ù
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaÉ É("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaÉ É(3
+""*‰
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaÆ Æ(ÉÆ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaÆ Æ(
+%0double"#ij.process.ImageProcessor#getMin()D*!
+
+ipij.process.ImageProcessor2getMin()ÉÆ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaÇ Ç(
+%1double"#ij.process.ImageProcessor#getMax()D*!
+
+ipij.process.ImageProcessor2getMax()*
+2
+1*Ù
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaË
+ Ë("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramPlot.javaË Ë(
+"":
+ipij.process.ImageProcessor:
+""B
+ij.gui.HistogramPlot

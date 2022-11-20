@@ -1,0 +1,58 @@
+
+4ij.io.Opener#openRoi(Ljava/lang/String;)Lij/gui/Roi;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaˇ ˇ("7*˜
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÇ	 Ç	(é
+ã
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÇ	 Ç	(
+roi
+ij.gui.Roi"__id*
+
+%2
+ij.gui.Roi*
+1*ß
+6\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÇ	 Ç	(æª
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÇ	 Ç	(
+%2
+ij.gui.Roi"%ij.io.RoiDecoder#getRoi()Lij/gui/Roi;*
+
+rdij.io.RoiDecoder2getRoi()*
+2*‚
+7\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÄ	 Ä	(Å
+
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÄ	 Ä	(
+roi
+ij.gui.Roi"__id*
+""ãà
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÅ	 Å	( 
+%0ij.io.RoiDecoder"ij.io.RoiDecoderÀ
+»
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÅ	 Å	(&
+%1",ij.io.RoiDecoder#<init>(Ljava/lang/String;)V*
+
+%0ij.io.RoiDecoder*
+
+pathjava.lang.Stringô
+ñ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÅ	 Å	('
+rdij.io.RoiDecoder"__id*
+
+%0ij.io.RoiDecoder*
+6*÷
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaá		 á	("s
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaá	 á	(
+
+roi
+ij.gui.Roi:
+pathjava.lang.StringB
+ij.io.Opener

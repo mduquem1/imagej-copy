@@ -1,0 +1,57 @@
+
+9ij.macro.Interpreter#runUserFunction()Lij/macro/Variable;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaÖ
+ Ö("8*¨
+7d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaì ì(
+ª∏
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaì ì(
+
+%3void"ij.macro.Interpreter#doBlock()V*
+ij.macro.Interpreter2	doBlock()*
+1*œ
+8d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaÜ Ü(Ω
+∫
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaÜ Ü(
+
+%0void"&ij.macro.Interpreter#growCallStack(I)V*
+ij.macro.Interpreter*2ºπ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaã ã(	
+%1int" ij.macro.Interpreter#pushArgs()I*
+ij.macro.Interpreter2
+pushArgs()ì
+ê
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaç ç(
+valueij.macro.Variable"__id*
+""…∆
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaè è(
+
+%2void""ij.macro.Interpreter#setupArgs(I)V*
+ij.macro.Interpreter*
+""2setupArgs(I)*
+7*ä
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaô ô(‘—
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaõ õ('
+%10void"#ij.macro.Interpreter#trimStack(II)V*
+ij.macro.Interpreter*
+""*
+""2trimStack(II)¿
+Ω
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaú ú(
+%11void"&ij.macro.Interpreter#growCallStack(I)V*
+ij.macro.Interpreter*
+"""Ñ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaù ù(
+
+valueij.macro.VariableB
+ij.macro.Interpreter

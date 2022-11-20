@@ -1,0 +1,56 @@
+
+(ij.gui.Plot#getTitle()Ljava/lang/String;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java‚ ‚("4*ﬂ
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java„ „("î
+ë
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java„ „("
+%4ij.ImagePlus"__id**
+ij.gui.Plot"
+imp≈¬
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java„ „(-
+%3java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%4ij.ImagePlus2
+getTitle()ò
+ï
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java„ „(-
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*ù
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java„ „(ö
+ó
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java„ „(
+%2java.lang.String"__id**
+ij.gui.Plot"
+titleò
+ï
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java„ „(
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*ˇ
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java„	 „(î
+ë
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java„	 „(
+%0ij.ImagePlus"__id**
+ij.gui.Plot"
+imp*
+2
+3*Ÿ
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java„ „(."w
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java„ „(.
+
+%1java.lang.StringB
+ij.gui.Plot

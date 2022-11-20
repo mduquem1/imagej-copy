@@ -1,0 +1,18 @@
+
+ij.gui.Plot#isInteger(D)Z[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¾ ¾("1*ì
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¿	 ¿(
+¢
+Ÿ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¿ ¿(
+
+%0long"java.lang.Math#round(D)J*"
+java.lang.Math*
+"""e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¿ ¿(
+"":
+""B"
+ij.gui.Plot

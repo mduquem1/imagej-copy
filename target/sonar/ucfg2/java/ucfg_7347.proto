@@ -1,0 +1,253 @@
+
+[ij.plugin.filter.StackLabeler#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Zm
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÇ Ç(!"21*◊
+13m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaó ó(÷
+”
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaó ó(/
+%15java.lang.String"5ij.gui.TextRoi#getDefaultFontName()Ljava/lang/String;*"
+ij.gui.TextRoiπ
+∂
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaó1 ó(N
+
+%16int"%ij.gui.TextRoi#getDefaultFontStyle()I*"
+ij.gui.TextRoióî
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaó ó(
+%17java.awt.Font"java.awt.FontÔ
+Ï
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaó
+ ó(Y
+%18"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%17java.awt.Font*
+
+%15java.lang.String*
+
+
+%16int*
+""ª
+∏
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaó ó(Y)
+ij.plugin.filter.StackLabeler"
+font"__id*
+
+%17java.awt.Font*
+9*Ï
+15m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaï! ï(&"w
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaï ï('
+""*‹
+16m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaï ï(ÿ’
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaï ï(
+%14boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+13
+15
+12*ª
+18m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí í(øº
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí í(
+
+%13int"java.lang.String#length()I*
+
+strjava.lang.String2length()*
+16*Ï
+19m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaè è(ÏÈ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaê ê(
+
+%12int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+strjava.lang.String*
+.2indexOf(Ljava/lang/String;)*
+16
+18*Ó
+9m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ õ(π
+∂
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ õ(
+%22ij.ImagePlus"__id***(
+ij.plugin.filter.StackLabeler"
+impÛ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ õ(( 
+%23ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%22ij.ImagePlus2getProcessor()Ω
+∫
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ õ()
+ipij.process.ImageProcessor"__id*"
+ 
+%23ij.process.ImageProcessorª
+∏
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaú ú(
+%24java.awt.Font"__id*+*)
+ij.plugin.filter.StackLabeler"
+fontâÜ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaú ú(
+%25void"3ij.process.ImageProcessor#setFont(Ljava/awt/Font;)V*!
+
+ipij.process.ImageProcessor*
+
+%24java.awt.Font2setFont(Ljava/awt/Font;)ñì
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaû û(@
+%26java.lang.String">ij.plugin.filter.StackLabeler#getString(IDI)Ljava/lang/String;*!
+ij.plugin.filter.StackLabeler*
+""*
+""*
+""2getString(IDI)üú
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaû û(A
+
+%27int"=ij.process.ImageProcessor#getStringWidth(Ljava/lang/String;)I*!
+
+ipij.process.ImageProcessor*
+
+%26java.lang.String2"getStringWidth(Ljava/lang/String;)*
+1*Â
+21m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÉ É(›⁄
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÉ É("	
+%0int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()ÒÓ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÑ Ñ(.
+%1java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()›
+⁄
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÑ
+ Ñ(/
+%2double".ij.util.Tools#parseDouble(Ljava/lang/String;)D*"
+ij.util.Tools*
+
+%1java.lang.StringÒÓ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÖ Ö("
+%3java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()´
+®
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÖ Ö(#
+strjava.lang.String"__id*
+
+%3java.lang.Stringﬁ
+€
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÜ Ü($
+%4double".ij.util.Tools#parseDouble(Ljava/lang/String;)D*"
+ij.util.Tools*
+
+strjava.lang.String÷”
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaá á(
+%5double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()÷”
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaà à(
+%6double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()÷”
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaâ â($
+%7double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÒÓ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaä	 ä(
+%8java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()Ω
+∫
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaä ä()
+ij.plugin.filter.StackLabeler"
+text"__id*
+
+%8java.lang.Stringπ∂
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaã ã(4
+%9double[]"Bij.plugin.filter.StackLabeler#getRange(Lij/gui/GenericDialog;II)[D*!
+ij.plugin.filter.StackLabeler*
+
+gdij.gui.GenericDialog*2*
+""2"getRange(Lij/gui/GenericDialog;II)⁄◊
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaå å("
+%10boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()⁄◊
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaç ç('
+%11boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+19*≈
+12m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaô ô(å
+â
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaô  ô(*
+
+%19int"__id*
+""óî
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaô ô(
+%20java.awt.Font"java.awt.Font„
+‡
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaô
+ ô(5
+%21"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%20java.awt.Font*
+	SansSerif*
+
+
+%19int*
+""ª
+∏
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaô ô(5)
+ij.plugin.filter.StackLabeler"
+font"__id*
+
+%20java.awt.Font*
+9*π
+1m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.java§ §(À
+»
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.java§ §(#
+%28void""ij.Prefs#set(Ljava/lang/String;I)V*"
+
+ij.Prefs*
+label.format*
+"""w
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.java• •(
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB!
+ij.plugin.filter.StackLabeler

@@ -1,0 +1,42 @@
+
+?ij.util.Tools#fixNewLines(Ljava/lang/String;)Ljava/lang/String;]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaˆ ˆ(!"6"7*°
+6]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java‹ ‹(º·
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java‹ ‹( 
+%0char[]" java.lang.String#toCharArray()[C*
+
+sjava.lang.String2toCharArray()‰
+†
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java‹ ‹(!
+charschar[]"__id*
+
+%0char[]*
+1*Ë
+7]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaŠ
+ Š("g
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaŠ Š(
+""*¢
+1]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaŽ Ž(Œ‰
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaŽ Ž(
+%1java.lang.String"java.lang.String³
+°
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaŽ	 Ž(
+%2"java.lang.String#<init>([C)V*
+
+%1java.lang.String*
+
+charschar[]"y
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaŽ Ž(
+
+%1java.lang.String:
+sjava.lang.StringB"
+ij.util.Tools

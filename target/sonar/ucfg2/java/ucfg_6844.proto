@@ -1,0 +1,58 @@
+
+ij.gui.EllipseRoi#getLength()Da
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.javaŒ Œ("7*ö
+3a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.javaÿ ÿ(©
+¶
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.java⁄ ⁄()
+%3double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+3
+1*•
+6a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.java” ”(†
+ù
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.java” ”(
+%1ij.ImagePlus"__id**
+ij.gui.EllipseRoi"
+imp„‡
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.java” ”()
+%2ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%1ij.ImagePlus2getCalibration()´
+®
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.java” ”(*
+calij.measure.Calibration"__id*
+
+%2ij.measure.Calibration*
+3
+1*î
+7a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.javaœ œ(†
+ù
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.java“ “(	
+%0ij.ImagePlus"__id**
+ij.gui.EllipseRoi"
+imp*	
+3
+6
+1*ˇ
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.java‹ ‹(
+©
+¶
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.javaﬁ ﬁ((
+%4double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/EllipseRoi.javaﬂ ﬂ(
+""B
+ij.gui.EllipseRoi

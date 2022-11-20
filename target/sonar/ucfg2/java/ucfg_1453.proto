@@ -1,0 +1,20 @@
+
+Gij.gui.GUI#getMaxWindowBounds(Ljava/awt/Component;)Ljava/awt/Rectangle;X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaj j(+"1*Ï
+1X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javak	 k(÷
+ô
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javak	 k()
+%0java.awt.Rectangle"Eij.gui.GUI#getScreenBounds(Ljava/awt/Component;Z)Ljava/awt/Rectangle;*"
+
+ij.gui.GUI*!
+
+	componentjava.awt.Component*2"v
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javak k(*
+
+%0java.awt.Rectangle:
+	componentjava.awt.ComponentB"
+
+ij.gui.GUI

@@ -1,0 +1,63 @@
+
+)ij.gui.Plot#getSize()Ljava/awt/Dimension;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java… …("3*À
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÀ À(„‡
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÀ À(
+%1ij.process.ImageProcessor":ij.gui.Plot#getBlankProcessor()Lij/process/ImageProcessor;*
+ij.gui.Plot2getBlankProcessor()*
+1*ã
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java   (†
+ù
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java   (
+%0ij.process.ImageProcessor"__id**
+ij.gui.Plot"
+ip*
+2
+1*˚	
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÃ Ã(†
+ù
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÃ Ã(
+%2ij.process.ImageProcessor"__id**
+ij.gui.Plot"
+ip¡æ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÃ Ã($	
+%3int"%ij.process.ImageProcessor#getWidth()I*!
+
+%2ij.process.ImageProcessor2
+getWidth()†
+ù
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÃ& Ã((
+%4ij.process.ImageProcessor"__id**
+ij.gui.Plot"
+ip√¿
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÃ& Ã(4	
+%5int"&ij.process.ImageProcessor#getHeight()I*!
+
+%4ij.process.ImageProcessor2getHeight()éã
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÃ Ã(
+%6java.awt.Dimension"java.awt.Dimensionº
+π
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÃ	 Ã(5
+%7"java.awt.Dimension#<init>(II)V*
+
+%6java.awt.Dimension*
+	
+%3int*
+	
+%5int"y
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÃ Ã(6
+
+%6java.awt.DimensionB
+ij.gui.Plot

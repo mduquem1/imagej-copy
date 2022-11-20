@@ -1,0 +1,60 @@
+
+Xij.util.ThreadUtil#start([Ljava/util/concurrent/Callable;)[Ljava/util/concurrent/Future;`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.javaq q("5*Ý
+3`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.javat t(
+Ê
+Ç
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.javat t("-
+%1'java.util.concurrent.ThreadPoolExecutor"__id*.*,
+ij.util.ThreadUtil"
+threadPoolExecutorÎ
+Ë
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.javat* t(6#
+%2java.util.concurrent.Callable"
+__arrayGet*.
+,
+	callablesjava.util.concurrent.Callable[]*
+""üù
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.javat t(7!
+%3java.util.concurrent.Future"qjava.util.concurrent.AbstractExecutorService#submit(Ljava/util/concurrent/Callable;)Ljava/util/concurrent/Future;*/
+-
+%1'java.util.concurrent.ThreadPoolExecutor*%
+#
+%2java.util.concurrent.Callable2'submit(Ljava/util/concurrent/Callable;)Ð
+Í
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.javat t(7
+%4"
+__arraySet**
+(
+futuresjava.util.concurrent.Future[]*
+""*#
+!
+%3java.util.concurrent.Future*
+3
+1*Ø
+5`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.javar  r()©¦
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.javar r(1#
+%0java.util.concurrent.Future[]"java.util.concurrent.Future[]¼
+¹
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.javar r(2(
+futuresjava.util.concurrent.Future[]"__id*%
+#
+%0java.util.concurrent.Future[]*
+3
+1*ö
+1`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.javau	 u("Ž
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.javau u(*
+(
+futuresjava.util.concurrent.Future[]:,
+	callablesjava.util.concurrent.Callable[]B"
+ij.util.ThreadUtil

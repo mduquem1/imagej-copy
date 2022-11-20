@@ -1,0 +1,71 @@
+
+"ij.plugin.filter.Analyzer#reset()Zi
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java©	 ©("7*“
+2i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java® ®(º
+·
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java® ®(
+%6ij.measure.ResultsTable"__id*%*#
+ij.plugin.filter.Analyzer"
+rtàÝ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java® ®(
+
+%7void"-ij.measure.ResultsTable#setDefaultHeadings()V*
+
+%6ij.measure.ResultsTable2setDefaultHeadings()*
+1*È
+3i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java­ ­(º
+·
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java­ ­(
+%3ij.measure.ResultsTable"__id*%*#
+ij.plugin.filter.Analyzer"
+rt‡
+„
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java­  ­(9	
+%4int"__id*
+""ˆ…
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java­ ­(:
+%5java.lang.String"=ij.measure.ResultsTable#getColumnHeading(I)Ljava/lang/String;*
+
+%3ij.measure.ResultsTable*
+	
+%4int2getColumnHeading(I)*
+2
+1*À
+5i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java¬ ¬(Ç
+Ä
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java¬ ¬(
+%2boolean")ij.plugin.filter.Analyzer#resetCounter()Z*"
+ij.plugin.filter.Analyzer*
+3
+1*ü
+7i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.javaª ª(º
+·
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java« «(
+%0ij.measure.ResultsTable"__id*%*#
+ij.plugin.filter.Analyzer"
+rtÃÀ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java« «(	
+%1int"ij.measure.ResultsTable#size()I*
+
+%0ij.measure.ResultsTable2size()*	
+3
+5
+1*ã
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java¯	 ¯("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Analyzer.java¯ ¯(
+""B
+ij.plugin.filter.Analyzer

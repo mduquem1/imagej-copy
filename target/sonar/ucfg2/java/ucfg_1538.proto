@@ -1,0 +1,20 @@
+
+'ij.plugin.TreePanel#getAutoSaveProps()Zf
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaÔ	 Ô("1*‚
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaÔ$ Ô(5Æ
+Ã
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaÔ$ Ô(5#
+%0javax.swing.JCheckBoxMenuItem"__id*.*,
+ij.plugin.TreePanel"
+pMenu_saveOnCloseÙÖ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaÔ$ Ô(B
+%1boolean"(javax.swing.AbstractButton#isSelected()Z*%
+#
+%0javax.swing.JCheckBoxMenuItem2isSelected()"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaÔ Ô(C
+""B
+ij.plugin.TreePanel

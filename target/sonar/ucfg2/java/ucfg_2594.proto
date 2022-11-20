@@ -1,0 +1,164 @@
+
++ij.gui.Roi#getGroupColor(I)Ljava/awt/Color;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaã ã(#"7*–
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaí í( œ
+™
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaí í( 
+%10ij.process.LUT"__id**
+
+ij.gui.Roi"
+
+glasbeyLutÂ¿
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaí í(.
+
+%11int")java.awt.image.IndexColorModel#getRGB(I)I*
+
+%10ij.process.LUT*
+""2	getRGB(I)†ƒ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaí í(
+%12java.awt.Color"java.awt.Color¨
+¥
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaí í(/
+%13"java.awt.Color#<init>(I)V*
+
+%12java.awt.Color*
+
+
+%11int—
+”
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaí í(/
+colorjava.awt.Color"__id*
+
+%12java.awt.Color*
+1*…
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaì ì(›
+˜
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaì ì(
+%9ij.process.LUT"__id**
+
+ij.gui.Roi"
+
+glasbeyLut*
+2
+1*Ì
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaê ê(²
+¯
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaê ê("
+%7java.lang.String"__concat*
+LUT not found: *
+
+pathjava.lang.String°
+­
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaê ê(#
+
+%8void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%7java.lang.String*
+3*Ë
+
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaç ç(À
+½
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaç ç(#
+%2java.lang.String"2ij.IJ#getDir(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+luts¬
+©
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaç ç(1
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+Glasbey.lut™
+–
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaç ç(2
+pathjava.lang.String"__id*
+
+%3java.lang.String«
+¨
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaè# è(2
+%4java.lang.String"__concat*
+
+noerror:*
+
+pathjava.lang.Stringé
+æ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaè è(3
+%5ij.process.LUT"?ij.plugin.LutLoader#openLut(Ljava/lang/String;)Lij/process/LUT;*"
+ij.plugin.LutLoader*
+
+%4java.lang.String›
+˜
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaè è(3
+
+ij.gui.Roi"
+
+glasbeyLut"__id*
+
+%5ij.process.LUT›
+˜
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaé é(
+%6ij.process.LUT"__id**
+
+ij.gui.Roi"
+
+glasbeyLut*
+3
+4*…
+6Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæ æ(›
+˜
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæ æ(
+%1ij.process.LUT"__id**
+
+ij.gui.Roi"
+
+glasbeyLut*
+3
+5*œ
+7Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaä ä(™
+–
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaä ä(
+%0java.awt.Color"__id**
+
+ij.gui.Roi"
+
+ROIColor–
+“
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaä ä(
+colorjava.awt.Color"__id*
+
+%0java.awt.Color*
+6
+1*Ø
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaï	 ï("w
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaï ï(
+
+colorjava.awt.Color:
+""B"
+
+ij.gui.Roi

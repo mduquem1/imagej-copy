@@ -1,0 +1,17 @@
+
+.ij.gui.Overlay#getLabelColor()Ljava/awt/Color;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java› ›("1*ƒ
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaœ œ(£
+ 
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaœ œ(
+%0java.awt.Color"__id*"* 
+ij.gui.Overlay"
+
+labelColor"x
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaœ œ(
+
+%0java.awt.ColorB
+ij.gui.Overlay

@@ -1,0 +1,67 @@
+
+7ij.process.ImageStatistics#toString()Ljava/lang/String;j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageStatistics.java¼ ¼("1*¬
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageStatistics.java½	 ½(«
+¨
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageStatistics.java½	 ½("
+%0java.lang.String"__concat*
+stats[count=*
+""¸
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageStatistics.java½	 ½(,
+%1java.lang.String"__concat*
+
+%0java.lang.String*	
+, mean=³
+°
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageStatistics.java½	 ½(1
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+""·
+´
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageStatistics.java½	 ½(:
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+
+, min=³
+°
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageStatistics.java½	 ½(>
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+""·
+´
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageStatistics.java½	 ½(G
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+, max=³
+°
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageStatistics.java½	 ½(K
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""²
+¯
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageStatistics.java½	 ½(O
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+]"†
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageStatistics.java½ ½(P
+
+%7java.lang.StringB
+ij.process.ImageStatistics

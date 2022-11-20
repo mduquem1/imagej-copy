@@ -1,0 +1,32 @@
+
+:ij.plugin.Binner#getMedian(Lij/process/ImageProcessor;II)F`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaÀ À("6"18*ë
+6`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaÖ Ö(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaÖ Ö(
+%1float"__id*
+""*
+1*Æ
+18`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaÇ Ç(
+ÔÑ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaÇ Ç(4
+%0float"#ij.process.ImageProcessor#getf(II)F*!
+
+ipij.process.ImageProcessor*
+""*
+""2getf(II)*
+6
+18*Ñ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaÛ	 Û("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaÛ Û(
+"":
+ipij.process.ImageProcessor:
+"":
+""B
+ij.plugin.Binner

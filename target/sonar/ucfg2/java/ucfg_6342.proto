@@ -1,0 +1,199 @@
+
+&ij.gui.Arrow#getPath()Ljava/awt/Shape;Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javah h("7*Á
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÑ Ñ(•
+¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÑ Ñ( 
+%16java.awt.geom.GeneralPath"__id**
+ij.gui.Arrow"
+path÷”
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÑ Ñ(0
+%17void"&java.awt.geom.Path2D$Float#lineTo(FF)V*"
+ 
+%16java.awt.geom.GeneralPath*
+""*
+""2
+lineTo(FF)*
+1*Á
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÇ Ç(•
+¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÇ Ç( 
+%14java.awt.geom.GeneralPath"__id**
+ij.gui.Arrow"
+path÷”
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÇ Ç(0
+%15void"&java.awt.geom.Path2D$Float#moveTo(FF)V*"
+ 
+%14java.awt.geom.GeneralPath*
+""*
+""2
+moveTo(FF)*
+1*Ÿ
+
+4Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java~ ~(¢
+ü
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java~ ~(
+%7java.awt.geom.GeneralPath"__id**
+ij.gui.Arrow"
+path“œ
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java~ ~(
+
+%8void"&java.awt.geom.Path2D$Float#moveTo(FF)V*!
+
+%7java.awt.geom.GeneralPath*
+""*
+""2
+moveTo(FF)¢
+ü
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java (
+%9java.awt.geom.GeneralPath"__id**
+ij.gui.Arrow"
+path”–
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java (#
+%10void"&java.awt.geom.Path2D$Float#lineTo(FF)V*!
+
+%9java.awt.geom.GeneralPath*
+""*
+""2
+lineTo(FF)•
+¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÄ Ä( 
+%11java.awt.geom.GeneralPath"__id**
+ij.gui.Arrow"
+path÷”
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÄ Ä(#
+%12void"&java.awt.geom.Path2D$Float#moveTo(FF)V*"
+ 
+%11java.awt.geom.GeneralPath*
+""*
+""2
+moveTo(FF)z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÅ Å(
+
+%13int"__id*
+""*
+2
+3*Æ
+6Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javas s(¢
+ü
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javau u(.
+%5double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""¢
+ü
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javax x(-
+%6double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+4*Ÿ
+7Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javai i(¢
+ü
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javai i(
+%0java.awt.geom.GeneralPath"__id**
+ij.gui.Arrow"
+path∂≥
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javai i(
+
+%1void"java.awt.geom.Path2D#reset()V*!
+
+%0java.awt.geom.GeneralPath2reset()õò
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaj j(
+%2java.awt.geom.GeneralPath"java.awt.geom.GeneralPath≠
+™
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaj	 j(
+%3"#java.awt.geom.GeneralPath#<init>()V*!
+
+%2java.awt.geom.GeneralPath¢
+ü
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaj j(
+ij.gui.Arrow"
+path"__id*!
+
+%2java.awt.geom.GeneralPathû
+õ
+Z
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javak k(
+
+%4void"ij.gui.Arrow#calculatePoints()V*
+ij.gui.Arrow*
+4
+6*ë
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÖ Ö(•
+¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÖ Ö( 
+%18java.awt.geom.GeneralPath"__id**
+ij.gui.Arrow"
+path÷”
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÖ Ö(!
+%19void"&java.awt.geom.Path2D$Float#lineTo(FF)V*"
+ 
+%18java.awt.geom.GeneralPath*
+""*
+""2
+lineTo(FF)•
+¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÜ Ü( 
+%20java.awt.geom.GeneralPath"__id**
+ij.gui.Arrow"
+path÷”
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÜ Ü(/
+%21void"&java.awt.geom.Path2D$Float#lineTo(FF)V*"
+ 
+%20java.awt.geom.GeneralPath*
+""*
+""2
+lineTo(FF)•
+¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaá á( 
+%22java.awt.geom.GeneralPath"__id**
+ij.gui.Arrow"
+path÷”
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaá á(#
+%23void"&java.awt.geom.Path2D$Float#lineTo(FF)V*"
+ 
+%22java.awt.geom.GeneralPath*
+""*
+""2
+lineTo(FF)•
+¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaà	 à( 
+%24java.awt.geom.GeneralPath"__id**
+ij.gui.Arrow"
+path"Ç
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaà à("
+ 
+%24java.awt.geom.GeneralPathB
+ij.gui.Arrow

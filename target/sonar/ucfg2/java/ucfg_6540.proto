@@ -1,0 +1,74 @@
+
+@ij.macro.Program#lookupWord(Ljava/lang/String;)Lij/macro/Symbol;^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javat t("7*â
+3^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaz z("}
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.java{ {(
+
+symbolij.macro.Symbol*Œ
+4^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javay' y(*§
+¤
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javay2 y(<
+%3java.lang.String"__id*$*"
+
+symbolij.macro.Symbol"
+strñî
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javay' y(=
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+strjava.lang.String*
+
+%3java.lang.String2equals(Ljava/lang/Object;)*	
+3
+5
+1*Ý
+5^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javax x(£
+ 
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javax x(
+%0ij.macro.Symbol[]"__id**
+ij.macro.Program"
+table©
+¦
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javax x(
+%1ij.macro.Symbol"
+__arrayGet*
+
+%0ij.macro.Symbol[]*
+""
+š
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javax x(
+symbolij.macro.Symbol"__id*
+
+%1ij.macro.Symbol{
+y
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javay y(#	
+%2int"__id*
+""*	
+4
+5
+1*ú
+7^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javau u(Œ
+‰
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javau u(
+symbolij.macro.Symbol"__id*
+""*
+5
+1*Í
+1^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.java~	 ~("h
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.java~ ~(
+"":
+strjava.lang.StringB
+ij.macro.Program

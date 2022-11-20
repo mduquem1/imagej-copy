@@ -1,0 +1,93 @@
+
+,ij.macro.Interpreter#getLogicalExpression()Dd
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaõ õ(""9*Ù
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java‚	 ‚	("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java‚	 ‚	(
+""*õ
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java	 	(
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java	 	(	
+%9int"__id*
+""*
+2
+1*Ù
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java€	 €	("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java€	 €	(
+""*³
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaú ú(ÏÌ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaú ú(
+
+%4void"%ij.macro.Interpreter#checkBoolean(D)V*
+ij.macro.Interpreter*
+""2checkBoolean(D)½º
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaû û(
+
+%5void" ij.macro.Interpreter#getToken()V*
+ij.macro.Interpreter2
+getToken()×Ô
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaı ı($
+%6double",ij.macro.Interpreter#getLogicalExpression()D*
+ij.macro.Interpreter2getLogicalExpression()ÏÌ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaş ş(
+
+%7void"%ij.macro.Interpreter#checkBoolean(D)V*
+ij.macro.Interpreter*
+""2checkBoolean(D)
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaÿ
+ ÿ(	
+%8int"__id*
+""*
+3
+4*Ù
+6d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaù
+ ù("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaù ù(
+""*õ
+8d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaø ø(!
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaø# ø(-	
+%3int"__id*
+""*
+5
+6*“
+9d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaö ö("×Ô
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaö ö($
+%0double",ij.macro.Interpreter#getBooleanExpression()D*
+ij.macro.Interpreter2getBooleanExpression()¾»
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java÷ ÷(	
+%1int"!ij.macro.Interpreter#nextToken()I*
+ij.macro.Interpreter2nextToken()
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaø ø(	
+%2int"__id*
+""*	
+5
+6
+8*Ù
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaƒ		 ƒ	("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaƒ	 ƒ	(
+""B
+ij.macro.Interpreter

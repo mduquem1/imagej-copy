@@ -1,0 +1,34 @@
+
+"ij.plugin.DicomDecoder#getFloat()F_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¤ ¤("4*Ù
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¥ ¥(¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¥ ¥(	
+%0int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¦ ¦(	
+%1int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java§ §(	
+%2int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¨ ¨(	
+%3int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()*
+1*„
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.javaµ	 µ(²
+¯
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.javaµ	 µ("
+%4float""java.lang.Float#intBitsToFloat(I)F*"
+java.lang.Float*
+"""i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.javaµ µ(#
+""B
+ij.plugin.DicomDecoder

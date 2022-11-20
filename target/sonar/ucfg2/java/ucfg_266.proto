@@ -1,0 +1,177 @@
+
+1ij.measure.CurveFitter#prepareModifiedFitType(I)Zf
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaö	 ö	('"27*Þ
+24f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaû	 û	(""p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaü	 ü	(
+""*ý
+25f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaú	 ú	(„
+
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaú	 ú	(	
+%1int"__id*
+""*
+24
+23*Þ
+26f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaø	 ø	(#"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaù	 ù	(
+""*ý
+27f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java÷	 ÷	(„
+
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java÷	 ÷	(	
+%0int"__id*
+""*
+25
+26*
+17f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java‡
+ ‡
+(„
+
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaˆ
+ ˆ
+(#	
+%5int"__id*
+""*
+6
+17
+7
+9
+11
+12
+1*Ý
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java¤
+	 ¤
+("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java¤
+ ¤
+(
+""*÷
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java
+ 
+(„
+
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java
+ 
+( 	
+%9int"__id*
+""*
+1*¤
+6f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java™
+ ™
+(	­
+ª
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java™
+ ™
+((
+%8double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""*
+17
+1*§
+7f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java–
+ –
+(:Ç
+Ä
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java–
+ –
+(:)
+ij.measure.CurveFitter"
+errorString"__id*)'
+%Cannot fit y=0 or mixture of y>0, y<0"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java—
+ —
+(
+""*¦
+9f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java”
+ ”
+( °
+­
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java”
+ ”
+(*
+%7double"java.lang.Math#signum(D)D*"
+java.lang.Math*
+""*
+6
+7*ü
+21f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaþ	 þ	(„
+
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaþ	 þ	("	
+%4int"__id*
+""*
+17
+1*ü
+22f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaý	, ý	(3„
+
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaý	7 ý	(E	
+%3int"__id*
+""*
+3
+21*§
+11f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java’
+ ’
+(
+­
+ª
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java’
+ ’
+(#
+%6double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""*	
+6
+7
+9*’
+12f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java
+ 
+(%±
+®
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java
+ 
+(%)
+ij.measure.CurveFitter"
+errorString"__id*
+Cannot fit x<=0"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java
+ 
+(
+""*ý
+23f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaý	 ý	(„
+
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaý	 ý	((	
+%2int"__id*
+""*
+21
+22:
+""B
+ij.measure.CurveFitter

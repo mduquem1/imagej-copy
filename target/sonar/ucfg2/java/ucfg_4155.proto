@@ -1,0 +1,54 @@
+
+6ij.plugin.AppearanceOptions#getLuts()[Lij/process/LUT;k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java ("5*ç
+2k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java 
+  ("u
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java   (
+""*½
+3k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaŸ- Ÿ(0Â¿
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaŸ- Ÿ(>
+%2boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+2
+1*¹
+4k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaŸ Ÿ(¾»
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaŸ Ÿ($	
+%1int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+2
+3*ë
+5k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaž ž(Ì
+É
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaž ž(1
+%0ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager¡
+ž
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaž ž(2
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+2
+4*Õ
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java¡ ¡(ØÕ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java¡	 ¡((
+%3ij.process.LUT[]",ij.CompositeImage#getLuts()[Lij/process/LUT;*
+
+impij.ImagePlus2	getLuts()"‡
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java¡ ¡()
+
+%3ij.process.LUT[]B
+ij.plugin.AppearanceOptions

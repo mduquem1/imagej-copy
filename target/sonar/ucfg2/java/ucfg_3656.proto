@@ -1,0 +1,39 @@
+
+ij.ImagePlus#getCurrentSlice()I\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaä ä("3"4*⁄
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaç ç(¨©
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaç ç(!	
+%2int"ij.ImagePlus#getStackSize()I*
+ij.ImagePlus2getStackSize()¬ø
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaç ç("
+
+%3void" ij.ImagePlus#setCurrentSlice(I)V*
+ij.ImagePlus*
+	
+%2int2setCurrentSlice(I)*
+1*ò
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaå å(¨©
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaå å(!	
+%1int"ij.ImagePlus#getStackSize()I*
+ij.ImagePlus2getStackSize()*
+2
+1*§
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaã ã(%ª∏
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaã ã((
+
+%0void" ij.ImagePlus#setCurrentSlice(I)V*
+ij.ImagePlus*22setCurrentSlice(I)*
+3*…
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé	 é("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(
+""B
+ij.ImagePlus

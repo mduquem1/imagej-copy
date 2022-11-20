@@ -1,0 +1,266 @@
+
+0ij.gui.Plot#legendRect(IIII)Ljava/awt/Rectangle;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java— —("21*å
+13[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÿ ÿ(y
+w
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÿ ÿ(!
+
+%14int"__id*
+""¶£
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÿ ÿ("
+
+%15int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+
+
+%14int2sc(F)
+}
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÿ ÿ(5
+
+%11int"__id*
+
+
+%12int*
+11*á
+15[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java÷ ÷(x
+v
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java÷+ ÷(9	
+%9int"__id*
+""†ù
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java÷& ÷(:
+
+%10int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+""2sc(F)}
+{
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java÷ ÷(M	
+%4int"__id*
+	
+%6int*
+13
+12*Ü
+16[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java’ ’(x
+v
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java’ ’($	
+%7int"__id*
+""üú
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java’ ’(%	
+%8int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+""2sc(F)}
+{
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java’ ’(8	
+%4int"__id*
+	
+%5int*
+13
+12*Â
+18[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java”5 ”(Ax
+v
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java”E ”(N	
+%3int"__id*
+""*
+15
+16*È
+19[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java“ “(Qx
+v
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java”) ”(1	
+%2int"__id*
+""*
+15
+16
+18*∑
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaﬁ ﬁ(èå
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaﬁ ﬁ(
+%32java.awt.Rectangle"java.awt.Rectangle∆
+√
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaﬁ	 ﬁ(-
+%33" java.awt.Rectangle#<init>(IIII)V*
+
+%32java.awt.Rectangle*
+""*
+""*
+""*
+"""z
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaﬁ ﬁ(.
+
+%32java.awt.Rectangle*É
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java›" ›($y
+w
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java›2 ›(@
+
+%30int"__id*
+""†ù
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java›" ›(C
+
+%31int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+""2sc(F)*
+1*Ê
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java› ›(
+}
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java› ›(
+
+%27int"__id*
+
+
+%29int*
+2*Ê
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java› ›(
+}
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java› ›(
+
+%27int"__id*
+
+
+%28int*
+2*ù
+6[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java‹ ‹(y
+w
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java‹ ‹(
+
+%25int"__id*
+""¥±
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java‹ ‹(
+%26boolean"ij.gui.Plot#hasFlag(I)Z*
+ij.gui.Plot*
+
+
+%25int2
+hasFlag(I)*	
+3
+4
+1*É
+7[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java€# €(%y
+w
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java€3 €(A
+
+%23int"__id*
+""†ù
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java€# €(B
+
+%24int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+""2sc(F)*
+6*Ê
+8[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java€ €(
+}
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java€ €(
+
+%20int"__id*
+
+
+%22int*
+7*Ê
+9[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java€ €(
+}
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java€ €(
+
+%20int"__id*
+
+
+%21int*
+7*·
+20[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java“5 “(Ax
+v
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java“E “(P	
+%1int"__id*
+""*
+19*Â
+21[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java“ “(%x
+v
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java“) “(1	
+%0int"__id*
+""*
+19
+20*û
+11[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java◊ Ÿ(My
+w
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java⁄ ⁄(
+
+%18int"__id*
+""¥±
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java⁄ ⁄(
+%19boolean"ij.gui.Plot#hasFlag(I)Z*
+ij.gui.Plot*
+
+
+%18int2
+hasFlag(I)*	
+6
+8
+9*å
+12[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ Ÿ(y
+w
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ* Ÿ(8
+
+%16int"__id*
+""¶£
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ' Ÿ(9
+
+%17int"ij.gui.Plot#sc(F)I*
+ij.gui.Plot*
+
+
+%16int2sc(F)
+}
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ Ÿ(L
+
+%11int"__id*
+
+
+%13int*
+11:
+"":
+"":
+"":
+""B
+ij.gui.Plot

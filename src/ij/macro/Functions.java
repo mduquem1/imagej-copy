@@ -3844,11 +3844,11 @@ public class Functions implements MacroConstants, Measurements {
 				ip2 = ip;
 				Rectangle saveR = ip2.getRoi();
 				ip2.setRoi(roi.getPolygon());
-				stats = ImageStatistics.getStatistics(ip2, params, cal);
+				stats = ImageStatistics.getStatistics(ip2, params, cal, null);
 				ip2.setRoi(saveR);
 			} else {
 				ip2 = (new Straightener()).straightenLine(imp, lineWidth);
-				stats = ImageStatistics.getStatistics(ip2, params, cal);
+				stats = ImageStatistics.getStatistics(ip2, params, cal, null);
 			}
 		} else if (roi!=null && roi.isLine()) {
 			ProfilePlot profile = new ProfilePlot(imp);
@@ -3859,10 +3859,10 @@ public class Functions implements MacroConstants, Measurements {
 				if ((l.y1==l.y2||l.x1==l.x2)&&l.x1==l.x1d&& l.y1==l.y1d&& l.x2==l.x2d&& l.y2==l.y2d)
 					ip2.setRoi(0, 0, ip2.getWidth()-1, 1);
 			}
-			stats = ImageStatistics.getStatistics(ip2, params, cal);
+			stats = ImageStatistics.getStatistics(ip2, params, cal, null);
 		} else {
 			ip.setRoi(roi);
-			stats = ImageStatistics.getStatistics(ip, params, cal);
+			stats = ImageStatistics.getStatistics(ip, params, cal, null);
 		}
 		if (calibrated)
 			count.setValue(stats.area);

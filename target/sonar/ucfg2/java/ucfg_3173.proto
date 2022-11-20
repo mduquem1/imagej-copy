@@ -1,0 +1,59 @@
+
+5ij.macro.Functions#setPlotFormatFlags(Lij/gui/Plot;)Db
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java’ ’("6*¤
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java— —(µ²
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java— —(
+
+%3void"ij.gui.Plot#updateImage()V*
+
+plotij.gui.Plot2updateImage()*
+1*´
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java• •(/ÅÂ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java– –(
+
+%2void"ij.gui.Plot#setFormatFlags(I)V*
+
+plotij.gui.Plot*
+""2setFormatFlags(I)*
+3*Ò
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java• •(ã
+à
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java• •(.	
+%1int"0java.lang.Integer#parseInt(Ljava/lang/String;I)I*"
+java.lang.Integer* 
+
+
+flagStringjava.lang.String*2*
+4*õ
+6b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java“ “("ÜÙ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java“ “($
+%0java.lang.String"3ij.macro.Functions#getStringArg()Ljava/lang/String;*
+ij.macro.Functions2getStringArg()§
+¤
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java“ “(%
+
+flagStringjava.lang.String"__id*
+
+%0java.lang.String*
+5*Û
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java›	 ›(ƒ
+€
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java›	 ›(
+%6double"__id*
+"""l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java› ›(
+"":
+plotij.gui.PlotB
+ij.macro.Functions

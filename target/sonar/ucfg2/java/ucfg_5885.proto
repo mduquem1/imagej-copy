@@ -1,0 +1,421 @@
+
+Qij.plugin.frame.SyncWindows#displayChanged(Lij/plugin/frame/DisplayChangeEvent;)Vk
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaô ô("32*©
+24k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÆ
+ Æ(ÜÉ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÆ
+ Æ(
+%12ij.ImagePlus"?ij.plugin.frame.SyncWindows#getImageFromVector(I)Lij/ImagePlus;*
+ij.plugin.frame.SyncWindows*
+""2getImageFromVector(I)¢
+ü
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÆ Æ(
+impij.ImagePlus"__id*
+
+%12ij.ImagePlus*
+25
+23*ı
+25k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java≠ ≠(ª
+∏
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java≠ ≠(
+%10java.util.Vector"__id***(
+ij.plugin.frame.SyncWindows"
+vwinsπ∂
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java≠ ≠(
+
+%11int"java.util.Vector#size()I*
+
+%10java.util.Vector2size()*
+24
+20*á
+27k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¨ ¨(!â
+Ü
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¨# ¨(=	
+%9int"__id*
+""*
+25
+20*Ñ
+28k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¨ ¨(æ
+ª
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¨ ¨(
+%7java.awt.Checkbox"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+cChannel≈¬
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¨ ¨(
+%8boolean"java.awt.Checkbox#getState()Z*
+
+%7java.awt.Checkbox2
+getState()*
+27
+20*Ë
+29k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java© ©(""u
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java© ©("
+""*ˇ
+30k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaû û(ıÚ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaû û(
+%1java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*)
+'
+e"ij.plugin.frame.DisplayChangeEvent2getSource()¨
+©
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaû û( 
+sourcejava.lang.Object"__id*
+
+%1java.lang.Object‡›
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaü ü(	
+%2int"-ij.plugin.frame.DisplayChangeEvent#getType()I*)
+'
+e"ij.plugin.frame.DisplayChangeEvent2	getType()‚ﬂ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java† †(	
+%3int".ij.plugin.frame.DisplayChangeEvent#getValue()I*)
+'
+e"ij.plugin.frame.DisplayChangeEvent2
+getValue()ì
+ê
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¢ ¢(
+impij.ImagePlus"__id*
+""ò
+ï
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java£ £(
+iwij.gui.ImageWindow"__id*
+""Ã
+…
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¶ ¶(3
+%4ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager€ÿ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¶ ¶(?
+%5ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+%4ij.ImagePlus2getWindow()≠
+™
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¶ ¶(@
+iwcij.gui.ImageWindow"__id*
+
+%5ij.gui.ImageWindowÑÅ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java© ©(
+%6boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+iwcij.gui.ImageWindow*
+
+sourcejava.lang.Object2equals(Ljava/lang/Object;)*
+28
+29*Ë
+31k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaú ú("u
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaú ú(
+""*∏
+32k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaú ú(∫
+∑
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaú ú(
+%0java.util.Vector"__id***(
+ij.plugin.frame.SyncWindows"
+vwins*
+30
+31*∂
+11k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¡ ¡(
+ºπ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java¡ ¡(
+%27void"ij.ImagePlus#setZ(I)V*
+
+impij.ImagePlus*
+""2setZ(I)*
+17*∂
+12k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaø ø(
+ºπ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaø ø(
+%26void"ij.ImagePlus#setT(I)V*
+
+impij.ImagePlus*
+""2setT(I)*
+17*ª
+13k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaæ! æ($Ω∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaæ! æ(1
+
+%25int"ij.ImagePlus#getNFrames()I*
+
+impij.ImagePlus2getNFrames()*
+11
+12*ª
+14k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaæ
+ æ(Ω∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaæ
+ æ(
+
+%24int"ij.ImagePlus#getNSlices()I*
+
+impij.ImagePlus2getNSlices()*
+13
+11*í
+15k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaº
+ º(›⁄
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaº
+ º(
+%22ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()≠
+™
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaº º(
+iwij.gui.ImageWindow"__id*
+
+%22ij.gui.ImageWindowÑÅ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaΩ
+ Ω(
+%23boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+iwij.gui.ImageWindow*
+
+sourcejava.lang.Object2equals(Ljava/lang/Object;)*
+14
+17*©
+16k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java∫
+ ∫(ÜÉ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java∫
+ ∫(
+%21ij.ImagePlus"?ij.plugin.frame.SyncWindows#getImageFromVector(I)Lij/ImagePlus;*
+ij.plugin.frame.SyncWindows*
+""2getImageFromVector(I)¢
+ü
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java∫ ∫(
+impij.ImagePlus"__id*
+
+%21ij.ImagePlus*
+15
+17*Ù
+17k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaπ π(ª
+∏
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaπ π(
+%19java.util.Vector"__id***(
+ij.plugin.frame.SyncWindows"
+vwinsπ∂
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaπ π(
+
+%20int"java.util.Vector#size()I*
+
+%19java.util.Vector2size()*
+16
+9*á
+19k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java∏ ∏(ä
+á
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java∏! ∏(5
+
+%18int"__id*
+""*
+17
+9*ä
+0 "Ç
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java÷ ÷(
+implicit return*ï
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‘ ‘(ÈÊ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‘ ‘(#
+%37ij.gui.ImageCanvas"2ij.gui.ImageWindow#getCanvas()Lij/gui/ImageCanvas;*
+
+iwcij.gui.ImageWindow2getCanvas()Æ
+´
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java‘ ‘($
+iccij.gui.ImageCanvas"__id*
+
+%37ij.gui.ImageCanvasÄ
+˝
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java’ ’(
+%38void"Cij.plugin.frame.SyncWindows#storeCanvasState(Lij/gui/ImageCanvas;)V*
+ij.plugin.frame.SyncWindows*
+
+iccij.gui.ImageCanvas*
+0*¥
+3k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaŒ Œ(	ºπ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaŒ Œ(
+%36void"ij.ImagePlus#setT(I)V*
+
+impij.ImagePlus*
+""2setT(I)*
+6*è
+4k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÃ
+ Ã(›⁄
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÃ
+ Ã(
+%34ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()≠
+™
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÃ Ã(
+iwij.gui.ImageWindow"__id*
+
+%34ij.gui.ImageWindowÑÅ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÕ
+ Õ(
+%35boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+iwij.gui.ImageWindow*
+
+sourcejava.lang.Object2equals(Ljava/lang/Object;)*
+3
+6*¶
+5k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java 
+  (ÜÉ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java 
+  (
+%33ij.ImagePlus"?ij.plugin.frame.SyncWindows#getImageFromVector(I)Lij/ImagePlus;*
+ij.plugin.frame.SyncWindows*
+""2getImageFromVector(I)¢
+ü
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java   (
+impij.ImagePlus"__id*
+
+%33ij.ImagePlus*
+4
+6*Ú
+6k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java… …(ª
+∏
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java… …(
+%31java.util.Vector"__id***(
+ij.plugin.frame.SyncWindows"
+vwinsπ∂
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java… …(
+
+%32int"java.util.Vector#size()I*
+
+%31java.util.Vector2size()*
+5
+1*Ö
+8k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java» »(ä
+á
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java»! »(5
+
+%30int"__id*
+""*
+6
+1*Ç
+9k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java» »(Ω
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java» »(
+%28java.awt.Checkbox"__id*+*)
+ij.plugin.frame.SyncWindows"
+cFrame«ƒ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java» »(
+%29boolean"java.awt.Checkbox#getState()Z*
+
+%28java.awt.Checkbox2
+getState()*
+8
+1*Ñ
+20k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java∏ ∏(Ω
+∫
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java∏ ∏(
+%16java.awt.Checkbox"__id*+*)
+ij.plugin.frame.SyncWindows"
+cSlice«ƒ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java∏ ∏(
+%17boolean"java.awt.Checkbox#getState()Z*
+
+%16java.awt.Checkbox2
+getState()*
+19
+9*∂
+22k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java≤ ≤(	ºπ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java≤ ≤(
+%15void"ij.ImagePlus#setC(I)V*
+
+impij.ImagePlus*
+""2setC(I)*
+25*í
+23k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java∞
+ ∞(›⁄
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java∞
+ ∞(
+%13ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()≠
+™
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java∞ ∞(
+iwij.gui.ImageWindow"__id*
+
+%13ij.gui.ImageWindowÑÅ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java±
+ ±(
+%14boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+iwij.gui.ImageWindow*
+
+sourcejava.lang.Object2equals(Ljava/lang/Object;)*
+25
+22:'
+e"ij.plugin.frame.DisplayChangeEventB
+ij.plugin.frame.SyncWindows

@@ -1,0 +1,113 @@
+
+iij.plugin.frame.SyncWindows#getMatchingCoords(Lij/gui/ImageCanvas;Lij/gui/ImageCanvas;II)Ljava/awt/Point;k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÚ Ú(""3*å
+2k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaà# à(%çä
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaà# à(1
+%4java.awt.Container"2java.awt.Component#getParent()Ljava/awt/Container;*
+
+icij.gui.ImageCanvas2getParent()áÞ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaà à(A
+%5ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+%4java.awt.Container2getImagePlus()íê
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaà à(R
+%6ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%5ij.ImagePlus2getCalibration()µ
+²
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaà à(S
+calij.measure.Calibration"__id*
+
+%6ij.measure.Calibrationèå
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaá& á(5
+%7java.awt.Container"2java.awt.Component#getParent()Ljava/awt/Container;*
+
+iccij.gui.ImageCanvas2getParent()áÞ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaá á(E
+%8ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+%7java.awt.Container2getImagePlus()íê
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaá á(V
+%9ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%8ij.ImagePlus2getCalibration()¸
+µ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaá á(W 
+curCalij.measure.Calibration"__id*
+
+%9ij.measure.Calibration*
+1*‘
+3k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ Ü($Å
+Â
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÜ Ü($
+%0java.awt.Rectangle"__id*3*1
+ij.plugin.frame.SyncWindows"
+currentSrcRectÅ
+Â
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaÝ Ý($
+%1java.awt.Rectangle"__id*3*1
+ij.plugin.frame.SyncWindows"
+currentSrcRect¾
+»
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaß ß(
+%2java.awt.Checkbox"__id*-*+
+ij.plugin.frame.SyncWindows"
+
+cScalingÅÂ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaß ß(
+%3boolean"java.awt.Checkbox#getState()Z*
+
+%2java.awt.Checkbox2
+getState()*
+2
+1*ô
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaç ç(ÎË
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaç ç($
+
+%10int"ij.gui.ImageCanvas#screenXD(D)I*
+
+icij.gui.ImageCanvas*
+""2screenXD(D)ÎË
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaè è($
+
+%11int"ij.gui.ImageCanvas#screenYD(D)I*
+
+icij.gui.ImageCanvas*
+""2screenYD(D)—”
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaê ê(
+%12java.awt.Point"java.awt.Point¼
+¹
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaê	 ê(
+%13"java.awt.Point#<init>(II)V*
+
+%12java.awt.Point*
+""*
+"""†
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaê ê(
+
+%12java.awt.Point:
+icij.gui.ImageCanvas:
+iccij.gui.ImageCanvas:
+"":
+""B
+ij.plugin.frame.SyncWindows

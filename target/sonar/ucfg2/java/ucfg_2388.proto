@@ -1,0 +1,32 @@
+
+ij.gui.NewImage#getSize(II)I_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaê ê("3*É
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaí í(÷
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaí í(c
+
+%1void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*XV
+TImage is too large. ImageJ does not support\nsingle images larger than 2 gigapixels."i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaî î(
+""*ê
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaë ë(|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javaì ì(	
+%0int"__id*
+""*
+2
+1*Ï
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javað ð("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/NewImage.javað ð(
+"":
+"":
+""B"
+ij.gui.NewImage

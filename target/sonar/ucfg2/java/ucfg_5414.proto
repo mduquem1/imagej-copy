@@ -1,0 +1,73 @@
+
+)ij.plugin.CalibrationBar#getFontHeight()Ih
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÇ Ç("2"3*â
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÉ$ É((Ü
+É
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÉ$ É(.	
+%2int"__id*
+""ã
+à
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÉ$ É(.	
+%0int"__id*
+	
+%2int*
+1*â
+3h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÉ É(Ü
+É
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÉ É(#	
+%1int"__id*
+""ã
+à
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÉ É(#	
+%0int"__id*
+	
+%1int*
+1*à
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÉ É(/ëé
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÑ Ñ(
+%3java.awt.Font"java.awt.Font÷
+”
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÑ Ñ(E
+%4"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%3java.awt.Font*
+	SansSerif*
+""*
+""°
+û
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÑ Ñ(F
+fontjava.awt.Font"__id*
+
+%3java.awt.Fontê
+ç
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÖ Ö(,
+%5java.awt.FontMetrics"Nij.plugin.CalibrationBar#getFontMetrics(Ljava/awt/Font;)Ljava/awt/FontMetrics;*
+ij.plugin.CalibrationBar*
+
+fontjava.awt.Font≤
+Ø
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÖ Ö(-
+metricsjava.awt.FontMetrics"__id*
+
+%5java.awt.FontMetricsÀ»
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÜ	 Ü(	
+%6int"!java.awt.FontMetrics#getHeight()I*!
+
+metricsjava.awt.FontMetrics2getHeight()"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÜ Ü(
+""B
+ij.plugin.CalibrationBar

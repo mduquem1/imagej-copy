@@ -1,0 +1,48 @@
+
+3ij.plugin.FFT#inverse(Lij/ImagePlus;)Lij/ImagePlus;]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFT.java© ©( "1*®	
+1]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFT.javaª ª(†ƒ
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFT.javaª ª(
+%0ij.plugin.FFT"ij.plugin.FFT˜
+•
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFT.javaª ª(
+%1"ij.plugin.FFT#<init>()V*
+
+%0ij.plugin.FFT•
+’
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFT.javaª ª(
+fftij.plugin.FFT"__id*
+
+%0ij.plugin.FFTž
+›
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFT.java« «(
+
+fftij.plugin.FFT"
+imp"__id*
+
+impij.ImagePlusÔÑ
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFT.java­ ­(
+
+%2void"&ij.plugin.FFT#run(Ljava/lang/String;)V*
+
+fftij.plugin.FFT*	
+inverse2run(Ljava/lang/String;)ž
+›
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFT.java®	 ®(
+%3ij.ImagePlus"__id* *
+
+fftij.plugin.FFT"
+imp2"u
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFT.java® ®(
+
+%3ij.ImagePlus:
+impij.ImagePlusB"
+ij.plugin.FFT

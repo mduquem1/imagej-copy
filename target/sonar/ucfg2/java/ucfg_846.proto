@@ -1,0 +1,201 @@
+
+;ij.gui.GenericDialog#getNextRadioButton()Ljava/lang/String;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaœ
+ œ
+(!"9*Ü
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java›
+ ›
+(ï
+í
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java›
+ ›
+(
+
+%9void"Hij.gui.GenericDialog#recordOption(Ljava/lang/Object;Ljava/lang/String;)V*
+ij.gui.GenericDialog*
+
+cgjava.awt.CheckboxGroup*
+
+itemjava.lang.String*
+1*¥
+
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaŸ
+ Ÿ
+( ∞
+≠
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaŸ
+ Ÿ
+( 
+%5java.util.Hashtable"__id*$*"
+ij.gui.GenericDialog"
+labels»
+≈
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaŸ
+ Ÿ
+(0
+%6java.lang.Object"__mapGet*
+
+%5java.util.Hashtable*
+
+cgjava.awt.CheckboxGroup§
+°
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaŸ
+ Ÿ
+(1
+labeljava.lang.String"__id*
+
+%6java.lang.Object≥
+∞
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java⁄
+ ⁄
+(%
+%7java.lang.String"__id***(
+ij.gui.GenericDialog"
+macroOptionsø
+º
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java⁄
+
+ ⁄
+(3
+%8java.lang.String"[ij.Macro#getValue(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+
+ij.Macro*
+
+%7java.lang.String*
+
+labeljava.lang.String*
+
+itemjava.lang.String£
+†
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java⁄
+ ⁄
+(3
+itemjava.lang.String"__id*
+
+%8java.lang.String*
+2
+1*˚
+6d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java◊
+
+ ◊
+(ﬁ€
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java◊
+
+ ◊
+(
+%4java.lang.String".java.awt.Checkbox#getLabel()Ljava/lang/String;*
+
+checkboxjava.awt.Checkbox2
+getLabel()£
+†
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java◊
+ ◊
+(
+itemjava.lang.String"__id*
+
+%4java.lang.String*	
+2
+4
+1*Ä
+
+7d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java“
+% “
+(6∏
+µ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java“
+% “
+(6
+%1java.util.Vector"__id*/*-
+ij.gui.GenericDialog"
+radioButtonGroups‚ﬂ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java“
+% “
+(R
+%2java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%1java.util.Vector*
+""2elementAt(I)ß
+§
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java“
+ “
+(T
+cgjava.awt.CheckboxGroup"__id*
+
+%2java.lang.Object˙˜
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java‘
+ ‘
+(.
+%3java.awt.Checkbox"?java.awt.CheckboxGroup#getSelectedCheckbox()Ljava/awt/Checkbox;*
+
+cgjava.awt.CheckboxGroup2getSelectedCheckbox()©
+¶
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java‘
+ ‘
+(/
+checkboxjava.awt.Checkbox"__id*
+
+%3java.awt.Checkboxì
+ê
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java’
+ ’
+(
+itemjava.lang.String"__id*
+null*
+2
+4
+6
+1*Ÿ
+8d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java—
+
+ —
+("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java—
+ —
+(
+""*¨
+9d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java–
+ –
+(∏
+µ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java–
+ –
+(
+%0java.util.Vector"__id*/*-
+ij.gui.GenericDialog"
+radioButtonGroups*
+7
+8*Ó
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaﬁ
+	 ﬁ
+("Ç
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaﬁ
+ ﬁ
+(
+
+itemjava.lang.StringB
+ij.gui.GenericDialog

@@ -1,0 +1,79 @@
+
+@ij.plugin.HyperStackReducer#getNewDimensions()Ljava/lang/String;k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaº º("1*õ
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java» »(¡
+ž
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java» »(
+%0java.lang.String"__concat*
+""*
+x´
+±
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java» »("
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+""³
+°
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java» »(&
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+x´
+±
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java» »(.
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+""§
+¤
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java» »(/
+sjava.lang.String"__id*
+
+%3java.lang.String²
+¯
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java¼ ¼(@
+
+%4long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""¨
+¥
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java¼ ¼(@
+%5java.lang.String"__concat*
+ (*
+
+
+%4longµ
+²
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java¼ ¼(F
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+MB)Å
+Â
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java¼ ¼(F
+%7java.lang.String"__concat*
+
+sjava.lang.String*
+
+%6java.lang.String§
+¤
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java¼ ¼(F
+sjava.lang.String"__id*
+
+%7java.lang.String"†
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java½ ½(
+
+sjava.lang.StringB
+ij.plugin.HyperStackReducer

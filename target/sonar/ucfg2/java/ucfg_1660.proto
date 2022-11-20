@@ -1,0 +1,70 @@
+
+%ij.gui.Plot#getDataObjectArrays(I)[[F[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÈ	 È	(%"9*¨
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÎ	 Î	(è
+å
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÎ	 Î	(
+
+plotObjectij.gui.PlotObject"__id*
+""Ø
+¨
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÎ	 Î	(
+
+plotObjectij.gui.PlotObject"
+__arrayGet*
+
+%0java.util.Vector*
+""*
+8
+1*«
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÓ	 Ó	($"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÓ	 Ó	(l
+""*Ø
+7[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÏ	0 Ï	(:x
+v
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÏ	C Ï	(T	
+%2int"__id*
+"" «
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÏ	0 Ï	(U
+%3boolean"ij.gui.PlotObject#hasFlag(I)Z*!
+
+
+plotObjectij.gui.PlotObject*
+	
+%2int2
+hasFlag(I)*
+2
+4*‚
+8[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÏ	 Ï	(x
+v
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÏ	 Ï	(,	
+%1int"__id*
+""*
+2
+7*ã
+9[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÎ	 Î	(-£
+†
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÎ	 Î	(-
+%0java.util.Vector"__id*#*!
+ij.gui.Plot"
+allPlotObjects*
+2*«
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÒ		 Ò	("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÒ	 Ò	(
+"":
+""B
+ij.gui.Plot

@@ -1,0 +1,87 @@
+
+nij.plugin.Binner#shrinkRGB(Lij/process/ColorProcessor;Lij/process/ColorProcessor;I)Lij/process/ImageProcessor;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java¯ ¯(!"1*ê
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java° °(¼¹
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java° °(+
+%0ij.process.ByteProcessor"[ij.process.ColorProcessor#getChannel(ILij/process/ByteProcessor;)Lij/process/ByteProcessor;*!
+
+cpij.process.ColorProcessor*2*
+""2'getChannel(ILij/process/ByteProcessor;)­
+ª
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java° °(,
+bpij.process.ByteProcessor"__id* 
+
+%0ij.process.ByteProcessor˜
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java±# ±(5
+%1ij.process.ImageProcessor"Pij.plugin.Binner#shrink(Lij/process/ImageProcessor;I)Lij/process/ImageProcessor;*
+ij.plugin.Binner* 
+
+bpij.process.ByteProcessor*
+""«¨
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java± ±(6
+
+%2void"Bij.process.ColorProcessor#setChannel(ILij/process/ByteProcessor;)V*"
+ 
+cp2ij.process.ColorProcessor*2*!
+
+%1ij.process.ImageProcessor2'setChannel(ILij/process/ByteProcessor;)ÖÓ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java²* ²(=
+%3ij.process.ByteProcessor"[ij.process.ColorProcessor#getChannel(ILij/process/ByteProcessor;)Lij/process/ByteProcessor;*!
+
+cpij.process.ColorProcessor*2* 
+
+bpij.process.ByteProcessor2'getChannel(ILij/process/ByteProcessor;)˜
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java²# ²(F
+%4ij.process.ImageProcessor"Pij.plugin.Binner#shrink(Lij/process/ImageProcessor;I)Lij/process/ImageProcessor;*
+ij.plugin.Binner* 
+
+%3ij.process.ByteProcessor*
+""«¨
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java² ²(G
+
+%5void"Bij.process.ColorProcessor#setChannel(ILij/process/ByteProcessor;)V*"
+ 
+cp2ij.process.ColorProcessor*2*!
+
+%4ij.process.ImageProcessor2'setChannel(ILij/process/ByteProcessor;)ÖÓ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java³* ³(=
+%6ij.process.ByteProcessor"[ij.process.ColorProcessor#getChannel(ILij/process/ByteProcessor;)Lij/process/ByteProcessor;*!
+
+cpij.process.ColorProcessor*2* 
+
+bpij.process.ByteProcessor2'getChannel(ILij/process/ByteProcessor;)˜
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java³# ³(F
+%7ij.process.ImageProcessor"Pij.plugin.Binner#shrink(Lij/process/ImageProcessor;I)Lij/process/ImageProcessor;*
+ij.plugin.Binner* 
+
+%6ij.process.ByteProcessor*
+""«¨
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java³ ³(G
+
+%8void"Bij.process.ColorProcessor#setChannel(ILij/process/ByteProcessor;)V*"
+ 
+cp2ij.process.ColorProcessor*2*!
+
+%7ij.process.ImageProcessor2'setChannel(ILij/process/ByteProcessor;)"†
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.java´ ´("
+ 
+cp2ij.process.ColorProcessor:
+cpij.process.ColorProcessor: 
+cp2ij.process.ColorProcessor:
+""B
+ij.plugin.Binner

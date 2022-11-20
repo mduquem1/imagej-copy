@@ -1,0 +1,39 @@
+
+Nij.gui.PlotDialog#lastCheckboxAdded(Lij/gui/GenericDialog;)Ljava/awt/Checkbox;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotDialog.java¢
+ ¢("1*å
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotDialog.java£ £(åâ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotDialog.java£ £((
+%0java.util.Vector"6ij.gui.GenericDialog#getCheckboxes()Ljava/util/Vector;*
+
+gdij.gui.GenericDialog2getCheckboxes()¦
+£
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotDialog.java£ £()
+
+checkboxesjava.util.Vector"__id*
+
+%0java.util.Vectorµ²
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotDialog.java¤# ¤(4	
+%1int"java.util.Vector#size()I* 
+
+
+checkboxesjava.util.Vector2size()´
+±
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotDialog.java¤ ¤(9
+%2java.lang.Object"
+__arrayGet* 
+
+
+checkboxesjava.util.Vector*
+"""}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotDialog.java¤ ¤(;
+
+%2java.lang.Object:
+gdij.gui.GenericDialogB
+ij.gui.PlotDialog

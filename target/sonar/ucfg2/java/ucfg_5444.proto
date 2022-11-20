@@ -1,0 +1,36 @@
+
+?ij.process.PolygonFiller#getMask(II)Lij/process/ImageProcessor;h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/PolygonFiller.java¤ ¤("1*î
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/PolygonFiller.java¥) ¥(.§¤
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/PolygonFiller.java¥ ¥((
+%0ij.process.ByteProcessor"ij.process.ByteProcessorË
+È
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/PolygonFiller.java¥ ¥(7
+%1"$ij.process.ByteProcessor#<init>(II)V* 
+
+%0ij.process.ByteProcessor*
+""*
+""·
+´
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/PolygonFiller.java¥ ¥(8 
+maskij.process.ByteProcessor"__id* 
+
+%0ij.process.ByteProcessor»¸
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/PolygonFiller.java¦ ¦(
+
+%2void"Kij.process.PolygonFiller#fillByteProcessorMask(Lij/process/ByteProcessor;)V*
+ij.process.PolygonFiller*"
+ 
+maskij.process.ByteProcessor21fillByteProcessorMask(Lij/process/ByteProcessor;)"Ž
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/PolygonFiller.java§ §("
+ 
+maskij.process.ByteProcessor:
+"":
+""B
+ij.process.PolygonFiller

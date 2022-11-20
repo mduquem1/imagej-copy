@@ -1,0 +1,417 @@
+
+Pij.plugin.filter.Printer#print(Ljava/awt/Graphics;Ljava/awt/print/PageFormat;I)If
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaS S("startingBlock*Â
+35f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaT T()Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaT T()	
+%0int"__id*
+"""p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaT T(*
+""*î
+25f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaa a(Õ 
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaa a(
+
+%13int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()œÃ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javab b(
+
+%14int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()*
+23*Ø
+26f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java` `(
+Å˛
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java` `( 
+%12ij.process.ImageProcessor"Aij.process.ImageProcessor#rotateLeft()Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor2rotateLeft()∂
+≥
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java` `(
+ipij.process.ImageProcessor"__id*"
+ 
+%12ij.process.ImageProcessor*
+25*ß
+27f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java^ ^(
+ıÚ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java^ ^( 
+%11ij.process.ImageProcessor";ij.process.ImageProcessor#crop()Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor2crop()∂
+≥
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java^ ^(
+ipij.process.ImageProcessor"__id*"
+ 
+%11ij.process.ImageProcessor*
+25
+26*Ï
+28f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java] ](˜Ù
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java] ](
+%10void"/ij.process.ImageProcessor#setRoi(Lij/gui/Roi;)V*!
+
+ipij.process.ImageProcessor*
+
+roi
+ij.gui.Roi2setRoi(Lij/gui/Roi;)*
+27*–
+18f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaw w('‹
+Ÿ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaw w(@
+%25double"2ij.plugin.filter.ImageProperties#getUnitsPerCm(I)D*$""
+ ij.plugin.filter.ImageProperties*
+""*
+5*®
+29f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java\% \((Ø¨
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java\% \(1
+%9boolean"ij.gui.Roi#isArea()Z*
+
+roi
+ij.gui.Roi2isArea()*
+27
+28*¥
+
+19f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javat t(≠
+™
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javat t(
+%20ij.ImagePlus"__id*%*#
+ij.plugin.filter.Printer"
+impÍÁ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javat t()
+%21ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%20ij.ImagePlus2getCalibration()±
+Æ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javat t(*
+calij.measure.Calibration"__id*
+
+%21ij.measure.Calibration‰·
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javau0 u(=
+%22java.lang.String"2ij.measure.Calibration#getUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2	getUnit()¸
+˘
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javau u(>
+
+%23int"Bij.plugin.filter.ImageProperties#getUnitIndex(Ljava/lang/String;)I*$""
+ ij.plugin.filter.ImageProperties*
+
+%22java.lang.StringÖ
+Ç
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javav v(,
+
+%24int"__id*
+""*
+5
+18*Î
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaó	 ó(á
+Ñ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaó	 ó(
+
+%40int"__id*
+"""r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaó ó(
+""*ô
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaì ì(á
+Ñ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaì" ì(,
+
+%31int"__id*
+""íè
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaì ì(
+%32java.awt.Font"java.awt.Font›
+⁄
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaì ì(7
+%33"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%32java.awt.Font*
+
+SanSerif*
+
+
+%31int*
+""Û
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaì ì(8
+%34void"+java.awt.Graphics#setFont(Ljava/awt/Font;)V*
+
+gjava.awt.Graphics*
+
+%32java.awt.Font2setFont(Ljava/awt/Font;)í
+è
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaî î(
+%35java.awt.Color"__id*
+""¯ı
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaî î(
+%36void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+%35java.awt.Color2setColor(Ljava/awt/Color;)Ø
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaï ï(
+%37ij.ImagePlus"__id*%*#
+ij.plugin.filter.Printer"
+imp‘—
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaï ï(
+%38java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%37ij.ImagePlus2
+getTitle()ñì
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaï ï(8
+%39void"3java.awt.Graphics#drawString(Ljava/lang/String;II)V*
+
+gjava.awt.Graphics*
+
+%38java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+1*≥
+startingBlockf
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaS S(;∞
+≠
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaR R(
+
+%41"
+__annotate*
+java.lang.Override*
+
+gjava.awt.Graphicsö
+ó
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaS S(
+gjava.awt.Graphics"__annotation*
+
+%41π
+∂
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaR R(
+
+%42"
+__annotate*
+java.lang.Override*!
+
+pfjava.awt.print.PageFormat£
+†
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaS) S(+
+pfjava.awt.print.PageFormat"__annotation*
+
+%42*
+35
+34*ﬂ
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaë ë(Á‰
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaë ë(6
+%30void"!java.awt.Graphics#drawRect(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawRect(IIII)*
+2
+1*Ñ
+5h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaå å(âÜ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaå è(
+%29boolean"Tjava.awt.Graphics#drawImage(Ljava/awt/Image;IIIIIIIILjava/awt/image/ImageObserver;)Z*
+
+gjava.awt.Graphics*
+
+imgjava.awt.Image*
+""*
+""*
+""*
+""*2 *2 *
+""*
+""*
+""2AdrawImage(Ljava/awt/Image;IIIIIIIILjava/awt/image/ImageObserver;)*	
+2
+4
+1*à
+9h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaÖ) Ö(/ì
+ê
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaÖ) Ö(/
+%26double"__id*
+
+%28double*
+5*ù
+31f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java[ [(ÏÈ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java[ [()
+%8ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+imp2ij.ImagePlus2getProcessor()µ
+≤
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java[ [(*
+ipij.process.ImageProcessor"__id*!
+
+%8ij.process.ImageProcessor*
+27
+29*ó
+32f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaX X(∑¥
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaX X(
+
+%6void"ij.ImagePlus#deleteRoi()V*
+
+imp2ij.ImagePlus2deleteRoi()»≈
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaY
+ Y(
+%7ij.ImagePlus"$ij.ImagePlus#flatten()Lij/ImagePlus;*
+
+imp2ij.ImagePlus2	flatten()ù
+ö
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaY Y(
+imp2ij.ImagePlus"__id*
+
+%7ij.ImagePlus*
+31*â
+10h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaÖ" Ö((ì
+ê
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaÖ" Ö((
+%26double"__id*
+
+%27double*
+5*Ω
+33f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaW" W(&ƒ¡
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaW" W(7
+%5boolean"ij.ImagePlus#getHideOverlay()Z*
+
+imp2ij.ImagePlus2getHideOverlay()*
+31
+32*ß	
+34f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaU U(¨
+©
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaU U(
+%1ij.ImagePlus"__id*%*#
+ij.plugin.filter.Printer"
+imp¿Ω
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaU U(
+%2
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%1ij.ImagePlus2getRoi()ò
+ï
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaU U(
+roi
+ij.gui.Roi"__id*
+
+%2
+ij.gui.Roi¨
+©
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaV V(
+%3ij.ImagePlus"__id*%*#
+ij.plugin.filter.Printer"
+impù
+ö
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaV V(
+imp2ij.ImagePlus"__id*
+
+%3ij.ImagePlus“œ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javaW W(
+%4ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+imp2ij.ImagePlus2getOverlay()*
+31
+33*ñ
+23f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javae e(⁄◊
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javah h(%
+%15double"*java.awt.print.PageFormat#getImageableX()D*!
+
+pfjava.awt.print.PageFormat2getImageableX()⁄◊
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javai i(%
+%16double"*java.awt.print.PageFormat#getImageableY()D*!
+
+pfjava.awt.print.PageFormat2getImageableY()ÌÍ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javal l(
+%17java.awt.Image"7ij.process.ImageProcessor#createImage()Ljava/awt/Image;*!
+
+ipij.process.ImageProcessor2createImage()°
+û
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javal l(
+imgjava.awt.Image"__id*
+
+%17java.awt.Image‚ﬂ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javam m(+
+%18double".java.awt.print.PageFormat#getImageableWidth()D*!
+
+pfjava.awt.print.PageFormat2getImageableWidth()‰·
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.javan n(-
+%19double"/java.awt.print.PageFormat#getImageableHeight()D*!
+
+pfjava.awt.print.PageFormat2getImageableHeight()*
+5
+19
+9
+10:
+gjava.awt.Graphics:
+pfjava.awt.print.PageFormat:
+""B
+ij.plugin.filter.Printer

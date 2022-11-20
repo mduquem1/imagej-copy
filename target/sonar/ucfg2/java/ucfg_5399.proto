@@ -1,0 +1,77 @@
+
+(ij.plugin.SimpleCommands#measureStack()Vh
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaã ã("4*Ú
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaë ë(˝
+˙
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaë ë(/
+%7java.lang.String"Jij.IJ#runMacroFile(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+ij.jar:MeasureStack*
+""*
+1*ü
+3h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaé é(”–
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaé' é(5
+%2java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()¬
+ø
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaé é(5
+%3java.lang.String"__concat*
+Image is locked: \"*
+
+%2java.lang.String±
+Æ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaé é(:
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+\"≈
+¬
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaé é(;
+
+%5void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%4java.lang.Stringì
+ê
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaè è(
+
+%6void"ij.IJ#beep()V*	"
+ij.IJ*
+1*Å
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaå å(¨
+©
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaå å(
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJû
+õ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaå å( 
+impij.ImagePlus"__id*
+
+%0ij.ImagePlusπ∂
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaç ç(
+%1boolean"ij.ImagePlus#isLocked()Z*
+
+impij.ImagePlus2
+isLocked()*
+2
+3*·
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaí í(	"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SimpleCommands.javaí í(	
+""B
+ij.plugin.SimpleCommands

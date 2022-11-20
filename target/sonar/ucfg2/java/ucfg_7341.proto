@@ -1,0 +1,124 @@
+
+Iij.plugin.GroupedZProjector#groupZProject(Lij/ImagePlus;II)Lij/ImagePlus;i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java" "("8"9*–
+7i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java% %(√¿
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java% %(!
+%1int[]"ij.ImagePlus#getDimensions()[I*
+
+impij.ImagePlus2getDimensions()æª
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java& &(-	
+%2int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()›⁄
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java' '(5
+
+%3void" ij.ImagePlus#setDimensions(III)V*
+
+impij.ImagePlus*2*
+""*
+""2setDimensions(III)†ù
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java( (( 
+%4ij.plugin.ZProjector"ij.plugin.ZProjector◊
+‘
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java( ((%
+%5",ij.plugin.ZProjector#<init>(Lij/ImagePlus;)V*
+
+%4ij.plugin.ZProjector*
+
+impij.ImagePlusÆ
+´
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java( ((&
+zpij.plugin.ZProjector"__id*
+
+%4ij.plugin.ZProjector“œ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java) )(
+
+%6void""ij.plugin.ZProjector#setMethod(I)V*
+
+zpij.plugin.ZProjector*
+""2setMethod(I)ÿ’
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java* *(
+
+%7void"&ij.plugin.ZProjector#setStartSlice(I)V*
+
+zpij.plugin.ZProjector*22setStartSlice(I)ÿ’
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java+ +(
+
+%8void"%ij.plugin.ZProjector#setStopSlice(I)V*
+
+zpij.plugin.ZProjector*
+""2setStopSlice(I)ÍÁ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java, ,(!
+
+%9void"/ij.plugin.ZProjector#doHyperStackProjection(Z)V*
+
+zpij.plugin.ZProjector*22doHyperStackProjection(Z)‡›
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java- -(+
+%10void" ij.ImagePlus#setDimensions(III)V*
+
+impij.ImagePlus*
+""*
+""*
+""2setDimensions(III)Ê„
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java/ /(1
+%11ij.ImagePlus"2ij.plugin.ZProjector#getProjection()Lij/ImagePlus;*
+
+zpij.plugin.ZProjector2getProjection()≠
+™
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java/ /(2 
+zProjectorOutputij.ImagePlus"__id*
+
+%11ij.ImagePlus—Œ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java0 0(6
+%12int[]"ij.ImagePlus#getDimensions()[I*"
+ 
+zProjectorOutputij.ImagePlus2getDimensions()*
+1*„
+8i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java$
+ $("s
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java$ $(
+""*è
+9i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java# #(ñ
+ì
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java# #(,
+%0java.lang.String[]"__id*
+""*
+7
+8*
+1i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java8 8(ÌÍ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java8 8(P
+%13void" ij.ImagePlus#setDimensions(III)V*"
+ 
+zProjectorOutputij.ImagePlus*
+""*
+""*
+""2setDimensions(III)"è
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GroupedZProjector.java9 9("
+ 
+zProjectorOutputij.ImagePlus:
+impij.ImagePlus:
+"":
+""B
+ij.plugin.GroupedZProjector

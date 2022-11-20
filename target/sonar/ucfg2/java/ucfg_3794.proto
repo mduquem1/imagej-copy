@@ -1,0 +1,57 @@
+
+Cij.plugin.Colors#colorToString2(Ljava/awt/Color;)Ljava/lang/String;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.javaÿ ÿ($"3"4*™
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java‹	 ‹(Ò
+Ó
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java‹ ‹( 
+%1java.lang.String"Aij.plugin.Colors#getHexString(Ljava/awt/Color;)Ljava/lang/String;*"
+ij.plugin.Colors*
+
+colorjava.awt.Color®
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java‹	 ‹( 
+%2java.lang.String"__concat*
+#*
+
+%1java.lang.Stringû
+õ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java‹ ‹( 
+strjava.lang.String"__id*
+
+%2java.lang.String*
+1*£
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java⁄ ⁄(í
+è
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java⁄ ⁄(.
+%0java.lang.String"Tij.plugin.Colors#getColorName(Ljava/awt/Color;Ljava/lang/String;Z)Ljava/lang/String;*"
+ij.plugin.Colors*
+
+colorjava.awt.Color*
+""*2û
+õ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java⁄ ⁄(/
+strjava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*”
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.javaŸ Ÿ(""l
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.javaŸ Ÿ(#
+None*‰
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java›	 ›("}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Colors.java› ›(
+
+strjava.lang.String:
+colorjava.awt.ColorB"
+ij.plugin.Colors

@@ -1,0 +1,266 @@
+
+Hij.plugin.frame.ThresholdAdjuster#keyPressed(Ljava/awt/event/KeyEvent;)Vq
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaƒ ƒ($"12*Û
+2q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÿ	 ÿ("{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÿ	 ÿ(
+""*‡
+
+3q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java’ ’(Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java’ ’(
+%28java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	maxSliderÕ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java’ ’( 
+%29java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	maxSliderÀ»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java’ ’(+
+
+%30int"java.awt.Scrollbar#getValue()I*
+
+%29java.awt.Scrollbar2
+getValue()÷”
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java’ ’(0
+%31void"java.awt.Scrollbar#setValue(I)V*
+
+%28java.awt.Scrollbar*
+""2setValue(I)Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java÷ ÷(
+%32java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	maxSliderÀ»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java÷ ÷(#
+
+%33int"java.awt.Scrollbar#getValue()I*
+
+%32java.awt.Scrollbar2
+getValue()*
+1*‡
+
+4q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“ “(Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“ “(
+%22java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	minSliderÕ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“ “( 
+%23java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	minSliderÀ»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“ “(+
+
+%24int"java.awt.Scrollbar#getValue()I*
+
+%23java.awt.Scrollbar2
+getValue()÷”
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“ “(0
+%25void"java.awt.Scrollbar#setValue(I)V*
+
+%22java.awt.Scrollbar*
+""2setValue(I)Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java” ”(
+%26java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	minSliderÀ»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java” ”(#
+
+%27int"java.awt.Scrollbar#getValue()I*
+
+%26java.awt.Scrollbar2
+getValue()*
+1*¡
+5q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java— —(ÒÓ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java— —(
+%20java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.event.KeyEvent2getSource()Ã
+…
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java— —(
+%21java.awt.TextField"__id*3*1#
+!ij.plugin.frame.ThresholdAdjuster"
+
+minLabel*
+3
+4*Î
+6q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java– –(◊‘
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java– –(
+
+%18int"%java.awt.event.KeyEvent#getKeyCode()I*
+
+ejava.awt.event.KeyEvent2getKeyCode()ê
+ç
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java– –(,
+
+%19int"__id*
+""*
+2
+5*‡
+
+7q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÕ Õ(Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÕ Õ(
+%12java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	maxSliderÕ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÕ Õ( 
+%13java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	maxSliderÀ»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÕ Õ(+
+
+%14int"java.awt.Scrollbar#getValue()I*
+
+%13java.awt.Scrollbar2
+getValue()÷”
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÕ Õ(0
+%15void"java.awt.Scrollbar#setValue(I)V*
+
+%12java.awt.Scrollbar*
+""2setValue(I)Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŒ Œ(
+%16java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	maxSliderÀ»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŒ Œ(#
+
+%17int"java.awt.Scrollbar#getValue()I*
+
+%16java.awt.Scrollbar2
+getValue()*
+1*⁄
+
+8q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java   (Ã
+…
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java   (
+%6java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	minSliderÃ
+…
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java   ( 
+%7java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	minSlider…∆
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java   (+	
+%8int"java.awt.Scrollbar#getValue()I*
+
+%7java.awt.Scrollbar2
+getValue()‘—
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java   (0
+
+%9void"java.awt.Scrollbar#setValue(I)V*
+
+%6java.awt.Scrollbar*
+""2setValue(I)Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÀ À(
+%10java.awt.Scrollbar"__id*4*2#
+!ij.plugin.frame.ThresholdAdjuster"
+	minSliderÀ»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÀ À(#
+
+%11int"java.awt.Scrollbar#getValue()I*
+
+%10java.awt.Scrollbar2
+getValue()*
+1*ø
+9q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java… …(Ì
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java… …(
+%4java.lang.Object"3java.util.EventObject#getSource()Ljava/lang/Object;*
+
+ejava.awt.event.KeyEvent2getSource()À
+»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java… …(
+%5java.awt.TextField"__id*3*1#
+!ij.plugin.frame.ThresholdAdjuster"
+
+minLabel*
+7
+8*Í
+10q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java» »(÷”
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java» »(	
+%2int"%java.awt.event.KeyEvent#getKeyCode()I*
+
+ejava.awt.event.KeyEvent2getKeyCode()è
+å
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java» »(.	
+%3int"__id*
+""*
+6
+9*ê
+0 "à
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java⁄ ⁄(
+implicit return*Î
+12q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java≈ ≈(÷”
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java≈ ≈(	
+%0int"%java.awt.event.KeyEvent#getKeyCode()I*
+
+ejava.awt.event.KeyEvent2getKeyCode()è
+å
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java≈ ≈()	
+%1int"__id*
+""*
+10
+1*Œ
+1q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŸ Ÿ(–Õ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŸ Ÿ(
+
+%34void"java.lang.Object#notify()V*%#
+!ij.plugin.frame.ThresholdAdjuster2notify()*
+0:
+ejava.awt.event.KeyEventB%#
+!ij.plugin.frame.ThresholdAdjuster

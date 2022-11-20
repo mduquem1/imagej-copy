@@ -1,0 +1,868 @@
+
+Xij.plugin.frame.ThresholdPlot#setHistogram(Lij/ImagePlus;ZZ)Lij/process/ImageStatistics;q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java™ ™("61"62"64*‚
+46q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaø ø(Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaø ø(!
+%27ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+statsÕ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java¿ ¿(!
+%28ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+statsıÚ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java¡ ¡('
+%29void"+ij.process.ImageProcessor#setMinAndMax(DD)V*!
+
+ipij.process.ImageProcessor*
+""*
+""2setMinAndMax(DD) «
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java¬ ¬(
+%30void"ij.ImagePlus#updateAndDraw()V*
+
+impij.ImagePlus2updateAndDraw()*
+43*⁄
+24q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java⁄ ⁄(Çˇ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java⁄ ⁄(
+%70void"/ij.process.ImageProcessor#setRoi(Lij/gui/Roi;)V*!
+
+ipij.process.ImageProcessor*
+
+roi
+ij.gui.Roi2setRoi(Lij/gui/Roi;)Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java€ €(!
+%71ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+stats*
+20
+21
+23*ù
+47q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaæ æ(Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaæ æ(!
+%25ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+statsÕ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaæ æ(!
+%26ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+stats*
+46*ó
+25q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŸ( Ÿ(,ó
+î
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŸ" Ÿ(,
+roi
+ij.gui.Roi"__id*
+""*
+24*Á
+48q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaΩ Ω(ˇ¸
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaΩ Ω(!
+%23ij.measure.Calibration":ij.ImagePlus#getLocalCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getLocalCalibration()·ﬁ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaΩ Ω(1
+%24boolean"'ij.measure.Calibration#isSigned16Bit()Z*
+
+%23ij.measure.Calibration2isSigned16Bit()*
+46
+47*ø
+26q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŸ Ÿ(ª∏
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŸ Ÿ( 
+%69boolean"ij.gui.Roi#isArea()Z*
+
+roi
+ij.gui.Roi2isArea()*
+24
+25*¯
+27q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÿ ÿ(Õ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÿ ÿ(
+%68
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()§
+°
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÿ ÿ(
+roi
+ij.gui.Roi"__id*
+
+%68
+ij.gui.Roi*
+24
+26*–	
+28q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java’ ’(
+öó
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java’ ’( 
+%65ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToByte(Z)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*22convertToByte(Z)¡
+æ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java’ ’(
+ipij.process.ImageProcessor"__id*"
+ 
+%65ij.process.ImageProcessor™ß
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java÷ ÷(-%
+%66java.awt.image.IndexColorModel"Pij.process.ImageProcessor#getDefaultColorModel()Ljava/awt/image/IndexColorModel;*!
+
+ipij.process.ImageProcessor2getDefaultColorModel()¬ø
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java÷ ÷(.
+%67void"Eij.process.ImageProcessor#setColorModel(Ljava/awt/image/ColorModel;)V*!
+
+ipij.process.ImageProcessor*'
+%
+%66java.awt.image.IndexColorModel2*setColorModel(Ljava/awt/image/ColorModel;)*
+27*û
+29q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“ “(D‚ﬂ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java”  ”(3
+%57double"$ij.measure.Calibration#getCValue(D)D*
+
+calij.measure.Calibration*
+""2getCValue(D)‘
+—
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java” ”(<
+%58java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+
+%57double*
+""æ
+ª
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java” ”(<
+%59java.lang.String"__concat*
+min=*
+
+%58java.lang.String¿
+Ω
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java” ”(E
+%60java.lang.String"__concat*
+
+%59java.lang.String*
+
+, max=‚ﬂ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java”M ”(`
+%61double"$ij.measure.Calibration#getCValue(D)D*
+
+calij.measure.Calibration*
+""2getCValue(D)‘
+—
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java”F ”(i
+%62java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+
+%61double*
+""œ
+Ã
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java” ”(i
+%63java.lang.String"__concat*
+
+%60java.lang.String*
+
+%62java.lang.String–
+Õ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java” ”(j
+%64void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%63java.lang.String*
+28*Å
+51q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaπ  π(#µ≤
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaπ π(!
+%21ij.process.StackStatistics"ij.process.StackStatisticsÌ
+Í
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaπ π($
+%22"2ij.process.StackStatistics#<init>(Lij/ImagePlus;)V*#
+!
+%21ij.process.StackStatistics*
+
+impij.ImagePlusÕ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaπ π($*
+ij.plugin.frame.ThresholdPlot"
+stats"__id*#
+!
+%21ij.process.StackStatistics*
+48
+27
+43
+44*ô
+52q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∂ ∂(&√¿
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∂7 ∂(G
+
+%15int"ij.ImagePlus#getChannel()I*
+
+impij.ImagePlus2getChannel()ñ
+ì
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∂ ∂(H
+%16ij.ImageStack"Dij.plugin.ChannelSplitter#getChannel(Lij/ImagePlus;I)Lij/ImageStack;*"
+ij.plugin.ChannelSplitter*
+
+impij.ImagePlus*
+
+
+%15int¨
+©
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∂ ∂(I
+stackij.ImageStack"__id*
+
+%16ij.ImageStackôñ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∑$ ∑(-
+%17ij.ImagePlus"ij.ImagePlusÎ
+Ë
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∑  ∑(8
+%18"7ij.ImagePlus#<init>(Ljava/lang/String;Lij/ImageStack;)V*
+
+%17ij.ImagePlus* *
+
+stackij.ImageStackµ≤
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∑ ∑(!
+%19ij.process.StackStatistics"ij.process.StackStatisticsÌ
+Í
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∑ ∑(9
+%20"2ij.process.StackStatistics#<init>(Lij/ImagePlus;)V*#
+!
+%19ij.process.StackStatistics*
+
+%17ij.ImagePlusÕ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∑ ∑(9*
+ij.plugin.frame.ThresholdPlot"
+stats"__id*#
+!
+%19ij.process.StackStatistics*
+48
+27
+43
+44*ˆ
+30q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“8 “(:◊‘
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“8 “(C
+%55double"#ij.process.ImageProcessor#getMax()D*!
+
+ipij.process.ImageProcessor2getMax()ú
+ô
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“8 “(C
+%53double"__id*
+
+%55double*
+29*œ
+53q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaµ µ(
+À»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaµ µ(
+%14boolean"ij.ImagePlus#isHyperStack()Z*
+
+impij.ImagePlus2isHyperStack()*
+51
+52*‰
+31q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“ “( ◊‘
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“+ “(6
+%56double"#ij.process.ImageProcessor#getMax()D*!
+
+ipij.process.ImageProcessor2getMax()ÎË
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“ “(7
+%54double"$ij.measure.Calibration#getCValue(D)D*
+
+calij.measure.Calibration*
+
+%56double2getCValue(D)ú
+ô
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java“ “(7
+%53double"__id*
+
+%54double*
+29*◊	
+54q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∞
+ ∞(˜Ù
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java± ±(( 
+%12ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()¡
+æ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java± ±()
+ipij.process.ImageProcessor"__id*"
+ 
+%12ij.process.ImageProcessoríè
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java≤ ≤($ 
+%13java.awt.image.ColorModel"Dij.process.ImageProcessor#getColorModel()Ljava/awt/image/ColorModel;*!
+
+ipij.process.ImageProcessor2getColorModel()¡
+æ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java≤ ≤(%
+cmjava.awt.image.ColorModel"__id*"
+ 
+%13java.awt.image.ColorModel∞
+≠
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java≥ ≥(*
+ij.plugin.frame.ThresholdPlot"
+stats"__id*
+""*
+48
+27
+53
+43
+44*Ù
+10q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÍ
+ Í("{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÍ Í(
+""*‚
+55q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaØ
+ Ø(Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaØ
+ Ø(!
+%11ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+stats"ò
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaØ Ø(#
+!
+%11ij.process.ImageStatistics*∞
+11q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÁ Á(≠
+™
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÁ Á('
+ij.plugin.frame.ThresholdPlot"
+os"__id*
+""*
+9
+10*˙
+33q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java—8 —(:◊‘
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java—8 —(C
+%51double"#ij.process.ImageProcessor#getMin()D*!
+
+ipij.process.ImageProcessor2getMin()ú
+ô
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java—8 —(C
+%49double"__id*
+
+%51double*
+30
+31*Ë
+34q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java— —( ◊‘
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java—+ —(6
+%52double"#ij.process.ImageProcessor#getMin()D*!
+
+ipij.process.ImageProcessor2getMin()ÎË
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java— —(7
+%50double"$ij.measure.Calibration#getCValue(D)D*
+
+calij.measure.Calibration*
+
+%52double2getCValue(D)ú
+ô
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java— —(7
+%49double"__id*
+
+%50double*
+30
+31*ö
+36q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java–: –(;ñ
+ì
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java–: –(;
+
+%46int"__id*
+
+
+%48int*
+33
+34*Ω
+58q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java≠$ ≠('π∂
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java≠$ ≠(/
+
+%10int"ij.ImagePlus#getID()I*
+
+impij.ImagePlus2getID()*
+54
+55*Õ
+14q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java‰	 ‰(Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java‰	 ‰(!
+%80ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+stats*
+11*ö
+37q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java–6 –(7ñ
+ì
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java–6 –(7
+
+%46int"__id*
+
+
+%47int*
+33
+34*–
+59q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java≠ ≠(Ã
+…
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java≠ ≠( 
+%9ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+stats*
+58
+54*Â
+38q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java–  –(#·ﬁ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java–  –(3
+%45boolean"'ij.measure.Calibration#isSigned16Bit()Z*
+
+calij.measure.Calibration2isSigned16Bit()*
+36
+37*Õ
+17q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java‚& ‚('Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java‚+ ‚(0!
+%79ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+stats*
+19*’
+19q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java· ·(Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java· ·(!
+%78ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+stats*
+14
+17
+19*ù
+1q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÄ	 Ä	(π∂
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÄ	 Ä	(
+
+%90int"ij.ImagePlus#getID()I*
+
+impij.ImagePlus2getID()Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÇ		 Ç	(!
+%91ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+stats"ò
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÇ	 Ç	(#
+!
+%91ij.process.ImageStatistics*¸
+3q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java˛ ˛(
+≈
+¬
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java˛ ˛(
+
+%86java.awt.Color[]"__id*.*,
+ij.plugin.frame.ThresholdPlot"	
+hColorsùö
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java˛ ˛(
+%87java.awt.Color"java.awt.ColorÀ
+»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java˛ ˛(7
+%88"java.awt.Color#<init>(III)V*
+
+%87java.awt.Color*
+""*
+""*
+""≈
+¬
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java˛ ˛(7
+%89"
+__arraySet*
+
+%86java.awt.Color[]*
+""*
+
+%87java.awt.Color*
+3
+1*î
+7q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÔ Ô(ë
+é
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÔ Ô(
+rbyte[]"__id*
+""ë
+é
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java (
+gbyte[]"__id*
+""ë
+é
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÒ Ò(
+bbyte[]"__id*
+""ıÚ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÚ Ú(
+%82void"+java.awt.image.IndexColorModel#getReds([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+rbyte[]2getReds([B)˘ˆ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÛ Û(
+%83void"-java.awt.image.IndexColorModel#getGreens([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+gbyte[]2getGreens([B)˜Ù
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÙ Ù(
+%84void",java.awt.image.IndexColorModel#getBlues([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+bbyte[]2getBlues([B)°û
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaı ı(
+%85java.awt.Color[]"java.awt.Color[]≈
+¬
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaı ı(,
+ij.plugin.frame.ThresholdPlot"	
+hColors"__id*
+
+%85java.awt.Color[]*
+3
+1*Û
+8q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÓ
+ Ó("{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÓ Ó(
+""*±
+9q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÎ) Î(+∆
+√
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÎ Î(,%
+icmjava.awt.image.IndexColorModel"__id*!
+
+cmjava.awt.image.ColorModelÁ‰
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÏ Ï( 
+
+%81int",java.awt.image.IndexColorModel#getMapSize()I*'
+%
+icmjava.awt.image.IndexColorModel2getMapSize()*
+7
+8*û
+61q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java¨? ¨(Bö
+ó
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java¨? ¨(B
+%4double"__id*
+
+%6double*
+59
+54*ù
+40q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÕ Õ(Ã
+…
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÕ Õ(1
+
+%35int")ij.plugin.filter.Analyzer#getPrecision()I*"
+ij.plugin.filter.Analyzer√
+¿
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÕ Õ(5
+
+%36int"java.lang.Math#max(II)I*"
+java.lang.Math*
+
+
+%35int*2◊‘
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŒ  Œ(+
+%37double"#ij.process.ImageProcessor#getMin()D*!
+
+ipij.process.ImageProcessor2getMin()‘
+—
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŒ Œ(3
+%38java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+
+%37double*
+""æ
+ª
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŒ Œ(3
+%39java.lang.String"__concat*
+min=*
+
+%38java.lang.String¿
+Ω
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŒ Œ(<
+%40java.lang.String"__concat*
+
+%39java.lang.String*
+
+, max=◊‘
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŒD Œ(O
+%41double"#ij.process.ImageProcessor#getMax()D*!
+
+ipij.process.ImageProcessor2getMax()‘
+—
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŒ= Œ(W
+%42java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+
+%41double*
+""œ
+Ã
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŒ Œ(W
+%43java.lang.String"__concat*
+
+%40java.lang.String*
+
+%42java.lang.String–
+Õ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaŒ Œ(X
+%44void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%43java.lang.String*
+28*£
+62q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java¨ ¨(ˆÛ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java¨ ¨(.
+%7ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()âÜ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java¨ ¨(9 
+%8ij.process.ImageStatistics"@ij.process.ImageProcessor#getStats()Lij/process/ImageStatistics;*!
+
+%7ij.process.ImageProcessor2
+getStats()ö
+ó
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java¨ ¨(>
+%4double"__id*
+
+%5double*
+59
+54*ç
+64q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java´ ´(∆
+√
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java´ ´(I
+%0java.lang.String"__concat*$"
+ ThresholdAdjuster:setHistogram: *
+""π
+∂
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java´ ´(M
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+ ∫
+∑
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java´ ´(Z
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+""«
+ƒ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java´ ´([
+
+%3void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%2java.lang.String*
+61
+62*ù
+20q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaﬁ ﬁ(Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaﬂ ﬂ(!
+%76ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+statsÕ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java‡  ‡(%!
+%77ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+stats*
+19*ö
+43q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java   (ıÚ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java   ()
+%33ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()º
+π
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java   (*
+calij.measure.Calibration"__id*
+
+%33ij.measure.Calibration€ÿ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÀ À((
+%34boolean"$ij.measure.Calibration#calibrated()Z*
+
+calij.measure.Calibration2calibrated()*
+36
+38
+40*È
+21q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java› ›(Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java›' ›(,!
+%73ij.process.ImageStatistics"__id*,**
+ij.plugin.frame.ThresholdPlot"
+statsÕ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java› ›(,
+%74java.lang.String"__concat*
+	  stats: *#
+!
+%73ij.process.ImageStatistics…
+∆
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java› ›(-
+%75void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%74java.lang.String*
+20*≤
+44q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∆ ∆(Â‚
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java∆ ∆(
+%31void"+ij.process.ImageProcessor#resetMinAndMax()V*!
+
+ipij.process.ImageProcessor2resetMinAndMax() «
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java« «(
+%32void"ij.ImagePlus#updateAndDraw()V*
+
+impij.ImagePlus2updateAndDraw()*
+43*ﬁ
+23q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java‹ ‹(äá
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java‹ ‹(!
+%72ij.process.ImageStatistics"@ij.process.ImageProcessor#getStats()Lij/process/ImageStatistics;*!
+
+ipij.process.ImageProcessor2
+getStats()Õ
+ 
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java‹ ‹(*
+ij.plugin.frame.ThresholdPlot"
+stats"__id*#
+!
+%72ij.process.ImageStatistics*
+20
+21:
+impij.ImagePlus:
+"":
+""B!
+ij.plugin.frame.ThresholdPlot

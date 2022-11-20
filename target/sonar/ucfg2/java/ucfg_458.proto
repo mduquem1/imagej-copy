@@ -1,0 +1,199 @@
+
+9ij.process.ImageProcessor#getBestIndex(Ljava/awt/Color;)Ii
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÚ Ú("20*û
+15i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java˛ ˛(ﬁ€
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java˛ ˛( 	
+%9int",java.awt.image.IndexColorModel#getMapSize()I*'
+%
+icmjava.awt.image.IndexColorModel2getMapSize()å
+â
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaˇ ˇ("
+rLUTbyte[]"__id*
+""å
+â
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÄ Ä(%
+gLUTbyte[]"__id*
+""å
+â
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÅ Å("
+bLUTbyte[]"__id*
+""Ì
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÇ Ç(
+%10void"+java.awt.image.IndexColorModel#getReds([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+rLUTbyte[]2getReds([B)ÙÒ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÉ É(
+%11void"-java.awt.image.IndexColorModel#getGreens([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+gLUTbyte[]2getGreens([B)ÚÔ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÑ Ñ(
+%12void",java.awt.image.IndexColorModel#getBlues([B)V*'
+%
+icmjava.awt.image.IndexColorModel*
+
+bLUTbyte[]2getBlues([B)à
+Ö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÖ Ö(%
+
+%13int"__id*
+""µ≤
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaà à(
+
+%14int"java.awt.Color#getRed()I*
+
+cjava.awt.Color2getRed()π∂
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaâ â(
+
+%15int"java.awt.Color#getGreen()I*
+
+cjava.awt.Color2
+getGreen()∑¥
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaä ä(
+
+%16int"java.awt.Color#getBlue()I*
+
+cjava.awt.Color2	getBlue()*
+10
+1*ı
+16i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java˝ ˝(º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java˝ ˝(
+%8java.awt.image.ColorModel"__id*%*#
+ij.process.ImageProcessor"
+cmæ
+ª
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java˝ ˝(%
+icmjava.awt.image.IndexColorModel"__id*!
+
+%8java.awt.image.ColorModel*
+15*É
+17i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java˜ ˜(#‹Ÿ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java˜ ˜(%
+%3double",ij.process.ImageProcessor#getMinThreshold()D*
+ij.process.ImageProcessor2getMinThreshold()‹Ÿ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¯ ¯(%
+%4double",ij.process.ImageProcessor#getMaxThreshold()D*
+ij.process.ImageProcessor2getMaxThreshold()ÿ’
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java˘ ˘(
+
+%5void"+ij.process.ImageProcessor#resetThreshold()V*
+ij.process.ImageProcessor2resetThreshold()º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java˙ ˙(
+%6java.awt.image.ColorModel"__id*%*#
+ij.process.ImageProcessor"
+cmæ
+ª
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java˙ ˙(%
+icmjava.awt.image.IndexColorModel"__id*!
+
+%6java.awt.image.ColorModelÚÔ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java˚ ˚(0
+
+%7void",ij.process.ImageProcessor#setThreshold(DDI)V*
+ij.process.ImageProcessor*
+""*
+""*
+""2setThreshold(DDI)*
+15*Ü
+18i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaˆ ˆ(ä
+á
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaˆ ˆ( 
+%2double"__id*
+""*
+16
+17*ﬁ
+19i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaı ı(Ê„
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaı ı(
+
+%1void"2ij.process.ImageProcessor#makeDefaultColorModel()V*
+ij.process.ImageProcessor2makeDefaultColorModel()*
+18*„
+9i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaå å(—
+Œ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaå å(4
+%18double[]"1ij.process.ColorProcessor#getWeightingFactors()[D*"
+ij.process.ColorProcessor±
+Æ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaç ç("
+%19long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""±
+Æ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaé é("
+%20long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""±
+Æ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaè è("
+%21long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""*
+1*ﬁ
+20i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÛ Û(£
+†
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÛ Û(%
+icmjava.awt.image.IndexColorModel"__id*
+""º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÙ Ù(
+%0java.awt.image.ColorModel"__id*%*#
+ij.process.ImageProcessor"
+cm*
+18
+19*À
+10i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaã# ã(&—
+Œ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaã( ã(9%
+%17java.awt.image.IndexColorModel"__id*4*2
+ij.process.ImageProcessor"
+defaultColorModel*
+9
+1*„
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaù ù("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaù ù(
+"":
+cjava.awt.ColorB
+ij.process.ImageProcessor

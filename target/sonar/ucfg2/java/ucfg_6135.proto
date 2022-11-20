@@ -1,0 +1,420 @@
+
+6ij.plugin.Slicer#reslice(Lij/ImagePlus;)Lij/ImagePlus;^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java_ _("39*˚
+
+35^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaf f(ÌÍ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaf f(2
+%5ij.measure.Calibration";ij.ImagePlus#getGlobalCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getGlobalCalibration()¸˘
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javag g("
+
+%6void"<ij.ImagePlus#setGlobalCalibration(Lij/measure/Calibration;)V*
+
+impij.ImagePlus*
+""2.setGlobalCalibration(Lij/measure/Calibration;)Â‚
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javah h('
+%7ij.measure.Calibration"5ij.measure.Calibration#copy()Lij/measure/Calibration;*#
+!
+origCalij.measure.Calibration2copy()´
+®
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javah h(( 
+tmpCalij.measure.Calibration"__id*
+
+%7ij.measure.Calibrationåâ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javal l(
+
+%8void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+impij.ImagePlus*"
+ 
+tmpCalij.measure.Calibration2(setCalibration(Lij/measure/Calibration;){
+y
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javan n(	
+%9int"__id*
+""*
+33*Ö
+13`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaä ä(í
+è
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaä ä(
+lij.gui.Line"__id*
+
+roi
+ij.gui.Roi*
+10
+11*Å
+36^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javab b(+·ﬁ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javac c(-
+%4ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()¨
+©
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javac c(.!
+origCalij.measure.Calibration"__id*
+
+%4ij.measure.Calibration*
+35
+33*Ù
+14`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaâ â(~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaâ â($
+
+%36int"__id*
+""*
+13
+10
+11*Ì
+37^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javab) b(*Ä
+~
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javab) b(*	
+%1int"__id*
+	
+%3int*
+36*µ
+26^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javau u(7†
+ù
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javau u(7
+statusjava.lang.String"__id*
+
+%16java.lang.String≤
+Ø
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javav v(
+%19void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+Reslice...¸˘
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaw w(B 
+%20ij.process.ImageProcessor"Zij.plugin.Slicer#getSlice(Lij/ImagePlus;DDDDLjava/lang/String;)Lij/process/ImageProcessor;*
+ij.plugin.Slicer*
+
+impij.ImagePlus*
+""*
+""*
+""*
+""*
+
+statusjava.lang.String2.getSlice(Lij/ImagePlus;DDDDLjava/lang/String;)Ø
+¨
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaw w(C 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%20ij.process.ImageProcessor‘—
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javax' x(:
+%21java.lang.String".ij.ImagePlus#getShortTitle()Ljava/lang/String;*
+
+impij.ImagePlus2getShortTitle()≤
+Ø
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javax x(:
+%22java.lang.String"__concat*
+Reslice of *
+
+%21java.lang.StringÜÉ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javax x(
+%23ij.ImagePlus"ij.ImagePlusÖ
+Ç
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javax x(@
+%24"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%23ij.ImagePlus*
+
+%22java.lang.String*"
+ 
+ip2ij.process.ImageProcessorñ
+ì
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javax x(@
+imp2ij.ImagePlus"__id*
+
+%23ij.ImagePlus*
+19
+20
+22
+23*ï
+38^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javab b(•¢
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javab b((	
+%2int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()Ä
+~
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javab b((	
+%1int"__id*
+	
+%2int*
+36*Ñ
+27^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javau2 u(6ó
+î
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javau2 u(6
+%16java.lang.String"__id*
+
+%18
+<nulltype>*
+26*«
+39^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java` `(á
+Ñ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java` `(
+imp2ij.ImagePlus"__id*
+""π∂
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaa a(
+%0
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()ê
+ç
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaa a(
+roi
+ij.gui.Roi"__id*
+
+%0
+ij.gui.Roi*
+37
+38*ä
+28^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javau/ u(1ù
+ö
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javau/ u(1
+%16java.lang.String"__id*
+
+%17java.lang.String*
+26*◊
+18`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÑ$ Ñ(+ß
+§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÑ$ Ñ(+
+%32java.lang.String"__id*!*
+ij.plugin.Slicer"	
+startAté
+ã
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÑ3 Ñ(9
+%33java.lang.String[]"__id*
+""≠
+™
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÑ3 Ñ(<
+%34java.lang.String"
+__arrayGet*
+
+%33java.lang.String[]*2ıÚ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÑ$ Ñ(=
+%35boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%32java.lang.String*
+
+%34java.lang.String2equals(Ljava/lang/Object;)*
+14
+10
+11*Ï
+29^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javau u(ƒ¡
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javau u("
+%14ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()¥±
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javau u(.
+%15boolean"ij.ImageStack#isVirtual()Z*
+
+%14ij.ImageStack2isVirtual()*
+27
+28*Ÿ
+19`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÑ Ñ(ß
+§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÑ Ñ(
+%28java.lang.String"__id*!*
+ij.plugin.Slicer"	
+startAté
+ã
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÑ Ñ(
+%29java.lang.String[]"__id*
+""´
+®
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÑ Ñ(
+%30java.lang.String"
+__arrayGet*
+
+%29java.lang.String[]*2 ıÚ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÑ Ñ( 
+%31boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%28java.lang.String*
+
+%30java.lang.String2equals(Ljava/lang/Object;)*
+14
+18
+10
+11*·
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´
+ ´("z
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´ ´(
+
+imp2ij.ImagePlus*›
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java° °(Ì
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¢ ¢(
+%40void"3ij.measure.Calibration#setUnit(Ljava/lang/String;)V*
+
+calij.measure.Calibration*	
+pixel2setUnit(Ljava/lang/String;)*
+1*ú
+30^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javas s(äá
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javas s(!
+%13ij.ImagePlus"@ij.plugin.Slicer#resliceRectOrLine(Lij/ImagePlus;)Lij/ImagePlus;*
+ij.plugin.Slicer*
+
+impij.ImagePlus2!resliceRectOrLine(Lij/ImagePlus;)ñ
+ì
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javas s(!
+imp2ij.ImagePlus"__id*
+
+%13ij.ImagePlus*
+19
+20
+22
+23*¯
+20`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÉ É(~
+|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaÉ É()
+
+%27int"__id*
+""*
+14
+19
+10
+11*Ï
+31^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javar. r(5|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javar7 r(?
+
+%12int"__id*
+""*
+29
+30*Ï
+32^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javar r(|
+z
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javar r(*
+
+%11int"__id*
+""*
+30
+31*˚
+10`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaè è(‰·
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaè è(*
+%37ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()çä
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaè è(+
+%38void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+imp2ij.ImagePlus*
+
+%37ij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)Â‚
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaê ê()
+%39ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+imp2ij.ImagePlus2getCalibration()´
+®
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaê ê(*
+calij.measure.Calibration"__id*
+
+%39ij.measure.Calibration*
+4
+1*ˇ
+22^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java} }(éã
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java} }(
+%26void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+impij.ImagePlus*#
+!
+origCalij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)*
+19
+20*”
+33^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaq q(!‚ﬂ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaq" q(6
+%10ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()*
+30
+32*“
+11`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaé é("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaé é(
+""*á
+23^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java| |(öó
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java| |(&
+%25void"<ij.ImagePlus#setGlobalCalibration(Lij/measure/Calibration;)V*
+
+impij.ImagePlus*#
+!
+origCalij.measure.Calibration2.setGlobalCalibration(Lij/measure/Calibration;)*
+22:
+impij.ImagePlusB
+ij.plugin.Slicer

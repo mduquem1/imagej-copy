@@ -1,0 +1,20 @@
+
+ ij.plugin.TreePanel#isVisible()Zf
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaÇ	 Ç("1*×
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaÈ	 È(°
+­
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaÈ	 È(
+%0javax.swing.JFrame"__id*#*!
+ij.plugin.TreePanel"
+pFrameÄÁ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaÈ	 È(
+%1boolean"java.awt.Component#isVisible()Z*
+
+%0javax.swing.JFrame2isVisible()"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaÈ È(
+""B
+ij.plugin.TreePanel

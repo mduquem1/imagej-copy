@@ -1,0 +1,31 @@
+
+ij.IJ#currentMemory()JU
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¦ ¦(!"1*£
+1U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java§ §(½
+º
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java§ §(%
+%0java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.Runtime°­
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java§ §(2
+
+%1long"java.lang.Runtime#freeMemory()J*
+
+%0java.lang.Runtime2freeMemory()½
+º
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¨ ¨($
+%2java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.Runtime²¯
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¨ ¨(2
+
+%3long" java.lang.Runtime#totalMemory()J*
+
+%2java.lang.Runtime2totalMemory()"_
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java© ©(
+""B	"
+ij.IJ

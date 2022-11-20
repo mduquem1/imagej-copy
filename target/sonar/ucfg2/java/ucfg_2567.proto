@@ -1,0 +1,75 @@
+
+ij.gui.Roi#containsPoint(DD)ZZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaù
+ ù
+("12*Å
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+
+ þ
+("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ
+(
+""*”
+12Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaú
+ ú
+(©
+¦
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû
+ û
+(&
+%0 java.awt.geom.Rectangle2D$Double"__id**
+
+ij.gui.Roi"
+bounds*
+2
+1*›
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÿ
+4 ÿ
+(8³°
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÿ
+ ÿ
+(3+
+%1%java.awt.geom.RoundRectangle2D$Double"%java.awt.geom.RoundRectangle2D$Doubleû
+ø
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÿ
+ ÿ
+(r
+%2"5java.awt.geom.RoundRectangle2D$Double#<init>(DDDDDD)V*-
++
+%1%java.awt.geom.RoundRectangle2D$Double*
+""*
+""*
+""*
+""*
+""*
+""º
+·
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÿ
+ ÿ
+(s$
+rrjava.awt.geom.RoundRectangle2D"__id*-
++
+%1%java.awt.geom.RoundRectangle2D$Doubleâß
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java€	 €(
+%3boolean",java.awt.geom.RoundRectangle2D#contains(DD)Z*&
+$
+rrjava.awt.geom.RoundRectangle2D*
+""*
+""2contains(DD)"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java€ €(
+"":
+"":
+""B
+
+ij.gui.Roi

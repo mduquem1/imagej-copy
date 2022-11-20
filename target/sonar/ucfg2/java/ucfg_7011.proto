@@ -1,0 +1,348 @@
+
+Gij.Prefs#load(Ljava/lang/Object;Ljava/applet/Applet;)Ljava/lang/String;X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¶ ¶("22*©
+14X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≥ ≥(
+…∆
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≥ ≥(
+%12java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+ijjava.lang.Object2
+getClass()Ñ
+Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≥. ≥(8
+%13java.lang.String"__id*
+""¢
+ü
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≥* ≥(8
+%14java.lang.String"__concat*
+/*
+
+%13java.lang.String•¢
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≥ ≥(9
+%15java.io.InputStream"Ljava.lang.Class#getResourceAsStream(Ljava/lang/String;)Ljava/io/InputStream;*
+
+%12java.lang.Class*
+
+%14java.lang.String2'getResourceAsStream(Ljava/lang/String;)õ
+ò
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≥ ≥(9
+fjava.io.InputStream"__id*
+
+%15java.io.InputStream*
+9
+10
+12*Æ
+16X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¨ ¨(5û
+õ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¨ ¨(5
+fjava.io.InputStream"__id*
+
+%6java.io.FileInputStreamò
+ï
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≠ ≠(
+%8java.lang.String"__id**
+
+ij.Prefs"
+	ImageJDir†
+ù
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≠ ≠("
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+/Ñ
+Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≠# ≠(-
+%10java.lang.String"__id*
+""µ
+≤
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≠ ≠(-
+%11java.lang.String"__concat*
+
+%9java.lang.String*
+
+%10java.lang.Stringû
+õ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≠ ≠(-
+
+ij.Prefs"
+propertiesPath"__id*
+
+%11java.lang.String*
+14
+9
+10
+12*Ã
+18X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¨ ¨(%ò
+ï
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¨ ¨(%
+%2java.lang.String"__id**
+
+ij.Prefs"
+	ImageJDir†
+ù
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¨ ¨()
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+/É
+Ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¨* ¨(4
+%4java.lang.String"__id*
+""≥
+∞
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¨ ¨(4
+%5java.lang.String"__concat*
+
+%3java.lang.String*
+
+%4java.lang.Stringïí
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¨ ¨(
+%6java.io.FileInputStream"java.io.FileInputStream”
+–
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¨ ¨(5
+%7"3java.io.FileInputStream#<init>(Ljava/lang/String;)V*
+
+%6java.io.FileInputStream*
+
+%5java.lang.String*
+16*Ï
+19X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java™ ™(Ö
+Ç
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java™ ™(
+fjava.io.InputStream"__id*
+""*
+18*∏
+1X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¬ ¬(ï
+í
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¬ ¬(
+%34void"ij.Prefs#loadPreferences()V*"
+
+ij.Prefsë
+é
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java√ √(
+%35void"ij.Prefs#loadOptions()V*"
+
+ij.PrefsÑ
+Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaƒ ƒ(
+%36java.lang.String"__id*
+""¡
+æ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaƒ ƒ( 
+%37double""ij.Prefs#get(Ljava/lang/String;D)D*"
+
+ij.Prefs*
+
+%36java.lang.String*
+"""b
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java≈ ≈(
+""*ö
+2X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¿ ¿(Tôñ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¿ ¿(T
+%33java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%28java.util.Properties*
+
+%30java.lang.String2getProperty(Ljava/lang/String;)ô
+ñ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¿ ¿(T
+
+ij.Prefs"
+	imagesURL"__id*
+
+%33java.lang.String*
+1*¸
+3X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¿A ¿(Só
+î
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¿A ¿(S
+%30java.lang.String"__id*
+
+%32java.lang.String*
+2*¸
+4X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¿/ ¿(@ó
+î
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¿/ ¿(@
+%30java.lang.String"__id*
+
+%31java.lang.String*
+2*è
+5X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¿ ¿(ô
+ñ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¿ ¿(
+%28java.util.Properties"__id**
+
+ij.Prefs"
+propsã
+à
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¿! ¿(.
+%29boolean"ij.IJ#isJava18()Z*	"
+ij.IJ*
+3
+4*í
+7X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaº º(≠™
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaº º(
+%25void"java.io.InputStream#close()V*
+
+fjava.io.InputStream2close()*
+5*ˆ
+8X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaª ª(	ô
+ñ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaª ª(	
+%23java.util.Properties"__id**
+
+ij.Prefs"
+propsıÚ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaª ª(
+%24void"1java.util.Properties#load(Ljava/io/InputStream;)V*
+
+%23java.util.Properties*
+
+fjava.io.InputStream2load(Ljava/io/InputStream;)*
+7*é
+9X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaπ π( ûõ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaπ π("
+%21java.io.BufferedInputStream"java.io.BufferedInputStream‚
+ﬂ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaπ π(!
+%22":java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V*$
+"
+%21java.io.BufferedInputStream*
+
+fjava.io.InputStream£
+†
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaπ π(!
+fjava.io.InputStream"__id*$
+"
+%21java.io.BufferedInputStream*
+8*‚
+21X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java® ®(›
+⁄
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java® ®(-
+%1java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+
+user.dirò
+ï
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java® ®(-
+
+ij.Prefs"
+	ImageJDir"__id*
+
+%1java.lang.String*
+19
+1*
+10X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java∏ ∏(Ñ
+Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java∏ ∏(
+%17java.lang.String"__id*
+""º
+π
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java∏ ∏(3
+%18java.lang.String"__concat*
+
+%17java.lang.String*
+ not found in ij.jar or in ô
+ñ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java∏4 ∏(=
+%19java.lang.String"__id**
+
+ij.Prefs"
+	ImageJDir∂
+≥
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java∏ ∏(=
+%20java.lang.String"__concat*
+
+%18java.lang.String*
+
+%19java.lang.String"u
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java∏ ∏(>
+
+%20java.lang.String*Ü
+22X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaß ß(ò
+ï
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaß ß(
+%0java.lang.String"__id**
+
+ij.Prefs"
+	ImageJDir*
+19
+21
+1*Ô
+12X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java∂ ∂(ó
+î
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java∂ ∂(%
+%16java.lang.String"Uij.Prefs#loadAppletProps(Ljava/io/InputStream;Ljava/applet/Applet;)Ljava/lang/String;*"
+
+ij.Prefs*
+
+fjava.io.InputStream*
+
+appletjava.applet.Applet"u
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java∂ ∂(&
+
+%16java.lang.String:
+ijjava.lang.Object:
+appletjava.applet.AppletB"
+
+ij.Prefs

@@ -1,0 +1,313 @@
+
+Eij.plugin.CalibrationBar#getColor(Ljava/lang/String;)Ljava/awt/Color;h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaâ â("17*…
+13h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaè è(ï
+í
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaè è(
+%9java.lang.String[]"__id*
+""¥
+±
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaè è(!
+%10java.lang.String"
+__arrayGet*
+
+%9java.lang.String[]*2ˇ¸
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaè è("
+%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+colorjava.lang.String*
+
+%10java.lang.String2equals(Ljava/lang/Object;)*
+11
+12*™
+14h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaé é(ë
+é
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaé é(
+%8java.awt.Color"__id*
+""†
+ù
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaé é(
+cjava.awt.Color"__id*
+
+%8java.awt.Color*
+1*∆
+15h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaç ç(ï
+í
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaç ç(
+%5java.lang.String[]"__id*
+""≥
+∞
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaç ç(!
+%6java.lang.String"
+__arrayGet*
+
+%5java.lang.String[]*2˝˙
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaç ç("
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+colorjava.lang.String*
+
+%6java.lang.String2equals(Ljava/lang/Object;)*
+13
+14*™
+16h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaå å(ë
+é
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaå å(
+%4java.awt.Color"__id*
+""†
+ù
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaå å(
+cjava.awt.Color"__id*
+
+%4java.awt.Color*
+1*˝
+17h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaä ä(ë
+é
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaä ä(
+%0java.awt.Color"__id*
+""†
+ù
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaä ä(
+cjava.awt.Color"__id*
+
+%0java.awt.Colorï
+í
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaã ã(
+%1java.lang.String[]"__id*
+""≥
+∞
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaã ã(
+%2java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*2˝˙
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaã ã(
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+colorjava.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*
+15
+16*Ò
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaõ	 õ(
+"Å
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaõ õ(
+
+cjava.awt.Color*Ö
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaö ö(ê
+ç
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaö ö(
+cjava.awt.Color"__id*
+""*
+1*»
+3h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaô ô(ñ
+ì
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaô ô(
+%29java.lang.String[]"__id*
+""µ
+≤
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaô ô(!
+%30java.lang.String"
+__arrayGet*
+
+%29java.lang.String[]*2ˇ¸
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaô ô("
+%31boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+colorjava.lang.String*
+
+%30java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*´
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaò ò(í
+è
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaò ò(
+%28java.awt.Color"__id*
+""°
+û
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaò ò(
+cjava.awt.Color"__id*
+
+%28java.awt.Color*
+1*»
+5h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaó ó(ñ
+ì
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaó ó(
+%25java.lang.String[]"__id*
+""µ
+≤
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaó ó(!
+%26java.lang.String"
+__arrayGet*
+
+%25java.lang.String[]*2ˇ¸
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaó ó("
+%27boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+colorjava.lang.String*
+
+%26java.lang.String2equals(Ljava/lang/Object;)*
+3
+4*´
+6h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javañ ñ(í
+è
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javañ ñ(
+%24java.awt.Color"__id*
+""°
+û
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javañ ñ(
+cjava.awt.Color"__id*
+
+%24java.awt.Color*
+1*»
+7h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaï ï(ñ
+ì
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaï ï(
+%21java.lang.String[]"__id*
+""µ
+≤
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaï ï(!
+%22java.lang.String"
+__arrayGet*
+
+%21java.lang.String[]*2ˇ¸
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaï ï("
+%23boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+colorjava.lang.String*
+
+%22java.lang.String2equals(Ljava/lang/Object;)*
+5
+6*´
+8h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaî î(í
+è
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaî î(
+%20java.awt.Color"__id*
+""°
+û
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaî î(
+cjava.awt.Color"__id*
+
+%20java.awt.Color*
+1*»
+9h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaì ì(ñ
+ì
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaì ì(
+%17java.lang.String[]"__id*
+""µ
+≤
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaì ì(!
+%18java.lang.String"
+__arrayGet*
+
+%17java.lang.String[]*2ˇ¸
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaì ì("
+%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+colorjava.lang.String*
+
+%18java.lang.String2equals(Ljava/lang/Object;)*
+7
+8*¨
+10h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaí í(í
+è
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaí í(
+%16java.awt.Color"__id*
+""°
+û
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaí í(
+cjava.awt.Color"__id*
+
+%16java.awt.Color*
+1* 
+11h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaë ë(ñ
+ì
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaë ë(
+%13java.lang.String[]"__id*
+""µ
+≤
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaë ë(!
+%14java.lang.String"
+__arrayGet*
+
+%13java.lang.String[]*2ˇ¸
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaë ë("
+%15boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+colorjava.lang.String*
+
+%14java.lang.String2equals(Ljava/lang/Object;)*
+9
+10*¨
+12h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaê ê(í
+è
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaê ê(
+%12java.awt.Color"__id*
+""°
+û
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaê ê(
+cjava.awt.Color"__id*
+
+%12java.awt.Color*
+1:
+colorjava.lang.StringB
+ij.plugin.CalibrationBar

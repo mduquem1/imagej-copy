@@ -1,0 +1,43 @@
+
+*ij.plugin.Concatenator#run()Lij/ImagePlus;d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Concatenator.java7 7("3*Ù
+2d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Concatenator.java9
+ 9("n
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Concatenator.java9 9(
+""*®
+3d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Concatenator.java8 8(º
+·
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Concatenator.java8 8(
+%0boolean"$ij.plugin.Concatenator#showDialog()Z*
+ij.plugin.Concatenator*
+2
+1*–
+1d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Concatenator.java: :(Ð
+Í
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Concatenator.java: :(
+%1ij.ImagePlus"5ij.plugin.Concatenator#createHypervol()Lij/ImagePlus;*
+ij.plugin.Concatenator«
+¨
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Concatenator.java: :($
+ij.plugin.Concatenator"
+newImp"__id*
+
+%1ij.ImagePlus«
+¨
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Concatenator.java;	 ;(
+%2ij.ImagePlus"__id*&*$
+ij.plugin.Concatenator"
+newImp"|
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Concatenator.java; ;(
+
+%2ij.ImagePlusB
+ij.plugin.Concatenator

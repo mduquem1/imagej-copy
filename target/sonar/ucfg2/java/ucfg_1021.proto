@@ -1,0 +1,624 @@
+
+7ij.plugin.filter.Calibrator#showDialog(Lij/ImagePlus;)Zi
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaE E("29*¬
+13i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaZ Z(ï
+í
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaZ Z(
+%20java.lang.String"__id*
+""≤
+Ø
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaZ Z(!
+defaultChoicejava.lang.String"__id*
+
+%20java.lang.String*
+12*à
+24i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaQ Q(#à
+Ö
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaQ% Q(>
+
+%12int"__id*
+""*
+17
+18
+20*¬
+14i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaX X(ï
+í
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaX X(
+%19java.lang.String"__id*
+""≤
+Ø
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaX X(!
+defaultChoicejava.lang.String"__id*
+
+%19java.lang.String*
+12*Ñ
+15i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaW W(à
+Ö
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaW W('
+
+%18int"__id*
+""*
+13
+14*¬
+26i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaP P(ï
+í
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaP P(
+%11java.lang.String"__id*
+""≤
+Ø
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaP P(!
+defaultChoicejava.lang.String"__id*
+
+%11java.lang.String*
+12*¬
+16i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaV V( ï
+í
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaV V( 
+%17java.lang.String"__id*
+""≤
+Ø
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaV V( !
+defaultChoicejava.lang.String"__id*
+
+%17java.lang.String*
+12*å
+27i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaO O(à
+Ö
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaO O( 
+
+%10int"__id*
+""*
+24
+26
+17
+18*Ñ
+17i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaU U(à
+Ö
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaU U(0
+
+%16int"__id*
+""*
+15
+16*Ó
+28i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaN N(º
+π
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaN N(
+%9java.lang.String"__id*.*,
+ij.plugin.filter.Calibrator"
+	unitSaved∑
+¥
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaN N('
+ij.plugin.filter.Calibrator"
+unit"__id*
+
+%9java.lang.String*
+27*ˇ
+18i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaT T(ó
+î
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaT T(&
+%14java.lang.String[]"__id*
+""∏
+µ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaT T(0
+%15java.lang.String"
+__arrayGet*
+
+%14java.lang.String[]*
+""≤
+Ø
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaT T(0!
+defaultChoicejava.lang.String"__id*
+
+%15java.lang.String*
+12*õ
+29i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaF F(ü
+ú
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaF F(!
+defaultChoicejava.lang.String"__id*
+""ÏÈ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaG G((
+%0ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()≥
+∞
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaG G()
+calij.measure.Calibration"__id*
+
+%0ij.measure.Calibration–Õ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaH H(/	
+%1int"%ij.measure.Calibration#getFunction()I*
+
+calij.measure.Calibration2getFunction()á
+Ñ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaH1 H(C	
+%2int"__id*
+""àÖ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaH H(D
+%3java.lang.String[]"Aij.plugin.filter.Calibrator#getFunctionList(Z)[Ljava/lang/String;*
+ij.plugin.filter.Calibrator*
+""2getFunctionList(Z)æ
+ª
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaH H(D,
+ij.plugin.filter.Calibrator"
+	functions"__id*
+
+%3java.lang.String[]–Õ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaI I("	
+%4int"%ij.measure.Calibration#getFunction()I*
+
+calij.measure.Calibration2getFunction()ﬁ€
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaK K($
+%5double[]"*ij.measure.Calibration#getCoefficients()[D*
+
+calij.measure.Calibration2getCoefficients()Ì
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaL	 L(
+%6java.lang.String"7ij.measure.Calibration#getValueUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2getValueUnit()∑
+¥
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaL L('
+ij.plugin.filter.Calibrator"
+unit"__id*
+
+%6java.lang.String∑
+¥
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaM M(
+
+%7java.lang.String"__id*)*'
+ij.plugin.filter.Calibrator"
+unitî
+ë
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaM M(,
+%8java.lang.String"__id*
+""*
+27
+28*ﬂ
+1i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javam m(∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javam m(
+%59ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gd€ÿ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javam m((
+
+%60int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+%59ij.gui.GenericDialog2getNextChoiceIndex()∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javan
+ n(
+%61ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gdÔÏ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javan
+ n(
+%62java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+%61ij.gui.GenericDialog2getNextString()∏
+µ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javan n('
+ij.plugin.filter.Calibrator"
+unit"__id*
+
+%62java.lang.String∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javao o(
+%63ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gdÎË
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javao o(
+%64java.lang.String"4ij.gui.GenericDialog#getNextText()Ljava/lang/String;*
+
+%63ij.gui.GenericDialog2getNextText()π
+∂
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javao o((
+ij.plugin.filter.Calibrator"
+xText"__id*
+
+%64java.lang.String∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javap p(
+%65ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gdÎË
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javap p(
+%66java.lang.String"4ij.gui.GenericDialog#getNextText()Ljava/lang/String;*
+
+%65ij.gui.GenericDialog2getNextText()π
+∂
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javap p((
+ij.plugin.filter.Calibrator"
+yText"__id*
+
+%66java.lang.String∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaq q(
+%67ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gd◊‘
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaq q( 
+%68boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+%67ij.gui.GenericDialog2getNextBoolean()∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javar r(
+%69ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gd◊‘
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javar r(%
+%70boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+%69ij.gui.GenericDialog2getNextBoolean()∏
+µ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javau u(
+%71java.lang.String"__id*)*'
+ij.plugin.filter.Calibrator"
+unitΩ
+∫
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javau u(,
+ij.plugin.filter.Calibrator"
+	unitSaved"__id*
+
+%71java.lang.String"s
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javav v(
+""*„
+2i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javak
+ k("s
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javak k(
+""*Ÿ
+3i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaf f(Cïí
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaf f(C
+%50void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+%45ij.gui.GenericDialog*
+	Show plot*
+
+%47boolean2 addCheckbox(Ljava/lang/String;Z)∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javah h(
+%51ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gdï
+í
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javah h(
+%52java.lang.String"__id*
+""Œ
+À
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javah h(2
+%53java.lang.String"__concat*
+
+%52java.lang.String* 
+/docs/menus/analyze.html#calÖÇ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javah h(3
+%54void"1ij.gui.GenericDialog#addHelp(Ljava/lang/String;)V*
+
+%51ij.gui.GenericDialog*
+
+%53java.lang.String2addHelp(Ljava/lang/String;)∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javai i(
+%55ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gdÃ…
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javai i(
+%56void""ij.gui.GenericDialog#showDialog()V*
+
+%55ij.gui.GenericDialog2showDialog()∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaj j(
+%57ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gd—Œ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaj j(
+%58boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+%57ij.gui.GenericDialog2wasCanceled()*
+2
+1*å
+4i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaf1 f(Bñ
+ì
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaf1 f(B
+%47boolean"__id*
+
+%49boolean*
+3*å
+5i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaf+ f(0ñ
+ì
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaf+ f(0
+%47boolean"__id*
+
+%48boolean*
+3*Ú
+6i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javae e(Bûõ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javae e(B
+%44void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+%39ij.gui.GenericDialog*
+Global calibration*
+
+%41boolean2 addCheckbox(Ljava/lang/String;Z)∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaf f(
+%45ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gdõ
+ò
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaf f(*
+%46boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+4
+5*å
+7i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javae: e(Añ
+ì
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javae: e(A
+%41boolean"__id*
+
+%43boolean*
+6*å
+8i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javae4 e(9ñ
+ì
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javae4 e(9
+%41boolean"__id*
+
+%42boolean*
+6*∑"
+9i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java_ _('°û
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java_ _(
+%23ij.gui.GenericDialog"ij.gui.GenericDialogÿ
+’
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java_ _((
+%24"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%23ij.gui.GenericDialog*
+Calibrate...∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java_ _((%
+ij.plugin.filter.Calibrator"
+gd"__id*
+
+%23ij.gui.GenericDialog∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java` `(
+%25ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gdø
+º
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java` `(%
+%26java.lang.String[]"__id*.*,
+ij.plugin.filter.Calibrator"
+	functionsâÜ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java` `(5
+%27void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+%25ij.gui.GenericDialog*
+	Function:*
+
+%26java.lang.String[]*#
+!
+defaultChoicejava.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaa a(
+%28ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gd∏
+µ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaa a(!
+%29java.lang.String"__id*)*'
+ij.plugin.filter.Calibrator"
+unit «
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaa a(&
+%30void"Kij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;I)V*
+
+%28ij.gui.GenericDialog*	
+Unit:*
+
+%29java.lang.String*225addStringField(Ljava/lang/String;Ljava/lang/String;I)∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javab b(
+%31ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gdπ
+∂
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javab b(
+%32java.lang.String"__id***(
+ij.plugin.filter.Calibrator"
+xTextπ
+∂
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javab b(
+%33java.lang.String"__id***(
+ij.plugin.filter.Calibrator"
+yTextﬁ€
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javab b('
+%34void"Jij.gui.GenericDialog#addTextAreas(Ljava/lang/String;Ljava/lang/String;II)V*
+
+%31ij.gui.GenericDialog*
+
+%32java.lang.String*
+
+%33java.lang.String*2*224addTextAreas(Ljava/lang/String;Ljava/lang/String;II)∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javad d(
+%35ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gd∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javad d( 
+%36ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gd√¿
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javad d(!
+%37java.awt.Panel"Sij.plugin.filter.Calibrator#makeButtonPanel(Lij/gui/GenericDialog;)Ljava/awt/Panel;*
+ij.plugin.filter.Calibrator*
+
+%36ij.gui.GenericDialog2'makeButtonPanel(Lij/gui/GenericDialog;)Å˛
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javad d("
+%38void"0ij.gui.GenericDialog#addPanel(Ljava/awt/Panel;)V*
+
+%35ij.gui.GenericDialog*
+
+%37java.awt.Panel2addPanel(Ljava/awt/Panel;)∫
+∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javae e(
+%39ij.gui.GenericDialog"__id*'*%
+ij.plugin.filter.Calibrator"
+gdõ
+ò
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javae' e(3
+%40boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+7
+8*¬
+20i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaR R(ï
+í
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaR R(
+%13java.lang.String"__id*
+""≤
+Ø
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.javaR R(!
+defaultChoicejava.lang.String"__id*
+
+%13java.lang.String*
+12*¥
+10i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java^ ^(Ω
+∫
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java^ ^((
+ij.plugin.filter.Calibrator"
+xText"__id*
+
+tmpTextjava.lang.String*
+9*Ê
+11i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java] ](!ÎË
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java] ](,
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+tmpTextjava.lang.String* 2equals(Ljava/lang/Object;)*
+9
+10*ò
+12i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java\ \(ÓÎ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java\ \(
+%21java.lang.String"8ij.plugin.filter.Calibrator#getMeans()Ljava/lang/String;*
+ij.plugin.filter.Calibrator2
+getMeans()¨
+©
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java\ \(
+tmpTextjava.lang.String"__id*
+
+%21java.lang.String*
+9
+11:
+impij.ImagePlusB
+ij.plugin.filter.Calibrator

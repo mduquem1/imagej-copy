@@ -1,0 +1,758 @@
+
+<ij.plugin.frame.RoiManager#multiMeasure(Ljava/lang/String;)Zj
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java”	 ”("71*˙
+68j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÿ ÿ(ëé
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÿ ÿ('
+%2boolean"5ij.plugin.frame.RoiManager#error(Ljava/lang/String;)Z*
+ij.plugin.frame.RoiManager*
+Multi-measure: no selection2error(Ljava/lang/String;)"t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaŸ Ÿ(
+""*“
+69j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java÷ ÷(’“
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java÷ ÷(
+%1int[]")ij.plugin.frame.RoiManager#getIndexes()[I*
+ij.plugin.frame.RoiManager2getIndexes()*
+68
+67*◊
+26j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaí	 í	(÷”
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaí	 í	(
+%54void"$ij.plugin.filter.Analyzer#measure()V*'
+%
+analyzerij.plugin.filter.Analyzer2	measure()*
+27
+30
+22*Ü
+27j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaë		 ë	(Å
+˛
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaë		 ë	(.
+%53boolean"Aij.plugin.frame.RoiManager#restoreWithoutUpdate(Lij/ImagePlus;I)Z*
+ij.plugin.frame.RoiManager*
+
+impij.ImagePlus*
+""*
+26
+27
+30
+22*Ê
+70j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java’ ’("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java’ ’(
+""*Ñ
+71j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‘ ‘(‰·
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‘ ‘(
+%0ij.ImagePlus"3ij.plugin.frame.RoiManager#getImage()Lij/ImagePlus;*
+ij.plugin.frame.RoiManager2
+getImage()†
+ù
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‘ ‘(
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+69
+70*ﬁ
+30j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaè	 è	(›⁄
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaè	 è	(3
+%52void"&ij.ImagePlus#setSliceWithoutUpdate(I)V*
+
+impij.ImagePlus*
+""2setSliceWithoutUpdate(I)*
+27
+30
+22*Ö
+33j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaå	$ å	('¨©
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaå	 å	(# 
+%49ij.plugin.filter.Analyzer"ij.plugin.filter.Analyzerß
+§
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaå	 å	(;
+%50"Kij.plugin.filter.Analyzer#<init>(Lij/ImagePlus;ILij/measure/ResultsTable;)V*"
+ 
+%49ij.plugin.filter.Analyzer*
+
+impij.ImagePlus*
+""*
+
+rtij.measure.ResultsTable¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaå	 å	(<%
+analyzerij.plugin.filter.Analyzer"__id*"
+ 
+%49ij.plugin.filter.AnalyzerËÂ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaç	 ç	(
+%51void"*ij.plugin.filter.Analyzer#disableReset(Z)V*'
+%
+analyzerij.plugin.filter.Analyzer*22disableReset(Z)*
+27
+30
+22*˜
+34j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaã		 ã	(≈
+¬
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaã		 ã	(
+%48ij.measure.ResultsTable"__id*.*,
+ij.plugin.frame.RoiManager"
+
+mmResults2∂
+≥
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaã	 ã	(
+rtij.measure.ResultsTable"__id* 
+
+%48ij.measure.ResultsTable*
+33*¬
+35j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaä	 ä	("≈
+¬
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaä	 ä	("
+%47ij.measure.ResultsTable"__id*.*,
+ij.plugin.frame.RoiManager"
+
+mmResults2*
+33
+34*Å
+36j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaá	 á	(N®•
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaà	 à	(%
+%44ij.measure.ResultsTable"ij.measure.ResultsTableª
+∏
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaà	 à	('
+%45"!ij.measure.ResultsTable#<init>()V* 
+
+%44ij.measure.ResultsTable∂
+≥
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaà	 à	((
+rtij.measure.ResultsTable"__id* 
+
+%44ij.measure.ResultsTable‚ﬂ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaâ	 â	(
+%46void"*ij.measure.ResultsTable#showRowNumbers(Z)V*
+
+rtij.measure.ResultsTable*22showRowNumbers(Z)*
+35
+33*à
+37j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaá	A á	(Mè
+å
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaá	A á	(M
+
+%40int"__id*
+
+
+%42int*
+36*î
+38j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaá	! á	(-â
+Ü
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaá	. á	(@
+
+%43int"__id*
+""è
+å
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaá	! á	(@
+
+%40int"__id*
+
+
+%41int*
+36*«
+40j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÑ	 Ñ	(∆√
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÑ	 Ñ	(*
+
+%39int"ij.ImagePlus#getCurrentSlice()I*
+
+impij.ImagePlus2getCurrentSlice()*
+37
+38
+20*™
+43j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÄ	 Ä	(◊‘
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÄ	 Ä	($
+%37boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()◊‘
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÅ	 Å	(&
+%38boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+40*–
+44j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaˇ ˇ(◊‘
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaˇ ˇ($
+%36boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+43*û
+46j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java˚ ˚(µ≤
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java˚ ˚(
+%35void"ij.ImagePlus#unlock()V*
+
+impij.ImagePlus2unlock()"t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java¸ ¸(
+""*˛
+47j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÛ Û(8©
+¶
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÛ Û(8
+strjava.lang.String"__id*
+
+%23java.lang.String‡›
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÙ Ù(
+%26void"$ij.gui.GenericDialog#setInsets(III)V*
+
+gdij.gui.GenericDialog*2
+*2*2 2setInsets(III)º
+π
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaˆ ˆ(
+%27java.lang.String"__concat*
+	Enabling *
+
+strjava.lang.String¡
+æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaˆ ˆ($
+%28java.lang.String"__concat*
+
+%27java.lang.String*
+ will result\n√
+¿
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaˆ ˜(
+%29java.lang.String"__concat*
+
+%28java.lang.String*
+in a table with µ
+≤
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaˆ ˜(
+%30java.lang.String"__concat*
+
+%29java.lang.String*
+""º
+π
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaˆ ˜(*
+%31java.lang.String"__concat*
+
+%30java.lang.String*
+	 columns.ãà
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaı ¯(
+%32void"4ij.gui.GenericDialog#addMessage(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%31java.lang.String2addMessage(Ljava/lang/String;)Ã…
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java˘ ˘(
+%33void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()—Œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java˙ ˙(
+%34boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+46
+43
+44*¢
+48j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÛ) Û(7©
+¶
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÛ) Û(7
+%23java.lang.String"__id*
+
+%25java.lang.String*
+47*¢
+49j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÛ Û((©
+¶
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÛ Û((
+%23java.lang.String"__id*
+
+%24java.lang.String*
+47*æ
+50j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java (ìê
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java (3
+%20void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+One row per slice*
+""2 addCheckbox(Ljava/lang/String;Z)êç
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÒ Ò(2
+%21void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Append results*
+""2 addCheckbox(Ljava/lang/String;Z)òï
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÚ Ú(2
+
+%22int";ij.plugin.frame.RoiManager#getColumnCount(Lij/ImagePlus;I)I*
+ij.plugin.frame.RoiManager*
+
+impij.ImagePlus*
+""2getColumnCount(Lij/ImagePlus;I)*
+48
+49*¸
+51j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÔ Ô(¨
+©
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÔ Ô()
+%17java.lang.String"__concat*
+Measure all *
+""∫
+∑
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÔ Ô(3
+%18java.lang.String"__concat*
+
+%17java.lang.String*	
+ slicesóî
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÔ Ô(@
+%19void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+
+%18java.lang.String*
+""2 addCheckbox(Ljava/lang/String;Z)*
+50*Ø
+52j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÌ( Ì(7¢ü
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÌ Ì('
+%15ij.gui.GenericDialog"ij.gui.GenericDialog⁄
+◊
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÌ Ì(8
+%16"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%15ij.gui.GenericDialog*
+Multi Measure∞
+≠
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÌ Ì(9
+gdij.gui.GenericDialog"__id*
+
+%15ij.gui.GenericDialog*
+50
+51*˚
+56j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‰ ‰(6˛˚
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÂ Â(&
+%13boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+cmdjava.lang.String*
+ one2"contains(Ljava/lang/CharSequence;)Å˛
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÊ Ê(+
+%14boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+cmdjava.lang.String*	
+ append2"contains(Ljava/lang/CharSequence;)*
+40*˚
+58j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‰ ‰(Çˇ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‰ ‰()
+%12boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+cmdjava.lang.String*
+
+ measure2"contains(Ljava/lang/CharSequence;)*
+56*ﬁ
+14j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java´	 ´	(Ù
+Ò
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java´	 ´	(5
+%70void"8ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+rt = rm.multiMeasure(imp);Ô
+Ï
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java¨	 ¨	(0
+%71void"8ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+rt.show(\"Results\");*
+1*¸
+59j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java„ „(
+ˇ¸
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java„ „(&
+%11boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+cmdjava.lang.String*
+multi-measure2startsWith(Ljava/lang/String;)*
+58
+40*ƒ
+15j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java™	 ™	(≈
+¬
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java™	 ™	(
+%69boolean"&ij.plugin.frame.Recorder#scriptMode()Z*"
+ij.plugin.frame.Recorder*
+
+14
+8
+9*¡
+16j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java©	 ©	(≈
+¬
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java©	 ©	(
+%68boolean"$ij.plugin.frame.RoiManager#record()Z*
+ij.plugin.frame.RoiManager*
+15
+1*±
+17j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java¶	 ¶	(∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java¶	 ¶	(
+%67void"ij.IJ#run(Ljava/lang/String;)V*	"
+ij.IJ*
+Select None*
+16*Û
+18j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java°	 °	('∆
+√
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java°	 °	(A
+%63ij.measure.ResultsTable"^ij.plugin.frame.RoiManager#multiMeasure(Lij/ImagePlus;[Lij/gui/Roi;Z)Lij/measure/ResultsTable;*"
+ij.plugin.frame.RoiManager*
+
+impij.ImagePlus*
+
+roisij.gui.Roi[]*
+""ª
+∏
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java°	 °	(B"
+rtMultiij.measure.ResultsTable"__id* 
+
+%63ij.measure.ResultsTableÍÁ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java¢	 ¢	(-
+%64java.lang.Object"1ij.measure.ResultsTable#clone()Ljava/lang/Object;*$
+"
+rtMultiij.measure.ResultsTable2clone()Ω
+∫
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java¢	 ¢	(-+
+ij.plugin.frame.RoiManager"
+	mmResults"__id*
+
+%64java.lang.Object¸˘
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java£	 £	(
+%65void"1ij.measure.ResultsTable#show(Ljava/lang/String;)V*$
+"
+rtMultiij.measure.ResultsTable*	
+Results2show(Ljava/lang/String;)√¿
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java§	 §	(
+%66void"ij.ImagePlus#setSlice(I)V*
+
+impij.ImagePlus*
+""2setSlice(I)*
+16
+17*Æ	
+19j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaû	 û	(5‘—
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaû	! û	(34
+%60-ij.plugin.frame.RoiManager$MultiMeasureRunner"-ij.plugin.frame.RoiManager$MultiMeasureRunnerÉ
+Ä
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaû	 û	(5
+%61"Sij.plugin.frame.RoiManager$MultiMeasureRunner#<init>(Lij/plugin/frame/RoiManager;)V*6
+4
+%60-ij.plugin.frame.RoiManager$MultiMeasureRunner„
+‡
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaû	 û	(64
+mmr-ij.plugin.frame.RoiManager$MultiMeasureRunner"__id*6
+4
+%60-ij.plugin.frame.RoiManager$MultiMeasureRunnerÚÔ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaü	 ü	(.
+%62void"Yij.plugin.frame.RoiManager$MultiMeasureRunner#multiMeasure(Lij/ImagePlus;[Lij/gui/Roi;Z)V*6
+4
+mmr-ij.plugin.frame.RoiManager$MultiMeasureRunner*
+
+impij.ImagePlus*
+
+roisij.gui.Roi[]*
+""2*multiMeasure(Lij/ImagePlus;[Lij/gui/Roi;Z)*
+16*ù
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaº	 º	(µ≤
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaº	 º	(
+%78void"ij.ImagePlus#unlock()V*
+
+impij.ImagePlus2unlock()"t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaΩ	 Ω	(
+""*À
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java∏	 ∏	(ƒ
+¡
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java∏	# ∏	(:
+%76java.lang.String"__concat*
+multi-measure*
+
+optionsjava.lang.Stringç
+ä
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java∏	 ∏	(;
+%77void"Fij.plugin.frame.Recorder#record(Ljava/lang/String;Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+roiManager*
+
+%76java.lang.String*
+1*Â
+3j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java∑	 ∑	(æ
+ª
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java∑	 ∑	(
+%75java.lang.String"__concat*
+
+optionsjava.lang.String*	
+ append≠
+™
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java∑	 ∑	(
+optionsjava.lang.String"__id*
+
+%75java.lang.String*
+2*Â
+5j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaµ	 µ	(ª
+∏
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaµ	 µ	(
+%74java.lang.String"__concat*
+
+optionsjava.lang.String*
+ one≠
+™
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaµ	 µ	(
+optionsjava.lang.String"__id*
+
+%74java.lang.String*
+2
+3*
+7j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java≥	 ≥	(√
+¿
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java≥	 ≥	(
+%73java.lang.String"__concat*
+
+optionsjava.lang.String*
+ measure_all≠
+™
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java≥	 ≥	(
+optionsjava.lang.String"__id*
+
+%73java.lang.String*	
+2
+3
+5*ñ
+8j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java±	 ±	(ñ
+ì
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java±	 ±	(
+optionsjava.lang.String"__id* *
+2
+3
+5
+7*¸
+9j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaØ	 Ø	(Ö
+Ç
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaØ	 Ø	(3
+%72void"Fij.plugin.frame.Recorder#record(Ljava/lang/String;Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+roiManager*
+Multi Measure*
+1*ô
+60j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‚ ‚(ú
+ô
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‚ ‚(
+%10boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+59
+52*é
+62j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java·/ ·(4ï
+í
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java·/ ·(4
+%7boolean"__id*
+
+%9boolean*
+60*é
+63j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java·* ·(.ï
+í
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java·* ·(.
+%7boolean"__id*
+
+%8boolean*
+60*¸
+64j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java· ·(ˇ¸
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java· ·()
+%6boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+cmdjava.lang.String*
+
+append2"contains(Ljava/lang/CharSequence;)*
+62
+63*ç
+20j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaú	 ú	(&Ä˝
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaú	 ú	((
+%58ij.gui.Roi[]"@ij.plugin.frame.RoiManager#getSelectedRoisAsArray()[Lij/gui/Roi;*
+ij.plugin.frame.RoiManager2getSelectedRoisAsArray()¢
+ü
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaú	 ú	()
+roisij.gui.Roi[]"__id*
+
+%58ij.gui.Roi[]ËÂ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaù	 ù	(
+%59boolean",java.lang.String#equals(Ljava/lang/Object;)Z* *
+
+cmdjava.lang.String2equals(Ljava/lang/Object;)*
+18
+19*Ü
+65j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java› ›(«
+ƒ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java› ›(/	
+%4int",ij.plugin.filter.Analyzer#getMeasurements()I*"
+ij.plugin.filter.Analyzerøº
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaﬂ ﬂ("	
+%5int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+60
+64*º
+21j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaö	 ö	(√¿
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaö	 ö	(
+%57void"ij.ImagePlus#setSlice(I)V*
+
+impij.ImagePlus*
+""2setSlice(I)*
+16*Ê
+66j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‹
+ ‹("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‹ ‹(
+""*ù
+22j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaó	 ó	( Â‚
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaó	 ó	((
+%55java.lang.Object"1ij.measure.ResultsTable#clone()Ljava/lang/Object;*
+
+rtij.measure.ResultsTable2clone()æ
+ª
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaó	 ó	((,
+ij.plugin.frame.RoiManager"
+
+mmResults2"__id*
+
+%55java.lang.Object˜Ù
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaò	 ò	(
+%56void"1ij.measure.ResultsTable#show(Ljava/lang/String;)V*
+
+rtij.measure.ResultsTable*	
+Results2show(Ljava/lang/String;)*
+16
+21*∞
+67j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java€ €(
+≥∞
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java€ €(
+%3boolean"ij.ImagePlus#lock()Z*
+
+impij.ImagePlus2lock()*
+65
+66:
+cmdjava.lang.StringB
+ij.plugin.frame.RoiManager

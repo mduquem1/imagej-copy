@@ -1,0 +1,39 @@
+
+Cij.gui.GenericDialog#getValue(Ljava/lang/String;)Ljava/lang/Double;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java§	 §	("5*‘
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java©	 ©	( 
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java©	 ©	(
+djava.lang.Double"__id*
+
+%0java.lang.Double*
+1*ä
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java©	 ©	(ó
+ð
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java©	 ©	(
+%0java.lang.Double">java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;*"
+java.lang.Double*
+
+textjava.lang.String*
+2*ÿ
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java¨	 ¨	(Ž
+‹
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java¨	 ¨	(
+djava.lang.Double"__id*
+""*
+4*ê
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java­		 ­	(
+"
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java­	 ­	(
+
+djava.lang.Double:
+textjava.lang.StringB
+ij.gui.GenericDialog

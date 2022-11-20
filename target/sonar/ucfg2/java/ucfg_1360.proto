@@ -1,0 +1,41 @@
+
+6ij.OtherInstance#getPrefsDirectory()Ljava/lang/String;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaê ê(*"3*ä
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaí
+ í("}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaí í(
+
+envjava.lang.String*õ
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaë ë(ä
+á
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaë ë(,
+%0java.lang.String"=java.lang.System#getenv(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+IJ_PREFS_DIRž
+›
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaë ë(-
+envjava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*›
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaï
+ ï(µ
+²
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaï
+ ï(
+%1java.lang.String"(ij.Prefs#getPrefsDir()Ljava/lang/String;*"
+
+ij.Prefs"|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaï ï(
+
+%1java.lang.StringB"
+ij.OtherInstance

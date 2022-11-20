@@ -1,0 +1,595 @@
+
+4ij.io.FileSaver#saveAsTiffStack(Ljava/lang/String;)Z_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java∞ ∞("37*˘
+26_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java√ √(‡›
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java√ √(&
+%23java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+vsij.ImageStack*
+""2getSliceLabel(I)†
+ù
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java√ √('
+labeljava.lang.String"__id*
+
+%23java.lang.String*
+19
+21
+22*û
+27_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¬ ¬(¨©
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¬ ¬( 
+
+%22int"ij.ImageStack#getSize()I*
+
+vsij.ImageStack2	getSize()*
+26
+19*Ä
+28_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¿ ¿(ê
+ç
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¿ ¿(
+labelsjava.lang.String[]"__id*
+""ù
+ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¡ ¡(
+%20ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp≈¬
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¡ ¡(!
+%21ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%20ij.ImagePlus2
+getStack()ó
+î
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java¡ ¡("
+vsij.ImageStack"__id*
+
+%21ij.ImageStack*
+27*∏
+29_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaΩ Ω(	Â
+‚
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaΩ Ω(:
+%19void"*ij.io.FileSaver#error(Ljava/lang/String;)V*
+ij.io.FileSaver*1/
+-TIFF virtual stacks cannot be saved in place."i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaæ æ(
+""*Ç
+30_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaº" º(&´
+®
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaº. º(;
+%15java.lang.String"__id*&*$
+
+ofiij.io.FileInfo"
+	directory™
+ß
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaº< º(H
+%16java.lang.String"__id*%*#
+
+ofiij.io.FileInfo"
+
+fileNameΩ
+∫
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaº. º(H
+%17java.lang.String"__concat*
+
+%15java.lang.String*
+
+%16java.lang.StringıÚ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaº" º(I
+%18boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+pathjava.lang.String*
+
+%17java.lang.String2equals(Ljava/lang/Object;)*
+28
+29*å
+32_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaª ª(ù
+ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaª ª(
+%13ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp›⁄
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaª ª(+
+%14ij.io.FileInfo"2ij.ImagePlus#getOriginalFileInfo()Lij/io/FileInfo;*
+
+%13ij.ImagePlus2getOriginalFileInfo()ö
+ó
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaª ª(,
+ofiij.io.FileInfo"__id*
+
+%14ij.io.FileInfo*
+28
+30*®
+10_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‘ ‘(YÆ
+´
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‘ ‘(Y
+outjava.io.DataOutputStream"__id*!
+
+%54java.io.DataOutputStreamäá
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java’ ’(
+%56void"4ij.io.TiffEncoder#write(Ljava/io/DataOutputStream;)V*
+
+fileij.io.TiffEncoder*!
+
+outjava.io.DataOutputStream2!write(Ljava/io/DataOutputStream;)*
+9*È
+
+33_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java∏ ∏(ù
+ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java∏ ∏(
+%8ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiú
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java∏ ∏(
+%9ij.ImagePlus"__id**
+ij.io.FileSaver"
+impÿ’
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java∏ ∏(!
+%10java.lang.String"0ij.ImagePlus#getInfoProperty()Ljava/lang/String;*
+
+%9ij.ImagePlus2getInfoProperty()•
+¢
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java∏ ∏(!
+
+%8ij.io.FileInfo"
+info"__id*
+
+%10java.lang.Stringû
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaπ π(
+%11ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fi‰·
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaπ π()
+%12java.lang.String"8ij.io.FileSaver#getDescriptionString()Ljava/lang/String;*
+ij.io.FileSaver2getDescriptionString()≠
+™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaπ π()&
+
+%11ij.io.FileInfo"
+description"__id*
+
+%12java.lang.String*
+18
+32*ˇ
+11_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‘	 ‘(Yüú
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‘ ‘(
+%54java.io.DataOutputStream"java.io.DataOutputStreamÔ
+Ï
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‘	 ‘(Y
+%55"8java.io.DataOutputStream#<init>(Ljava/io/OutputStream;)V*!
+
+%54java.io.DataOutputStream*%
+#
+%52java.io.BufferedOutputStream*
+10*ú
+34_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java∑ ∑(ù
+ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java∑ ∑(
+%5ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiú
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java∑# ∑(&
+%6ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp√¿
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java∑# ∑(1
+%7ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%6ij.ImagePlus2
+getStack()©
+¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java∑ ∑(1&
+
+%5ij.io.FileInfo"
+virtualStack"__id*
+
+%7ij.ImageStack*
+33*î
+12_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‘R ‘(Wß§
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‘" ‘(6#
+%52java.io.BufferedOutputStream"java.io.BufferedOutputStream¸
+˘
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‘ ‘(X
+%53"=java.io.BufferedOutputStream#<init>(Ljava/io/OutputStream;I)V*%
+#
+%52java.io.BufferedOutputStream*!
+
+%50java.io.FileOutputStream*
+""*
+11*ä
+35_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaµ µ(ú
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaµ µ(
+%2ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp√¿
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaµ µ('
+%3ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%2ij.ImagePlus2
+getStack()≥∞
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaµ µ(3
+%4boolean"ij.ImageStack#isVirtual()Z*
+
+%3ij.ImageStack2isVirtual()*
+33
+34*î
+13_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java” ”(*°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java” ”(*
+fileij.io.TiffEncoder"__id*
+
+%48ij.io.TiffEncoderüú
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‘; ‘(K
+%50java.io.FileOutputStream"java.io.FileOutputStream‡
+›
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‘7 ‘(Q
+%51"4java.io.FileOutputStream#<init>(Ljava/lang/String;)V*!
+
+%50java.io.FileOutputStream*
+
+pathjava.lang.String*
+12*ù
+36_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java≤ ≤( 
+«
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java≤ ≤(
+
+%1void"*ij.io.FileSaver#error(Ljava/lang/String;)V*
+ij.io.FileSaver*
+This is not a stack"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java≥ ≥(
+""*
+14_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java”& ”((û
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java”& ”((
+%47ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiëé
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java” ”(%
+%48ij.io.TiffEncoder"ij.io.TiffEncoderÕ
+ 
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java” ”()
+%49"+ij.io.TiffEncoder#<init>(Lij/io/FileInfo;)V*
+
+%48ij.io.TiffEncoder*
+
+%47ij.io.FileInfo*
+13*è
+37_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java± ±(ù
+ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java± ±(
+%0ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fi*
+35
+36*Å
+15_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java— —(ì
+ê
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java— —(
+outjava.io.DataOutputStream"__id*
+""*
+14*Í
+16_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java– –(1ù
+ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java–2 –(5
+%44ij.ImagePlus"__id**
+ij.io.FileSaver"
+impû
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java–7 –(9
+%45ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiª∏
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java– –(:
+%46void"Iij.io.FileSaver#saveDisplayRangesAndLuts(Lij/ImagePlus;Lij/io/FileInfo;)V*
+ij.io.FileSaver*
+
+%44ij.ImagePlus*
+
+%45ij.io.FileInfo28saveDisplayRangesAndLuts(Lij/ImagePlus;Lij/io/FileInfo;)*
+15*Ã
+17_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÕ Õ(û
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÕ Õ(
+%32ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiù
+ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÕ& Õ()
+%33ij.ImagePlus"__id**
+ij.io.FileSaver"
+impª∏
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÕ& Õ(2
+%34
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%33ij.ImagePlus2getRoi()–
+Õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÕ Õ(3
+%35byte[]"0ij.io.RoiEncoder#saveAsByteArray(Lij/gui/Roi;)[B*"
+ij.io.RoiEncoder*
+
+%34
+ij.gui.Roiõ
+ò
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÕ Õ(3
+
+%32ij.io.FileInfo"
+roi"__id*
+
+%35byte[]û
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaŒ Œ(
+%36ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiù
+ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaŒ Œ(
+%37ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp–
+Õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaŒ Œ(
+%38byte[][]"-ij.io.FileSaver#getOverlay(Lij/ImagePlus;)[[B*"
+ij.io.FileSaver*
+
+%37ij.ImagePlus°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaŒ Œ("
+
+%36ij.io.FileInfo"	
+overlay"__id*
+
+%38byte[][]û
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaœ œ(
+%39ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiù
+ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaœ œ(
+%40ij.ImagePlus"__id**
+ij.io.FileSaver"
+impÊ„
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaœ œ(,
+%41java.lang.String[]"6ij.ImagePlus#getPropertiesAsArray()[Ljava/lang/String;*
+
+%40ij.ImagePlus2getPropertiesAsArray()Æ
+´
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaœ œ(,%
+
+%39ij.io.FileInfo"
+
+properties"__id*
+
+%41java.lang.String[]ù
+ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java– –(	
+%42ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp∑¥
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java– –(
+%43boolean"ij.ImagePlus#isComposite()Z*
+
+%42ij.ImagePlus2isComposite()*
+15
+16*Ö
+18_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÃ Ã(û
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÃ Ã(
+%28ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fiù
+ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÃ Ã(
+%29ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp≈¬
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÃ Ã("
+%30ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%29ij.ImagePlus2
+getStack()‹Ÿ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÃ Ã(3
+%31java.lang.String[]"1ij.ImageStack#getSliceLabels()[Ljava/lang/String;*
+
+%30ij.ImageStack2getSliceLabels()Ø
+¨
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÃ Ã(3&
+
+%28ij.io.FileInfo"
+sliceLabels"__id*
+
+%31java.lang.String[]*
+17*¡
+19_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java   (û
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java   (
+%27ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fi≤
+Ø
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java   (&
+
+%27ij.io.FileInfo"
+sliceLabels"__id*
+
+labelsjava.lang.String[]*
+17*}
+0 "v
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‡ ‡(
+implicit return*Œ
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaﬁ ﬁ(û
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaﬁ ﬁ(
+%60ij.io.FileInfo"__id**
+ij.io.FileSaver"
+fi}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaﬁ ﬁ(
+
+%61int"__id*
+""‹
+Ÿ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaﬁ ﬁ(
+%62void"-ij.io.FileSaver#updateImp(Lij/io/FileInfo;I)V*
+ij.io.FileSaver*
+
+%60ij.io.FileInfo*
+
+
+%61int"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaﬂ ﬂ(
+""*±
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‹	 ‹(¬ø
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java‹	 ‹(
+%59void"#java.io.FilterOutputStream#close()V*!
+
+outjava.io.DataOutputStream2close()*
+0
+1*¥
+9_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java÷ ÷(¬ø
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java÷ ÷(
+%57void"#java.io.FilterOutputStream#close()V*!
+
+outjava.io.DataOutputStream2close()*	
+4
+0
+1*™
+21_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java» »(
+º
+π
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java» »(
+%26"
+__arraySet*
+
+labelsjava.lang.String[]*
+""*
+
+labeljava.lang.String*
+27*ÿ
+22_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java« «(¨©
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java« «(%
+
+%24int"ij.ImageStack#getSize()I*
+
+vsij.ImageStack2	getSize()ìê
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java« «(&
+%25java.lang.String[]"java.lang.String[]•
+¢
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.java« «(&
+labelsjava.lang.String[]"__id*
+
+%25java.lang.String[]*
+21:
+pathjava.lang.StringB
+ij.io.FileSaver

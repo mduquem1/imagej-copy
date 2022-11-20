@@ -1,0 +1,285 @@
+
+Uij.plugin.SubstackMaker#stackRange(Lij/ImagePlus;IIILjava/lang/String;)Lij/ImagePlus;g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java√ √("17*—
+2g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaÂ Â(›⁄
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaÂ Â(%
+%25void"!ij.ImagePlus#setDisplayRange(DD)V*
+
+substackij.ImagePlus*
+""*
+""2setDisplayRange(DD)*
+1*∑
+
+3g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java· ·(Ÿ÷
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java· ·(,
+%21ij.ImagePlus",ij.ImagePlus#createImagePlus()Lij/ImagePlus;*
+
+impij.ImagePlus2createImagePlus()£
+†
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java· ·(-
+substackij.ImagePlus"__id*
+
+%21ij.ImagePlusµ≤
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java‚ ‚("
+%22void"9ij.ImagePlus#setStack(Ljava/lang/String;Lij/ImageStack;)V*
+
+substackij.ImagePlus*
+
+titlejava.lang.String*
+
+stack2ij.ImageStack2+setStack(Ljava/lang/String;Lij/ImageStack;)ÎË
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java„ „(.
+%23ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()òï
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java„ „(/
+%24void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+substackij.ImagePlus*
+
+%23ij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)*
+2
+1*Õ
+4g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaﬂ ﬂ(Ÿ÷
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaﬂ ﬂ(
+%20void")ij.gui.StackWindow#updateSliceSelector()V*
+
+swinij.gui.StackWindow2updateSliceSelector()*
+3*æ
+16g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java -  (2æª
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java -  (>
+%6boolean"ij.ImageStack#isVirtual()Z*
+
+stackij.ImageStack2isVirtual()*
+3
+5
+11
+12*ú
+5g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java⁄ ⁄(ÓÎ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java⁄ ⁄(
+%18void"'ij.ImagePlus#setStack(Lij/ImageStack;)V*
+
+impij.ImagePlus*
+
+stackij.ImageStack2setStack(Lij/ImageStack;)Ÿ÷
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java‹ ‹($
+%19ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()™
+ß
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java‹ ‹(%
+winij.gui.ImageWindow"__id*
+
+%19ij.gui.ImageWindow´
+®
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java› ›((
+swinij.gui.StackWindow"__id*
+
+winij.gui.ImageWindow*
+3
+4*˚
+17g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaƒ ƒ(Ã…
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaƒ ƒ(#
+%0ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()°
+û
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaƒ ƒ($
+stackij.ImageStack"__id*
+
+%0ij.ImageStackì
+ê
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java≈ ≈(
+stack2ij.ImageStack"__id*
+""æª
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java∆ ∆(*
+%1boolean"ij.ImageStack#isVirtual()Z*
+
+stackij.ImageStack2isVirtual()À»
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java« «('
+%2double""ij.ImagePlus#getDisplayRangeMin()D*
+
+impij.ImagePlus2getDisplayRangeMin()À»
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java» »('
+%3double""ij.ImagePlus#getDisplayRangeMax()D*
+
+impij.ImagePlus2getDisplayRangeMax()¬ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java… …(
+%4
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()ô
+ñ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java… …(
+roi
+ij.gui.Roi"__id*
+
+%4
+ij.gui.Roi∞≠
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java   (%	
+%5int"ij.ImageStack#size()I*
+
+stackij.ImageStack2size()*
+3
+16
+5
+11
+12*…
+8g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java’ ’(	 «
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java’ ’( 
+%17void"ij.ImageStack#deleteSlice(I)V*
+
+stackij.ImageStack*
+""2deleteSlice(I)*
+3
+5
+11
+12*ƒ
+9g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java” ”(	ÎË
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java” ”(1
+%15java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+stackij.ImageStack*
+""2getSliceLabel(I)‘—
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java” ”(7
+%16void"Fij.ImageStack#addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+stack2ij.ImageStack*
+
+%15java.lang.String*"
+ 
+ip2ij.process.ImageProcessor27addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)*
+3
+5
+8
+11
+12*ó
+10g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java“ “(œÃ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java“ “(*
+
+%11int"%ij.process.ImageProcessor#getWidth()I*"
+ 
+ip2ij.process.ImageProcessor2
+getWidth()—Œ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java“, “(;
+
+%12int"&ij.process.ImageProcessor#getHeight()I*"
+ 
+ip2ij.process.ImageProcessor2getHeight()ëé
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java“ “(
+%13ij.ImageStack"ij.ImageStack¬
+ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java“ “(<
+%14"ij.ImageStack#<init>(II)V*
+
+%13ij.ImageStack*
+
+
+%11int*
+
+
+%12int£
+†
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java“ “(<
+stack2ij.ImageStack"__id*
+
+%13ij.ImageStack*
+9*›	
+11g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaÕ Õ(˙˜
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaŒ Œ(5
+%8ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*
+""2getProcessor(I)∑
+¥
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaŒ Œ(6 
+ip2ij.process.ImageProcessor"__id*!
+
+%8ij.process.ImageProcessor¯ı
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaœ œ(
+
+%9void"/ij.process.ImageProcessor#setRoi(Lij/gui/Roi;)V*"
+ 
+ip2ij.process.ImageProcessor*
+
+roi
+ij.gui.Roi2setRoi(Lij/gui/Roi;)˜Ù
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java–	 –( 
+%10ij.process.ImageProcessor";ij.process.ImageProcessor#crop()Lij/process/ImageProcessor;*"
+ 
+ip2ij.process.ImageProcessor2crop()∏
+µ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.java– –( 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%10ij.process.ImageProcessor*
+9
+10*¢
+12g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaÃ Ã(¨
+©
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaÃ Ã(,
+
+%7void"ij.IJ#showProgress(II)V*	"
+ij.IJ*
+""*
+""*
+11*Ù
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaÊ	 Ê("Ö
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SubstackMaker.javaÊ Ê(
+
+substackij.ImagePlus:
+impij.ImagePlus:
+"":
+"":
+"":
+titlejava.lang.StringB
+ij.plugin.SubstackMaker

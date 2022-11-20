@@ -1,0 +1,206 @@
+
+aij.plugin.filter.PlugInFilterRunner#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Zs
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java‚ ‚(!"15*¯
+13s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java„5 „(9"}
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java„. „(:
+""* 
+14s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java„! „($ƒ
+¡
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java„! „($
+%1ij.ImagePlus"__id*0*.%
+#ij.plugin.filter.PlugInFilterRunner"
+imp*
+13
+12*€
+15s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java„ „(’
+“
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java„ „(
+%0java.awt.Checkbox"__id*<*:%
+#ij.plugin.filter.PlugInFilterRunner"
+previewCheckbox*
+13
+14*˜
+1s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java˜	 ˜("}
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java˜ ˜(
+""*¢
+2s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaı ı(”
+–
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaı ı(
+%21java.lang.Thread"__id*:*8%
+#ij.plugin.filter.PlugInFilterRunner"
+previewThreadÃ…
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaı ı(
+%22void"java.lang.Thread#interrupt()V*
+
+%21java.lang.Thread2interrupt()*
+1*‹
+3s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÚ Ú(‚
+ﬂ
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÚ Ú(
+%20void"2ij.plugin.filter.PlugInFilterRunner#killPreview()V*'%
+#ij.plugin.filter.PlugInFilterRunner"}
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÛ Û(
+""*Ÿ
+5s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java (”
+–
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java (
+%19java.lang.Thread"__id*:*8%
+#ij.plugin.filter.PlugInFilterRunner"
+previewThread*	
+2
+3
+1*˜
+6s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÓ
+ Ó("}
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÓ Ó(
+""*ı
+7s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÌ Ì(Õ
+ 
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÌ Ì(
+%16java.lang.String"__id*4*2%
+#ij.plugin.filter.PlugInFilterRunner"	
+command◊
+‘
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÌ Ì(0
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+ Preview thread was startedÀ
+»
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÌ Ì(1
+%18void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%17java.lang.String*
+6*–
+8s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÍ Í(”
+–
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÍ Í(
+%12java.lang.Thread"__id*:*8%
+#ij.plugin.filter.PlugInFilterRunner"
+previewThread⁄◊
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÍ Í(&
+%13void" java.lang.Thread#setPriority(I)V*
+
+%12java.lang.Thread*
+""2setPriority(I)”
+–
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÎ Î(
+%14java.lang.Thread"__id*:*8%
+#ij.plugin.filter.PlugInFilterRunner"
+previewThreadƒ¡
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÎ Î(
+%15void"java.lang.Thread#start()V*
+
+%14java.lang.Thread2start()*
+6
+7*Ô
+10s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÊ Ê(Ã
+…
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÁ$ Á(+
+%5java.lang.String"__id*4*2%
+#ij.plugin.filter.PlugInFilterRunner"	
+command¬
+ø
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÁ$ Á(6
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+
+ Preview¢ü
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÁ Á(
+%7java.lang.Thread"java.lang.Threadù
+ö
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÁ Á(7
+%8"@java.lang.Thread#<init>(Ljava/lang/Runnable;Ljava/lang/String;)V*
+
+%7java.lang.Thread*'%
+#ij.plugin.filter.PlugInFilterRunner*
+
+%6java.lang.String“
+œ
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÁ Á(78%
+#ij.plugin.filter.PlugInFilterRunner"
+previewThread"__id*
+
+%7java.lang.Thread⁄
+◊
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaË Ë((
+%9java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.ThreadŒÀ
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaË Ë(6
+
+%10int"java.lang.Thread#getPriority()I*
+
+%9java.lang.Thread2getPriority()í
+è
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÈ È(%
+
+%11int"__id*
+""*
+8*◊
+11s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÂ Â()“
+œ
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaÂ Â()
+%4java.lang.Thread"__id*:*8%
+#ij.plugin.filter.PlugInFilterRunner"
+previewThread*
+5
+10*™
+12s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java‰ ‰(%’
+“
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java‰ ‰(%
+%2java.awt.Checkbox"__id*<*:%
+#ij.plugin.filter.PlugInFilterRunner"
+previewCheckboxÕ 
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.java‰ ‰(0
+%3boolean"java.awt.Checkbox#getState()Z*
+
+%2java.awt.Checkbox2
+getState()*
+5
+11:
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB'%
+#ij.plugin.filter.PlugInFilterRunner

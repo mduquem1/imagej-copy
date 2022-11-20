@@ -1,0 +1,81 @@
+
+=ij.plugin.Slicer#getLine(Lij/process/ImageProcessor;DDDD[F)[F`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaá á("12*ë
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaò ò(	õò
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaò ò(5
+%5double"3ij.process.ImageProcessor#getInterpolatedValue(DD)D*!
+
+ipij.process.ImageProcessor*
+""*
+""2getInterpolatedValue(DD)*
+4
+5
+7
+1*¤
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaï% ï('øõ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaï ï(H	
+%3int"6ij.process.ColorProcessor#getInterpolatedRGBPixel(DD)I*!
+
+ipij.process.ImageProcessor*
+""*
+""2getInterpolatedRGBPixel(DD)³
+°
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javað ð(6
+%4float""java.lang.Float#intBitsToFloat(I)F*"
+java.lang.Float*
+""*
+4
+5
+7
+1*ë
+7`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaí í(	õò
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaí í(5
+%2double"3ij.process.ImageProcessor#getInterpolatedPixel(DD)D*!
+
+ipij.process.ImageProcessor*
+""*
+""2getInterpolatedPixel(DD)*
+4
+5
+7
+1*Ñ
+12`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaâ â(¨
+¥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaä ä(3
+%0double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""¯
+¬
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaä ä(4
+
+%1long"java.lang.Math#round(D)J*"
+java.lang.Math*
+
+%0double*
+4
+5
+7
+1*Ñ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaö
+ ö("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.javaö ö(
+"":
+ipij.process.ImageProcessor:
+"":
+"":
+"":
+"":
+""B
+ij.plugin.Slicer

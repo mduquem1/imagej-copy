@@ -1,0 +1,31 @@
+
+‚ij.plugin.filter.PlugInFilterRunner#duplicateProcessor(Lij/process/ImageProcessor;Ljava/awt/Rectangle;)Lij/process/ImageProcessor;s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaç ç(""1*ä
+1s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaè' è()ñî
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaè' è(1
+%0java.lang.Object"3ij.process.ImageProcessor#clone()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2clone()º
+·
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaè è(2 
+ip2ij.process.ImageProcessor"__id*
+
+%0java.lang.Objectœ™
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaé é(
+
+%1void"7ij.process.ImageProcessor#setRoi(Ljava/awt/Rectangle;)V*"
+ 
+ip2ij.process.ImageProcessor*
+
+roijava.awt.Rectangle2setRoi(Ljava/awt/Rectangle;)"™
+s
+g/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/PlugInFilterRunner.javaê ê("
+ 
+ip2ij.process.ImageProcessor:
+ipij.process.ImageProcessor:
+roijava.awt.RectangleB'%
+#ij.plugin.filter.PlugInFilterRunner

@@ -1,0 +1,89 @@
+
+ij.gui.PointRoi#isHandle(II)I_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∞ ∞("20*Ó
+13_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑k ∑(lÅ
+
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑k ∑(l	
+%5int"__id*
+	
+%7int*
+1*…
+14_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑U ∑(Xú
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑U ∑(X
+%8ij.ImagePlus"__id**
+ij.gui.PointRoi"
+impπ∂
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑U ∑(j	
+%6int"ij.ImagePlus#getCurrentSlice()I*
+
+%8ij.ImagePlus2getCurrentSlice()Å
+
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑U ∑(j	
+%5int"__id*
+	
+%6int*
+1*ƒ
+15_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑@ ∑(Cú
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑@ ∑(C
+%3ij.ImagePlus"__id**
+ij.gui.PointRoi"
+imp≥∞
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑@ ∑(R	
+%4int"ij.ImagePlus#getStackSize()I*
+
+%3ij.ImagePlus2getStackSize()*
+13
+14*é
+16_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑5 ∑(8ú
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑5 ∑(8
+%2ij.ImagePlus"__id**
+ij.gui.PointRoi"
+imp*
+13
+15*Ì
+18_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≥ ≥(|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≥ ≥(	
+%1int"__id*
+""*
+13
+16*–
+19_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≤ ≤("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≤ ≤(
+""*ü
+20_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java± ±(≠
+™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java± ±(!
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+18
+19*œ
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¡	 ¡("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¡ ¡(
+"":
+"":
+""B
+ij.gui.PointRoi

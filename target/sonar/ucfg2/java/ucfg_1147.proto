@@ -1,0 +1,27 @@
+
+3ij.plugin.filter.ThresholdToSelection#selected(II)Zs
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java2 2("3*¼
+3s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java3 3(Ò
+Ï
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java3 3(
+%0ij.process.ImageProcessor"__id*1*/'
+%ij.plugin.filter.ThresholdToSelection"
+ipçä
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java3 3(
+%1float"#ij.process.ImageProcessor#getf(II)F*!
+
+%0ij.process.ImageProcessor*
+""*
+""2getf(II)*
+1*÷
+1s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java4 4("}
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ThresholdToSelection.java4 4(
+"":
+"":
+""B)'
+%ij.plugin.filter.ThresholdToSelection

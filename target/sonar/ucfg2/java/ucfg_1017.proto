@@ -1,0 +1,87 @@
+
+?ij.process.ByteProcessor#createMask()Lij/process/ByteProcessor;h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java…	 …	( "9*†
+5h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java—	 —	(´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java—	 —	(
+%8byte[]"__id*(*&
+ij.process.ByteProcessor"
+pixels*
+6*£
+6h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java–	 –	(´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java–	 –	(
+%7byte[]"__id*(*&
+ij.process.ByteProcessor"
+pixels*
+5
+1*Ú
+7h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaÃ	 Ã	()⁄◊
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaÃ	 Ã	(+
+%2double",ij.process.ImageProcessor#getMinThreshold()D*
+ij.process.ByteProcessor2getMinThreshold()⁄◊
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaÕ	 Õ	(+
+%3double",ij.process.ImageProcessor#getMaxThreshold()D*
+ij.process.ByteProcessor2getMaxThreshold()ß§
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaŒ	 Œ	((
+%4ij.process.ByteProcessor"ij.process.ByteProcessorÀ
+»
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaŒ	 Œ	(7
+%5"$ij.process.ByteProcessor#<init>(II)V* 
+
+%4ij.process.ByteProcessor*
+""*
+""∑
+¥
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaŒ	 Œ	(8 
+maskij.process.ByteProcessor"__id* 
+
+%4ij.process.ByteProcessorÓÎ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaœ	 œ	(+
+%6java.lang.Object"6ij.process.ByteProcessor#getPixels()Ljava/lang/Object;*"
+ 
+maskij.process.ByteProcessor2getPixels()†
+ù
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaœ	 œ	(,
+mpixelsbyte[]"__id*
+
+%6java.lang.Object*
+6*·
+8h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaÀ	
+ À	("r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaÀ	 À	(
+""*ﬁ
+9h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java 	  	(⁄◊
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java 	  	(
+%0double",ij.process.ImageProcessor#getMinThreshold()D*
+ij.process.ByteProcessor2getMinThreshold()â
+Ü
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java 	  	(%
+%1double"__id*
+""*
+7
+8*˛
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java’		 ’	("é
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java’	 ’	("
+ 
+maskij.process.ByteProcessorB
+ij.process.ByteProcessor

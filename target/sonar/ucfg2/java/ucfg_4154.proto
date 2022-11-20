@@ -1,0 +1,314 @@
+
+Yij.plugin.AppearanceOptions#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Zi
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javap p(!"28*Á
+13k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaè è(‹Ÿ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaè è(+
+
+%20int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()¥
+±
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaê ê(/
+
+%21int"$ij.ImagePlus#getDefault16bitRange()I*"
+ij.ImagePlusﬁ
+€
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaë ë(:
+
+%22int"2ij.plugin.frame.ContrastAdjuster#set16bitRange(I)I*$""
+ ij.plugin.frame.ContrastAdjuster*
+""Õ
+ 
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaí í(1
+%23ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager¢
+ü
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaí í(2
+impij.ImagePlus"__id*
+
+%23ij.ImagePlus*
+11
+12*ò
+24i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java| |(	ú
+ô
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java| |(
+%11boolean"ij.IJ#isMacOSX()Z*	"
+ij.IJ*
+22
+23*…
+14k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaç ç(œÃ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaç ç(5
+%19void""java.awt.Window#setAlwaysOnTop(Z)V*
+
+ij	ij.ImageJ*
+""2setAlwaysOnTop(Z)*
+13*Œ
+25i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java{ {(÷”
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java{% {(8
+%10boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+24*…
+15k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaå å(≠
+™
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaå å(
+%18	ij.ImageJ"ij.IJ#getInstance()Lij/ImageJ;*	"
+ij.IJõ
+ò
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaå å( 
+ij	ij.ImageJ"__id*
+
+%18	ij.ImageJ*
+13
+14*˛
+26i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javar r(’“
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javar r(+
+%2boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()’“
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javas s(,
+%3boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()’“
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javat t(+
+%4boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()’“
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javau u((
+%5boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()’“
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javav v(-
+%6boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()’“
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javax x(*
+%7boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()’“
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javay y()
+%8boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()ö
+ó
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaz z(
+%9boolean"ij.IJ#isLinux()Z*	"
+ij.IJ*
+24
+25*ì
+27i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaq q(õ
+ò
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaq q(!
+
+%1void"ij.IJ#wait(I)V*	"
+ij.IJ*2d*
+26*€
+17k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaà à(›⁄
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaâ â(
+%17void",ij.plugin.AppearanceOptions#repaintWindow()V*
+ij.plugin.AppearanceOptions2repaintWindow()*
+13
+15*ó
+28i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaq q(õ
+ò
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaq q(
+%0boolean"ij.IJ#isMacOSX()Z*	"
+ij.IJ*
+26
+27*ﬂ
+19k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaÑ Ñ(›⁄
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaÖ Ö(
+%16void",ij.plugin.AppearanceOptions#repaintWindow()V*
+ij.plugin.AppearanceOptions2repaintWindow()*
+13
+15
+17*Á
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaö	 ö("u
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaö ö(
+""*º
+2k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaò ò(ƒ¡
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaò ò(
+%35void"ij.ImagePlus#updateAndDraw()V*
+
+impij.ImagePlus2updateAndDraw()*
+1*Ø
+3k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaó ó(∫
+∑
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaó" ó(&
+%33ij.process.LUT[]"__id*)*'
+ij.plugin.AppearanceOptions"
+luts˙˜
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaó ó('
+%34void"-ij.CompositeImage#setLuts([Lij/process/LUT;)V*
+
+impij.ImagePlus*
+
+%33ij.process.LUT[]2setLuts([Lij/process/LUT;)*
+2*µ
+4k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javañ. ñ(2∫
+∑
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javañ. ñ(2
+%32ij.process.LUT[]"__id*)*'
+ij.plugin.AppearanceOptions"
+luts*
+2
+3*æ
+5k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javañ ñ(√¿
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javañ ñ(*
+%31boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+2
+4*«
+6k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaï ï(Ã…
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaï ï(
+%30void"!ij.ImagePlus#resetDisplayRange()V*
+
+impij.ImagePlus2resetDisplayRange()*
+2
+5*÷
+7k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaîI î(L€ÿ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaîI î(\
+%29boolean"'ij.measure.Calibration#isSigned16Bit()Z*
+
+calij.measure.Calibration2isSigned16Bit()*
+6
+1*ø
+8k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaî% î((∑¥
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaî% î(2
+
+%27int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()ä
+á
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaî4 î(D
+
+%28int"__id*
+""*
+7
+1*—
+21k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaÄ Ä(À»
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaÅ Å(	
+%15void"#ij.plugin.AppearanceOptions#draw()V*
+ij.plugin.AppearanceOptions2draw()*
+13
+15
+17
+19*≤
+10k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaì ì(8∂
+≥
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaì ì(8
+calij.measure.Calibration"__id*
+
+%24ij.measure.Calibration*
+8
+1*í
+22i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java~ ~(”–
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java~ ~(&
+%13double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()¥
+±
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java~ ~('
+%14void"ij.Prefs#setGuiScale(D)V*"
+
+ij.Prefs*
+
+%13double*
+13
+15
+17
+19
+21*§
+11k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaì3 ì(7™
+ß
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaì3 ì(7
+%24ij.measure.Calibration"__id*
+
+%26
+<nulltype>*
+10*¢
+12k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaì ì(!ÔÏ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaì ì(2
+%25ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()∂
+≥
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.javaì ì(2
+%24ij.measure.Calibration"__id*
+
+%25ij.measure.Calibration*
+10*À
+23i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java} }(”–
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AppearanceOptions.java} }()
+%12double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+22:
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.AppearanceOptions

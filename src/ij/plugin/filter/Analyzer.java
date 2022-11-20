@@ -368,7 +368,7 @@ public class Analyzer implements PlugInFilter, Measurements {
 			ip.setRoi(0, 0, imp.getWidth(), imp.getHeight());
 		} else
 			ip.setRoi(roi);
-		return ImageStatistics.getStatistics(ip, measurements, redirectImp.getCalibration());
+		return ImageStatistics.getStatistics(ip, measurements, redirectImp.getCalibration(), null);
 	}
 	
 	void measurePoint(Roi roi) {
@@ -398,7 +398,7 @@ public class Analyzer implements PlugInFilter, Measurements {
 			else
 				ip = imp2.getProcessor();
 			ip.setRoi((int)Math.round(p.xpoints[i]), (int)Math.round(p.ypoints[i]), 1, 1);
-			ImageStatistics stats = ImageStatistics.getStatistics(ip, measurements, imp2.getCalibration());
+			ImageStatistics stats = ImageStatistics.getStatistics(ip, measurements, imp2.getCalibration(), null);
 			stats.xCenterOfMass = p.xpoints[i];
 			stats.yCenterOfMass = p.ypoints[i];
 			PointRoi point = new PointRoi(p.xpoints[i], p.ypoints[i]);
@@ -504,7 +504,7 @@ public class Analyzer implements PlugInFilter, Measurements {
 		}
 		if (limit!=0 && minThreshold!=ImageProcessor.NO_THRESHOLD)
 			ip2.setThreshold(minThreshold,maxThreshold,ImageProcessor.NO_LUT_UPDATE);
-		ImageStatistics stats = ImageStatistics.getStatistics(ip2, AREA+MEAN+STD_DEV+MODE+MIN_MAX+MEDIAN+limit, imp2.getCalibration());
+		ImageStatistics stats = ImageStatistics.getStatistics(ip2, AREA+MEAN+STD_DEV+MODE+MIN_MAX+MEDIAN+limit, imp2.getCalibration(), null);
 		if (saveR!=null)
 			ip2.setRoi(saveR);
 		if ((roi instanceof Line) && (measurements&CENTROID)!=0) {

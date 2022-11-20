@@ -1,0 +1,56 @@
+
+Hij.plugin.frame.Fitter#zapGremlins(Ljava/lang/String;)Ljava/lang/String;f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaâ â("11*«
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaï ï(ïí
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaï ï(
+%2java.lang.String"java.lang.Stringº
+π
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaï
+ ï(
+%3"java.lang.String#<init>([C)V*
+
+%2java.lang.String*
+
+charschar[]"Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaï ï(
+
+%2java.lang.String*ö
+11f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaä ä(∏µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaä ä('	
+%0int"java.lang.String#length()I*
+
+textjava.lang.String2length()ä
+á
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaä ä()
+charschar[]"__id*
+""∆√
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaã
+ ã(
+%1char[]" java.lang.String#toCharArray()[C*
+
+textjava.lang.String2toCharArray()í
+è
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaã ã(
+charschar[]"__id*
+
+%1char[]*
+2
+1*Ú
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaó
+ ó("Ñ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaó ó(
+
+textjava.lang.String:
+textjava.lang.StringB
+ij.plugin.frame.Fitter

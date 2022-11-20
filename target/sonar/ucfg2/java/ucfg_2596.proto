@@ -1,0 +1,68 @@
+
+ij.gui.Roi#getFloatAngle(DDDD)DZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaø ø("4*ÿ
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü ü(’
+
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü ü(
+%2ij.ImagePlus"__id**
+
+ij.gui.Roi"
+impÜÙ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü ü()
+%3ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%2ij.ImagePlus2getCalibration()¤
+¡
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü ü(*
+calij.measure.Calibration"__id*
+
+%3ij.measure.Calibration*
+1*ø
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû û(
+‹
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû û(#
+%1boolean"ij.IJ#altKeyDown()Z*	"
+ij.IJ*
+2
+1*ü
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaù ù(’
+
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû û(	
+%0ij.ImagePlus"__id**
+
+ij.gui.Roi"
+imp*
+3
+1*ğ
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java€
+ €(z
+x
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java€ €(
+%4double"__id*
+""¬
+©
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java€ €(+
+%5double"java.lang.Math#atan2(DD)D*"
+java.lang.Math*
+""*
+"""d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java€ €(,
+"":
+"":
+"":
+"":
+""B
+
+ij.gui.Roi

@@ -1,0 +1,55 @@
+
+@ij.plugin.frame.RoiManager#getSelectedRoisAsArray()[Lij/gui/Roi;j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaï ï($"5*®
+3j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaô ô(º
+·
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaô ô(
+%2java.util.ArrayList"__id*(*&
+ij.plugin.frame.RoiManager"
+rois¸
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaô ô('
+%3java.lang.Object"
+__arrayGet*
+
+%2java.util.ArrayList*
+""¼
+¹
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaô ô('
+%4"
+__arraySet*
+
+arrayij.gui.Roi[]*
+""*
+
+%3java.lang.Object*
+3
+1*ˆ
+5j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javað ð(ÕÒ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javað ð(
+%0int[]")ij.plugin.frame.RoiManager#getIndexes()[I*
+ij.plugin.frame.RoiManager2getIndexes()‘Ž
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaò ò(
+%1ij.gui.Roi[]"ij.gui.Roi[]¢
+Ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaò ò(
+arrayij.gui.Roi[]"__id*
+
+%1ij.gui.Roi[]*
+3
+1*÷
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaõ	 õ("…
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaõ õ(
+
+arrayij.gui.Roi[]B
+ij.plugin.frame.RoiManager

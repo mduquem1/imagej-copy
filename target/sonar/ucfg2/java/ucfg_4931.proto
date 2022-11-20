@@ -1,0 +1,71 @@
+
+2ij.io.RoiDecoder#openFromByteArray([B)Lij/gui/Roi;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÕ Õ($"9*ˇ
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java” ”(í
+è
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java” ”(
+roi
+ij.gui.Roi"__id*
+
+%2
+ij.gui.Roi*
+1*Ÿ
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java“ “(4¢
+ü
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java“ “(4
+decoderij.io.RoiDecoder"__id*
+
+%0ij.io.RoiDecoder«ƒ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java”	 ”(
+%2
+ij.gui.Roi"%ij.io.RoiDecoder#getRoi()Lij/gui/Roi;*
+
+decoderij.io.RoiDecoder2getRoi()*
+2*œ
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java“' “(,èå
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java“ “(&
+%0ij.io.RoiDecoder"ij.io.RoiDecoder–
+Õ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java“ “(3
+%1".ij.io.RoiDecoder#<init>([BLjava/lang/String;)V*
+
+%0ij.io.RoiDecoder*
+
+bytesbyte[]*
+""*
+4*ﬁ
+7`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java–
+ –("w
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java– –(
+
+roi
+ij.gui.Roi*ˆ
+9`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaŒ Œ(Ü
+É
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaŒ Œ(
+roi
+ij.gui.Roi"__id*
+""*
+5
+7*ﬁ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java◊	 ◊("w
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java◊ ◊(
+
+roi
+ij.gui.Roi:
+bytesbyte[]B"
+ij.io.RoiDecoder

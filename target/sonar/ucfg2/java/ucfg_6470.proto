@@ -1,0 +1,32 @@
+
+Hij.plugin.frame.RoiManager#runCommand(Lij/ImagePlus;Ljava/lang/String;)Zj
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaå å("1*≤
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaç ç(ﬂ
+‹
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaç ç((
+
+%0void"5ij.WindowManager#setTempCurrentImage(Lij/ImagePlus;)V*"
+ij.WindowManager*
+
+impij.ImagePlusïí
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaé é(
+%1boolean":ij.plugin.frame.RoiManager#runCommand(Ljava/lang/String;)Z*
+ij.plugin.frame.RoiManager*
+
+cmdjava.lang.String2runCommand(Ljava/lang/String;)–
+Õ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaè è()
+
+%2void"5ij.WindowManager#setTempCurrentImage(Lij/ImagePlus;)V*"
+ij.WindowManager*
+"""t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaê ê(
+"":
+impij.ImagePlus:
+cmdjava.lang.StringB
+ij.plugin.frame.RoiManager

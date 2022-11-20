@@ -1,0 +1,106 @@
+
+;ij.plugin.frame.RoiManager#getColumnCount(Lij/ImagePlus;I)Ij
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÈ	 È	("7*á
+5j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÒ	 Ò	(›⁄
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÒ	 Ò	( 
+%8float[]"&ij.measure.ResultsTable#getColumn(I)[F*
+
+rtij.measure.ResultsTable*
+""2getColumn(I)ÑÅ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÚ	 Ú	('
+%9java.lang.String"=ij.measure.ResultsTable#getColumnHeading(I)Ljava/lang/String;*
+
+rtij.measure.ResultsTable*
+""2getColumnHeading(I)©
+¶
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÚ	 Ú	((
+headjava.lang.String"__id*
+
+%9java.lang.String*
+6*–
+6j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java	 	(÷”
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java	 	(%	
+%7int"(ij.measure.ResultsTable#getLastColumn()I*
+
+rtij.measure.ResultsTable2getLastColumn()*
+5
+1*Æ
+7j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÍ	 Í	(˝˙
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÍ	 Í	(9 
+%0ij.process.ImageStatistics"9ij.ImagePlus#getStatistics(I)Lij/process/ImageStatistics;*
+
+impij.ImagePlus*
+""2getStatistics(I)æ
+ª
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÍ	 Í	(:#
+statsij.process.ImageStatistics"__id*"
+ 
+%0ij.process.ImageStatisticsß§
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÎ	 Î	($
+%1ij.measure.ResultsTable"ij.measure.ResultsTableπ
+∂
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÎ	 Î	(&
+%2"!ij.measure.ResultsTable#<init>()V*
+
+%1ij.measure.ResultsTableµ
+≤
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÎ	 Î	('
+rtij.measure.ResultsTable"__id*
+
+%1ij.measure.ResultsTable·ﬁ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÏ	 Ï	(
+
+%3void"*ij.measure.ResultsTable#showRowNumbers(Z)V*
+
+rtij.measure.ResultsTable*22showRowNumbers(Z)´®
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÌ	 Ì	("
+%4ij.plugin.filter.Analyzer"ij.plugin.filter.Analyzer•
+¢
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÌ	 Ì	(9
+%5"Kij.plugin.filter.Analyzer#<init>(Lij/ImagePlus;ILij/measure/ResultsTable;)V*!
+
+%4ij.plugin.filter.Analyzer*
+
+impij.ImagePlus*
+""*
+
+rtij.measure.ResultsTableø
+º
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÌ	 Ì	(:%
+analyzerij.plugin.filter.Analyzer"__id*!
+
+%4ij.plugin.filter.Analyzer‹Ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÓ	 Ó	(#
+
+%6void"Pij.plugin.filter.Analyzer#saveResults(Lij/process/ImageStatistics;Lij/gui/Roi;)V*'
+%
+analyzerij.plugin.filter.Analyzer*%
+#
+statsij.process.ImageStatistics*
+""25saveResults(Lij/process/ImageStatistics;Lij/gui/Roi;)*
+6*Â
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaˆ		 ˆ	("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaˆ	 ˆ	(
+"":
+impij.ImagePlus:
+""B
+ij.plugin.frame.RoiManager

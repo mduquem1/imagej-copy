@@ -1,0 +1,73 @@
+
+,ij.io.Opener#isFullPath(Ljava/lang/String;)Z\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaž ž(!"9"10*Ø
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢j ¢(nïì
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢j ¢(~
+%4boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+pathjava.lang.String*
+://2"contains(Ljava/lang/CharSequence;)*
+1*Ú
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢S ¢(Wîë
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢S ¢(f
+%3boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+pathjava.lang.String*
+:/2"contains(Ljava/lang/CharSequence;)*
+2
+1*Þ
+6\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢; ¢(?ïì
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢; ¢(O
+%2boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+pathjava.lang.String*
+:\\2"contains(Ljava/lang/CharSequence;)*	
+2
+4
+1*Ø
+8\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢" ¢(&æã
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢" ¢(7
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+\\2startsWith(Ljava/lang/String;)*
+2
+4
+6
+1*Ú
+9\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢
+ ¢(åâ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢
+ ¢(
+%0boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+/2startsWith(Ljava/lang/String;)*
+2
+4
+6
+8
+1*Ê
+10\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java 
+  ("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java   (
+""*É
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢ ¢("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¢ ¢(
+"":
+pathjava.lang.StringB"
+ij.io.Opener

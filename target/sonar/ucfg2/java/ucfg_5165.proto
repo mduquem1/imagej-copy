@@ -1,0 +1,41 @@
+
+)ij.plugin.filter.Filler#isStraightLine()Ze
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaK	 K("3*Œ
+2e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaL L(®
+•
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaL L(
+%1
+ij.gui.Roi"__id*$*"
+ij.plugin.filter.Filler"
+roi´®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaL L(#	
+%2int"ij.gui.Roi#getType()I*
+
+%1
+ij.gui.Roi2	getType()É
+Ä
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaL% L(-	
+%3int"__id*
+""*
+1*ù
+3e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaL	 L(®
+•
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaL	 L(
+%0
+ij.gui.Roi"__id*$*"
+ij.plugin.filter.Filler"
+roi*
+2
+1*€
+1e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaL L(."o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaL L(.
+""B
+ij.plugin.filter.Filler

@@ -1,0 +1,122 @@
+
+0ij.ImageJ#getPreferredLocation()Ljava/awt/Point;Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java¶ ¶(""11*È
+4Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java∞+ ∞(.É
+Ä
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java∞+ ∞(.
+%9double"__id*
+
+%11double*
+1*È
+5Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java∞' ∞(*É
+Ä
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java∞' ∞(*
+%9double"__id*
+
+%10double*
+1*˛
+6Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaÆ Æ(ñ
+ì
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaÆ Æ(
+%7ij.gui.Toolbar"__id**
+	ij.ImageJ"	
+toolbar€ÿ
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaÆ Æ(/
+%8java.awt.Dimension"5ij.gui.Toolbar#getPreferredSize()Ljava/awt/Dimension;*
+
+%7ij.gui.Toolbar2getPreferredSize()û
+õ
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaÆ Æ(0
+tbsizejava.awt.Dimension"__id*
+
+%8java.awt.Dimension*
+4
+5*Ö
+7Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java≠ ≠(ÑÅ
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java≠ ≠(
+%5java.awt.Point"java.awt.Point®
+•
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java≠
+ ≠(
+%6"java.awt.Point#<init>(II)V*
+
+%5java.awt.Point*
+""*
+"""s
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java≠ ≠(
+
+%5java.awt.Point*ﬂ
+11Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaß ß(Ñ
+Å
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaß ß(
+%0java.lang.String"__id*
+""¿
+Ω
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaß ß("	
+%1int"%ij.Prefs#getInt(Ljava/lang/String;I)I*"
+
+ij.Prefs*
+
+%0java.lang.String*
+""Ñ
+Å
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java® ®(
+%2java.lang.String"__id*
+""¿
+Ω
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java® ®("	
+%3int"%ij.Prefs#getInt(Ljava/lang/String;I)I*"
+
+ij.Prefs*
+
+%2java.lang.String*
+""Ω
+∫
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java© ©(0
+%4java.awt.Rectangle"3ij.gui.GUI#getMaxWindowBounds()Ljava/awt/Rectangle;*"
+
+ij.gui.GUI°
+û
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java© ©(1
+	maxBoundsjava.awt.Rectangle"__id*
+
+%4java.awt.Rectangle*
+6
+7*â
+1Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java≥ ≥(ÖÇ
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java≥ ≥(
+%12java.awt.Point"java.awt.Point™
+ß
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java≥	 ≥($
+%13"java.awt.Point#<init>(II)V*
+
+%12java.awt.Point*
+""*
+"""t
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java≥ ≥(%
+
+%12java.awt.PointB
+	ij.ImageJ

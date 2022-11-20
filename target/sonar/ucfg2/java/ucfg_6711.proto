@@ -1,0 +1,36 @@
+
+Hij.process.ColorProcessor#createProcessor(II)Lij/process/ImageProcessor;g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javab b(&"1*®
+1g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javac* c(/®•
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javac c()
+%0ij.process.ColorProcessor"ij.process.ColorProcessorÃ
+…
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javac c(8
+%1"%ij.process.ColorProcessor#<init>(II)V*!
+
+%0ij.process.ColorProcessor*
+""*
+""∑
+¥
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javac c(9 
+ip2ij.process.ImageProcessor"__id*!
+
+%0ij.process.ColorProcessorıÚ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javad d(1
+
+%2void"4ij.process.ImageProcessor#setInterpolationMethod(I)V*"
+ 
+ip2ij.process.ImageProcessor*
+""2setInterpolationMethod(I)"ç
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javae e("
+ 
+ip2ij.process.ImageProcessor:
+"":
+""B
+ij.process.ColorProcessor

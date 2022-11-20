@@ -1,0 +1,105 @@
+
+Iij.plugin.tool.BrushTool#getOverlayImage(Lij/ImagePlus;)Lij/gui/ImageRoi;f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javap p(!"11"12*Ý
+2f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java{
+ {("p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java{ {(
+""*«
+3f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaz> z(Dµ²
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javazM z(\	
+%4int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()*
+2
+1*©
+4f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaz  z(&³°
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javaz. z(<	
+%3int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()*
+2
+3*÷
+6f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javay y(ÓÐ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javay y($
+%2java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()«
+¨
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javay y(%
+boundsjava.awt.Rectangle"__id*
+
+%2java.awt.Rectangle*
+2
+4*Ý
+7f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javax
+ x("p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javax x(
+""*…
+9f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javav v(ôñ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javav v("
+%1
+ij.gui.Roi"2ij.gui.Overlay#get(Ljava/lang/String;)Lij/gui/Roi;*
+
+overlayij.gui.Overlay*	
+[Brush]2get(Ljava/lang/String;)˜
+•
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javav v(#
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roi*
+6
+7*Þ
+10f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javau
+ u("p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javau u(
+""*ð
+11f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javas s(ÑÎ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javas s($
+%0ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()¤
+¡
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javas s(%
+overlayij.gui.Overlay"__id*
+
+%0ij.gui.Overlay*
+9
+10*Þ
+12f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javar
+ r("p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.javar r(
+""*ê
+1f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java| |("}
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/BrushTool.java| |(
+
+roi
+ij.gui.Roi:
+impij.ImagePlusB
+ij.plugin.tool.BrushTool

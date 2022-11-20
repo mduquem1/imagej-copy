@@ -1,0 +1,26 @@
+
+8ij.Prefs#getString(Ljava/lang/String;)Ljava/lang/String;X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javað ð("1*ˆ
+1X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javañ	 ñ(˜
+•
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javañ	 ñ(
+%0java.util.Properties"__id**
+
+ij.Prefs"
+props—”
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javañ	 ñ(
+%1java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%0java.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;)"t
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javañ ñ( 
+
+%1java.lang.String:
+keyjava.lang.StringB"
+
+ij.Prefs

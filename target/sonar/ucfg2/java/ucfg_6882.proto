@@ -1,0 +1,184 @@
+
+%ij.gui.PolygonRoi#getSpline(I[F[F)[[Fa
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java≠ ≠("27"20*†
+3a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java’ ’(÷”
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java÷ ÷(-
+%20double"&ij.measure.SplineFitter#evalSpline(D)D* 
+
+sfxij.measure.SplineFitter*
+""2evalSpline(D)÷”
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java◊ ◊(-
+%21double"&ij.measure.SplineFitter#evalSpline(D)D* 
+
+sfyij.measure.SplineFitter*
+""2evalSpline(D)*
+3
+1*—
+15a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaΩ Ω(©
+¶
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaø$ ø(:
+%8double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""±
+Æ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaø ø(;
+%9double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+
+%8double*
+15
+11*™
+5a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaœ& œ(3≠™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaœC œ(K
+%14boolean"ij.gui.Roi#isLine()Z*
+ij.gui.PolygonRoi2isLine()üú
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaœ œ(%
+%15ij.measure.SplineFitter"ij.measure.SplineFitterÿ
+’
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaœ œ(L
+%16"'ij.measure.SplineFitter#<init>([F[FIZ)V* 
+
+%15ij.measure.SplineFitter*
+""*
+""*
+""*
+""Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaœ œ(M
+sfxij.measure.SplineFitter"__id* 
+
+%15ij.measure.SplineFitter≠™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java–C –(K
+%17boolean"ij.gui.Roi#isLine()Z*
+ij.gui.PolygonRoi2isLine()üú
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java– –(%
+%18ij.measure.SplineFitter"ij.measure.SplineFitterÿ
+’
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java– –(L
+%19"'ij.measure.SplineFitter#<init>([F[FIZ)V* 
+
+%18ij.measure.SplineFitter*
+""*
+""*
+""*
+""Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java– –(M
+sfyij.measure.SplineFitter"__id* 
+
+%18ij.measure.SplineFitter*
+3
+1*ò
+27a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaØ	 Ø(ß
+§
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaØ	 Ø(
+%0float[]"ij.gui.Roi#toFloat([I)[F*"
+
+ij.gui.Roi*
+""ß
+§
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java∞	 ∞(
+%1float[]"ij.gui.Roi#toFloat([I)[F*"
+
+ij.gui.Roi*
+""‘—
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java± ±(
+
+%2void"-ij.gui.PolygonRoi#enableSubPixelResolution()V*
+ij.gui.PolygonRoi2enableSubPixelResolution()*
+20*ƒ
+17a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java∑ ∑(.–Õ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java∏ ∏()
+%7double"*ij.gui.PolygonRoi#getUncalibratedLength()D*
+ij.gui.PolygonRoi2getUncalibratedLength()*
+15
+11*Ù
+18a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java∑$ ∑(+Ñ
+Å
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java∑$ ∑(-	
+%4int"__id*
+	
+%6int*
+17*∑
+7a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÀ À()…∆
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÀ À(1
+%13void"#ij.gui.PolygonRoi#enlargeArrays(I)V*
+ij.gui.PolygonRoi*
+""2enlargeArrays(I)*
+5*Ù
+19a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java∑ ∑(!Ñ
+Å
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java∑ ∑(!	
+%4int"__id*
+	
+%5int*
+17*†
+20a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java∑ ∑(¨©
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java∑ ∑(
+%3boolean"ij.gui.Roi#isLine()Z*
+ij.gui.PolygonRoi2isLine()*
+18
+19*“
+10a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java≈ ≈(™
+ß
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java«$ «(:
+%11double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""≥
+∞
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java« «(;
+%12double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+
+%11double*
+5
+7*†
+11a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaƒ ƒ(≠™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaƒ ƒ(
+%10boolean"ij.gui.Roi#isLine()Z*
+ij.gui.PolygonRoi2isLine()*
+5
+10*”
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaŸ Ÿ("k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaŸ Ÿ(*
+"":
+"":
+"":
+""B
+ij.gui.PolygonRoi

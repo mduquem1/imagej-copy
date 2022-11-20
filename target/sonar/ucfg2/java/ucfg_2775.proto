@@ -1,0 +1,62 @@
+
+8ij.measure.Calibration#equals(Lij/measure/Calibration;)Zf
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaÜ Ü("6"11*Þ
+4f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaä ä(¹
+¶
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaä ä(
+%3java.lang.String"__id*.*,
+
+calij.measure.Calibration"
+	valueUnit´
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaä ä(&
+%4java.lang.String"__id*)*'
+ij.measure.Calibration"
+	valueUnitøõ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaä ä('
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%3java.lang.String*
+
+%4java.lang.String2equals(Ljava/lang/Object;)*
+1*Ô
+6f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaâ â(´
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaâ â(
+%0java.lang.String"__id*)*'
+
+calij.measure.Calibration"
+unit¯
+¬
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaâ â(
+%1java.lang.String"__id*$*"
+ij.measure.Calibration"
+unitøõ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaâ â(
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+%1java.lang.String2equals(Ljava/lang/Object;)*
+4*Þ
+11f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaÞ Þ("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaÞ Þ(
+""*Ý
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaæ
+ æ("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaæ æ(
+"":
+calij.measure.CalibrationB
+ij.measure.Calibration

@@ -1,0 +1,61 @@
+
+Jij.process.FloatPolygon#getFloatBounds()Ljava/awt/geom/Rectangle2D$Double;e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaO O()"3"4*æ
+2e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaS S(ôñ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaS S(-
+
+%3void"/ij.process.FloatPolygon#calculateBounds([F[FI)V*
+ij.process.FloatPolygon*
+""*
+""*
+""2calculateBounds([F[FI)*
+1*¨
+3e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaR R(³
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaR R(
+%2java.awt.Rectangle"__id*'*%
+ij.process.FloatPolygon"
+bounds*
+2
+1*þ
+4e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaQ
+ Q("´±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaQ Q( &
+%0 java.awt.geom.Rectangle2D$Double" java.awt.geom.Rectangle2D$DoubleÆ
+Ã
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaQ
+ Q("
+%1"*java.awt.geom.Rectangle2D$Double#<init>()V*(
+&
+%0 java.awt.geom.Rectangle2D$Double"‘
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaQ Q(#(
+&
+%0 java.awt.geom.Rectangle2D$Double*¢
+1e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaT  T($´±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaT T(&
+%4 java.awt.geom.Rectangle2D$Double" java.awt.geom.Rectangle2D$Doubleê
+ç
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaT	 T(A
+%5".java.awt.geom.Rectangle2D$Double#<init>(DDDD)V*(
+&
+%4 java.awt.geom.Rectangle2D$Double*
+""*
+""*
+""*
+"""‘
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatPolygon.javaT T(B(
+&
+%4 java.awt.geom.Rectangle2D$DoubleB
+ij.process.FloatPolygon

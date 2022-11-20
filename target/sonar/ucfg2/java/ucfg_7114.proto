@@ -1,0 +1,561 @@
+
+Iij.plugin.MontageMaker#makeMontage2(Lij/ImagePlus;IIDIIIIZ)Lij/ImagePlus;f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaò ò("36*ﬁ
+35f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java® ®(À
+»
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java® ®()
+%12java.awt.Color"3ij.gui.Toolbar#getForegroundColor()Ljava/awt/Color;*"
+ij.gui.Toolbar•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java® ®()
+fgColorjava.awt.Color"__id*
+
+%12java.awt.ColorÀ
+»
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java© ©()
+%13java.awt.Color"3ij.gui.Toolbar#getBackgroundColor()Ljava/awt/Color;*"
+ij.gui.Toolbar•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java© ©()
+bgColorjava.awt.Color"__id*
+
+%13java.awt.Color*
+28*°
+13f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java€ €(£
+†
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java€ €(6
+%43void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""*
+3
+5
+9
+20*Ö
+24f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaø ø(
+êç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaø ø(
+%28void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*&
+$
+montageij.process.ImageProcessor*
+
+fgColorjava.awt.Color2setColor(Ljava/awt/Color;)*
+22*Ñ
+36f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaô ô(≥∞
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaô ô(!	
+%0int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()µ≤
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaö ö(#	
+%1int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()ª∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaõ õ("	
+%2int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()ÎË
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java† †((
+%3ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()µ
+≤
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java† †()
+ipij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessorûõ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java° °(J
+%4ij.process.ImageProcessor"Hij.process.ImageProcessor#createProcessor(II)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*
+""*
+""2createProcessor(II)∫
+∑
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java° °(K$
+montageij.process.ImageProcessor"__id*!
+
+%4ij.process.ImageProcessorçä
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¢ ¢( 
+%5ij.ImagePlus"ij.ImagePlusÅ
+˛
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¢ ¢(4
+%6"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%5ij.ImagePlus*	
+Montage*&
+$
+montageij.process.ImageProcessorù
+ö
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¢ ¢(5
+imp2ij.ImagePlus"__id*
+
+%5ij.ImagePlusÈÊ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java£ £(*
+%7ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()ëé
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java£ £(+
+
+%8void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+imp2ij.ImagePlus*
+
+%7ij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)ÏÈ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java§ §(
+%9ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+imp2ij.ImagePlus2getProcessor()∫
+∑
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java§ §($
+montageij.process.ImageProcessor"__id*!
+
+%9ij.process.ImageProcessorê
+ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java• •(
+%10java.awt.Color"__id*
+""•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java• •(
+fgColorjava.awt.Color"__id*
+
+%10java.awt.Colorê
+ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¶ ¶(
+%11java.awt.Color"__id*
+""•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¶ ¶(
+bgColorjava.awt.Color"__id*
+
+%11java.awt.Color*
+35
+28
+29
+32*º
+25f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaΩ Ω(	À»
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaΩ Ω(
+%25void"!ij.process.ImageProcessor#fill()V*&
+$
+montageij.process.ImageProcessor2fill()¥
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaæ æ(/
+%26double"$ij.gui.Toolbar#getForegroundValue()D*"
+ij.gui.Toolbaræ
+ª
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaæ æ(0
+%27boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+
+%26double*
+24
+23*Ë
+26f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaº º(
+Û
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaº º(%
+%24void"5ij.process.ImageProcessor#setGlobalBackgroundColor()V*&
+$
+montageij.process.ImageProcessor2setGlobalBackgroundColor()*
+25*Ö
+27f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java∫ ∫(
+êç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java∫ ∫(
+%23void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*&
+$
+montageij.process.ImageProcessor*
+
+bgColorjava.awt.Color2setColor(Ljava/awt/Color;)*
+25*ü
+17f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java” ”(°û
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java” ”(F
+%42void"Vij.plugin.MontageMaker#drawLabel(Lij/process/ImageProcessor;ILjava/lang/String;IIIII)V*
+ij.plugin.MontageMaker*&
+$
+montageij.process.ImageProcessor*
+""*
+
+labeljava.lang.String*
+""*
+""*
+""*
+""*
+""2>drawLabel(Lij/process/ImageProcessor;ILjava/lang/String;IIIII)*
+13
+3
+5
+9*Ó
+28f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaπ π(¥
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaπ π(/
+%21double"$ij.gui.Toolbar#getBackgroundValue()D*"
+ij.gui.Toolbaræ
+ª
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaπ π(0
+%22boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+
+%21double*
+26
+27*„
+18f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java– –(
+¿Ω
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java– –(
+%40void"@ij.process.ImageProcessor#insert(Lij/process/ImageProcessor;II)V*&
+$
+montageij.process.ImageProcessor*%
+#
+aSliceij.process.ImageProcessor*
+""*
+""2%insert(Lij/process/ImageProcessor;II)ÙÒ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java— —(1
+%41java.lang.String"5ij.ImageStack#getShortSliceLabel(I)Ljava/lang/String;*
+
+stackij.ImageStack*
+""2getShortSliceLabel(I)ß
+§
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java— —(2
+labeljava.lang.String"__id*
+
+%41java.lang.String*
+13
+3
+5
+17
+9*Ë
+29f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaµ µ(ê
+ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaµ µ(
+%19java.awt.Color"__id*
+""•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaµ µ(
+fgColorjava.awt.Color"__id*
+
+%19java.awt.Colorê
+ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java∂ ∂(
+%20java.awt.Color"__id*
+""•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java∂ ∂(
+bgColorjava.awt.Color"__id*
+
+%20java.awt.Color*
+28*÷
+19f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÃ Ã(
+Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÃ" Ã(9
+
+%37int"__id*
+""˛˚
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÃ Ã(:
+%38void"4ij.process.ImageProcessor#setInterpolationMethod(I)V*%
+#
+aSliceij.process.ImageProcessor*
+
+
+%37int2setInterpolationMethod(I)õò
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaŒ Œ(@ 
+%39ij.process.ImageProcessor"@ij.process.ImageProcessor#resize(IIZ)Lij/process/ImageProcessor;*%
+#
+aSliceij.process.ImageProcessor*
+""*
+""*
+""2resize(IIZ)∫
+∑
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaŒ Œ(@#
+aSliceij.process.ImageProcessor"__id*"
+ 
+%39ij.process.ImageProcessor*
+18*Á	
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÓ Ó(•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÓ! Ó(4
+%51java.lang.String"__concat*
+	xMontage=*
+""∫
+∑
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÓ! Ó(B
+%52java.lang.String"__concat*
+
+%51java.lang.String*
+\nyMontage=±
+Æ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÓ! Ó(G
+%53java.lang.String"__concat*
+
+%52java.lang.String*
+""±
+Æ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÓ! Ó(L
+%54java.lang.String"__concat*
+
+%53java.lang.String*
+\n©¶
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÓ Ó(M
+%55void"?ij.ImagePlus#setProperty(Ljava/lang/String;Ljava/lang/Object;)V*
+
+imp2ij.ImagePlus*
+Info*
+
+%54java.lang.String21setProperty(Ljava/lang/String;Ljava/lang/Object;)"Ä
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÔ Ô(
+
+imp2ij.ImagePlus*É
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaË Ë(£
+†
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaË Ë(
+%48void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""ÎË
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÈ È()
+%49ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+imp2ij.ImagePlus2getCalibration()±
+Æ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÈ È(*
+calij.measure.Calibration"__id*
+
+%49ij.measure.Calibration»≈
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÍ Í(
+%50boolean" ij.measure.Calibration#scaled()Z*
+
+calij.measure.Calibration2scaled()*
+1*∑
+5f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java‰ ‰(Û
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java‰ ‰(3
+%46void"'ij.process.ImageProcessor#setRoi(IIII)V*&
+$
+montageij.process.ImageProcessor*2 *
+""*
+""*
+""2setRoi(IIII)À»
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÂ Â(
+%47void"!ij.process.ImageProcessor#fill()V*&
+$
+montageij.process.ImageProcessor2fill()*
+3
+5*∫
+9f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java‡ ‡(Û
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java‡ ‡(4
+%44void"'ij.process.ImageProcessor#setRoi(IIII)V*&
+$
+montageij.process.ImageProcessor*
+""*2 *
+""*
+""2setRoi(IIII)À»
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java· ·(
+%45void"!ij.process.ImageProcessor#fill()V*&
+$
+montageij.process.ImageProcessor2fill()*	
+3
+5
+9*∞
+20f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java   (˙˜
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java   (% 
+%36ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*
+""2getProcessor(I)∫
+∑
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java   (%#
+aSliceij.process.ImageProcessor"__id*"
+ 
+%36ij.process.ImageProcessor*
+18
+19*À
+32f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java≠ ≠(ÏÈ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java≠ ≠(0
+%14void"'ij.process.ImageProcessor#setRoi(IIII)V*!
+
+ipij.process.ImageProcessor*2 *
+""*
+""*22setRoi(IIII)Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÆ> Æ(O
+
+%15int"__id*
+""á
+Ñ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÆ Æ(\!
+%16ij.process.ImageStatistics"ïij.process.ImageStatistics#getStatistics(Lij/process/ImageProcessor;ILij/measure/Calibration;Lij/process/CentroidHelper;)Lij/process/ImageStatistics;*"
+ij.process.ImageStatistics*!
+
+ipij.process.ImageProcessor*
+
+
+%15int*
+""*
+""ª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaÆ Æ(]#
+statsij.process.ImageStatistics"__id*#
+!
+%16ij.process.ImageStatisticsŒÀ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaØ Ø(
+%17void"%ij.process.ImageProcessor#resetRoi()V*!
+
+ipij.process.ImageProcessor2
+resetRoi()¬ø
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java± ±(
+%18boolean"ij.ImagePlus#isInvertedLut()Z*
+
+impij.ImagePlus2isInvertedLut()*
+28
+29*Ö
+22f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¬ ¬(	Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¬( ¬(2
+
+%30int"__id*
+""êç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¬ ¬(
+%31java.awt.Font"java.awt.Font‹
+Ÿ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¬ ¬(=
+%32"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%31java.awt.Font*
+	SansSerif*
+
+
+%30int*
+""áÑ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¬ ¬(>
+%33void"3ij.process.ImageProcessor#setFont(Ljava/awt/Font;)V*&
+$
+montageij.process.ImageProcessor*
+
+%31java.awt.Font2setFont(Ljava/awt/Font;)ÔÏ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java√ √("
+%34void"0ij.process.ImageProcessor#setAntialiasedText(Z)V*&
+$
+montageij.process.ImageProcessor*22setAntialiasedText(Z)Ã…
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaƒ ƒ(#
+%35ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()°
+û
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.javaƒ ƒ($
+stackij.ImageStack"__id*
+
+%35ij.ImageStackû
+õ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java« «(#
+aSliceij.process.ImageProcessor"__id*
+""*
+3
+5
+9
+20*Ë
+23f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¡ ¡(
+Û
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MontageMaker.java¡ ¡(%
+%29void"5ij.process.ImageProcessor#setGlobalForegroundColor()V*&
+$
+montageij.process.ImageProcessor2setGlobalForegroundColor()*
+22:
+impij.ImagePlus:
+"":
+"":
+"":
+"":
+"":
+"":
+"":
+""B
+ij.plugin.MontageMaker

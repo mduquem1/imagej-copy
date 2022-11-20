@@ -1,0 +1,388 @@
+
+%ij.plugin.frame.ColorPicker#<init>()Vi
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java ("6*◊
+2i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java8 8(·
+ﬁ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java8 8(!
+%47void"3ij.gui.GUI#centerOnImageJScreen(Ljava/awt/Window;)V*"
+
+ij.gui.GUI*
+ij.plugin.frame.ColorPicker*
+1*˙
+3i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java6 6(ÑÅ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java6 6(
+%46void".java.awt.Window#setLocation(Ljava/awt/Point;)V*
+ij.plugin.frame.ColorPicker*
+
+locjava.awt.Point2setLocation(Ljava/awt/Point;)*
+1*ßQ
+4i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java (£
+†
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java ($
+%4double"ij.Prefs#getGuiScale()D*"
+
+ij.Prefs¬
+ø
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java (+
+ij.plugin.frame.ColorPicker"
+
+instance"__id*
+ij.plugin.frame.ColorPicker·
+ﬁ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java   (
+
+%5void".ij.WindowManager#addWindow(Ljava/awt/Window;)V*"
+ij.WindowManager*
+ij.plugin.frame.ColorPicker™
+ß
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java# #('
+%6	ij.ImageJ"ij.IJ#getInstance()Lij/ImageJ;*	"
+ij.IJûõ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java# #((
+
+%7void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+ij.plugin.frame.ColorPicker*
+
+%6	ij.ImageJ2,addKeyListener(Ljava/awt/event/KeyListener;)¢ü
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java$ $(
+%8java.awt.BorderLayout"java.awt.BorderLayout¥
+±
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java$ $(
+%9"java.awt.BorderLayout#<init>()V*
+
+%8java.awt.BorderLayoutôñ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java$ $(
+%10void"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
+ij.plugin.frame.ColorPicker*
+
+%8java.awt.BorderLayout2#setLayout(Ljava/awt/LayoutManager;)µ≤
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java% %(%
+%11ij.plugin.frame.ColorGenerator"ij.plugin.frame.ColorGenerator‰
+·
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java% %(?
+%12",ij.plugin.frame.ColorGenerator#<init>(II[I)V*'
+%
+%11ij.plugin.frame.ColorGenerator*
+""*
+""*
+""ƒ
+¡
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java% %(?%
+ij.plugin.frame.ColorPicker"
+cg"__id*'
+%
+%11ij.plugin.frame.ColorGeneratorƒ
+¡
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java& &(
+%
+%13ij.plugin.frame.ColorGenerator"__id*'*%
+ij.plugin.frame.ColorPicker"
+cgàÖ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java& &(=
+%14void"0ij.plugin.frame.ColorGenerator#drawColors(IIII)V*'
+%
+%13ij.plugin.frame.ColorGenerator*
+""*
+""*
+""*
+""2drawColors(IIII)ƒ
+¡
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java'; '(=%
+%15ij.plugin.frame.ColorGenerator"__id*'*%
+ij.plugin.frame.ColorPicker"
+cgØ¨
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java' '(%"
+%16ij.plugin.frame.ColorCanvas"ij.plugin.frame.ColorCanvas‰
+·
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java' '(E
+%17"eij.plugin.frame.ColorCanvas#<init>(IILij/plugin/frame/ColorPicker;Lij/plugin/frame/ColorGenerator;D)V*$
+"
+%16ij.plugin.frame.ColorCanvas*
+""*
+""*
+ij.plugin.frame.ColorPicker*'
+%
+%15ij.plugin.frame.ColorGenerator*
+"" 
+«
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java' '(E.
+ij.plugin.frame.ColorPicker"
+colorCanvas"__id*$
+"
+%16ij.plugin.frame.ColorCanvasïí
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java( ((
+%18java.awt.Panel"java.awt.Panel®
+•
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java( ((!
+%19"java.awt.Panel#<init>()V*
+
+%18java.awt.Panel¶
+£
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java( (("
+paneljava.awt.Panel"__id*
+
+%18java.awt.Panelà
+Ö
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java)' )(7
+
+%20int"__id*
+""£†
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java) )(
+%21javax.swing.BoxLayout"javax.swing.BoxLayoutÙ
+Ò
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java) )(8
+%22"4javax.swing.BoxLayout#<init>(Ljava/awt/Container;I)V*
+
+%21javax.swing.BoxLayout*
+
+paneljava.awt.Panel*
+
+
+%20intîë
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java) )(9
+%23void"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
+
+paneljava.awt.Panel*
+
+%21javax.swing.BoxLayout2#setLayout(Ljava/awt/LayoutManager;)æ
+ª
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java* *(
+%24java.awt.Canvas"__id*0*.
+ij.plugin.frame.ColorPicker"
+colorCanvasõò
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java* *(
+%25java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+paneljava.awt.Panel*
+
+%24java.awt.Canvas2add(Ljava/awt/Component;)Œ
+À
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java+) +(E
+%26java.awt.Color"3ij.gui.Toolbar#getForegroundColor()Ljava/awt/Color;*"
+ij.gui.Toolbar˙
+˜
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java+ +(F
+%27java.lang.String"Bij.plugin.Colors#colorToString(Ljava/awt/Color;)Ljava/lang/String;*"
+ij.plugin.Colors*
+
+%26java.awt.Color≠
+™
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java+ +(G
+hexColorjava.lang.String"__id*
+
+%27java.lang.String∏
+µ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java,# ,(/
+%28java.lang.String"__concat*
+
+hexColorjava.lang.String*
+ ùö
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java, ,("
+%29java.awt.TextField"java.awt.TextField‰
+·
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java, ,(2
+%30"/java.awt.TextField#<init>(Ljava/lang/String;I)V*
+
+%29java.awt.TextField*
+
+%28java.lang.String*2¿
+Ω
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java, ,(2-
+ij.plugin.frame.ColorPicker"
+
+colorField"__id*
+
+%29java.awt.TextField¿
+Ω
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java- -(
+%31java.awt.TextField"__id*/*-
+ij.plugin.frame.ColorPicker"
+
+colorField‘—
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java- -(%
+%32void"&java.awt.TextComponent#setEditable(Z)V*
+
+%31java.awt.TextField*2 2setEditable(Z)¿
+Ω
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java. .(
+%33java.awt.TextField"__id*/*-
+ij.plugin.frame.ColorPicker"
+
+colorField¿Ω
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java. .(+
+
+%34int"java.lang.String#length()I*
+
+hexColorjava.lang.String2length()¿Ω
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java., .(=
+
+%35int"java.lang.String#length()I*
+
+hexColorjava.lang.String2length()‰·
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java. .(>
+%36void""java.awt.TextComponent#select(II)V*
+
+%33java.awt.TextField*
+
+
+%34int*
+
+
+%35int2
+select(II)¿
+Ω
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java/ /(
+%37java.awt.TextField"__id*/*-
+ij.plugin.frame.ColorPicker"
+
+colorField—
+Œ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java/ /(
+%38void"'ij.gui.GUI#scale(Ljava/awt/Component;)V*"
+
+ij.gui.GUI*
+
+%37java.awt.TextField¿
+Ω
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java0 0(
+%39java.awt.TextField"__id*/*-
+ij.plugin.frame.ColorPicker"
+
+colorFieldûõ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java0 0(
+%40java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+paneljava.awt.Panel*
+
+%39java.awt.TextField2add(Ljava/awt/Component;)¢ü
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java1 1(
+%41java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+ij.plugin.frame.ColorPicker*
+
+paneljava.awt.Panel2add(Ljava/awt/Component;)”–
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java2 2(
+%42void" java.awt.Dialog#setResizable(Z)V*
+ij.plugin.frame.ColorPicker*2 2setResizable(Z)Ω∫
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java3 3(
+%43void"java.awt.Window#pack()V*
+ij.plugin.frame.ColorPicker2pack()ï
+í
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java4  4('
+%44java.lang.String"__id*
+""Ë
+Â
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java4 4((
+%45java.awt.Point"8ij.Prefs#getLocation(Ljava/lang/String;)Ljava/awt/Point;*"
+
+ij.Prefs*
+
+%44java.lang.String§
+°
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java4 4()
+locjava.awt.Point"__id*
+
+%45java.awt.Point*
+2
+3*ı
+5i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java (∆
+√
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java (!
+%2ij.plugin.frame.ColorPicker"__id*-*+
+ij.plugin.frame.ColorPicker"
+
+instance∆√
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java (
+
+%3void"java.awt.Window#toFront()V*#
+!
+%2ij.plugin.frame.ColorPicker2	toFront()"s
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java (
+
+""*∑
+6i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java (ı
+Ú
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java ("
+%0ij.plugin.frame.PlugInDialog"8ij.plugin.frame.PlugInDialog#<init>(Ljava/lang/String;)V*
+ij.plugin.frame.ColorPicker*
+CP∆
+√
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java (!
+%1ij.plugin.frame.ColorPicker"__id*-*+
+ij.plugin.frame.ColorPicker"
+
+instance*
+4
+5*à
+0 "Ä
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java: :(
+implicit return*≥
+1i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java9 9(Ω∫
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorPicker.java9 9(
+%48void"java.awt.Dialog#show()V*
+ij.plugin.frame.ColorPicker2show()*
+0B
+ij.plugin.frame.ColorPicker

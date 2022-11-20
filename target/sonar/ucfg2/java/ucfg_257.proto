@@ -1,0 +1,50 @@
+
+)ij.measure.CurveFitter#userFunction([DD)Df
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java¬ ¬(!"2"6"1*ï
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java¸ ¸(Û
+Ø
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java¸ ¸(,
+
+%2void"8ij.measure.CurveFitter#minimizerParamsToFullParams([DZ)V*
+ij.measure.CurveFitter*
+""*2Å
+Â
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java¹ ¹(
+
+%3void"(ij.measure.CurveFitter#doRegression([D)V*
+ij.measure.CurveFitter*
+""Ö
+Ó
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaº º(8
+%4double"7ij.measure.CurveFitter#fullParamsToMinimizerParams([D)D*
+ij.measure.CurveFitter*
+""*
+1*ƒ
+6f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java° °(ÍÊ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java° °(&
+%0double"ij.measure.CurveFitter#f([DD)D*
+ij.measure.CurveFitter*
+""*
+""2f([DD)½
+º
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java± ±((
+%1double"ij.measure.CurveFitter#sqr(D)D*
+ij.measure.CurveFitter*
+""*
+6
+1*Ý
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java¼	 ¼("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java¼ ¼(
+"":
+"":
+""B
+ij.measure.CurveFitter

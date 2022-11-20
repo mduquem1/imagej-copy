@@ -1,0 +1,74 @@
+
+)ij.plugin.SpecifyROI#validDialogValues()Zb
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaN	 N("7*Õ
+2b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaT
+ T("l
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaT T(
+""*É
+3b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaS  S($¤
+¡
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaS( S(+
+%4ij.ImagePlus"__id*!*
+ij.plugin.SpecifyROI"
+imp°­
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaS( S(7	
+%5int"ij.ImagePlus#getHeight()I*
+
+%4ij.ImagePlus2getHeight()*
+2
+1*Ç
+4b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaS S(
+¤
+¡
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaS S(
+%2ij.ImagePlus"__id*!*
+ij.plugin.SpecifyROI"
+imp®«
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaS S(	
+%3int"ij.ImagePlus#getWidth()I*
+
+%2ij.ImagePlus2
+getWidth()*
+2
+3*Õ
+5b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaR
+ R("l
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaR R(
+""*¬
+7b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaO O(¤
+¡
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaO O(
+%0ij.ImagePlus"__id*!*
+ij.plugin.SpecifyROI"
+impäá
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaO O((
+%1ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%0ij.ImagePlus2getCalibration()¬
+©
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaO O()
+calij.measure.Calibration"__id*
+
+%1ij.measure.Calibration*
+4
+5*Õ
+1b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaU	 U("l
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SpecifyROI.javaU U(
+""B
+ij.plugin.SpecifyROI

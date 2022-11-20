@@ -1,0 +1,58 @@
+
+Pij.plugin.FileInfoVirtualStack#getInt(Ljava/util/Properties;Ljava/lang/String;)In
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java   ("4*Œ
+2n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¢& ¢('‘
+Ž
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¢& ¢('	
+%1int"__id*
+	
+%3int*
+1*ó
+3n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¢ ¢(ÊÇ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¢ ¢(%
+%2double"java.lang.Double#doubleValue()D*
+
+njava.lang.Double2doubleValue()”
+‘
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¢ ¢(%	
+%1int"__id*
+
+%2double”
+‘
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¢ ¢(%	
+%1int"__id*
+
+%2double*
+1*±
+4n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¡ ¡(†ƒ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¡ ¡("
+%0java.lang.Double"dij.plugin.FileInfoVirtualStack#getNumber(Ljava/util/Properties;Ljava/lang/String;)Ljava/lang/Double;*" 
+ij.plugin.FileInfoVirtualStack*
+
+propsjava.util.Properties*
+
+keyjava.lang.String23getNumber(Ljava/util/Properties;Ljava/lang/String;)ª
+§
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¡ ¡(#
+njava.lang.Double"__id*
+
+%0java.lang.Double*
+2
+3*í
+1n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¢ ¢(("x
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¢ ¢((
+"":
+propsjava.util.Properties:
+keyjava.lang.StringB" 
+ij.plugin.FileInfoVirtualStack

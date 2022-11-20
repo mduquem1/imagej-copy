@@ -1,0 +1,30 @@
+
+5ij.text.TextPanel#getTextWindow()Lij/text/TextWindow;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.java∆ ∆(!"4*”
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.java…
+ …("k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.java… …(
+""*
+4a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.java« «(ÿ’
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.java« «(
+%0java.awt.Container"2java.awt.Component#getParent()Ljava/awt/Container;*
+ij.text.TextPanel2getParent()§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.java« «(
+compjava.awt.Component"__id*
+
+%0java.awt.Container*
+2
+1*Í
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÀ À("Å
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÀ À(
+
+compjava.awt.ComponentB
+ij.text.TextPanel

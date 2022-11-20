@@ -1,0 +1,83 @@
+
+Lij.plugin.filter.MaximumFinder#trueEdmHeight(IILij/process/ImageProcessor;)Fn
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaç
+ ç("21*”
+15n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javağ ğ(
+‹
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javağ# ğ((
+%2float"__id*
+""*
+7
+8
+10
+1*î
+16n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaî î("x
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaî î(
+""*«
+7n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaı$ ı()
+‹
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaı$ ı()
+%6float"__id*
+""•
+’
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaı$ ı()
+%4float"__id*
+
+%6float*
+7
+8
+10
+1*˜
+8n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaı  ı(!“
+
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaı  ı(!
+%4float"__id*
+	
+%5int*
+7
+8
+10
+1*Î
+21n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaè è(ÖÓ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaé é(!	
+%0int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()ôñ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaê" ê(0
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2getPixels()*
+15
+16*¼
+10n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaû û(½
+º
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.javaû û((
+%3float"java.lang.Math#min(FF)F*"
+java.lang.Math*
+""*
+""*
+7
+8*í
+1n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.java ("x
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.java (
+"":
+"":
+"":
+ipij.process.ImageProcessorB" 
+ij.plugin.filter.MaximumFinder

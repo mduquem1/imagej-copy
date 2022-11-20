@@ -1,0 +1,60 @@
+
+=ij.ImagePlus#getBufferedImage()Ljava/awt/image/BufferedImage;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÖ Ö(&"3*®
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaØ Ø(&¾»
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaØ Ø((
+%1java.awt.Image"'ij.ImagePlus#getImage()Ljava/awt/Image;*
+ij.ImagePlus2
+getImage()š
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaØ Ø(
+%2ij.process.ColorProcessor"ij.process.ColorProcessor×
+Ô
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaØ Ø()
+%3"3ij.process.ColorProcessor#<init>(Ljava/awt/Image;)V*!
+
+%2ij.process.ColorProcessor*
+
+%1java.awt.Imageˆ…
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaØ
+ Ø(="
+%4java.awt.image.BufferedImage"Jij.process.ImageProcessor#getBufferedImage()Ljava/awt/image/BufferedImage;*!
+
+%2ij.process.ColorProcessor2getBufferedImage()"„
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaØ Ø(>$
+"
+%4java.awt.image.BufferedImage*š
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java× ×(®«
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java× ×(
+%0boolean"ij.ImagePlus#isComposite()Z*
+ij.ImagePlus2isComposite()*
+2
+1*˜
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÚ
+ Ú(¢
+Ÿ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÚ
+ Ú(
+%5ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipˆ…
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÚ
+ Ú("
+%6java.awt.image.BufferedImage"Jij.process.ImageProcessor#getBufferedImage()Ljava/awt/image/BufferedImage;*!
+
+%5ij.process.ImageProcessor2getBufferedImage()"„
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÚ Ú( $
+"
+%6java.awt.image.BufferedImageB
+ij.ImagePlus

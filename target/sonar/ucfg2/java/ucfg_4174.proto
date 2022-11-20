@@ -1,0 +1,123 @@
+
+úij.plugin.filter.ParticleAnalyzer#getStatistics(Lij/process/ImageProcessor;ILij/measure/Calibration;Lij/process/CentroidHelper;)Lij/process/ImageStatistics;q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java´ ´("1*Û
+2q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaµ ∂("{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∂ ∂(
+""*î
+3q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≥ ¥(2µ≤
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¥ ¥(!
+%10ij.process.ColorStatistics"ij.process.ColorStatistics»
+≈
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¥ ¥(1
+%11"Xij.process.ColorStatistics#<init>(Lij/process/ImageProcessor;ILij/measure/Calibration;)V*#
+!
+%10ij.process.ColorStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+
+calij.measure.Calibration"ò
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¥ ¥(2#
+!
+%10ij.process.ColorStatistics*ê
+4q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java± ≤(2¥±
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≤ ≤( 
+%8ij.process.FloatStatistics"ij.process.FloatStatistics∆
+√
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≤ ≤(1
+%9"Xij.process.FloatStatistics#<init>(Lij/process/ImageProcessor;ILij/measure/Calibration;)V*"
+ 
+%8ij.process.FloatStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+
+calij.measure.Calibration"ó
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≤ ≤(2"
+ 
+%8ij.process.FloatStatistics*ê
+5q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaØ ∞(2¥±
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∞ ∞( 
+%6ij.process.ShortStatistics"ij.process.ShortStatistics∆
+√
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∞ ∞(1
+%7"Xij.process.ShortStatistics#<init>(Lij/process/ImageProcessor;ILij/measure/Calibration;)V*"
+ 
+%6ij.process.ShortStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+
+calij.measure.Calibration"ó
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∞ ∞(2"
+ 
+%6ij.process.ShortStatistics*œ
+6q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≠ Æ(;≤Ø
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÆ Æ(
+%4ij.process.ByteStatistics"ij.process.ByteStatisticsà
+Ö
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÆ Æ(:
+%5"rij.process.ByteStatistics#<init>(Lij/process/ImageProcessor;ILij/measure/Calibration;Lij/process/CentroidHelper;)V*!
+
+%4ij.process.ByteStatistics*!
+
+ipij.process.ImageProcessor*
+""*
+
+calij.measure.Calibration*'
+%
+centroidij.process.CentroidHelper"ñ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÆ Æ(;!
+
+%4ij.process.ByteStatistics*œ
+1q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¨
+ ¨(è
+å
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≠ ≠(	
+%0int"__id*
+""è
+å
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaØ Ø(	
+%1int"__id*
+""è
+å
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java± ±(	
+%2int"__id*
+""è
+å
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≥ ≥(	
+%3int"__id*
+""*
+2
+3
+4
+5
+6:
+ipij.process.ImageProcessor:
+"":
+calij.measure.Calibration:%
+centroidij.process.CentroidHelperB%#
+!ij.plugin.filter.ParticleAnalyzer

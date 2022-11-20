@@ -1,0 +1,18 @@
+
+8ij.io.Opener#openLut(Ljava/lang/String;)Lij/process/LUT;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÃ	 Ã	("1*Ò
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÄ		 Ä	(ö
+ó
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÄ		 Ä	()
+%0ij.process.LUT"?ij.plugin.LutLoader#openLut(Ljava/lang/String;)Lij/process/LUT;*"
+ij.plugin.LutLoader*#
+!
+filePathOrUrljava.lang.String"v
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÄ	 Ä	(*
+
+%0ij.process.LUT:!
+filePathOrUrljava.lang.StringB"
+ij.io.Opener

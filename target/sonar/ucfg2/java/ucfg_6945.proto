@@ -1,0 +1,62 @@
+
+Mij.plugin.frame.ThresholdAdjuster#thresholdHigh(Lij/process/ImageProcessor;)Zq
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaä	 ä("6*ö
+2q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç  ç(%ú
+ô
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç  ç(%
+%4boolean"__id*
+
+%6boolean*
+1*ö
+3q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç ç(ú
+ô
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç ç(
+%4boolean"__id*
+
+%5boolean*
+1*Ê
+4q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã ã(DÂ‚
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaå å(*
+%3boolean"*ij.process.ImageProcessor#isInvertedLut()Z*!
+
+ipij.process.ImageProcessor2isInvertedLut()*
+2
+3*ú
+5q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã* ã(8–
+Õ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã* ã(8
+%1java.awt.Checkbox"__id*9*7#
+!ij.plugin.frame.ThresholdAdjuster"
+darkBackgroundÀ»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã* ã(C
+%2boolean"java.awt.Checkbox#getState()Z*
+
+%1java.awt.Checkbox2
+getState()*
+4*—
+6q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã ã( –
+Õ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaã ã( 
+%0java.awt.Checkbox"__id*9*7#
+!ij.plugin.frame.ThresholdAdjuster"
+darkBackground*
+4
+5*Û
+1q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç ç(&"{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaç ç(&
+"":
+ipij.process.ImageProcessorB%#
+!ij.plugin.frame.ThresholdAdjuster

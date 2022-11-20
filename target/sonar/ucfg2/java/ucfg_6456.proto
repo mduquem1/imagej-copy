@@ -1,0 +1,75 @@
+
+9ij.plugin.frame.RoiManager#getROIs()Ljava/util/Hashtable;j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java® ®("5*Ú
+3j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java² ²(È
+Å
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java² ²("
+%3javax.swing.DefaultListModel"__id*-*+
+ij.plugin.frame.RoiManager"
+	listModel†ƒ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java² ²(+
+%4java.lang.Object">javax.swing.DefaultListModel#getElementAt(I)Ljava/lang/Object;*$
+"
+%3javax.swing.DefaultListModel*
+""2getElementAt(I)­
+ª
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java²- ²(4
+%5
+ij.gui.Roi"
+__arrayGet*
+
+roisij.gui.Roi[]*
+""Ü
+Ù
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java² ²(5
+%6java.lang.Object"__mapSet*
+
+htjava.util.Hashtable*
+
+%4java.lang.Object*
+
+%5
+ij.gui.Roi*
+3
+1*“
+5j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java¯ ¯(ïì
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java¯ ¯(
+%0ij.gui.Roi[]"8ij.plugin.frame.RoiManager#getRoisAsArray()[Lij/gui/Roi;*
+ij.plugin.frame.RoiManager2getRoisAsArray()¡
+ž
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java¯ ¯( 
+roisij.gui.Roi[]"__id*
+
+%0ij.gui.Roi[]Ÿœ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java° °(
+%1java.util.Hashtable"java.util.Hashtable±
+®
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java° °( 
+%2"java.util.Hashtable#<init>()V*
+
+%1java.util.Hashtable­
+ª
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java° °(!
+htjava.util.Hashtable"__id*
+
+%1java.util.Hashtable*
+3
+1*û
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java³	 ³("‰
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java³ ³(
+
+htjava.util.HashtableB
+ij.plugin.frame.RoiManager

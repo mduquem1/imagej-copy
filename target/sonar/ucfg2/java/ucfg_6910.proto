@@ -1,0 +1,59 @@
+
+Eij.gui.PolygonRoi#getNonSplineFloatPolygon()Lij/process/FloatPolygon;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaó ó(-"6"1*ì
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaü
+ ü("ƒ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaü ü(
+
+pij.process.FloatPolygon*â	
+6a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaõ& õ()ž›
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaõ õ(%
+%0ij.process.FloatPolygon"ij.process.FloatPolygonÍ
+Ê
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaõ õ(8
+%1"&ij.process.FloatPolygon#<init>([F[FI)V*
+
+%0ij.process.FloatPolygon*
+""*
+""*
+""ñî
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaõ õ(E
+%2ij.process.FloatPolygon"<ij.process.FloatPolygon#duplicate()Lij/process/FloatPolygon;*
+
+%0ij.process.FloatPolygon2duplicate()«
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaõ õ(F
+pij.process.FloatPolygon"__id*
+
+%2ij.process.FloatPolygon¯¬
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaö ö("
+%3double"ij.gui.Roi#getXBase()D*
+ij.gui.PolygonRoi2
+getXBase()¯¬
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java÷ ÷("
+%4double"ij.gui.Roi#getYBase()D*
+ij.gui.PolygonRoi2
+getYBase()*
+2*Ý
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaþ
+ þ(íê
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaþ
+ þ(
+%5ij.process.FloatPolygon"<ij.gui.PolygonRoi#getFloatPolygon()Lij/process/FloatPolygon;*
+ij.gui.PolygonRoi2getFloatPolygon()"„
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaþ þ(
+
+%5ij.process.FloatPolygonB
+ij.gui.PolygonRoi

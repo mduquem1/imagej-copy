@@ -1,0 +1,3 @@
+ij.process.ByteProcessor#switchFilter(IIIIIIIIIIIII[III)V
+java.lang.Math#sqrt(D)D
+ij.process.ByteProcessor#findMedian([I)I

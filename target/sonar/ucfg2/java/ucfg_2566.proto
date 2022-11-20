@@ -1,0 +1,104 @@
+
+ij.gui.Roi#contains(II)ZZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÌ
+ Ì
+("4*≈
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÒ
+
+ Ò
+("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÒ
+ Ò
+(
+""*¶
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÓ
+ Ó
+("çä
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÓ
+ Ó
+(
+%0java.awt.Rectangle"java.awt.Rectangle√
+¿
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÓ
+ Ó
+(<
+%1" java.awt.Rectangle#<init>(IIII)V*
+
+%0java.awt.Rectangle*
+""*
+""*
+""*
+""ö
+ó
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÓ
+ Ó
+(=
+rjava.awt.Rectangle"__id*
+
+%0java.awt.Rectangle…∆
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÔ
+ Ô
+(%
+%2boolean" java.awt.Rectangle#contains(II)Z*
+
+rjava.awt.Rectangle*
+""*
+""2contains(II)*
+2
+1*õ
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÚ
+4 Ú
+(8≥∞
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÚ
+ Ú
+(3+
+%3%java.awt.geom.RoundRectangle2D$Double"%java.awt.geom.RoundRectangle2D$Double˚
+¯
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÚ
+ Ú
+(r
+%4"5java.awt.geom.RoundRectangle2D$Double#<init>(DDDDDD)V*-
++
+%3%java.awt.geom.RoundRectangle2D$Double*
+""*
+""*
+""*
+""*
+""*
+""∫
+∑
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÚ
+ Ú
+(s$
+rrjava.awt.geom.RoundRectangle2D"__id*-
++
+%3%java.awt.geom.RoundRectangle2D$Double‚ﬂ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÛ
+	 Û
+((
+%5boolean",java.awt.geom.RoundRectangle2D#contains(DD)Z*&
+$
+rrjava.awt.geom.RoundRectangle2D*
+""*
+""2contains(DD)"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÛ
+ Û
+()
+"":
+"":
+""B
+
+ij.gui.Roi

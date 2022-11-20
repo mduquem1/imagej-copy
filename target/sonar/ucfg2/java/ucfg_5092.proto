@@ -1,0 +1,64 @@
+
+Rij.io.Opener#openJpegOrGifUsingURL(Ljava/lang/String;Ljava/net/URL;)Lij/ImagePlus;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÖ Ö( "3"4*„
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaâ! â(&ÉÄ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaâ â( 
+%2ij.ImagePlus"ij.ImagePlusÌ
+Í
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaâ â(,
+%3"8ij.ImagePlus#<init>(Ljava/lang/String;Ljava/awt/Image;)V*
+
+%2ij.ImagePlus*
+
+titlejava.lang.String*
+
+imgjava.awt.Imageí
+è
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaâ â(-
+impij.ImagePlus"__id*
+
+%2ij.ImagePlus"u
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaä ä(
+
+impij.ImagePlus*“
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaá á(«
+ƒ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaá á()
+%0java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
+java.awt.ToolkitÉÄ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaá á(:
+%1java.awt.Image"<java.awt.Toolkit#createImage(Ljava/net/URL;)Ljava/awt/Image;*
+
+%0java.awt.Toolkit*
+
+urljava.net.URL2createImage(Ljava/net/URL;)ñ
+ì
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaá á(;
+imgjava.awt.Image"__id*
+
+%1java.awt.Image*
+2
+1*…
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÜ Ü("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÜ Ü(
+""*…
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaå
+ å("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaå å(
+"":
+titlejava.lang.String:
+urljava.net.URLB
+ij.io.Opener

@@ -1,0 +1,44 @@
+
+8ij.util.StringSorter#alreadySorted([Ljava/lang/String;)Zb
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/StringSorter.java ("4"1*Õ
+3b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/StringSorter.java
+ ("l
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/StringSorter.java (
+""*Í
+4b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/StringSorter.java (®
+«
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/StringSorter.java (
+%0java.lang.String"
+__arrayGet*
+
+ajava.lang.String[]*
+""®
+«
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/StringSorter.java (
+%1java.lang.String"
+__arrayGet*
+
+ajava.lang.String[]*
+""öó
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/StringSorter.java (	
+%2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%0java.lang.String*
+
+%1java.lang.String2compareTo(Ljava/lang/String;)*	
+3
+4
+1*Õ
+1b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/StringSorter.java	 ("l
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/StringSorter.java (
+"":
+ajava.lang.String[]B"
+ij.util.StringSorter

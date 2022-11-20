@@ -1,0 +1,88 @@
+
+&ij.plugin.GaussianBlur3D#showDialog()Zf
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java ("3*›
+2f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java
+ ("p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java (
+""*¸
+3f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java' (9ùö
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java (&
+%0ij.gui.GenericDialog"ij.gui.GenericDialog◊
+‘
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java (:
+%1"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%0ij.gui.GenericDialog*
+3D Gaussian Blur´
+®
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java (;
+gdij.gui.GenericDialog"__id*
+
+%0ij.gui.GenericDialogïí
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java (+
+
+%2void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+
+X sigma:*
+""*22%addNumericField(Ljava/lang/String;DI)ïí
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java (+
+
+%3void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+
+Y sigma:*
+""*22%addNumericField(Ljava/lang/String;DI)ïí
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java (+
+
+%4void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+
+Z sigma:*
+""*22%addNumericField(Ljava/lang/String;DI)«ƒ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java (
+
+%5void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()Ã…
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java (
+%6boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+2
+1*”
+1f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java   (œÃ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java   (
+%7double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()œÃ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java! !(
+%8double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()œÃ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java" "(
+%9double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()"p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GaussianBlur3D.java# #(
+""B
+ij.plugin.GaussianBlur3D

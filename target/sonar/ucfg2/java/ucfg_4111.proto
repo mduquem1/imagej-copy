@@ -1,0 +1,72 @@
+
+5ij.gui.PointRoi#getContainedPoints()[Ljava/awt/Point;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÇ Ç(""5*»
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaË Ë(	¥
+¢
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaË Ë(>	
+%2int"java.lang.Math#round(F)I*"
+java.lang.Math*
+""¥
+¢
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaËF Ë(e	
+%3int"java.lang.Math#round(F)I*"
+java.lang.Math*
+""Š‡
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaË Ë(
+%4java.awt.Point"java.awt.Point¸
+µ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaË Ë(f
+%5"java.awt.Point#<init>(II)V*
+
+%4java.awt.Point*
+	
+%2int*
+	
+%3int´
+±
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaË Ë(f
+%6"
+__arraySet*
+
+pointsjava.awt.Point[]*
+""*
+
+%4java.awt.Point*
+3
+1*¸
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÈ È("éæ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÈ È($
+%0ij.process.FloatPolygon"<ij.gui.PolygonRoi#getFloatPolygon()Lij/process/FloatPolygon;*
+ij.gui.PointRoi2getFloatPolygon()©
+¦
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÈ È(%
+pij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygonŽ‹
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÉ É('
+%1java.awt.Point[]"java.awt.Point[] 
+
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÉ É((
+pointsjava.awt.Point[]"__id*
+
+%1java.awt.Point[]*
+3
+1*å
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÌ	 Ì("
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÌ Ì(
+
+pointsjava.awt.Point[]B
+ij.gui.PointRoi

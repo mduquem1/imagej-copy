@@ -1,0 +1,24 @@
+
+>ij.gui.HistogramWindow#getWidth(DLij/process/ImageProcessor;)If
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaî î("1*Ñ
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaï	 ï(Ø
+Õ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaï ï(!
+%0java.lang.String"/ij.gui.HistogramWindow#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramWindow*
+""–“
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaï	 ï("	
+%1int"=ij.process.ImageProcessor#getStringWidth(Ljava/lang/String;)I*!
+
+ipij.process.ImageProcessor*
+
+%0java.lang.String2"getStringWidth(Ljava/lang/String;)"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaï ï(#
+"":
+"":
+ipij.process.ImageProcessorB
+ij.gui.HistogramWindow

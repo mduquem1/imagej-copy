@@ -1,0 +1,96 @@
+
+Kij.plugin.MacroInstaller#runMenuTool(Ljava/lang/String;Ljava/lang/String;)Zh
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaƒ ƒ("5*ç
+
+3h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java… …(≤
+Ø
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java   (
+%5ij.macro.Program"__id*%*#
+ij.plugin.MacroInstaller"
+pgmΩ
+∫
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java   ($
+%6java.util.ArrayList"__id*-*+
+ij.plugin.MacroInstaller"
+macroStarts∑
+¥
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java   (+
+%7java.lang.Integer"
+__arrayGet*
+
+%6java.util.ArrayList*
+""üú
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java   (
+%8ij.macro.MacroRunner"ij.macro.MacroRunnerÿ
+’
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java   (;
+%9"Uij.macro.MacroRunner#<init>(Lij/macro/Program;ILjava/lang/String;Ljava/lang/String;)V*
+
+%8ij.macro.MacroRunner*
+
+%5ij.macro.Program*
+
+%7java.lang.Integer*
+
+namejava.lang.String*
+
+commandjava.lang.String"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaÀ À(
+""*Ù
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java» »(º
+π
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java» »(
+%2java.util.ArrayList"__id*,**
+ij.plugin.MacroInstaller"
+
+macroNames∂
+≥
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java» »(
+%3java.lang.String"
+__arrayGet*
+
+%2java.util.ArrayList*
+""ÑÅ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java» »()
+%4boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%3java.lang.String*
+
+namejava.lang.String2startsWith(Ljava/lang/String;)*
+3
+5*Ò
+5h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java∆ ∆(º
+π
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java∆ ∆(
+%0java.util.ArrayList"__id*,**
+ij.plugin.MacroInstaller"
+
+macroNames∫∑
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.java∆ ∆(#	
+%1int"java.util.ArrayList#size()I*
+
+%0java.util.ArrayList2size()*
+4
+1*·
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaŒ	 Œ("r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/MacroInstaller.javaŒ Œ(
+"":
+namejava.lang.String:
+commandjava.lang.StringB
+ij.plugin.MacroInstaller

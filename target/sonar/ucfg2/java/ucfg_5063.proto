@@ -1,0 +1,65 @@
+
+ij.process.LUT#getBytes()[B\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java5 5("15*ò
+13\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java8 8(
+}
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java8 8(!
+bytesbyte[]"__id*
+""*
+3
+7
+11
+1*Ê
+14\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java7 7("f
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java7 7(
+""*¬
+3\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java; ;(!À½
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java;1 ;(;	
+%3int"*java.awt.image.IndexColorModel#getBlue(I)I*
+ij.process.LUT*
+""2
+getBlue(I)*
+3
+1*«
+15\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java6 6(¼¹
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java6 6(	
+%0int",java.awt.image.IndexColorModel#getMapSize()I*
+ij.process.LUT2getMapSize()*
+13
+14*±
+7\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java: :(!Â¿
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java:1 :(<	
+%2int"+java.awt.image.IndexColorModel#getGreen(I)I*
+ij.process.LUT*
+""2getGreen(I)*	
+3
+7
+1*²
+11\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java9 9(!¾»
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java9- 9(6	
+%1int")java.awt.image.IndexColorModel#getRed(I)I*
+ij.process.LUT*
+""2	getRed(I)*
+3
+7
+11
+1*Ô
+1\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java<	 <("q
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java< <(
+
+bytesbyte[]B
+ij.process.LUT

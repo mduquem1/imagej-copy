@@ -1,0 +1,49 @@
+
+Bij.CompositeImage#getChannelProcessor()Lij/process/ImageProcessor;_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javay y(*"4*Ü
+2_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java{
+ {(­
+ª
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java{
+ {(!
+%1ij.process.ImageProcessor[]"__id**
+ij.CompositeImage"
+cip¾
+»
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java{
+ {(
+%2ij.process.ImageProcessor"
+__arrayGet*#
+!
+%1ij.process.ImageProcessor[]*
+"""„
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java{ {(!
+
+%2ij.process.ImageProcessor*œ
+4_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaz z(	­
+ª
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaz z(	!
+%0ij.process.ImageProcessor[]"__id**
+ij.CompositeImage"
+cip*
+2
+1*Ò
+1_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java}
+ }(äá
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java}
+ }(
+%3ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+ij.CompositeImage2getProcessor()"„
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.java} }(!
+
+%3ij.process.ImageProcessorB
+ij.CompositeImage

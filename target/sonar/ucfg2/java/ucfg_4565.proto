@@ -1,0 +1,40 @@
+
+Tij.measure.ResultsTable#getResultsTable(Ljava/lang/String;)Lij/measure/ResultsTable;e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaf f(+"4*Í
+2e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javai i(ÚÔ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javai
+ i(+
+%1ij.measure.ResultsTable"=ij.text.TextWindow#getResultsTable()Lij/measure/ResultsTable;*
+
+fjava.awt.Frame2getResultsTable()"à
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javai i(,
+
+%1ij.measure.ResultsTable*á
+4e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javag g(Ú
+Ô
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javag g()
+%0java.awt.Frame"=ij.WindowManager#getFrame(Ljava/lang/String;)Ljava/awt/Frame;*"
+ij.WindowManager*
+
+titlejava.lang.Stringù
+ö
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javag g(*
+fjava.awt.Frame"__id*
+
+%0java.awt.Frame*
+2
+1*€
+1e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javak
+ k("o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javak k(
+"":
+titlejava.lang.StringB"
+ij.measure.ResultsTable

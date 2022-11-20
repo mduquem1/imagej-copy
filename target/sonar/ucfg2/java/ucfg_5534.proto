@@ -1,0 +1,44 @@
+
+Vij.io.FileOpener#getNumber(Ljava/util/Properties;Ljava/lang/String;)Ljava/lang/Double;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.javaŠ Š("6*ã
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.javaŽ Ž("|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.javaŽ Ž(
+
+%1java.lang.Double*Ù
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.javaŽ Ž(ì
+é
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.javaŽ Ž(
+%1java.lang.Double">java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;*"
+java.lang.Double*
+
+sjava.lang.String*
+3*±
+6`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java‹ ‹(¢Ÿ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java‹ ‹(#
+%0java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;)œ
+™
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java‹ ‹($
+sjava.lang.String"__id*
+
+%0java.lang.String*
+4
+1*Ñ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java‘	 ‘("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java‘ ‘(
+"":
+propsjava.util.Properties:
+keyjava.lang.StringB
+ij.io.FileOpener

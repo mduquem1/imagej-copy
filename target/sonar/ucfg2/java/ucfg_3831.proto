@@ -1,0 +1,70 @@
+
+;ij.WindowManager#getFocusManagerActiveImage()Lij/ImagePlus;^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javas s(4"6*‘
+2^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaz z(“œ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaz	 z(*
+%3ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+winjava.awt.Window2getImagePlus()î
+ë
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaz z(*
+impij.ImagePlus"__id*
+
+%3ij.ImagePlus*
+1*—
+4^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javav v(1ä
+á
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javav v(R#
+%1java.awt.KeyboardFocusManager"]java.awt.KeyboardFocusManager#getCurrentKeyboardFocusManager()Ljava/awt/KeyboardFocusManager;*!"
+java.awt.KeyboardFocusManager∂
+≥
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javav v(S$
+kfmjava.awt.KeyboardFocusManager"__id*%
+#
+%1java.awt.KeyboardFocusManager˜Ù
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaw w($
+%2java.awt.Window"@java.awt.KeyboardFocusManager#getActiveWindow()Ljava/awt/Window;*&
+$
+kfmjava.awt.KeyboardFocusManager2getActiveWindow()ö
+ó
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaw w(%
+winjava.awt.Window"__id*
+
+%2java.awt.WindowÜ
+É
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javax x(
+impij.ImagePlus"__id*
+""*
+2
+1*Õ
+5^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javau
+ u("h
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javau u(
+""*˝
+6^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javat t(è
+å
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javat t(
+%0boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+4
+5*‹
+1^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java{	 {("w
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java{ {(
+
+impij.ImagePlusB"
+ij.WindowManager

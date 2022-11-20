@@ -1,0 +1,177 @@
+
+Yij.plugin.HyperStackReducer#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Zk
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaØ Ø(!"21*’
+13k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≤ ≤(◊‘
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≤ ≤(/
+%6boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+11
+12*é
+16k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java±> ±(?é
+ã
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java±> ±(?	
+%3int"__id*
+	
+%5int*
+
+13
+4
+8*é
+17k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java±4 ±(=é
+ã
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java±4 ±(=	
+%3int"__id*
+	
+%4int*
+
+13
+4
+8*’
+18k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java±  ±("◊‘
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java±  ±(3
+%2boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+16
+17*Á
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java∑	 ∑("u
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java∑ ∑(
+""*Î
+2k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java∂ ∂(ÓÎ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java∂ ∂(
+%18java.awt.Component"5ij.gui.GenericDialog#getMessage()Ljava/awt/Component;*
+
+gdij.gui.GenericDialog2getMessage()Ä˝
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java∂$ ∂(6
+%19java.lang.String"@ij.plugin.HyperStackReducer#getNewDimensions()Ljava/lang/String;*
+ij.plugin.HyperStackReducer2getNewDimensions()ˇ¸
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java∂ ∂(7
+%20void"+java.awt.Label#setText(Ljava/lang/String;)V*
+
+%18java.awt.Component*
+
+%19java.lang.String2setText(Ljava/lang/String;)*
+1*ê
+3k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaµ µ(µ
+≤
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaµ µ(
+%16ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp›⁄
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaµ µ("
+%17ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+%16ij.ImagePlus2getWindow()*
+2
+1*ã
+4k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java¥	 ¥(ÿ’
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java¥	 ¥(
+%14boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()µ
+≤
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.javaµ µ(	
+%15ij.ImagePlus"__id*(*&
+ij.plugin.HyperStackReducer"
+imp*
+3
+1*à
+6k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≥8 ≥(9ê
+ç
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≥8 ≥(9
+
+%11int"__id*
+
+
+%13int*
+4*à
+7k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≥0 ≥(7ê
+ç
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≥0 ≥(7
+
+%11int"__id*
+
+
+%12int*
+4*”
+8k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≥ ≥(ÿ’
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≥ ≥(/
+%10boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+6
+7*°
+20k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java∞ ∞(ù
+ö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java∞ ∞(!
+
+%1void"ij.IJ#wait(I)V*	"
+ij.IJ*2d*
+13
+4
+18
+8*•
+21k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java∞ ∞(ù
+ö
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java∞ ∞(
+%0boolean"ij.IJ#isMacOSX()Z*	"
+ij.IJ*
+13
+4
+18
+8
+20*ä
+11k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≤8 ≤(9é
+ã
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≤8 ≤(9	
+%7int"__id*
+	
+%9int*
+4
+8*ä
+12k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≤0 ≤(7é
+ã
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/HyperStackReducer.java≤0 ≤(7	
+%7int"__id*
+	
+%8int*
+4
+8:
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.HyperStackReducer

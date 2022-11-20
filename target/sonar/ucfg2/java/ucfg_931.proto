@@ -1,0 +1,161 @@
+
+1ij.plugin.Histogram#setupDialog(Lij/ImagePlus;I)Ic
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java† †("14*Ÿ
+13c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java£ £(∑
+¥
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java£ £(+
+%1java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro™
+ß
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java£ £(, 
+macroOptionsjava.lang.String"__id*
+
+%1java.lang.String*
+9
+12* 
+2c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java¥ ¥(⁄
+◊
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java¥ ¥("
+%14void":ij.plugin.frame.Recorder#recordOption(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*	
+slice*
+1*≠
+14c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java° °(∏µ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java° °($	
+%0int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+13
+1*€
+4c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java± ±(Å
+
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java± ±()
+
+%13int"__id*
+"""m
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java± ±(*
+""* 
+5c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java∞ ∞(⁄
+◊
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java∞ ∞(#
+%12void":ij.plugin.frame.Recorder#recordOption(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*	
+stack*
+4*»
+7c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.javaÆ Æ(œÃ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.javaÆ Æ(
+%11boolean"&ij.gui.YesNoCancelDialog#yesPressed()Z*
+
+dij.gui.YesNoCancelDialog2yesPressed()*
+2
+4
+5
+1*€
+8c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java≠ ≠(Å
+
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java≠ ≠(
+
+%10int"__id*
+"""m
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java≠ ≠(
+""*»
+9c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java™/ ™(1§
+°
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java™/ ™(?
+%4	ij.ImageJ"ij.IJ#getInstance()Lij/ImageJ;*	"
+ij.IJ§
+°
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java´ ´()
+%5java.lang.String"__concat*
+Include all *
+""≤
+Ø
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java´ ´(4
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+
+ images?¢ü
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java™ ™(.
+%7ij.gui.YesNoCancelDialog"ij.gui.YesNoCancelDialog§
+°
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java™ ´(5
+%8"Vij.gui.YesNoCancelDialog#<init>(Ljava/awt/Frame;Ljava/lang/String;Ljava/lang/String;)V* 
+
+%7ij.gui.YesNoCancelDialog*
+
+%4	ij.ImageJ*
+	Histogram*
+
+%6java.lang.StringØ
+¨
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java™ ´(6
+dij.gui.YesNoCancelDialog"__id* 
+
+%7ij.gui.YesNoCancelDialog‘—
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java¨ ¨(
+%9boolean")ij.gui.YesNoCancelDialog#cancelPressed()Z*
+
+dij.gui.YesNoCancelDialog2cancelPressed()*
+7
+8*ÿ
+10c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java® ®("m
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java® ®(
+""*€
+11c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java¶ ¶(Ä
+~
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java¶ ¶(*	
+%3int"__id*
+"""m
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java¶ ¶(+
+""*Â
+12c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java• •(ÔÏ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java• •(&	
+%2int"-java.lang.String#indexOf(Ljava/lang/String;)I*"
+ 
+macroOptionsjava.lang.String*
+
+stack 2indexOf(Ljava/lang/String;)*
+10
+11*◊
+1c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java∂	 ∂("m
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Histogram.java∂ ∂(
+"":
+impij.ImagePlus:
+""B
+ij.plugin.Histogram

@@ -1,0 +1,249 @@
+
+4ij.process.StackProcessor#resize(IIZ)Lij/ImageStack;g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javan n("26*ñ
+24g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaq( q(,†
+ù
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaq( q(,
+%3java.awt.Rectangle"__id*
+
+%5
+<nulltype>*
+23*Õ
+13g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaz
+ z(ª
+∏
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaz
+ z( 
+%20ij.process.ImageProcessor"__id*%*#
+ij.process.StackProcessor"
+ipôñ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaz
+ z(? 
+%21ij.process.ImageProcessor"@ij.process.ImageProcessor#resize(IIZ)Lij/process/ImageProcessor;*"
+ 
+%20ij.process.ImageProcessor*
+""*
+""*
+""2resize(IIZ)*
+12*…
+25g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaq q(∫
+∑
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaq q(
+%6ij.process.ImageProcessor"__id*%*#
+ij.process.StackProcessor"
+ipÎË
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaq q('
+%4java.awt.Rectangle"6ij.process.ImageProcessor#getRoi()Ljava/awt/Rectangle;*!
+
+%6ij.process.ImageProcessor2getRoi()®
+•
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaq q('
+%3java.awt.Rectangle"__id*
+
+%4java.awt.Rectangle*
+23*ú
+14g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javax x(-®
+•
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javax x(-
+labeljava.lang.String"__id*
+
+%17java.lang.String≤
+Ø
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javay y(
+%18ij.ImageStack"__id*(*&
+ij.process.StackProcessor"
+stack∆√
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javay y(
+%19void"ij.ImageStack#deleteSlice(I)V*
+
+%18ij.ImageStack*22deleteSlice(I)*
+13*¬
+26g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javao( o(0êç
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javao o('
+%0ij.ImageStack"ij.ImageStack¥
+±
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javao o(<
+%1"ij.ImageStack#<init>(II)V*
+
+%0ij.ImageStack*
+""*
+""¢
+ü
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javao o(=
+stack2ij.ImageStack"__id*
+
+%0ij.ImageStackú
+ô
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javap p( 
+ip2ij.process.ImageProcessor"__id*
+""∫
+∑
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaq q(
+%2ij.process.ImageProcessor"__id*%*#
+ij.process.StackProcessor"
+ip*
+24
+25*í
+15g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javax x(≤
+Ø
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javax x(
+%16ij.ImageStack"__id*(*&
+ij.process.StackProcessor"
+stackÁ‰
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javax x(,
+%17java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+%16ij.ImageStack*22getSliceLabel(I)*
+14*á
+16g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaw w('ëé
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaw w('
+%15void"8ij.process.ImageProcessor#setPixels(Ljava/lang/Object;)V*"
+ 
+%12ij.process.ImageProcessor*
+
+%14java.lang.Object2setPixels(Ljava/lang/Object;)*
+15*»
+17g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaw w(	ª
+∏
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaw w(	 
+%12ij.process.ImageProcessor"__id*%*#
+ij.process.StackProcessor"
+ip≤
+Ø
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaw w(
+%13ij.ImageStack"__id*(*&
+ij.process.StackProcessor"
+stackﬂ‹
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaw w(&
+%14java.lang.Object",ij.ImageStack#getPixels(I)Ljava/lang/Object;*
+
+%13ij.ImageStack*22getPixels(I)*
+16*ã
+18g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javav v(ïí
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javav v('
+%11void";ij.process.StackProcessor#showStatus(Ljava/lang/String;II)V*
+ij.process.StackProcessor*
+
+Resize: *
+""*
+""2 showStatus(Ljava/lang/String;II)*
+17*˜
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaÜ	 Ü("Ü
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaÜ Ü(
+
+stack2ij.ImageStack*ò
+8g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.java (§
+°
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.java (
+%24void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""*
+1*ù
+10g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.java} }(§
+°
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.java} }(&
+%23void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""*
+18
+8*„
+22g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javas s(±
+Æ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javas s(
+%8ij.ImageStack"__id*(*&
+ij.process.StackProcessor"
+stackıÚ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javas s( 
+%9ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+%8ij.ImageStack*22getProcessor(I)Ä˝
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javas s(, 
+%10ij.process.ImageProcessor"@ij.process.ImageProcessor#duplicate()Lij/process/ImageProcessor;*!
+
+%9ij.process.ImageProcessor2duplicate()ª
+∏
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javas s(,#
+ij.process.StackProcessor"
+ip"__id*"
+ 
+%10ij.process.ImageProcessor*
+18
+8*Ã
+11g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.java| |(÷”
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.java| |( 
+%22void"Fij.ImageStack#addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+stack2ij.ImageStack*
+
+labeljava.lang.String*"
+ 
+ip2ij.process.ImageProcessor27addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)*
+10*∑
+23g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaq q(-∫
+∑
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javar	 r(
+%7ij.process.ImageProcessor"__id*%*#
+ij.process.StackProcessor"
+ip*
+18
+8
+22*≤
+12g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaz z(?∏
+µ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/StackProcessor.javaz z(? 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%21ij.process.ImageProcessor*
+10
+11:
+"":
+"":
+""B
+ij.process.StackProcessor

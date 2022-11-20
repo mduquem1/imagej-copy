@@ -1,0 +1,80 @@
+
+>ij.IJ#createHyperStack(Ljava/lang/String;IIIIII)Lij/ImagePlus;U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¡ ¡(*"4*Ω
+2U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java≈ ≈(r
+p
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java≈! ≈(-	
+%2int"__id*
+""ÜÉ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java≈ ≈(
+%3ij.CompositeImage"ij.CompositeImageÀ
+»
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java≈	 ≈(.
+%4"*ij.CompositeImage#<init>(Lij/ImagePlus;I)V*
+
+%3ij.CompositeImage*
+
+impij.ImagePlus*
+	
+%2intê
+ç
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java≈ ≈(.
+impij.ImagePlus"__id*
+
+%3ij.CompositeImage*
+1*∞
+4U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¬ ¬(Ô
+Ï
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¬ ¬(U
+%0ij.ImagePlus"7ij.IJ#createImage(Ljava/lang/String;IIII)Lij/ImagePlus;*	"
+ij.IJ*
+
+titlejava.lang.String*
+""*
+""*
+""*
+""ã
+à
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¬ ¬(V
+impij.ImagePlus"__id*
+
+%0ij.ImagePlusÀ»
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java√ √(-
+
+%1void" ij.ImagePlus#setDimensions(III)V*
+
+impij.ImagePlus*
+""*
+""*
+""2setDimensions(III)*
+2
+1*é
+1U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java∆ ∆(¡æ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java∆ ∆(
+
+%5void"$ij.ImagePlus#setOpenAsHyperStack(Z)V*
+
+impij.ImagePlus*22setOpenAsHyperStack(Z)"n
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java« «(
+
+impij.ImagePlus:
+titlejava.lang.String:
+"":
+"":
+"":
+"":
+"":
+""B	"
+ij.IJ

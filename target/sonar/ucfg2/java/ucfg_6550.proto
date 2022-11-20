@@ -1,0 +1,78 @@
+
+-ij.macro.Program#hasWord(Ljava/lang/String;)Z`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaâ â("7"1*—
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaë- ë(1"j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaë& ë(2
+""*Ë
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaë ë(ıÚ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaë ë($
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+strjava.lang.String*
+
+wordjava.lang.String2equals(Ljava/lang/Object;)*	
+3
+7
+1*é
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaè è(}
+{
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaè è("	
+%1int"__id*
+""•
+¢
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaê ê(
+%2ij.macro.Symbol[]"__id**
+ij.macro.Program"
+table´
+®
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaê ê(#
+%3ij.macro.Symbol"
+__arrayGet*
+
+%2ij.macro.Symbol[]*
+""•
+¢
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaê ê('
+%4java.lang.String"__id* *
+
+%3ij.macro.Symbol"
+strû
+õ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaê ê((
+strjava.lang.String"__id*
+
+%4java.lang.String*	
+4
+7
+1*—
+6`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaé é("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaé é( 
+""*Ï
+7`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaé é(}
+{
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaé é(	
+%0int"__id*
+""*
+5
+6*—
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaì	 ì("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Program.javaì ì(
+"":
+wordjava.lang.StringB
+ij.macro.Program

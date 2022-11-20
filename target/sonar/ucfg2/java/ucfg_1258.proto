@@ -1,0 +1,721 @@
+
+Hij.plugin.Orthogonal_Views#updateViews(Ljava/awt/Point;Lij/ImageStack;)Vj
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaı ı("35*˚
+24j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÑ Ñ(∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÑ Ñ(
+%21ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+xz_image£
+†
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÑ Ñ(%
+%22java.lang.String"__concat*
+XZ *
+""¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÑ' Ñ(* 
+%23ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp1⁄◊
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÑ Ñ(+
+%24void"Iij.ImagePlus#setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%21ij.ImagePlus*
+
+%22java.lang.String*"
+ 
+%23ij.process.ImageProcessor2;setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)*
+21
+22*´
+25j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÉ É(¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÉ É( 
+%19ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp1ÔÏ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÉ É('
+%20void"+ij.process.ImageProcessor#setMinAndMax(DD)V*"
+ 
+%19ij.process.ImageProcessor*
+""*
+""2setMinAndMax(DD)*
+24*π
+27j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÅ Å(∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÅ Å(
+%16ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+xz_image£
+†
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÅ Å("
+%17java.lang.String"__concat*
+XZ *
+""€ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÅ Å()
+%18void"Iij.ImagePlus#setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%16ij.ImagePlus*
+
+%17java.lang.String*#
+!
+sfp1ij.process.ImageProcessor2;setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)*
+21
+22*È
+28j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÄ Ä(Ì
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÄ Ä((
+%15void"+ij.process.ImageProcessor#setMinAndMax(DD)V*#
+!
+sfp1ij.process.ImageProcessor*
+""*
+""2setMinAndMax(DD)*
+27*æ	
+29j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˛ ˛(¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˛ ˛( 
+%11ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp1Á‰
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˛ ˛(
+%12void",ij.process.ImageProcessor#setInterpolate(Z)V*"
+ 
+%11ij.process.ImageProcessor*22setInterpolate(Z)¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaˇ ˇ( 
+%13ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp1íè
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaˇ ˇ(2 
+%14ij.process.ImageProcessor"?ij.process.ImageProcessor#resize(II)Lij/process/ImageProcessor;*"
+ 
+%13ij.process.ImageProcessor*
+""*
+""2
+resize(II)º
+π
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaˇ ˇ(3!
+sfp1ij.process.ImageProcessor"__id*"
+ 
+%14ij.process.ImageProcessor*
+27
+28*ñ
+30j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˝ ˝(%ø
+º
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˝' ˝(*
+%9ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp1”–
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˝' ˝(6
+
+%10int"&ij.process.ImageProcessor#getHeight()I*!
+
+%9ij.process.ImageProcessor2getHeight()*
+24
+25
+29*è
+31j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˝ ˝(ø
+º
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˝ ˝(
+%7ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp1–Õ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˝ ˝(	
+%8int"%ij.process.ImageProcessor#getWidth()I*!
+
+%7ij.process.ImageProcessor2
+getWidth()*
+29
+30*»
+10j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaö ö(∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaö ö(
+%46ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+yz_image∑
+¥
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaö ö("
+%47java.lang.String"__concat*
+
+titlejava.lang.String*
+""€ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaö ö()
+%48void"Iij.ImagePlus#setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%46ij.ImagePlus*
+
+%47java.lang.String*#
+!
+sfp2ij.process.ImageProcessor2;setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)*
+6*ú
+33j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˜ ˜(√¿
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˜ ˜(
+
+%1void"Iij.plugin.Orthogonal_Views#updateXZView(Ljava/awt/Point;Lij/ImageStack;)V*
+ij.plugin.Orthogonal_Views*
+
+pjava.awt.Point*
+
+isij.ImageStack2-updateXZView(Ljava/awt/Point;Lij/ImageStack;)ø
+º
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˙ ˙(
+%2ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp1–Õ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˙ ˙(	
+%3int"%ij.process.ImageProcessor#getWidth()I*!
+
+%2ij.process.ImageProcessor2
+getWidth()ø
+º
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˚  ˚(#
+%4ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp1“œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˚  ˚(/	
+%5int"&ij.process.ImageProcessor#getHeight()I*!
+
+%4ij.process.ImageProcessor2getHeight()±
+Æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java˚ ˚(3
+
+%6long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""*
+31*È
+11j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaô ô(Ì
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaô ô((
+%45void"+ij.process.ImageProcessor#setMinAndMax(DD)V*#
+!
+sfp2ij.process.ImageProcessor*
+""*
+""2setMinAndMax(DD)*
+10*Ê
+34j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaˆ ˆ("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaˆ ˆ(
+""*æ	
+12j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaó ó(¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaó ó( 
+%41ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp2Á‰
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaó ó(
+%42void",ij.process.ImageProcessor#setInterpolate(Z)V*"
+ 
+%41ij.process.ImageProcessor*22setInterpolate(Z)¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaò ò( 
+%43ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp2íè
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaò ò(2 
+%44ij.process.ImageProcessor"?ij.process.ImageProcessor#resize(II)Lij/process/ImageProcessor;*"
+ 
+%43ij.process.ImageProcessor*
+""*
+""2
+resize(II)º
+π
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaò ò(3!
+sfp2ij.process.ImageProcessor"__id*"
+ 
+%44ij.process.ImageProcessor*
+10
+11*º
+35j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaˆ ˆ(	ø
+º
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaˆ ˆ(	
+%0ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp1*
+33
+34*ñ
+13j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javañ ñ(%¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javañ' ñ(* 
+%39ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp2‘—
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javañ' ñ(6
+
+%40int"&ij.process.ImageProcessor#getHeight()I*"
+ 
+%39ij.process.ImageProcessor2getHeight()*
+
+7
+8
+12*í
+14j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javañ ñ(¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javañ ñ( 
+%37ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp2“œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javañ ñ(
+
+%38int"%ij.process.ImageProcessor#getWidth()I*"
+ 
+%37ij.process.ImageProcessor2
+getWidth()*
+13
+12*í
+15j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaî î(ô
+ñ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaî î(
+titlejava.lang.String"__id*
+ZY *
+14*›
+17j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaë ë(¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaë ë( 
+%32ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp2“œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaë ë(
+
+%33int"%ij.process.ImageProcessor#getWidth()I*"
+ 
+%32ij.process.ImageProcessor2
+getWidth()¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaí í(  
+%34ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp2‘—
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaí í(,
+
+%35int"&ij.process.ImageProcessor#getHeight()I*"
+ 
+%34ij.process.ImageProcessor2getHeight()≤
+Ø
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaí í(0
+%36long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""*
+15*∞
+18j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaé é(¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaé é( 
+%30ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp2‘—
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaé é(
+
+%31int"&ij.process.ImageProcessor#getHeight()I*"
+ 
+%30ij.process.ImageProcessor2getHeight()ô
+ñ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaè è(
+titlejava.lang.String"__id*
+YZ *
+14
+17*â
+0 "Å
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java∫ ∫(
+implicit return*ˇ
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java∂ ∂(∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java∂ ∂(
+%84ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+xz_image‹Ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java∂ ∂((
+%85ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+%84ij.ImagePlus2getWindow()ËÂ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java∂ ∂(4
+%86ij.gui.ImageCanvas"2ij.gui.ImageWindow#getCanvas()Lij/gui/ImageCanvas;*
+
+%85ij.gui.ImageWindow2getCanvas()¨
+©
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java∂ ∂(5
+icij.gui.ImageCanvas"__id*
+
+%86ij.gui.ImageCanvas‘—
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java∑ ∑(
+%87void"#ij.gui.ImageCanvas#setCustomRoi(Z)V*
+
+icij.gui.ImageCanvas*22setCustomRoi(Z)*
+0*ú
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÆ Æ(∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÆ Æ(
+%74ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+xz_image±Æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÆ Æ(
+%75void"ij.ImagePlus#show()V*
+
+%74ij.ImagePlus2show()∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaØ Ø(
+%76ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+xz_image‹Ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaØ Ø((
+%77ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+%76ij.ImagePlus2getCanvas()¨
+©
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaØ Ø()
+icij.gui.ImageCanvas"__id*
+
+%77ij.gui.ImageCanvas®•
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java∞ ∞(
+%78void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+icij.gui.ImageCanvas*
+ij.plugin.Orthogonal_Views2,addKeyListener(Ljava/awt/event/KeyListener;)∞≠
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java± ±(
+%79void"Djava.awt.Component#addMouseListener(Ljava/awt/event/MouseListener;)V*
+
+icij.gui.ImageCanvas*
+ij.plugin.Orthogonal_Views20addMouseListener(Ljava/awt/event/MouseListener;)»≈
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java≤ ≤("
+%80void"Pjava.awt.Component#addMouseMotionListener(Ljava/awt/event/MouseMotionListener;)V*
+
+icij.gui.ImageCanvas*
+ij.plugin.Orthogonal_Views2<addMouseMotionListener(Ljava/awt/event/MouseMotionListener;)‘—
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java≥ ≥(
+%81void"#ij.gui.ImageCanvas#setCustomRoi(Z)V*
+
+icij.gui.ImageCanvas*22setCustomRoi(Z)∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java¥
+ ¥(
+%82ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+xz_image≤Ø
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java¥
+ ¥(
+
+%83int"ij.ImagePlus#getID()I*
+
+%82ij.ImagePlus2getID()*
+0*ë
+3j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java≠ ≠(∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java≠ ≠(
+%72ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+xz_image‹Ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java≠ ≠(
+%73ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+%72ij.ImagePlus2getWindow()*
+2
+1*ˇ
+4j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java™ ™(∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java™ ™(
+%68ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+yz_image‹Ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java™ ™((
+%69ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+%68ij.ImagePlus2getWindow()ËÂ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java™ ™(4
+%70ij.gui.ImageCanvas"2ij.gui.ImageWindow#getCanvas()Lij/gui/ImageCanvas;*
+
+%69ij.gui.ImageWindow2getCanvas()¨
+©
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java™ ™(5
+icij.gui.ImageCanvas"__id*
+
+%70ij.gui.ImageCanvas‘—
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java´ ´(
+%71void"#ij.gui.ImageCanvas#setCustomRoi(Z)V*
+
+icij.gui.ImageCanvas*22setCustomRoi(Z)*
+3*ú
+5j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java¢ ¢(∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java¢ ¢(
+%58ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+yz_image±Æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java¢ ¢(
+%59void"ij.ImagePlus#show()V*
+
+%58ij.ImagePlus2show()∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java£ £(
+%60ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+yz_image‹Ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java£ £((
+%61ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+%60ij.ImagePlus2getCanvas()¨
+©
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java£ £()
+icij.gui.ImageCanvas"__id*
+
+%61ij.gui.ImageCanvas®•
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java§ §(
+%62void"@java.awt.Component#addKeyListener(Ljava/awt/event/KeyListener;)V*
+
+icij.gui.ImageCanvas*
+ij.plugin.Orthogonal_Views2,addKeyListener(Ljava/awt/event/KeyListener;)∞≠
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java• •(
+%63void"Djava.awt.Component#addMouseListener(Ljava/awt/event/MouseListener;)V*
+
+icij.gui.ImageCanvas*
+ij.plugin.Orthogonal_Views20addMouseListener(Ljava/awt/event/MouseListener;)»≈
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java¶ ¶("
+%64void"Pjava.awt.Component#addMouseMotionListener(Ljava/awt/event/MouseMotionListener;)V*
+
+icij.gui.ImageCanvas*
+ij.plugin.Orthogonal_Views2<addMouseMotionListener(Ljava/awt/event/MouseMotionListener;)‘—
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaß ß(
+%65void"#ij.gui.ImageCanvas#setCustomRoi(Z)V*
+
+icij.gui.ImageCanvas*22setCustomRoi(Z)∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java®
+ ®(
+%66ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+yz_image≤Ø
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java®
+ ®(
+
+%67int"ij.ImagePlus#getID()I*
+
+%66ij.ImagePlus2getID()*
+3*Ÿ
+6j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java† †(≈
+¬
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java† †(
+%55void"'ij.plugin.Orthogonal_Views#calibrate()V*
+ij.plugin.Orthogonal_Views∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java° °(
+%56ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+yz_image‹Ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java° °(
+%57ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+%56ij.ImagePlus2getWindow()*
+4
+5*â
+7j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaù ù(∏
+µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaù ù(
+%51ij.ImagePlus"__id*,**
+ij.plugin.Orthogonal_Views"
+
+yz_image∑
+¥
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaù ù("
+%52java.lang.String"__concat*
+
+titlejava.lang.String*
+""¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaù$ ù(' 
+%53ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp2⁄◊
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaù ù((
+%54void"Iij.ImagePlus#setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%51ij.ImagePlus*
+
+%52java.lang.String*"
+ 
+%53ij.process.ImageProcessor2;setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)*
+6*©
+8j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaú ú(¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaú ú( 
+%49ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp2ÔÏ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaú ú('
+%50void"+ij.process.ImageProcessor#setMinAndMax(DD)V*"
+ 
+%49ij.process.ImageProcessor*
+""*
+""2setMinAndMax(DD)*
+7*√
+20j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaå å(¿
+Ω
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaå å( 
+%27ij.process.ImageProcessor"__id*'*%
+ij.plugin.Orthogonal_Views"
+fp2“œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaå å()
+
+%28int"%ij.process.ImageProcessor#getWidth()I*"
+ 
+%27ij.process.ImageProcessor2
+getWidth()≤
+Ø
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaå å(-
+%29long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""*
+18*Ω
+21j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaä ä(ƒ¡
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaä ä(
+%26void"Iij.plugin.Orthogonal_Views#updateZYView(Ljava/awt/Point;Lij/ImageStack;)V*
+ij.plugin.Orthogonal_Views*
+
+pjava.awt.Point*
+
+isij.ImageStack2-updateZYView(Ljava/awt/Point;Lij/ImageStack;)*
+20*Ω
+22j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaà à(ƒ¡
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaà à(
+%25void"Iij.plugin.Orthogonal_Views#updateYZView(Ljava/awt/Point;Lij/ImageStack;)V*
+ij.plugin.Orthogonal_Views*
+
+pjava.awt.Point*
+
+isij.ImageStack2-updateYZView(Ljava/awt/Point;Lij/ImageStack;)*
+20:
+pjava.awt.Point:
+isij.ImageStackB
+ij.plugin.Orthogonal_Views

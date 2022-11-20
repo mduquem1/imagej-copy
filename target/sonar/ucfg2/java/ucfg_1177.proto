@@ -1,0 +1,46 @@
+
+9ij.gui.OvalRoi#getFloatPolygon()Lij/process/FloatPolygon;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaˇ ˇ($"1*‰
+
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÄ@ Ä(A©¶
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÄ! Ä(?$
+%0java.awt.geom.Ellipse2D$Double"java.awt.geom.Ellipse2D$Doubleﬂ
+‹
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÄ Ä(p
+%1",java.awt.geom.Ellipse2D$Double#<init>(DDDD)V*&
+$
+%0java.awt.geom.Ellipse2D$Double*
+""*
+""*
+""*
+""ãà
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÄ Ä(
+%2ij.gui.ShapeRoi"ij.gui.ShapeRoi’
+“
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÄ Ä(q
+%3")ij.gui.ShapeRoi#<init>(Ljava/awt/Shape;)V*
+
+%2ij.gui.ShapeRoi*&
+$
+%0java.awt.geom.Ellipse2D$Doubleô
+ñ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÄ Ä(r
+srij.gui.ShapeRoi"__id*
+
+%2ij.gui.ShapeRoiÍÁ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÅ	 Å(
+%4ij.process.FloatPolygon":ij.gui.ShapeRoi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+srij.gui.ShapeRoi2getFloatPolygon()"Å
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÅ Å(
+
+%4ij.process.FloatPolygonB
+ij.gui.OvalRoi

@@ -1,0 +1,555 @@
+
+$ij.plugin.ZProjector#doProjection()Vd
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∞ ∞("40*ê
+24d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∆) ∆(,ß
+§
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∆) ∆(,
+%13ij.ImagePlus"__id*!*
+ij.plugin.ZProjector"
+imp≤Ø
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∆) ∆(7
+
+%14int"ij.ImagePlus#getWidth()I*
+
+%13ij.ImagePlus2
+getWidth()ß
+§
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∆8 ∆(;
+%15ij.ImagePlus"__id*!*
+ij.plugin.ZProjector"
+imp¥±
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∆8 ∆(G
+
+%16int"ij.ImagePlus#getHeight()I*
+
+%15ij.ImagePlus2getHeight()¶£
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∆ ∆(( 
+%17ij.process.FloatProcessor"ij.process.FloatProcessor◊
+‘
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∆ ∆(H
+%18"%ij.process.FloatProcessor#<init>(II)V*"
+ 
+%17ij.process.FloatProcessor*
+
+
+%14int*
+
+
+%16int¥
+±
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∆ ∆(I
+fpij.process.FloatProcessor"__id*"
+ 
+%17ij.process.FloatProcessorß
+§
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java« «(
+%19ij.ImagePlus"__id*!*
+ij.plugin.ZProjector"
+imp «
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java« «(#
+%20ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%19ij.ImagePlus2
+getStack()ü
+ú
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java« «($
+stackij.ImageStack"__id*
+
+%20ij.ImageStackº
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java» »(2'
+%21 ij.plugin.ZProjector$RayFunction"cij.plugin.ZProjector#getRayFunction(ILij/process/FloatProcessor;)Lij/plugin/ZProjector$RayFunction;*
+ij.plugin.ZProjector*
+""*!
+
+fpij.process.FloatProcessor«
+ƒ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java» »(3+
+rayFunc ij.plugin.ZProjector$RayFunction"__id*)
+'
+%21 ij.plugin.ZProjector$RayFunction*
+22
+23*Ù
+25d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java¡ ¡(!Á‰
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java¡ ¡(#
+%12ij.ImagePlus"7ij.plugin.ZProjector#doMedianProjection()Lij/ImagePlus;*
+ij.plugin.ZProjector2doMedianProjection()≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java¡ ¡(#%
+ij.plugin.ZProjector"
+	projImage"__id*
+
+%12ij.ImagePlus"n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java¬ ¬(
+
+""*˙
+26d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java¿ ¿(É
+Ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java¿ ¿(
+
+%11int"__id*
+""*
+24
+25*±
+31d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∫ ∫('¶
+£
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∫( ∫(+
+%9ij.ImagePlus"__id*!*
+ij.plugin.ZProjector"
+imp˚
+¯
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∫ ∫(,
+%10ij.ImagePlus"Kij.plugin.ZProjector#doAverageFloatProjection(Lij/ImagePlus;)Lij/ImagePlus;*
+ij.plugin.ZProjector*
+
+%9ij.ImagePlus≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∫ ∫(,%
+ij.plugin.ZProjector"
+	projImage"__id*
+
+%10ij.ImagePlus"n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaª ª(
+
+""*¯
+32d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaπ π(%Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaπ' π(1	
+%8int"__id*
+""*
+26
+31*÷
+33d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaπ π(	¶
+£
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaπ π(	
+%6ij.ImagePlus"__id*!*
+ij.plugin.ZProjector"
+imp∂≥
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaπ π(	
+%7int"ij.ImagePlus#getBitDepth()I*
+
+%6ij.ImagePlus2getBitDepth()*
+26
+32*ö
+11d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java„ „(‡›
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java„ „(%
+%38java.lang.Object",ij.ImageStack#getPixels(I)Ljava/lang/Object;*
+
+stackij.ImageStack*
+""2getPixels(I)Ω
+∫
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java„ „(6
+%39void"Yij.plugin.ZProjector#projectSlice(Ljava/lang/Object;Lij/plugin/ZProjector$RayFunction;I)V*
+ij.plugin.ZProjector*
+
+%38java.lang.Object*-
++
+rayFunc ij.plugin.ZProjector$RayFunction*
+""*
+9
+11
+12*®
+34d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∂ ∂(À»
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∂ ∂(
+
+%5void"'ij.plugin.ZProjector#doRGBProjection()V*
+ij.plugin.ZProjector2doRGBProjection()"n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java∑ ∑(
+
+""*ñ
+12d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java‡ ‡(	≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java‡& ‡(+
+%30java.lang.String"__id*#*!
+ij.plugin.ZProjector"
+colorπ
+∂
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java‡ ‡(+
+%31java.lang.String"__concat*
+ZProjection *
+
+%30java.lang.StringØ
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java‡ ‡(1
+%32java.lang.String"__concat*
+
+%31java.lang.String*
+: Ø
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java‡ ‡(5
+%33java.lang.String"__concat*
+
+%32java.lang.String*
+""Æ
+´
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java‡ ‡(;
+%34java.lang.String"__concat*
+
+%33java.lang.String*
+/Ø
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java‡ ‡(G
+%35java.lang.String"__concat*
+
+%34java.lang.String*
+""√
+¿
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java‡ ‡(H
+%36void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%35java.lang.String™
+ß
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java· ·(:
+%37void"ij.IJ#showProgress(II)V*	"
+ij.IJ*
+""*
+""*
+11*÷
+35d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaµ µ(	¶
+£
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaµ µ(	
+%3ij.ImagePlus"__id*!*
+ij.plugin.ZProjector"
+imp∂≥
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaµ µ(	
+%4int"ij.ImagePlus#getBitDepth()I*
+
+%3ij.ImagePlus2getBitDepth()*
+33
+34*Ù
+37d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java≥ ≥(!Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java≥" ≥(/	
+%2int"__id*
+""*
+35*¯
+38d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java≥ ≥(Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java≥ ≥(	
+%1int"__id*
+""*
+35
+37*Ω
+16d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÿ ÿ(‡
+›
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÿ ÿ(5
+%29void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+	Z Project*
+Non-RGB stack required"n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaŸ Ÿ(
+""*⁄
+39d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java≤ ≤(
+"n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java≤ ≤(
+
+""*Ù
+18d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java÷ ÷(ˆÛ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java÷ ÷(  
+%28ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*22getProcessor(I)*
+16
+9
+11
+12*Ç
+0 "{
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java¯ ¯(
+implicit return*÷
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java˜ ˜(Â
+‚
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java˜ ˜(:
+%59void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+	Z Project*
+Error computing projection.*
+0*°
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaˆ ˆ(≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaˆ ˆ(
+%58ij.ImagePlus"__id*'*%
+ij.plugin.ZProjector"
+	projImage*
+0
+1*Ì
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÚ Ú(
+Â‚
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÚ Ú(
+%55void"/ij.plugin.ZProjector$RayFunction#postProcess()V*-
++
+rayFunc ij.plugin.ZProjector$RayFunction2postProcess()ß
+§
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÛ Û("
+%56ij.ImagePlus"__id*!*
+ij.plugin.ZProjector"
+imp∫
+∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÛ Û(.
+%57ij.ImagePlus"^ij.plugin.ZProjector#makeOutputImage(Lij/ImagePlus;Lij/process/FloatProcessor;I)Lij/ImagePlus;*
+ij.plugin.ZProjector*
+
+%56ij.ImagePlus*!
+
+fpij.process.FloatProcessor*
+""≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÛ Û(.%
+ij.plugin.ZProjector"
+	projImage"__id*
+
+%57ij.ImagePlus*
+2*›
+
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÓ Ó(
+Â‚
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÓ Ó(
+%50void"/ij.plugin.ZProjector$RayFunction#postProcess()V*-
++
+rayFunc ij.plugin.ZProjector$RayFunction2postProcess()ÿ’
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÔ Ô(
+%51void"+ij.process.FloatProcessor#resetMinAndMax()V*!
+
+fpij.process.FloatProcessor2resetMinAndMax()›⁄
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java ((
+%52java.lang.String"2ij.plugin.ZProjector#makeTitle()Ljava/lang/String;*
+ij.plugin.ZProjector2makeTitle()åâ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java (
+%53ij.ImagePlus"ij.ImagePlusä
+á
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java (-
+%54"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%53ij.ImagePlus*
+
+%52java.lang.String*!
+
+fpij.process.FloatProcessor≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java (-%
+ij.plugin.ZProjector"
+	projImage"__id*
+
+%53ij.ImagePlus*
+2*˜
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÌ Ì(É
+Ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÌ Ì(
+
+%49int"__id*
+""*
+3
+4*ı
+6d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÎ Î(ÿ’
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÎ Î(
+%45void"+ij.process.FloatProcessor#resetMinAndMax()V*!
+
+fpij.process.FloatProcessor2resetMinAndMax()›⁄
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÏ Ï((
+%46java.lang.String"2ij.plugin.ZProjector#makeTitle()Ljava/lang/String;*
+ij.plugin.ZProjector2makeTitle()åâ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÏ Ï(
+%47ij.ImagePlus"ij.ImagePlusä
+á
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÏ Ï(-
+%48"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%47ij.ImagePlus*
+
+%46java.lang.String*!
+
+fpij.process.FloatProcessor≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÏ Ï(-%
+ij.plugin.ZProjector"
+	projImage"__id*
+
+%47ij.ImagePlus*
+2*«
+7d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÍ Í(÷”
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÍ Í(#
+%44void"&ij.process.ImageProcessor#subtract(D)V*!
+
+fpij.process.FloatProcessor*
+""2subtract(D)*
+6*›
+8d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÈ È(
+ß
+§
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÈ È(
+
+%41ij.ImagePlus"__id*!*
+ij.plugin.ZProjector"
+impËÂ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÈ È(
+%42ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%41ij.ImagePlus2getCalibration()‘—
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÈ È(+
+%43boolean"'ij.measure.Calibration#isSigned16Bit()Z*
+
+%42ij.measure.Calibration2isSigned16Bit()*
+6
+7*˜
+9d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaË Ë(É
+Ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaË Ë(
+
+%40int"__id*
+""*
+5
+8*ù
+40d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java± ±(	¶
+£
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java± ±(	
+%0ij.ImagePlus"__id*!*
+ij.plugin.ZProjector"
+imp*
+38
+39*Ù
+20d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java’ ’(ˆÛ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java’ ’(  
+%27ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*22getProcessor(I)*
+18
+9
+11
+12*Ù
+22d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java” ”(ˆÛ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java‘ ‘( 
+%26ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*22getProcessor(I)*
+9
+20
+11
+12*Ã
+23d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java   (≥
+∞
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java   (3
+%22java.lang.String"__concat*
+\nProjecting stack from: *
+""≤
+Ø
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java  À(
+%23java.lang.String"__concat*
+
+%22java.lang.String*	
+ to: Ø
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java  À(
+%24java.lang.String"__concat*
+
+%23java.lang.String*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java  À(
+%25void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%24java.lang.String*
+22B
+ij.plugin.ZProjector

@@ -1,0 +1,29 @@
+
+3ij.plugin.AVI_Reader#timeString()Ljava/lang/String;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java– –("1*ó
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java—	 —(²
+¯
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java— —(+
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System
+š
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java—	 —(6
+%1java.lang.String"__concat*
+ (t=*
+""¯
+¬
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java—	 —(=
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+ ms)"€
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java— —(>
+
+%2java.lang.StringB
+ij.plugin.AVI_Reader

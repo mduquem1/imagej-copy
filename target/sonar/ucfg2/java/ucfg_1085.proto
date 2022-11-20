@@ -1,0 +1,38 @@
+
+Dij.plugin.filter.LutApplier#setup(Ljava/lang/String;Lij/ImagePlus;)Ii
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LutApplier.java ("1*Á
+1i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LutApplier.java (³
+°
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LutApplier.java (&
+ij.plugin.filter.LutApplier"
+imp"__id*
+
+impij.ImagePlus‡
+„
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LutApplier.java (	
+%0int"__id*
+""‡
+„
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LutApplier.java (#	
+%1int"__id*
+""‡
+„
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LutApplier.java$ (+	
+%2int"__id*
+""‡
+„
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LutApplier.java, (4	
+%3int"__id*
+"""s
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LutApplier.java (
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.LutApplier

@@ -1,0 +1,87 @@
+
+&ij.gui.Roi#equals(Ljava/lang/Object;)ZZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÆ Æ("8"1*Å
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÌ
+ Ì("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÌ Ì(
+""*Å
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË- Ë(2"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË& Ë(3
+""*¹
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË Ë(£ 
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË Ë(
+%4double"ij.gui.Roi#getLength()D*
+
+ij.gui.Roi2getLength()©¦
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË Ë($
+%5double"ij.gui.Roi#getLength()D*
+
+roi2
+ij.gui.Roi2getLength()*
+2
+3*Å
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ5 Ê(:"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ. Ê(;
+""*ì
+6Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ Ê(Â¿
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ Ê(
+%1java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+ij.gui.Roi2getBounds()ÈÅ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ Ê(+
+%2java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi2
+ij.gui.Roi2getBounds()òï
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ Ê(,
+%3boolean".java.awt.Rectangle#equals(Ljava/lang/Object;)Z*
+
+%1java.awt.Rectangle*
+
+%2java.awt.Rectangle2equals(Ljava/lang/Object;)*
+4
+5*Å
+7Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÉ$ É()"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÉ É(*
+""*£
+8Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÈ È(”
+‘
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÈ È(
+roi2
+ij.gui.Roi"__id*
+
+objjava.lang.Object¢Ÿ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÉ É(	
+%0int"ij.gui.Roi#getType()I*
+
+roi2
+ij.gui.Roi2	getType()*
+6
+7*Å
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÎ
+ Î("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÎ Î(
+"":
+objjava.lang.ObjectB
+
+ij.gui.Roi

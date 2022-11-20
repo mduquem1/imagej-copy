@@ -1,0 +1,32 @@
+
+Fij.gui.Plot#nonNullFont(Ljava/awt/Font;Ljava/awt/Font;)Ljava/awt/Font;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¦ ¦("2"4"1*Ù
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaª
+ ª("w
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaª ª(
+
+font2java.awt.Font*Ù
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¨
+ ¨("w
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¨ ¨(
+
+font1java.awt.Font*ö
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¬ ¬(
+š
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¬ ¬(
+%0java.awt.Font"__id* *
+ij.gui.Plot"
+defaultFont"t
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java« ¬(
+
+%0java.awt.Font:
+font1java.awt.Font:
+font2java.awt.FontB
+ij.gui.Plot

@@ -1,0 +1,20 @@
+
+%ij.io.RandomAccessStream#readFloat()Fh
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.java± ±( "1*í
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.java² ²(ÆÃ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.java²$ ²(-	
+%0int"#ij.io.RandomAccessStream#readInt()I*
+ij.io.RandomAccessStream2	readInt()À
+½
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.java² ²(.
+%1float""java.lang.Float#intBitsToFloat(I)F*"
+java.lang.Float*
+	
+%0int"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.java² ²(/
+""B
+ij.io.RandomAccessStream

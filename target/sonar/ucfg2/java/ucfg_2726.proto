@@ -1,0 +1,405 @@
+
+ij.plugin.FFTMath#showDialog()Z_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java ("30*ù
+13_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java4 4(ËÈ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java4 4(+
+%10java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()º
+·
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java4 4(+
+%11"
+__arraySet*
+
+titlesjava.lang.String[]*
+""*
+
+%10java.lang.String*
+14
+5*Ø
+24_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java$E $(H¬©
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java$T $(b	
+%5int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()³
+°
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java$E $(c
+%6boolean"ij.process.FHT#isPowerOf2(I)Z*"
+ij.process.FHT*
+	
+%5int*
+26
+18
+19*Ì
+14_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java1 1(Â
+¿
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java2 2(>
+%9ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""•
+’
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java2 2(?
+impij.ImagePlus"__id*
+
+%9ij.ImagePlus*
+13
+12*×
+25_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java$ $("¬©
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java$ $(-	
+%3int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()®«
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java$1 $(@	
+%4int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()*
+24
+26
+18
+19*Ô
+26_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java# #()Â
+¿
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java# #(<
+%2ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""•
+’
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java# #(=
+impij.ImagePlus"__id*
+
+%2ij.ImagePlus*
+25
+26
+18
+19*ª
+18_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java- -(*’
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java. .(1
+%8java.lang.String[]"java.lang.String[]¤
+¡
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java. .(2
+titlesjava.lang.String[]"__id*
+
+%8java.lang.String[]*
+14
+5*à
+29_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java (
+Š
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java (
+
+%1void"ij.IJ#noImage()V*	"
+ij.IJ"i
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java (
+""*Ï
+19_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java*	 *(ü
+ù
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java*	 *(Z
+
+%7void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+FFT Math*=;
+9Images must be a power of 2 size (256x256, 512x512, etc.)"i
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java+	 +(
+""*ø
+1_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaG G(ÐÍ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaG G((
+
+%35int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()ÐÍ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaH H(+
+
+%36int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()ÐÍ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaI I((
+
+%37int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()äá
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaJ J("
+%38java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()¥
+¢
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaJ J("
+ij.plugin.FFTMath"
+title"__id*
+
+%38java.lang.StringÌÉ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaK K('
+%39boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()Ã
+À
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaL L(5
+%40ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+"" 
+
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaL L(5
+ij.plugin.FFTMath"
+imp1"__id*
+
+%40ij.ImagePlusÃ
+À
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaM M(5
+%41ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+"" 
+
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaM M(5
+ij.plugin.FFTMath"
+imp2"__id*
+
+%41ij.ImagePlus"i
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaN N(
+""*Ï
+2_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaF F("i
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaF F(
+""*¤"
+3_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java=- =(7—”
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java= =(,
+%17ij.gui.GenericDialog"ij.gui.GenericDialogÊ
+Ç
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java= =(8
+%18"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%17ij.gui.GenericDialog*
+
+FFT Math¥
+¢
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java= =(9
+gdij.gui.GenericDialog"__id*
+
+%17ij.gui.GenericDialog±
+®
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java>) >(7
+%19java.lang.String"
+__arrayGet*
+
+titlesjava.lang.String[]*
+""öó
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java> >(8
+%20void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Image1: *
+
+titlesjava.lang.String[]*
+
+%19java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)¥
+¢
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java?# ?(&
+%21java.lang.String[]"__id**
+ij.plugin.FFTMath"
+ops¥
+¢
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java?( ?(+
+%22java.lang.String[]"__id**
+ij.plugin.FFTMath"
+ops®
+«
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java?( ?(6
+%23java.lang.String"
+__arrayGet*
+
+%22java.lang.String[]*
+""õò
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java? ?(7
+%24void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Operation:*
+
+%21java.lang.String[]*
+
+%23java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)±
+®
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java@) @(7
+%25java.lang.String"
+__arrayGet*
+
+titlesjava.lang.String[]*
+""öó
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java@ @(8
+%26void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Image2: *
+
+titlesjava.lang.String[]*
+
+%25java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)¥
+¢
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaA% A(*
+%27java.lang.String"__id* *
+ij.plugin.FFTMath"
+title¹¶
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaA A(+
+%28void"Jij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*	
+Result:*
+
+%27java.lang.String24addStringField(Ljava/lang/String;Ljava/lang/String;)‹ˆ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaB B(9
+%29void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Do inverse transform*
+""2 addCheckbox(Ljava/lang/String;Z)‹
+ˆ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaC C(
+%30java.lang.String"__id*
+""É
+Æ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaC C(=
+%31java.lang.String"__concat*
+
+%30java.lang.String*%#
+!/docs/menus/process.html#fft-mathú÷
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaC C(>
+%32void"1ij.gui.GenericDialog#addHelp(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%31java.lang.String2addHelp(Ljava/lang/String;)Á¾
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaD D(
+%33void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()ÆÃ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaE E(
+%34boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+2
+1*°
+4_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java< <(!¥
+¢
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java<0 <(5
+%15java.lang.String"__id* *
+ij.plugin.FFTMath"
+titleô
+ñ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java< <(6
+%16java.lang.String"Dij.WindowManager#getUniqueName(Ljava/lang/String;)Ljava/lang/String;*"
+ij.WindowManager*
+
+%15java.lang.String¥
+¢
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java< <(6
+ij.plugin.FFTMath"
+title"__id*
+
+%16java.lang.String*
+3*þ
+5_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java; ;(¥
+¢
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java;# ;((
+%13java.lang.String"__id* *
+ij.plugin.FFTMath"
+titleç
+ä
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java; ;()
+%14ij.ImagePlus";ij.WindowManager#getImage(Ljava/lang/String;)Lij/ImagePlus;*"
+ij.WindowManager*
+
+%13java.lang.String*
+3
+4*¡
+30_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java (#§
+¤
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java (/
+%0int[]"ij.WindowManager#getIDList()[I*"
+ij.WindowManager*
+26
+29
+18
+19*”
+12_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java6 6(£
+ 
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java6 6(
+%12"
+__arraySet*
+
+titlesjava.lang.String[]*
+""* *
+14
+5B
+ij.plugin.FFTMath

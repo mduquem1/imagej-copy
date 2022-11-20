@@ -1,0 +1,78 @@
+
+0ij.gui.Plot#labelsInBraces(C)[Ljava/lang/String;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaæ
+ æ("4*¸	
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaé é(ª§
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaé$ é(.	
+%3int"java.lang.String#length()I*
+
+sjava.lang.String2length()àÝ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaé é(3
+%4java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+sjava.lang.String*2*
+""2substring(II)ž
+›
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaé é(4
+inBracesjava.lang.String"__id*
+
+%4java.lang.Stringûø
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê ê(+
+%5java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*
+
+inBracesjava.lang.String*
+,2split(Ljava/lang/String;)£
+ 
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê ê(,
+	catLabelsjava.lang.String[]"__id*
+
+%5java.lang.String[]"€
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaë ë(!
+
+	catLabelsjava.lang.String[]*È
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaè è(ÝÚ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaè è(*
+%2boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+sjava.lang.String*
+}2endsWith(Ljava/lang/String;)*
+2
+1*²
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaç ç(ÉÆ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaç ç( 
+%0java.lang.String")ij.gui.Plot#getLabel(C)Ljava/lang/String;*
+ij.gui.Plot*
+""2getLabel(C)—
+”
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaç ç(!
+sjava.lang.String"__id*
+
+%0java.lang.StringáÞ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaè è(
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+sjava.lang.String*
+{2startsWith(Ljava/lang/String;)*
+3
+1*Ç
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaí
+ í("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaí í(
+"":
+""B
+ij.gui.Plot

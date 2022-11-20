@@ -1,0 +1,137 @@
+
+9ij.plugin.Clipboard#flatten(Lij/ImagePlus;)Lij/ImagePlus;a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaC C("7*Ö
+2a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaL	 L(√¿
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaL	 L(
+%10ij.ImagePlus"$ij.ImagePlus#flatten()Lij/ImagePlus;*
+
+impij.ImagePlus2	flatten()ò
+ï
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaL L(
+impij.ImagePlus"__id*
+
+%10ij.ImagePlusŸ÷
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaM M(
+%11void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+impij.ImagePlus*
+
+roi
+ij.gui.Roi2setRoi(Lij/gui/Roi;)⁄◊
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaN N(
+%12void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+imp2ij.ImagePlus*
+
+roi
+ij.gui.Roi2setRoi(Lij/gui/Roi;)*
+1*”	
+3a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaH H(±Æ
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaH H(
+
+%5void"ij.ImagePlus#deleteRoi()V*
+
+impij.ImagePlus2deleteRoi()ºπ
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaI I(%	
+%6int"ij.ImagePlus#getCurrentSlice()I*
+
+impij.ImagePlus2getCurrentSlice()òï
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaJ J(
+%7ij.plugin.Duplicator"ij.plugin.Duplicator™
+ß
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaJ
+ J(
+%8"ij.plugin.Duplicator#<init>()V*
+
+%7ij.plugin.Duplicatorêç
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaJ
+ J(1
+%9ij.ImagePlus"8ij.plugin.Duplicator#run(Lij/ImagePlus;II)Lij/ImagePlus;*
+
+%7ij.plugin.Duplicator*
+
+impij.ImagePlus*
+""*
+""2run(Lij/ImagePlus;II)ó
+î
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaJ J(1
+impij.ImagePlus"__id*
+
+%9ij.ImagePlus*
+2*ò
+4a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaE E(ô
+ñ
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaE E(
+imp2ij.ImagePlus"__id*
+
+impij.ImagePlusºπ
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaF F(
+%3
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()ì
+ê
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaF F(
+roi
+ij.gui.Roi"__id*
+
+%3
+ij.gui.Roi∂≥
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaG G(	
+%4int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+2
+3*´
+5a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaD: D(=∫∑
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaD: D(L
+%2boolean"ij.ImagePlus#isHyperStack()Z*
+
+impij.ImagePlus2isHyperStack()*
+4
+1*Ø
+6a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaD! D($æª
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaD! D(5
+%1boolean"ij.ImagePlus#getHideOverlay()Z*
+
+impij.ImagePlus2getHideOverlay()*
+5
+1*Ω
+7a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaD D(	Ã…
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaD D(
+%0ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()*
+6
+1*‚
+1a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaP	 P("z
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Clipboard.javaP P(
+
+impij.ImagePlus:
+impij.ImagePlusB
+ij.plugin.Clipboard

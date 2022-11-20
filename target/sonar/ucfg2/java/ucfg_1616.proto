@@ -1,0 +1,48 @@
+
+;ij.gui.Plot#getDoubleFromArrayList(Ljava/util/ArrayList;)[D[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÎ Î('"5"6*Î
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÒ Ò(«
+¨
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÒ Ò("
+%2java.lang.Object"
+__arrayGet*
+
+listjava.util.ArrayList*
+""¸µ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÒ Ò(1
+%3double"java.lang.Double#doubleValue()D*
+
+%2java.lang.Object2doubleValue()*
+4*š
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÑ Ñ(¯¬
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÑ Ñ(!	
+%1int"java.util.ArrayList#size()I*
+
+listjava.util.ArrayList2size()*
+3
+1*—
+5[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÐ Ð(!¯¬
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÐ Ð((	
+%0int"java.util.ArrayList#size()I*
+
+listjava.util.ArrayList2size()*
+4*Ç
+6[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÏ Ï("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÏ Ï( 
+""*Ç
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÓ	 Ó("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÓ Ó(
+"":
+listjava.util.ArrayListB
+ij.gui.Plot

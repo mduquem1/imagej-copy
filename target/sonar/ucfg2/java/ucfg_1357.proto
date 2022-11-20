@@ -1,0 +1,82 @@
+
+ ij.OtherInstance#isRMIEnabled()Z`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÉ É(#"7*Ñ
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÑ
+ Ñ("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÑ Ñ(
+""*…
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÏ Ï(‹
+ˆ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÏ  Ï('
+%3java.lang.String"__id*
+""‡
+„
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÏ Ï((	
+%4int"Bij.OtherInstance#getInt(Ljava/util/Properties;Ljava/lang/String;)I*"
+ij.OtherInstance*!
+
+ijPropsjava.util.Properties*
+
+%3java.lang.String*
+2
+1*Ñ
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÎ
+ Î("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÎ Î(
+""*è
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÌ Ì( Ë
+È
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÌ Ì("
+%2java.util.Properties"2ij.OtherInstance#loadPrefs()Ljava/util/Properties;*"
+ij.OtherInstanceª
+§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÌ Ì(#
+ijPropsjava.util.Properties"__id*
+
+%2java.util.Properties*
+3
+4*Ñ
+6`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaË
+ Ë("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaË Ë(
+""*À
+7`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÊ Ê(ä
+á
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÊ Ê(#
+%0java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*	
+os.nameéæ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÊ Ê(5
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%0java.lang.String*
+Mac2startsWith(Ljava/lang/String;)*
+5
+6*Ð
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÒ
+ Ò(}
+{
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÒ Ò(%	
+%5int"__id*
+"""j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÒ Ò(*
+""B"
+ij.OtherInstance

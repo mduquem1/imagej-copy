@@ -128,7 +128,7 @@ public class Selection implements PlugIn, Measurements {
 			Undo.setup(Undo.ROI, imp);
 			ImageProcessor ip = imp.getProcessor();
 			ip.setRoi(roi);
-			ImageStatistics stats = ImageStatistics.getStatistics(ip, Measurements.AREA+Measurements.CENTROID, null);
+			ImageStatistics stats = ImageStatistics.getStatistics(ip, Measurements.AREA+Measurements.CENTROID, null, null);
 			double r = Math.sqrt(stats.pixelCount/Math.PI);
 			imp.deleteRoi();
 			int d = (int)Math.round(2.0*r);
@@ -482,7 +482,7 @@ public class Selection implements PlugIn, Measurements {
 		ImageProcessor ip = imp.getProcessor();
 		ip.setRoi(roi);
 		int options = Measurements.CENTROID+Measurements.ELLIPSE;
-		ImageStatistics stats = ImageStatistics.getStatistics(ip, options, null);
+		ImageStatistics stats = ImageStatistics.getStatistics(ip, options, null, null);
 		double dx = stats.major*Math.cos(stats.angle/180.0*Math.PI)/2.0;
 		double dy = - stats.major*Math.sin(stats.angle/180.0*Math.PI)/2.0;
 		double x1 = stats.xCentroid - dx;

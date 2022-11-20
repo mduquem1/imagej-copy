@@ -1,0 +1,138 @@
+
+=ij.gui.Roi#getContainedFloatPoints()Lij/process/FloatPolygon;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaí í(,"14*™
+13Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javağ ğ(¬©
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javağ ğ(
+%1float"ij.gui.Roi#getStrokeWidth()F*
+
+ij.gui.Roi2getStrokeWidth()*
+11
+12*—
+14Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaî î(‰
+†
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaî î(
+roi2
+ij.gui.Roi"__id*
+
+ij.gui.Roi›
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaï ï(
+%0boolean"ij.gui.Roi#isLine()Z*
+
+ij.gui.Roi2isLine()*
+13
+10*Â
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû û(ÕÒ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû û(=
+
+%9void"%ij.process.FloatPolygon#addPoint(FF)V*#
+!
+pointsij.process.FloatPolygon*
+""*
+""2addPoint(FF)*	
+4
+5
+1*Ã
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaú ú(ÖÓ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaú ú((	
+%8int"'ij.process.ImageProcessor#getPixel(II)I*#
+!
+maskij.process.ImageProcessor*
+""*
+""2getPixel(II)*	
+4
+5
+1*Í
+
+10Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaõ õ(ÒÏ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaõ õ(&
+%4ij.process.ImageProcessor"/ij.gui.Roi#getMask()Lij/process/ImageProcessor;*
+
+roi2
+ij.gui.Roi2	getMask()«
+¨
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaõ õ('!
+maskij.process.ImageProcessor"__id*!
+
+%4ij.process.ImageProcessorÈÅ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaö ö(%
+%5java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi2
+ij.gui.Roi2getBounds()Ÿ
+œ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaö ö(&
+boundsjava.awt.Rectangle"__id*
+
+%5java.awt.Rectangle—”
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java÷ ÷((
+%6ij.process.FloatPolygon"ij.process.FloatPolygon©
+¦
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java÷ ÷(*
+%7"!ij.process.FloatPolygon#<init>()V*
+
+%6ij.process.FloatPolygon©
+¦
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java÷ ÷(+!
+pointsij.process.FloatPolygon"__id*
+
+%6ij.process.FloatPolygon*	
+4
+5
+1*Â
+11Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaó ó(É
+Æ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaó ó("
+%3
+ij.gui.Roi"6ij.gui.Roi#convertLineToArea(Lij/gui/Roi;)Lij/gui/Roi;*"
+
+ij.gui.Roi*
+
+ij.gui.Roi
+Š
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaó ó("
+roi2
+ij.gui.Roi"__id*
+
+%3
+ij.gui.Roi*
+10*Î
+12Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javañ ñ(ìé
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javañ ñ((
+%2ij.process.FloatPolygon"<ij.gui.Roi#getInterpolatedPolygon()Lij/process/FloatPolygon;*
+
+roi2
+ij.gui.Roi2getInterpolatedPolygon()"}
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javañ ñ()
+
+%2ij.process.FloatPolygon*ã
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaş	 ş("
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaş ş(#
+!
+pointsij.process.FloatPolygonB
+
+ij.gui.Roi

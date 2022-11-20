@@ -1,0 +1,149 @@
+
+ ij.gui.Roi#isActiveOverlayRoi()ZZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java∫ ∫(("12*√
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¬ ¬(!‹Ÿ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¬ ¬(0
+%11boolean"&ij.gui.Overlay#contains(Lij/gui/Roi;)Z*
+
+overlayij.gui.Overlay*
+
+ij.gui.Roi2contains(Lij/gui/Roi;)*
+1*Ç
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡ ¡(-ò
+ï
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡ ¡(-
+overlayij.gui.Overlay"__id*
+
+%8ij.gui.Overlay*
+2
+1*˜
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡) ¡(-ê
+ç
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡) ¡(-
+%8ij.gui.Overlay"__id*
+
+%10
+<nulltype>*
+3*’
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡ ¡(ÿ’
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡ ¡((
+%9ij.gui.Overlay"3ij.gui.ImageCanvas#getShowAllList()Lij/gui/Overlay;*
+
+icij.gui.ImageCanvas2getShowAllList()ì
+ê
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡ ¡((
+%8ij.gui.Overlay"__id*
+
+%9ij.gui.Overlay*
+3*Á
+6Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¿ ¿(í
+è
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¿ ¿(
+%6ij.ImagePlus"__id**
+
+ij.gui.Roi"
+imp «
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¿ ¿("
+%7ij.gui.ImageCanvas",ij.ImagePlus#getCanvas()Lij/gui/ImageCanvas;*
+
+%6ij.ImagePlus2getCanvas()õ
+ò
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¿ ¿(#
+icij.gui.ImageCanvas"__id*
+
+%7ij.gui.ImageCanvas*
+4
+5*≈
+7Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaø
+ ø("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaø ø(
+""*≈
+8Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæ æ(€ÿ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæ æ(-
+%5boolean"&ij.gui.Overlay#contains(Lij/gui/Roi;)Z*
+
+overlayij.gui.Overlay*
+
+ij.gui.Roi2contains(Lij/gui/Roi;)*
+6
+7*ﬁ
+9Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaΩ Ω(í
+è
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaΩ Ω(
+%3ij.ImagePlus"__id**
+
+ij.gui.Roi"
+impƒ¡
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaΩ Ω($
+%4ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+%3ij.ImagePlus2getOverlay()ò
+ï
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaΩ Ω(%
+overlayij.gui.Overlay"__id*
+
+%4ij.gui.Overlay*
+6
+8*∆
+10Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaº
+ º("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaº º(
+""*µ
+11Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª(í
+è
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª(
+%1ij.ImagePlus"__id**
+
+ij.gui.Roi"
+imp¥±
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª(%
+%2
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%1ij.ImagePlus2getRoi()*
+9
+10*ˇ
+12Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª(	í
+è
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaª ª(	
+%0ij.ImagePlus"__id**
+
+ij.gui.Roi"
+imp*
+10
+11*≈
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¬ ¬(1"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¬ ¬(1
+""B
+
+ij.gui.Roi

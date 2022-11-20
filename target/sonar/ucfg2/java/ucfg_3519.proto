@@ -1,0 +1,39 @@
+
+.ij.VirtualStack#getPixels(I)Ljava/lang/Object;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaÄ Ä("3*…
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaÉ
+ É(Â‚
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaÉ
+ É(
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2getPixels()"{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaÉ É(
+
+%1java.lang.Object*è
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaÅ Å("ÔÏ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaÅ Å(%
+%0ij.process.ImageProcessor":ij.VirtualStack#getProcessor(I)Lij/process/ImageProcessor;*
+ij.VirtualStack*
+""2getProcessor(I)Æ
+´
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaÅ Å(&
+ipij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+2
+1*œ
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaÖ
+ Ö("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaÖ Ö(
+"":
+""B
+ij.VirtualStack

@@ -1,0 +1,62 @@
+
+9ij.plugin.GifDecoder#read(Ljava/io/BufferedInputStream;)Id
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaΩ Ω("9*∫
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaÀ À(…∆
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaÀ À(
+
+%4void"$java.io.BufferedInputStream#close()V*#
+!
+isjava.io.BufferedInputStream2close()*
+1*¶
+7d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java√ √(µ
+≤
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java√ √(
+
+%3void"$ij.plugin.GifDecoder#readContents()V*
+ij.plugin.GifDecoder*
+3*ê
+8d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java¿ ¿(
+¥
+±
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java¿ ¿(
+
+ij.plugin.GifDecoder"
+in"__id*#
+!
+isjava.io.BufferedInputStream≥
+∞
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java¡ ¡(
+
+%1void""ij.plugin.GifDecoder#readHeader()V*
+ij.plugin.GifDecoderØ
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java¬ ¬(
+%2boolean"ij.plugin.GifDecoder#err()Z*
+ij.plugin.GifDecoder*
+3
+7*°
+9d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaæ æ(≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaæ æ(
+
+%0void"ij.plugin.GifDecoder#init()V*
+ij.plugin.GifDecoder*
+3
+8*Ÿ
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaÕ	 Õ("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.javaÕ Õ(
+"":!
+isjava.io.BufferedInputStreamB
+ij.plugin.GifDecoder

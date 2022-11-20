@@ -1,0 +1,352 @@
+
+Bij.plugin.filter.ImageProperties#getUnitIndex(Ljava/lang/String;)Ip
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaˇ ˇ("29*É
+24p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÑ
+ Ñ(é
+ã
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÑ
+ Ñ(	
+%7int"__id*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÑ Ñ(
+""*Ä
+25p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÉ É("˝˙
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÉ É(6
+%6boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*	
+milli2startsWith(Ljava/lang/String;)*
+24
+23*ı
+26p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÉ É(ÚÔ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÉ É(
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+mm2equals(Ljava/lang/Object;)*
+24
+25*É
+27p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÇ
+ Ç(é
+ã
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÇ
+ Ç(	
+%4int"__id*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÇ Ç(
+""*ˇ
+28p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÅ Å(¸˘
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÅ Å(0
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+cent2startsWith(Ljava/lang/String;)*
+26
+27*
+29p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ	 Ä(õ
+ò
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Ä(#
+%0java.util.Locale"__id*
+""®•
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ	 Ä($
+%1java.lang.String"Bjava.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;*
+
+unitjava.lang.String*
+
+%0java.util.Locale2toLowerCase(Ljava/util/Locale;)Ø
+¨
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÄ Ä($
+unitjava.lang.String"__id*
+
+%1java.lang.StringÚÔ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÅ Å(
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+cm2equals(Ljava/lang/Object;)*
+27
+28*˛
+10p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaç ç("˝˙
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaç ç(5
+%23boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+kilo2startsWith(Ljava/lang/String;)*
+8
+9*ı
+11p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaç ç(Û
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaç ç(
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+km2equals(Ljava/lang/Object;)*
+9
+10*Ñ
+12p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaå
+ å(è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaå
+ å(
+
+%21int"__id*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaå å(
+""*Å
+13p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaã ã(#˛˚
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaã ã(7
+%20boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*	
+meter2startsWith(Ljava/lang/String;)*
+11
+12*ı
+14p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaã ã(ÚÔ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaã ã(
+%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+m2equals(Ljava/lang/Object;)*
+13
+12*Ñ
+15p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaä
+ ä(è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaä
+ ä(
+
+%18int"__id*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaä ä(
+""*Ä
+16p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaâ â("˝˙
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaâ â(5
+%17boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+nano2startsWith(Ljava/lang/String;)*
+14
+15*ˆ
+17p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaâ â(Û
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaâ â(
+%16boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+nm2equals(Ljava/lang/Object;)*
+15
+16*Ñ
+18p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaà
+ à(è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaà
+ à(
+
+%15int"__id*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaà à(
+""*Å
+19p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaáF á(J˛˚
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaáF á(^
+%14boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*	
+micro2startsWith(Ljava/lang/String;)*
+17
+18*É
+1p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaî
+ î(è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaî
+ î(
+
+%32int"__id*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaî î(
+""*É
+2p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaí
+ í(è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaí
+ í(
+
+%31int"__id*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaí í(
+""*˝
+3p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaë ë("˝˙
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaë ë(5
+%30boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+mile2startsWith(Ljava/lang/String;)*
+2
+1*Û
+4p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaë ë(Û
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaë ë(
+%29boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+mi2equals(Ljava/lang/Object;)*
+2
+3*É
+5p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaê
+ ê(è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaê
+ ê(
+
+%28int"__id*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaê ê(
+""*ı
+6p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaè3 è(7ıÚ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaè3 è(F
+%27boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+feet2equals(Ljava/lang/Object;)*
+4
+5*ı
+7p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaè è("ıÚ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaè è(1
+%26boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+foot2equals(Ljava/lang/Object;)*
+5
+6*Û
+8p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaè è(Û
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaè è(
+%25boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+ft2equals(Ljava/lang/Object;)*
+5
+7*É
+9p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaé
+ é(è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaé
+ é(
+
+%24int"__id*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaé é(
+""*˝
+20p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaá0 á(4˙˜
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaá0 á(D
+%13boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+u2startsWith(Ljava/lang/String;)*
+18
+19*“
+21p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaá á(ê
+ç
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaá á(-
+%10char"__id*
+""´
+®
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaá á(-
+%11java.lang.String"__concat* *
+
+%10charéã
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaá á(.
+%12boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+
+%11java.lang.String2startsWith(Ljava/lang/String;)*
+18
+20*É
+22p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÜ
+ Ü(é
+ã
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÜ
+ Ü(	
+%9int"__id*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÜ Ü(
+""*ˇ
+23p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÖ Ö(¸˘
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ImageProperties.javaÖ Ö("
+%8boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+unitjava.lang.String*
+inch2startsWith(Ljava/lang/String;)*
+21
+22:
+unitjava.lang.StringB$""
+ ij.plugin.filter.ImageProperties

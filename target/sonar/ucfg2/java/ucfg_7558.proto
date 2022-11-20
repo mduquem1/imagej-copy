@@ -1,0 +1,151 @@
+
+Gij.plugin.filter.FractalBoxCounter#count(ILij/process/ImageProcessor;)Ir
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java” ”(
+"23*®
+17r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaš š(-É
+Æ
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java› ›(
+%12java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roiÉ
+Æ
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java› ›(
+%13java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roiÉ
+Æ
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaœ œ(
+%14java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roiÉ
+Æ
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaœ œ(
+%15java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi*
+12*ã
+18r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaš" š(%É
+Æ
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaš" š(%
+%11java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi–
+“
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaš" š(,	
+%8int"__id*
+
+
+%10int*
+17*–
+19r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaš š(!•
+’
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaš š(!	
+%8int"__id*
+	
+%9int*
+17*Í
+20r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java™ ™(+È
+Å
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaš š(
+%7java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi*
+18
+19*á
+21r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java™! ™($È
+Å
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java™! ™($
+%6java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi•
+’
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java™! ™(*	
+%3int"__id*
+	
+%5int*
+20*Í
+10r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaª	 ª(É
+Æ
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java«	 «(
+%18java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi*
+12
+1*–
+22r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java™ ™( •
+’
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java™ ™( 	
+%3int"__id*
+	
+%4int*
+20*ã
+23r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java• •(È
+Å
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java—
+ —(
+%0java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roiÈ
+Å
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java˜
+ ˜(
+%1java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roiÈ
+Å
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java™ ™(
+%2java.awt.Rectangle"__id*/*-$
+"ij.plugin.filter.FractalBoxCounter"
+roi*
+21
+22*í
+12r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java£ £(þû
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java£ £(
+%16void"'ij.process.ImageProcessor#setRoi(IIII)V*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""*
+""2setRoi(IIII)äá
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.java¤ ¤( 
+%17int[]"*ij.process.ImageProcessor#getHistogram()[I*!
+
+ipij.process.ImageProcessor2getHistogram()*
+10
+12
+1*õ
+1r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaº	 º("|
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FractalBoxCounter.javaº º(
+"":
+"":
+ipij.process.ImageProcessorB&$
+"ij.plugin.filter.FractalBoxCounter

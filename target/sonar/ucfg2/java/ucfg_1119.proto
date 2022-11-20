@@ -1,0 +1,64 @@
+
+Kij.plugin.tool.PixelInspector#getIndex(Lij/gui/Overlay;Ljava/lang/String;)Ir
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java£ £("6"7*õ
+3r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¨ ¨("|
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¨ ¨(
+""*œ
+4r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java§ §(µ
+²
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java§ §(
+%1
+ij.gui.Roi"
+__arrayGet*
+
+roisij.gui.Roi[]*
+""ÖÓ
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java§ §($
+%2java.lang.String"&ij.gui.Roi#getName()Ljava/lang/String;*
+
+%1
+ij.gui.Roi2	getName()†ƒ
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java§ §(%
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*	
+3
+4
+1*ˆ
+6r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¥ ¥(Ú×
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¥ ¥( 
+%0ij.gui.Roi[]"%ij.gui.Overlay#toArray()[Lij/gui/Roi;*
+
+overlayij.gui.Overlay2	toArray()©
+¦
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¥ ¥(!
+roisij.gui.Roi[]"__id*
+
+%0ij.gui.Roi[]*
+4
+1*õ
+7r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¤ ¤("|
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.java¤ ¤(
+""*õ
+1r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaª
+ ª("|
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PixelInspectionTool.javaª ª(
+"":
+overlayij.gui.Overlay:
+namejava.lang.StringB!"
+ij.plugin.tool.PixelInspector

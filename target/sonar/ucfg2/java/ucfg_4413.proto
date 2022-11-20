@@ -1,0 +1,69 @@
+
+ij.io.FileSaver#saveAsLut()Z_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÜ Ü("5*Ï
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaã
+ ã("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaã ã(
+""*´
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaá á(¤¡
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaá á(&
+%4java.lang.String"Oij.io.FileSaver#getPath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+ij.io.FileSaver*
+LUT*
+.lut2-getPath(Ljava/lang/String;Ljava/lang/String;)ž
+›
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaá á('
+pathjava.lang.String"__id*
+
+%4java.lang.String*
+2
+1*¦
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÞ Þ(Ô
+Ñ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÞ Þ()
+
+%3void"*ij.io.FileSaver#error(Ljava/lang/String;)V*
+ij.io.FileSaver*!
+RGB Images do not have a LUT."i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaß ß(
+""*µ
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÝ Ý(	œ
+™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÝ Ý(	
+%0ij.ImagePlus"__id**
+ij.io.FileSaver"
+imp©¦
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÝ Ý(	
+%1int"ij.ImagePlus#getType()I*
+
+%0ij.ImagePlus2	getType()|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÝ Ý((	
+%2int"__id*
+""*
+3
+4*Å
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaä	 ä(óð
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaä	 ä(
+%5boolean".ij.io.FileSaver#saveAsLut(Ljava/lang/String;)Z*
+ij.io.FileSaver*
+
+pathjava.lang.String2saveAsLut(Ljava/lang/String;)"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaä ä(
+""B
+ij.io.FileSaver

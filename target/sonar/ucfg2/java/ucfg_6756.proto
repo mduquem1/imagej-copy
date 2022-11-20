@@ -1,0 +1,82 @@
+
+8ij.process.ColorProcessor#getHSB32Stack()Lij/ImageStack;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaÍ Í( "1*Ë
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaÎ Î(À»
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaÎ Î(	
+%0int"%ij.process.ImageProcessor#getWidth()I*
+ij.process.ColorProcessor2
+getWidth()Õ 
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaÏ Ï(	
+%1int"&ij.process.ImageProcessor#getHeight()I*
+ij.process.ColorProcessor2getHeight()ÏÈ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java (
+
+%2void")ij.process.ColorProcessor#getHSB([F[F[F)V*
+ij.process.ColorProcessor*
+""*
+""*
+""2getHSB([F[F[F)ùö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaÒ Ò(($
+%3java.awt.image.IndexColorModel"Pij.process.ImageProcessor#getDefaultColorModel()Ljava/awt/image/IndexColorModel;*
+ij.process.ColorProcessor2getDefaultColorModel()Ω
+∫
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaÒ Ò()
+cmjava.awt.image.ColorModel"__id*&
+$
+%3java.awt.image.IndexColorModelíè
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaÚ Ú(#
+%4ij.ImageStack"ij.ImageStackÙ
+Ò
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaÚ Ú(6
+%5"4ij.ImageStack#<init>(IILjava/awt/image/ColorModel;)V*
+
+%4ij.ImageStack*
+""*
+""*!
+
+cmjava.awt.image.ColorModel£
+†
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaÚ Ú(7
+stackij.ImageStack"__id*
+
+%4ij.ImageStackîë
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaÛ Û(
+
+%6void"=ij.ImageStack#addSlice(Ljava/lang/String;Ljava/lang/Object;)V*
+
+stackij.ImageStack*
+Hue*
+""2.addSlice(Ljava/lang/String;Ljava/lang/Object;)õò
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaÙ Ù(!
+
+%7void"=ij.ImageStack#addSlice(Ljava/lang/String;Ljava/lang/Object;)V*
+
+stackij.ImageStack*
+
+Saturation*
+""2.addSlice(Ljava/lang/String;Ljava/lang/Object;)õò
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaı ı(!
+
+%8void"=ij.ImageStack#addSlice(Ljava/lang/String;Ljava/lang/Object;)V*
+
+stackij.ImageStack*
+
+Brightness*
+""2.addSlice(Ljava/lang/String;Ljava/lang/Object;)"Ö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaˆ ˆ(
+
+stackij.ImageStackB
+ij.process.ColorProcessor

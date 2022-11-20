@@ -1,0 +1,45 @@
+
+ij.gui.Plot#niceNumber(D)D[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaò ò("5*Ç
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaõ& õ('"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaõ õ(-
+""*Ç
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaô! ô(#"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaô ô()
+""*í
+5[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaó ó(¤
+¡
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaó' ó(4
+%0double"java.lang.Math#log10(D)D*"
+java.lang.Math*
+""¤
+¡
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaó ó(;
+%1double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+""±
+®
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaó ó(<
+%2double"java.lang.Math#pow(DD)D*"
+java.lang.Math*2
+*
+
+%1double*	
+2
+4
+1*Ç
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaö ö("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaö ö(
+"":
+""B
+ij.gui.Plot

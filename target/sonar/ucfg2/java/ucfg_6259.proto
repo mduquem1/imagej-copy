@@ -1,0 +1,45 @@
+
+Aij.plugin.frame.TrimmedLabel#getMinimumSize()Ljava/awt/Dimension;p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaË
+ Ë
+(#"1*œ
+1p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÌ
+ Ì
+("Ð
+Í
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÌ
+ Ì
+(3
+%0java.awt.Dimension"7java.awt.Component#getMinimumSize()Ljava/awt/Dimension;*
+""Ð
+Í
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÌ
+; Ì
+(Q
+%1java.awt.Dimension"7java.awt.Component#getMinimumSize()Ljava/awt/Dimension;*
+""£ 
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÌ
+ Ì
+(
+%2java.awt.Dimension"java.awt.DimensionÇ
+Ä
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÌ
+ Ì
+(^
+%3"java.awt.Dimension#<init>(II)V*
+
+%2java.awt.Dimension*
+""*
+"""Ž
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaÌ
+ Ì
+(_
+
+%2java.awt.DimensionB 
+ij.plugin.frame.TrimmedLabel

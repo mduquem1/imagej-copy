@@ -1,0 +1,33 @@
+
+2ij.gui.Overlay#get(Ljava/lang/String;)Lij/gui/Roi;\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javab b("3*É
+2\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javae e("f
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javae e(
+""*Ô
+3\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javac c(èå
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javac c(	
+%0int",ij.gui.Overlay#getIndex(Ljava/lang/String;)I*
+ij.gui.Overlay*
+
+namejava.lang.String2getIndex(Ljava/lang/String;)*
+2
+1*’
+1\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javag g(º·
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javag g(
+%1
+ij.gui.Roi"!ij.gui.Overlay#get(I)Lij/gui/Roi;*
+ij.gui.Overlay*
+""2get(I)"r
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javag g(
+
+%1
+ij.gui.Roi:
+namejava.lang.StringB
+ij.gui.Overlay

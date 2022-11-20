@@ -1,0 +1,112 @@
+
+/ij.io.RoiDecoder#getRoiName()Ljava/lang/String;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java¸ ¸("12*™
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaâ â(∫∑
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaâ â('	
+%7int"ij.io.RoiDecoder#getShort(I)I*
+ij.io.RoiDecoder*
+""2getShort(I)*
+3
+1*Û
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaá á(É
+Ä
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaá á(!
+namechar[]"__id*
+""*
+3
+1*Í
+6`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÜ
+ Ü("Ç
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÜ Ü(
+
+fileNamejava.lang.String*Í
+8`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÑ
+ Ñ("Ç
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÑ Ñ(
+
+fileNamejava.lang.String*·
+10`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÅ Å(}
+{
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÅ! Å(,	
+%3int"__id*
+""∂≥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÅ Å(-	
+%4int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I)}
+{
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÇ! Ç(,	
+%5int"__id*
+""∂≥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÇ Ç(-	
+%6int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I)*	
+5
+6
+8*Î
+11`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÄ
+ Ä("Ç
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÄ Ä(
+
+fileNamejava.lang.String*˘
+12`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java˝ ˝(£
+†
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java˝ ˝(
+%0java.lang.String"__id**
+ij.io.RoiDecoder"
+name£
+†
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java˝ ˝(
+fileNamejava.lang.String"__id*
+
+%0java.lang.String}
+{
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java˛ ˛((	
+%1int"__id*
+""ª∏
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.java˛ ˛()	
+%2int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+	
+%1int2	getInt(I)*
+10
+11*≠
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaä ä(èå
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaä ä(
+%8java.lang.String"java.lang.Stringµ
+≤
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaä	 ä(
+%9"java.lang.String#<init>([C)V*
+
+%8java.lang.String*
+
+namechar[]"|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaä ä(
+
+%8java.lang.StringB
+ij.io.RoiDecoder

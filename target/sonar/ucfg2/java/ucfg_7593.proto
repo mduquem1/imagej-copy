@@ -1,0 +1,49 @@
+
+'ij.plugin.PointToolOptions#getCount(I)Ij
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java– –("4*Ñ
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java“- “(.ç
+ä
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java“- “(.	
+%1int"__id*
+	
+%3int*
+1*Œ
+3j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java“ “(«ƒ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java“ “(,	
+%2int"ij.gui.PointRoi#getCount(I)I*
+
+roiij.gui.PointRoi*
+""2getCount(I)ç
+ä
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java“ “(,	
+%1int"__id*
+	
+%2int*
+1*Ñ
+4j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java— —( ·
+ﬁ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java— —("
+%0ij.gui.PointRoi"9ij.plugin.PointToolOptions#getPointRoi()Lij/gui/PointRoi;*"
+ij.plugin.PointToolOptions¶
+£
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java— —(#
+roiij.gui.PointRoi"__id*
+
+%0ij.gui.PointRoi*
+2
+3*Â
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java“ “(/"t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java“ “(/
+"":
+""B"
+ij.plugin.PointToolOptions

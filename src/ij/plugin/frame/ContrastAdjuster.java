@@ -622,7 +622,7 @@ public class ContrastAdjuster extends PlugInDialog implements Runnable,
 			else if (channels==1)
 				pixels = b;
 			ImageProcessor ip = new ByteProcessor(w, h, pixels, null);
-			stats = ImageStatistics.getStatistics(ip, 0, imp.getCalibration());
+			stats = ImageStatistics.getStatistics(ip, 0, imp.getCalibration(), null);
 		} else {
 			int range = imp.getType()==ImagePlus.GRAY16?ImagePlus.getDefault16bitRange():0;
 			if (range!=0 && imp.getProcessor().getMax()==Math.pow(2,range)-1 && !(imp.getCalibration().isSigned16Bit())) {

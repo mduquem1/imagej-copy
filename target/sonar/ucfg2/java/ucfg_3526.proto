@@ -1,0 +1,131 @@
+
+2ij.VirtualStack#getSliceLabel(I)Ljava/lang/String;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaý ý("7*†
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java… …(²¯
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java… …(+	
+%6int"java.lang.String#length()I*
+
+labeljava.lang.String2length()íê
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java… …(,
+%7java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+labeljava.lang.String*2*
+	
+%6int2substring(II)"{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java… …(-
+
+%7java.lang.String*Þ
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java„ „(ïì
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java„ „("
+%5boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+labeljava.lang.String*	
+Label: 2startsWith(Ljava/lang/String;)*
+2
+1*·
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java‚
+ ‚(¤
+¡
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java‚
+ ‚(
+%3java.lang.String[]"__id**
+ij.VirtualStack"
+names¬
+©
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java‚
+ ‚(
+%4java.lang.String"
+__arrayGet*
+
+%3java.lang.String[]*
+"""{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java‚ ‚(
+
+%4java.lang.String*å
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java€ €(¥
+¢
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java€ €(
+%1java.lang.String[]"__id**
+ij.VirtualStack"
+labels¬
+©
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java€ €(
+%2java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*
+""Ÿ
+œ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java€ €(
+labeljava.lang.String"__id*
+
+%2java.lang.String*
+3
+4*Ï
+6_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaÿ
+ ÿ("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaÿ ÿ(
+""*”
+7_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaþ þ(¥
+¢
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.javaþ þ(
+%0java.lang.String[]"__id**
+ij.VirtualStack"
+labels*
+5
+6*¦
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java‡ ‡(¤
+¡
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java‡ ‡(
+%8java.lang.String[]"__id**
+ij.VirtualStack"
+names¬
+©
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java‡ ‡(
+%9java.lang.String"
+__arrayGet*
+
+%8java.lang.String[]*
+""©
+¦
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java‡ ‡(
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+\n¿
+¼
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java‡ ‡( 
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+
+labeljava.lang.String"|
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/VirtualStack.java‡ ‡(!
+
+%11java.lang.String:
+""B
+ij.VirtualStack

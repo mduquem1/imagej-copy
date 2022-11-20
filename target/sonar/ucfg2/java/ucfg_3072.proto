@@ -1,0 +1,79 @@
+
+#ij.macro.Functions#getBooleanArg()Zb
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaù	 ù("4*ı
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaş ş(
+‹
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaş ş(
+%8boolean"__id*
+
+%10boolean*
+1*ü
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaş ş(
+Š
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaş ş(
+%8boolean"__id*
+
+%9boolean*
+1*õ
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaú ú(­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaú ú(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÇÄ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaú ú(
+
+%1void"$ij.macro.Interpreter#getLeftParen()V*
+
+%0ij.macro.Interpreter2getLeftParen()­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaû û(
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÙÖ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaû û(,
+%3double",ij.macro.Interpreter#getBooleanExpression()D*
+
+%2ij.macro.Interpreter2getBooleanExpression()­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaü ü(
+%4ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÑÎ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaü ü(
+
+%5void"%ij.macro.Interpreter#checkBoolean(D)V*
+
+%4ij.macro.Interpreter*
+""2checkBoolean(D)­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaı ı(
+%6ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÉÆ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaı ı(
+
+%7void"%ij.macro.Interpreter#getRightParen()V*
+
+%6ij.macro.Interpreter2getRightParen()*
+2
+3*Õ
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaş ş("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaş ş(
+""B
+ij.macro.Functions

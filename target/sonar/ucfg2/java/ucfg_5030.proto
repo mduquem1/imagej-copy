@@ -1,0 +1,18 @@
+
+Fij.CompositeImage#createLutFromColor(Ljava/awt/Color;)Lij/process/LUT;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÏ Ï("1*Ö
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÐ	 Ð(ð
+í
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÐ	 Ð(&
+%0ij.process.LUT"Cij.process.LUT#createLutFromColor(Ljava/awt/Color;)Lij/process/LUT;*"
+ij.process.LUT*
+
+colorjava.awt.Color"{
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/CompositeImage.javaÐ Ð('
+
+%0ij.process.LUT:
+colorjava.awt.ColorB
+ij.CompositeImage

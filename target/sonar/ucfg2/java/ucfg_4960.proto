@@ -1,0 +1,27 @@
+
+7ij.util.DicomTools#getSeriesNumber(Ljava/lang/String;)Db
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaâ â(&"3*£
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaä ä(Å
+˛
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaä ä(2
+%0double"Gij.util.DicomTools#getNumericTag(Ljava/lang/String;Ljava/lang/String;)D*"
+ij.util.DicomTools*
+
+tagsjava.lang.String*
+	0020,0011∞
+≠
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaã ã(
+%1boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+1*’
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaå	 å("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaå å(
+"":
+tagsjava.lang.StringB"
+ij.util.DicomTools

@@ -1,0 +1,152 @@
+
+Lij.io.Opener#openUsingHandleExtraFileTypes(Ljava/lang/String;)Lij/ImagePlus;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaë ë(0"11*ç
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaú ú(Õ
+ 
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaú ú(D
+%12java.lang.String"__concat*+)
+'Unsupported format or file not found:\n*
+
+pathjava.lang.String‘
+—
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaú ú(E
+%13void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+Opener*
+
+%12java.lang.String*
+1*í
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaõD õ(Q¶
+£
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaõD õ(a
+
+%11int"!ij.WindowManager#getImageCount()I*"
+ij.WindowManager*
+2
+1*Â
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaõ, õ(0z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaõ; õ(?
+
+%10int"__id*
+""*
+3
+1*‰
+5\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaõ õ(y
+w
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaõ# õ(*	
+%9int"__id*
+""*
+3
+4*„
+7\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaô ô(y
+w
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaô! ô()	
+%6int"__id*
+""çä
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaô ô(
+%7ij.CompositeImage"ij.CompositeImage“
+œ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaô	 ô(*
+%8"*ij.CompositeImage#<init>(Lij/ImagePlus;I)V*
+
+%7ij.CompositeImage*
+
+impij.ImagePlus*
+	
+%6intó
+î
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaô ô(*
+impij.ImagePlus"__id*
+
+%7ij.CompositeImage*
+5
+1*†
+8\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaò ò(±Æ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaò ò(%	
+%5int"ij.ImagePlus#getNChannels()I*
+
+impij.ImagePlus2getNChannels()*	
+5
+7
+1*⁄
+9\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaï ï(•
+¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaï ï(-	
+%3int"!ij.WindowManager#getImageCount()I*"
+ij.WindowManagerÆ´
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaó ó(:
+%4ij.ImagePlus"Mij.io.Opener#openWithHandleExtraFileTypes(Ljava/lang/String;[I)Lij/ImagePlus;*
+ij.io.Opener*
+
+pathjava.lang.String*
+""22openWithHandleExtraFileTypes(Ljava/lang/String;[I)í
+è
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaó ó(;
+impij.ImagePlus"__id*
+
+%4ij.ImagePlus*	
+5
+8
+1* 
+10\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaî
+ î("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaî î(
+""*Ù
+11\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaí í(ÉÄ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaí í(
+%0java.io.File"java.io.File√
+¿
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaí í(
+%1"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%0java.io.File*
+
+pathjava.lang.Stringê
+ç
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaí í(
+fjava.io.File"__id*
+
+%0java.io.Fileß§
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaì ì(
+%2boolean"java.io.File#exists()Z*
+
+fjava.io.File2exists()*
+9
+10*ÿ
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaù	 ù("u
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaù ù(
+
+impij.ImagePlus:
+pathjava.lang.StringB
+ij.io.Opener

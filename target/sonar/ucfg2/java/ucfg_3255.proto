@@ -1,0 +1,76 @@
+
+0ij.macro.Functions#closeFile()Ljava/lang/String;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¸# ¸#("5*ï
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java½# ½#(	¬
+©
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java½# ½#(	
+%5java.io.PrintWriter"__id*"* 
+ij.macro.Functions"
+writer·´
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java½# ½#(
+
+%6void"java.io.PrintWriter#close()V*
+
+%5java.io.PrintWriter2close()—
+”
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¾# ¾#( 
+ij.macro.Functions"
+writer"__id*
+""*
+1*ž
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¼# ¼#(¬
+©
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¼# ¼#(
+%4java.io.PrintWriter"__id*"* 
+ij.macro.Functions"
+writer*
+2
+1*—
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java»# »#(	­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java»# »#(	
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpøõ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java»# »#((
+
+%3void"/ij.macro.Interpreter#error(Ljava/lang/String;)V*
+
+%2ij.macro.Interpreter*
+Invalid file variable2error(Ljava/lang/String;)*
+3*Ô
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¹# ¹#(ÜÙ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¹# ¹#(
+%0java.lang.String"3ij.macro.Functions#getStringArg()Ljava/lang/String;*
+ij.macro.Functions2getStringArg()ž
+›
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¹# ¹#(
+fjava.lang.String"__id*
+
+%0java.lang.Stringâß
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaº# º#(
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+fjava.lang.String*
+~0~2equals(Ljava/lang/Object;)*
+3
+4*Õ
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÀ#	 À#("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaÀ# À#(
+""B
+ij.macro.Functions

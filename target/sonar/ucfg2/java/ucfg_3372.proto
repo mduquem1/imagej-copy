@@ -1,0 +1,112 @@
+
+6ij.macro.Functions#setTableColumn()Lij/macro/Variable;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaé8 é8( "3*å
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaí8 í8(	­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaí8 í8(	
+%4ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¿¼
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaí8 í8(
+
+%5void" ij.macro.Interpreter#getComma()V*
+
+%4ij.macro.Interpreter2
+getComma()ÙÖ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaî8 î8(
+%6ij.macro.Variable[]"1ij.macro.Functions#getArray()[Lij/macro/Variable;*
+ij.macro.Functions2
+getArray()¨
+¥
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaî8 î8(
+arrayij.macro.Variable[]"__id*
+
+%6ij.macro.Variable[]*
+1*°	
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaê8 ê8( àÝ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaê8 ê8("
+%0java.lang.String"5ij.macro.Functions#getFirstString()Ljava/lang/String;*
+ij.macro.Functions2getFirstString()£
+ 
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaê8 ê8(#
+columnjava.lang.String"__id*
+
+%0java.lang.String—”
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaë8 ë8($
+%1ij.macro.Variable[]"ij.macro.Variable[]¨
+¥
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaë8 ë8(%
+arrayij.macro.Variable[]"__id*
+
+%1ij.macro.Variable[]­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaì8 ì8(
+%2ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interpÀ½
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaì8 ì8(	
+%3int"!ij.macro.Interpreter#nextToken()I*
+
+%2ij.macro.Interpreter2nextToken()*
+2
+1*–
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javað8 ð8(#È
+Å
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javað8$ ð8(.
+%7java.lang.String"/ij.macro.Functions#getTitle()Ljava/lang/String;*
+ij.macro.Functions‰
+†
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javað8 ð8(/
+%8ij.measure.ResultsTable"Oij.macro.Functions#getResultsTable(Ljava/lang/String;)Lij/measure/ResultsTable;*
+ij.macro.Functions*
+
+%7java.lang.String­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javað8 ð8(0
+rtij.measure.ResultsTable"__id*
+
+%8ij.measure.ResultsTableÑÎ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javañ8 ñ8(
+
+%9void"Jij.measure.ResultsTable#setColumn(Ljava/lang/String;[Lij/macro/Variable;)V*
+
+rtij.measure.ResultsTable*
+
+columnjava.lang.String*
+
+arrayij.macro.Variable[]21setColumn(Ljava/lang/String;[Lij/macro/Variable;)ãà
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaò8
+ ò8(
+%10java.lang.String"4ij.measure.ResultsTable#getTitle()Ljava/lang/String;*
+
+rtij.measure.ResultsTable2
+getTitle()ýú
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaò8 ò8(
+%11void"1ij.measure.ResultsTable#show(Ljava/lang/String;)V*
+
+rtij.measure.ResultsTable*
+
+%10java.lang.String2show(Ljava/lang/String;)"l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaó8 ó8(
+""B
+ij.macro.Functions

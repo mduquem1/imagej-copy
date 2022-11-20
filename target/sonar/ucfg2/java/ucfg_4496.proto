@@ -1,0 +1,30 @@
+
+=ij.gui.ShapeRoi#qclength(Ljava/awt/geom/QuadCurve2D$Double;)D_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‹ ‹("1*»
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaŒ	 Œ(ž
+›
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaŒ Œ(!
+%0double"ij.gui.Roi#sqr(D)D*"
+
+ij.gui.Roi*
+""ž
+›
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaŒ$ Œ(2
+%1double"ij.gui.Roi#sqr(D)D*"
+
+ij.gui.Roi*
+""§
+¤
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaŒ	 Œ(3
+%2double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaŒ Œ(4
+"":%
+c java.awt.geom.QuadCurve2D$DoubleB
+ij.gui.ShapeRoi

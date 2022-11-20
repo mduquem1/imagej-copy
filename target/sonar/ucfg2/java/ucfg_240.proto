@@ -1,0 +1,68 @@
+
+:ij.measure.CurveFitter#getStatusString()Ljava/lang/String;f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaâ â("4*È
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä- ä(6∏
+µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä- ä(6
+%4ij.measure.Minimizer"__id*)*'
+ij.measure.CurveFitter"
+	minimizerì
+ê
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä- ä(D
+%5java.lang.String[]"__id*
+""ƒ¡
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaäE ä(P	
+%6int"#ij.measure.CurveFitter#getStatus()I*
+ij.measure.CurveFitter2getStatus()∏
+µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä- ä(Q
+%3java.lang.String"
+__arrayGet*
+
+%5java.lang.String[]*
+	
+%6int£
+†
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä- ä(Q
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*œ
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä ä(*∂
+≥
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä ä(*
+%2java.lang.String"__id*+*)
+ij.measure.CurveFitter"
+errorString£
+†
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä ä(*
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*¨
+4f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä	 ä(∂
+≥
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä	 ä(
+%0java.lang.String"__id*+*)
+ij.measure.CurveFitter"
+errorString*
+2
+3*
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä ä(R"Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaä ä(R
+
+%1java.lang.StringB
+ij.measure.CurveFitter

@@ -1,0 +1,144 @@
+
+(ij.io.Opener#isText(Ljava/lang/String;)Z\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¥ ¥("17*Ó
+13\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java§ §(!åâ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java§ §(3
+%4boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*	
+.html2endsWith(Ljava/lang/String;)*
+8
+12*Ñ
+14\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java§ §(	ãà
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java§ §(
+%3boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.js2endsWith(Ljava/lang/String;)*
+13
+8*Ó
+15\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¦8 ¦(<åâ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¦8 ¦(N
+%2boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*	
+.java2endsWith(Ljava/lang/String;)*
+14
+8*Ò
+16\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¦ ¦(#äá
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¦ ¦(4
+%1boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.ijm2endsWith(Ljava/lang/String;)*
+15
+8*Ò
+17\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¦ ¦(
+äá
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¦ ¦(
+%0boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.txt2endsWith(Ljava/lang/String;)*
+16
+8*É
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java°
+ °("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java° °(
+""*É
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java®
+ ®("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java® ®(
+""*›
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java­+ ­(/¯¬
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java­+ ­(8
+
+%11int"java.lang.String#length()I*
+
+pathjava.lang.String2length()*
+2
+1*Ð
+5\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¬ ¬(äá
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¬ ¬(%
+
+%10int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*
+
+pathjava.lang.String*
+.2lastIndexOf(Ljava/lang/String;)*
+2
+3*Ì
+7\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaª ª(ãà
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaª ª('	
+%9int"1java.lang.String#lastIndexOf(Ljava/lang/String;)I*
+
+pathjava.lang.String*
+/2lastIndexOf(Ljava/lang/String;)*
+5*É
+8\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java©
+ ©("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java© ©(
+""*Í
+9\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¨6 ¨(:áÞ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¨6 ¨(H
+%8boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+/2endsWith(Ljava/lang/String;)*
+7
+8*Ð
+10\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¨ ¨("ãà
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¨ ¨(2
+%7boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.py2endsWith(Ljava/lang/String;)*
+8
+9*Ò
+11\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¨ ¨(	äá
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¨ ¨(
+%6boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.bsh2endsWith(Ljava/lang/String;)*
+8
+10*Ò
+12\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java§7 §(;äá
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java§7 §(L
+%5boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.htm2endsWith(Ljava/lang/String;)*
+8
+11:
+pathjava.lang.StringB
+ij.io.Opener

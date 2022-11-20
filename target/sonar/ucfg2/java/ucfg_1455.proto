@@ -1,0 +1,40 @@
+
+Tij.gui.GUI#shrinkByInsets(Ljava/awt/Rectangle;Ljava/awt/Insets;)Ljava/awt/Rectangle;X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javar r(("3*Ÿ
+2X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javat t(#"z
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javat t($
+
+shrunkjava.awt.Rectangle*Á
+3X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javas# s()ãà
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javas s("
+%0java.awt.Rectangle"java.awt.Rectangle—
+Œ
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javas s(*
+%1"0java.awt.Rectangle#<init>(Ljava/awt/Rectangle;)V*
+
+%0java.awt.Rectangle*
+
+boundsjava.awt.Rectangleù
+ö
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javas s(+
+shrunkjava.awt.Rectangle"__id*
+
+%0java.awt.Rectangle*
+2
+1*Ÿ
+1X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javau u("z
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javay y(
+
+shrunkjava.awt.Rectangle:
+boundsjava.awt.Rectangle:
+insetsjava.awt.InsetsB"
+
+ij.gui.GUI

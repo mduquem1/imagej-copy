@@ -1,0 +1,226 @@
+
+-ij.IJ#getClassLoader()Ljava/lang/ClassLoader;U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java¸ ¸()"13*Ä
+13U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java˝ ˝(ô
+ñ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java˝ ˝(
+%0java.lang.ClassLoader"__id**
+ij.IJ"
+classLoader*
+1
+12*Ò
+2U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaé) é(3ìê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaé é((
+%16ij.io.PluginClassLoader"ij.io.PluginClassLoader⁄
+◊
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaé é(4
+%17"3ij.io.PluginClassLoader#<init>(Ljava/lang/String;)V* 
+
+%16ij.io.PluginClassLoader* 
+
+
+pluginsDirjava.lang.Stringú
+ô
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaé é(4
+ij.IJ"
+classLoader"__id* 
+
+%16ij.io.PluginClassLoader*
+1*¯
+3U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaå) å(3ìê
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaå å((
+%14ij.io.PluginClassLoader"ij.io.PluginClassLoader·
+ﬁ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaå å(:
+%15"4ij.io.PluginClassLoader#<init>(Ljava/lang/String;Z)V* 
+
+%14ij.io.PluginClassLoader* 
+
+
+pluginsDirjava.lang.String*2ú
+ô
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaå å(:
+ij.IJ"
+classLoader"__id* 
+
+%14ij.io.PluginClassLoader*
+1*°
+5U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaâ â(À»
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaâ â($
+%13java.lang.ClassLoader"7java.lang.Class#getClassLoader()Ljava/lang/ClassLoader;*
+""2getClassLoader()"w
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaâ â(%
+
+%13java.lang.ClassLoader*Ñ
+7U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÖ Ö(ú
+ô
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÖ Ö(
+
+pluginsDirjava.lang.String"__id*
+
+homejava.lang.String*	
+2
+3
+5*Ì	
+8U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÉ É(•
+¢
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÉ É( 
+%7java.lang.String"__concat*
+
+homejava.lang.String*	
+pluginsï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÉ! É(0
+%8java.lang.String"__id**
+
+ij.Prefs"
+	separator∞
+≠
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÉ É(0
+%9java.lang.String"__concat*
+
+%7java.lang.String*
+
+%8java.lang.Stringö
+ó
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÉ É(0
+
+pluginsDirjava.lang.String"__id*
+
+%9java.lang.String|z
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÑ Ñ(
+%10java.io.File"java.io.Fileƒ
+¡
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÑ Ñ(
+%11"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%10java.io.File* 
+
+
+pluginsDirjava.lang.String≠™
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÑ
+ Ñ(.
+%12boolean"java.io.File#isDirectory()Z*
+
+%10java.io.File2isDirectory()*
+2
+3
+5
+7*√
+9U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÇ* Ç(.ï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÇ0 Ç(?
+%5java.lang.String"__id**
+
+ij.Prefs"
+	separator≤
+Ø
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÇ* Ç(?
+%6java.lang.String"__concat*
+
+homejava.lang.String*
+
+%5java.lang.Stringî
+ë
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÇ* Ç(?
+homejava.lang.String"__id*
+
+%6java.lang.String*
+8*Î
+10U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÇ
+ Ç(ï
+í
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÇ Ç('
+%3java.lang.String"__id**
+
+ij.Prefs"
+	separatorÌÍ
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÇ
+ Ç((
+%4boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+homejava.lang.String*
+
+%3java.lang.String2endsWith(Ljava/lang/String;)*
+8
+9*·
+11U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÄ Ä(›
+⁄
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÄ Ä(3
+%2java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+plugins.dirî
+ë
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÄ Ä(4
+homejava.lang.String"__id*
+
+%2java.lang.String*
+2
+3
+5
+10*∑
+12U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java˛ ˛(≠
+™
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java˛ ˛(-
+%1java.lang.String"+ij.Menus#getPlugInsPath()Ljava/lang/String;*"
+
+ij.Menusö
+ó
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.java˛ ˛(.
+
+pluginsDirjava.lang.String"__id*
+
+%1java.lang.String*
+2
+3
+5
+11*
+1U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaë	 ë(ö
+ó
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaë	 ë(
+%18java.lang.ClassLoader"__id**
+ij.IJ"
+classLoader"w
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaë ë(
+
+%18java.lang.ClassLoaderB	"
+ij.IJ

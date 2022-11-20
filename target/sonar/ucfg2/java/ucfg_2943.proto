@@ -1,0 +1,19 @@
+
+ij.util.Tools#isDelimiter(C)Z]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaª ª(#"5*¢
+5]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java«	 «(¸
+µ
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java«	 «("
+%0boolean"$java.lang.Character#isWhitespace(C)Z*"
+java.lang.Character*
+""*
+1*Ë
+1]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java« «(7"g
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.java« «(7
+"":
+""B"
+ij.util.Tools

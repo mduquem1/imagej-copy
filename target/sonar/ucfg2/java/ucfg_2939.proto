@@ -1,0 +1,114 @@
+
+Gij.util.Tools#getNumberFromList(Ljava/lang/String;Ljava/lang/String;D)D]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaì ì('"10"11*ñ
+2]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaô* ô(/‡
+„
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaô* ô(/
+%8double"__id*
+
+%10double*
+1*ð
+3]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaô ô()†
+ƒ
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaô ô()
+%8double"__id*
+
+%9double*
+1*Ò
+4]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaó ó(çä
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaó ó(5
+%5java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+listjava.lang.String*
+""*
+""2substring(II)Í
+Ê
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaó ó(6
+%6double".ij.util.Tools#parseDouble(Ljava/lang/String;)D*"
+ij.util.Tools*
+
+%5java.lang.String«
+¨
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaô	 ô(
+%7boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+2
+3*Û
+6]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaò ò(*º·
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaò+ ò(9
+
+%3char"java.lang.String#charAt(I)C*
+
+listjava.lang.String*
+""2	charAt(I)±
+®
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaò ò(:
+%4boolean"ij.util.Tools#isDelimiter(C)Z*"
+ij.util.Tools*
+
+
+%3char*
+4
+7*œ
+7]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaò	 ò(
+¯¬
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaò ò(	
+%2int"java.lang.String#length()I*
+
+listjava.lang.String2length()*
+4
+6*˜
+8]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javað ð(®«
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javað ð(	
+%1int"java.lang.String#length()I*
+
+keyjava.lang.String2length()*
+7*Ë
+9]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaï ï( "g
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaï ï(!
+""*Þ
+10]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaî
+ î(ðí
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaî
+ î(	
+%0int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+listjava.lang.String*
+
+keyjava.lang.String2indexOf(Ljava/lang/String;)*
+8
+9*Ì
+11]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaí í('"g
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaí í((
+""*Ë
+1]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaô ô(0"g
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/Tools.javaô ô(0
+"":
+listjava.lang.String:
+keyjava.lang.String:
+""B"
+ij.util.Tools

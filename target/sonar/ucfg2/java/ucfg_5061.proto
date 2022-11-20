@@ -1,0 +1,24 @@
+
+;ij.process.LUT#getBlues(Ljava/awt/image/IndexColorModel;)[B\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java' '("1*¼
+1\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java( ((
+}
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java( ((
+bluesbyte[]"__id*
+""äá
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java( ((0
+
+%0void",java.awt.image.IndexColorModel#getBlues([B)V*&
+$
+cmjava.awt.image.IndexColorModel*
+
+bluesbyte[]2getBlues([B)"q
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/LUT.java(2 ((?
+
+bluesbyte[]:$
+cmjava.awt.image.IndexColorModelB"
+ij.process.LUT

@@ -1,0 +1,76 @@
+
+>ij.measure.ResultsTableMacros#getMacroCode()Ljava/lang/String;k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java} }("4*Ú
+2m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java€! €(#¼
+¹
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java€! €(#
+%8java.awt.TextArea"__id*)*'
+ij.measure.ResultsTableMacros"
+taôñ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java€! €(5
+%6java.lang.String":java.awt.TextComponent#getSelectedText()Ljava/lang/String;*
+
+%8java.awt.TextArea2getSelectedText()ª
+§
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java€! €(5
+%4java.lang.String"__id*
+
+%6java.lang.String*
+1*Ê
+3m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java€ €(¼
+¹
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java€ €(
+%7java.awt.TextArea"__id*)*'
+ij.measure.ResultsTableMacros"
+taäá
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java€ €( 
+%5java.lang.String"2java.awt.TextComponent#getText()Ljava/lang/String;*
+
+%7java.awt.TextArea2	getText()ª
+§
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java€ €( 
+%4java.lang.String"__id*
+
+%5java.lang.String*
+1*¤
+4k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java~ ~(º
+·
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java~ ~(
+%0java.awt.TextArea"__id*)*'
+ij.measure.ResultsTableMacros"
+taØÕ
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java~ ~($	
+%1int"+java.awt.TextComponent#getSelectionStart()I*
+
+%0java.awt.TextArea2getSelectionStart()º
+·
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java (
+%2java.awt.TextArea"__id*)*'
+ij.measure.ResultsTableMacros"
+taÔÑ
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java ( 	
+%3int")java.awt.TextComponent#getSelectionEnd()I*
+
+%2java.awt.TextArea2getSelectionEnd()*
+2
+3*þ
+1m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java€ €(6"‰
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTableMacros.java€ €(6
+
+%4java.lang.StringB!
+ij.measure.ResultsTableMacros

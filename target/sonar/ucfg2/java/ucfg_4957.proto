@@ -1,0 +1,252 @@
+
+2ij.util.DicomTools#getVoxelDepth(Lij/ImageStack;)D`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaa a(#"15*œ
+13`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javac c(áÞ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javac c(-
+%2java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+stackij.ImageStack*22getSliceLabel(I)‘
+Ž
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javac c(;
+%3java.lang.String"Qij.util.DicomTools#getTag(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+ij.util.DicomTools*
+
+%2java.lang.String*
+	0020,0032Ÿ
+œ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javac c(<
+pos0java.lang.String"__id*
+
+%3java.lang.String
+Š
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javad d(
+posnjava.lang.String"__id*
+""*
+
+2
+12
+1*à
+14`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javab b(ñî
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javab b(.
+%1ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*22getProcessor(I)*
+13*ª
+15`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javab b(·´
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javab b(
+%0boolean"ij.ImageStack#isVirtual()Z*
+
+stackij.ImageStack2isVirtual()*
+13
+14*Ñ
+1`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javas	 s("j
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javas s(
+""*¸	
+2`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javar r(°
+­
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javar r(B
+%18java.lang.String"__concat*
+DicomTools.getVoxelDepth: *
+""«
+¨
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javar r(G
+%19java.lang.String"__concat*
+
+%18java.lang.String*
+  ¿
+¼
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javar r(L
+%20java.lang.String"__concat*
+
+%19java.lang.String*
+
+pos0java.lang.String«
+¨
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javar r(Q
+%21java.lang.String"__concat*
+
+%20java.lang.String*
+  ¿
+¼
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javar r(V
+%22java.lang.String"__concat*
+
+%21java.lang.String*
+
+posnjava.lang.String¸
+µ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javar r(W
+%23void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%22java.lang.String*
+1*Ð
+4`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javao o(­
+ª
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javao" o((
+%14java.lang.String"
+__arrayGet*
+
+xyzjava.lang.String[]*2Ø
+Õ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javao o()
+%15double"1java.lang.Double#parseDouble(Ljava/lang/String;)D*"
+java.lang.Double*
+
+%14java.lang.Stringª§
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javap& p(2
+
+%16int"ij.ImageStack#size()I*
+
+stackij.ImageStack2size()¨
+¥
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javap p(8
+%17double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+2
+1*Ñ
+5`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javan n('"j
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javan n((
+""*–
+6`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javam	 m(€ý
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javam	 m(
+%13java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*
+
+posnjava.lang.String*
+\\\\2split(Ljava/lang/String;)£
+ 
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javam m(
+xyzjava.lang.String[]"__id*
+
+%13java.lang.String[]*
+4
+5*Ñ
+7`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javal l($"j
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javal l(%
+""*À
+8`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javak
+ k(ª§
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javak% k(1
+
+%10int"ij.ImageStack#size()I*
+
+stackij.ImageStack2size()êç
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javak k(2
+%11java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+stackij.ImageStack*
+
+
+%10int2getSliceLabel(I)“
+
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javak
+ k(@
+%12java.lang.String"Qij.util.DicomTools#getTag(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+ij.util.DicomTools*
+
+%11java.lang.String*
+	0020,0032 
+
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javak k(@
+posnjava.lang.String"__id*
+
+%12java.lang.String*
+6
+7*‘
+9`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaj j(©¦
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaj- j(9	
+%8int"ij.ImageStack#size()I*
+
+stackij.ImageStack2size()øõ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaj j(:
+%9ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*
+	
+%8int2getProcessor(I)*
+8*°
+10`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javai i(¬
+©
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javai" i((
+%5java.lang.String"
+__arrayGet*
+
+xyzjava.lang.String[]*2Ö
+Ó
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javai i()
+%6double"1java.lang.Double#parseDouble(Ljava/lang/String;)D*"
+java.lang.Double*
+
+%5java.lang.String·´
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javaj j(
+%7boolean"ij.ImageStack#isVirtual()Z*
+
+stackij.ImageStack2isVirtual()*
+8
+9*Ò
+11`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javah h('"j
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javah h((
+""*—
+12`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javag g(ÿü
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javag g($
+%4java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*
+
+pos0java.lang.String*
+\\\\2split(Ljava/lang/String;)¢
+Ÿ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/DicomTools.javag g(%
+xyzjava.lang.String[]"__id*
+
+%4java.lang.String[]*
+10
+11:
+stackij.ImageStackB"
+ij.util.DicomTools

@@ -1,0 +1,821 @@
+
+2ij.gui.PointRoi#drawPoint(Ljava/awt/Graphics;III)V_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÓ Ó("78*ö
+69_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˛ ˛(â
+Ü
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˛ ˛(
+%10java.awt.Color"__id*
+""ú
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˛ ˛(
+colorjava.awt.Color"__id*
+
+%10java.awt.Color*
+64
+65*ˆ
+25_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java® ®(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java© ©(
+
+%51int"__id*
+""*
+17
+18
+20
+21*Í
+27_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaß ß(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaß ß(
+
+%50int"__id*
+""*
+25*Í
+29_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¶ ¶(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¶ ¶(
+
+%49int"__id*
+""*
+27*ò
+70_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¸ ¸(à
+Ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¸ ¸(
+%9java.awt.Color"__id*
+""õ
+ò
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¸ ¸(
+colorjava.awt.Color"__id*
+
+%9java.awt.Color*
+64
+65*˙
+71_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˚ ˚(à
+Ö
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˚ ˚(
+%8java.awt.Color"__id*
+""*
+69
+70*∂
+72_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˙ ˙($¿Ω
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˙ ˙(&
+%7boolean" ij.gui.Roi#isActiveOverlayRoi()Z*
+ij.gui.PointRoi2isActiveOverlayRoi()*
+71
+64
+65*ë
+73_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˘ ˘(7õ
+ò
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˘ ˘(7
+colorjava.awt.Color"__id*
+
+%4java.awt.Color*
+72
+64
+65*ß
+74_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˘. ˘(6û
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˘. ˘(6
+%6java.awt.Color"__id**
+
+ij.gui.Roi"
+
+ROIColorò
+ï
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˘. ˘(6
+%4java.awt.Color"__id*
+
+%6java.awt.Color*
+73*Ø
+75_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˘" ˘(-¶
+£
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˘" ˘(-
+%5java.awt.Color"__id*$*"
+ij.gui.PointRoi"
+strokeColorò
+ï
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˘" ˘(-
+%4java.awt.Color"__id*
+
+%5java.awt.Color*
+73*Í
+31_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java• •(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java• •(
+
+%48int"__id*
+""*
+29*ò
+76_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˘ ˘(¶
+£
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java˘ ˘(
+%3java.awt.Color"__id*$*"
+ij.gui.PointRoi"
+strokeColor*
+74
+75*»
+77_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÙ Ù(˙˜
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÙ Ù(!#
+%0java.awt.geom.AffineTransform"Ajava.awt.Graphics2D#getTransform()Ljava/awt/geom/AffineTransform;*
+
+g2djava.awt.Graphics2D2getTransform()Ω
+∫
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÙ Ù(!*
+	saveXformjava.awt.geom.AffineTransform"__id*%
+#
+%0java.awt.geom.AffineTransform—Œ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaı ı(
+
+%1void""java.awt.Graphics2D#translate(II)V*
+
+g2djava.awt.Graphics2D*
+""*
+""2translate(II)…∆
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaˆ ˆ((
+
+%2void"java.awt.Graphics2D#scale(DD)V*
+
+g2djava.awt.Graphics2D*
+""*
+""2	scale(DD)*
+76*Í
+33_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java£ £(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java§ §(
+
+%47int"__id*
+""*
+31*≥
+78_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÔ Ô(†
+ù
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÒ Ò(!
+g2djava.awt.Graphics2D"__id*
+
+gjava.awt.Graphicsû
+õ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÚ Ú(#*
+	saveXformjava.awt.geom.AffineTransform"__id*
+""*
+76
+77*–
+36_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java† †(ﬁ€
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java† †(,
+%46void"!java.awt.Graphics#fillRect(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2fillRect(IIII)*
+17
+33*–
+37_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaû û(ﬁ€
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaû û(8
+%45void"!java.awt.Graphics#fillRect(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2fillRect(IIII)*
+17
+33*Ó
+38_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaù ù(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaù  ù(&
+
+%44int"__id*
+""*
+36
+37*Ó
+39_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaù ù(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaù ù(
+
+%43int"__id*
+""*
+36
+38*–
+40_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaú ú(ﬁ€
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaú ú(8
+%42void"!java.awt.Graphics#fillRect(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2fillRect(IIII)*
+17
+33*Ó
+41_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaõ õ(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaõ  õ(&
+
+%41int"__id*
+""*
+39
+40*Ó
+42_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaõ õ(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaõ õ(
+
+%40int"__id*
+""*
+39
+41*–
+43_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaö ö(ﬁ€
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaö ö(,
+%39void"!java.awt.Graphics#fillOval(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2fillOval(IIII)*
+17
+33*Ó
+44_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaô ô(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaô ô(
+
+%38int"__id*
+""*
+42
+43*Ó
+45_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaô ô(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaô ô(
+
+%37int"__id*
+""*
+42
+44*ˇ
+46_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaò ò(è
+å
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaò ò(
+%35java.awt.BasicStroke"__id*
+""ˇ¸
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaò ò(
+%36void"1java.awt.Graphics2D#setStroke(Ljava/awt/Stroke;)V*
+
+g2djava.awt.Graphics2D*
+
+%35java.awt.BasicStroke2setStroke(Ljava/awt/Stroke;)*
+45*Ó
+47_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaó ó(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaó ó(
+
+%34int"__id*
+""*
+46
+45*ﬂ
+48_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaî î(ÒÓ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaî î(
+%33void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+colorjava.awt.Color2setColor(Ljava/awt/Color;)*
+47*ˆ
+50_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaí í(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaí í(
+
+%32int"__id*
+""*
+47
+48
+17
+33*Ú
+51_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaí í(
+}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaí í(
+
+%31int"__id*
+""*
+47
+48
+50*Ä
+52_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaë ë(ñ
+ì
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaë ë(7"
+%28java.awt.RenderingHints$Key"__id*
+""ã
+à
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaë9 ë(Z
+%29java.lang.Object"__id*
+""ÎË
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaë ë([
+%30void"Vjava.awt.Graphics2D#setRenderingHint(Ljava/awt/RenderingHints$Key;Ljava/lang/Object;)V*
+
+g2djava.awt.Graphics2D*$
+"
+%28java.awt.RenderingHints$Key*
+
+%29java.lang.Object2AsetRenderingHint(Ljava/awt/RenderingHints$Key;Ljava/lang/Object;)*
+51*Ó
+53_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaê ê(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaê ê(
+
+%27int"__id*
+""*
+51
+52*Ó
+54_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaê ê(
+}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaê ê(
+
+%26int"__id*
+""*
+51
+53*Ï
+10_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑ ∑(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑ ∑(
+
+%68int"__id*
+""*
+7
+9*≠
+55_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaç ç(ﬁ€
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaç ç()
+%24void"!java.awt.Graphics#drawLine(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawLine(IIII)ﬁ€
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaé é()
+%25void"!java.awt.Graphics#drawLine(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawLine(IIII)*
+54*À
+11_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∂ ∂(ﬁ€
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∂ ∂(8
+%67void"!java.awt.Graphics#drawOval(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawOval(IIII)*
+6*ˇ
+56_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaå å(è
+å
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaå å(!
+%22java.awt.BasicStroke"__id*
+""ˇ¸
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaå å("
+%23void"1java.awt.Graphics2D#setStroke(Ljava/awt/Stroke;)V*
+
+g2djava.awt.Graphics2D*
+
+%22java.awt.BasicStroke2setStroke(Ljava/awt/Stroke;)*
+55*Ó
+12_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaµ µ(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaµ µ(!
+
+%66int"__id*
+""*
+10
+11*Ó
+57_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaã ã(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaã ã(
+
+%21int"__id*
+""*
+55
+56*Ï
+13_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¥ ¥(â
+Ü
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¥ ¥(
+%63java.awt.Color"__id*
+""ÔÏ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¥ ¥(
+%64void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+%63java.awt.Color2setColor(Ljava/awt/Color;)}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaµ µ(
+
+%65int"__id*
+""*
+10
+12*ˇ
+58_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaä ä(è
+å
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaä ä( 
+%19java.awt.BasicStroke"__id*
+""ˇ¸
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaä ä(!
+%20void"1java.awt.Graphics2D#setStroke(Ljava/awt/Stroke;)V*
+
+g2djava.awt.Graphics2D*
+
+%19java.awt.BasicStroke2setStroke(Ljava/awt/Stroke;)*
+55*Ì
+14_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≥/ ≥(3}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≥5 ≥(8
+
+%62int"__id*
+""*
+13
+6*Ó
+59_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaâ â(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaâ â(
+
+%18int"__id*
+""*
+57
+58*Ó
+15_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≥! ≥(%}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≥' ≥(-
+
+%61int"__id*
+""*
+13
+14*Ì
+16_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≥ ≥(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≥ ≥(
+
+%60int"__id*
+""*
+15
+6*Ó
+17_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≥ ≥(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≥ ≥(
+
+%59int"__id*
+""*
+15
+16*À
+18_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaØ Ø(≈
+¬
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaØ Ø(&
+%55java.awt.Color"+ij.gui.PointRoi#getColor(I)Ljava/awt/Color;*"
+ij.gui.PointRoi*
+""ÔÏ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaØ Ø('
+%56void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+%55java.awt.Color2setColor(Ljava/awt/Color;)ì
+ê
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∞ ∞(!
+%57java.lang.String"__concat* *
+""çä
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∞ ∞(A
+%58void"3java.awt.Graphics#drawString(Ljava/lang/String;II)V*
+
+gjava.awt.Graphics*
+
+%57java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+17*}
+0 "v
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≈ ≈(
+implicit return*ú
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaƒ ƒ(∞≠
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaƒ ƒ(
+%79void"Bjava.awt.Graphics2D#setTransform(Ljava/awt/geom/AffineTransform;)V*
+
+g2djava.awt.Graphics2D*,
+*
+	saveXformjava.awt.geom.AffineTransform2-setTransform(Ljava/awt/geom/AffineTransform;)*
+0*Õ
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¡ ¡(ﬁ€
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¡ ¡(E
+%78void"!java.awt.Graphics#drawOval(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawOval(IIII)*
+0
+1*˝
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¿ ¿(è
+å
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¿ ¿(
+%76java.awt.BasicStroke"__id*
+""ˇ¸
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¿ ¿( 
+%77void"1java.awt.Graphics2D#setStroke(Ljava/awt/Stroke;)V*
+
+g2djava.awt.Graphics2D*
+
+%76java.awt.BasicStroke2setStroke(Ljava/awt/Stroke;)*
+3*à
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaΩ Ω(¶
+£
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaΩ Ω(+
+
+%73int"java.lang.Math#round(F)I*"
+java.lang.Math*
+""ÒÓ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaæ æ(
+%74void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+colorjava.awt.Color2setColor(Ljava/awt/Color;)}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaø ø(
+
+%75int"__id*
+""*
+3
+4*Ó
+6_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaº º(
+}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaº º(
+
+%72int"__id*
+""*	
+5
+0
+1* 
+7_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∫ ∫(ﬁ€
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∫ ∫(8
+%71void"!java.awt.Graphics#drawOval(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawOval(IIII)*
+6* 
+8_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∏ ∏(ﬁ€
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∏ ∏(0
+%70void"!java.awt.Graphics#drawOval(IIII)V*
+
+gjava.awt.Graphics*
+""*
+""*
+""*
+""2drawOval(IIII)*
+6*Î
+9_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑ ∑(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java∑  ∑(&
+
+%69int"__id*
+""*
+7
+8*ﬂ
+60_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÜ Ü(ÒÓ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÜ Ü(
+%17void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+colorjava.awt.Color2setColor(Ljava/awt/Color;)*
+59*È
+61_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÑ Ñ(â
+Ü
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÑ Ñ(
+%15java.awt.Color"__id*
+""ÔÏ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÑ Ñ(
+%16void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+%15java.awt.Color2setColor(Ljava/awt/Color;)*
+59*Ó
+62_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÉ É(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÉ É(
+
+%14int"__id*
+""*
+60
+61*Ó
+63_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÇ Ç(}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÇ Ç(!
+
+%13int"__id*
+""*
+62
+54*Ó
+64_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÇ Ç(
+}
+{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÇ Ç(
+
+%12int"__id*
+""*
+62
+63*ë
+20_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≠ ≠(ì
+ê
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≠ ≠(
+%53java.lang.String"__concat* *
+""çä
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java≠ ≠(5
+%54void"3java.awt.Graphics#drawString(Ljava/lang/String;II)V*
+
+gjava.awt.Graphics*
+
+%53java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+17*“
+65_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÅ Å(≈
+¬
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÅ Å("
+%11java.awt.Color"+ij.gui.PointRoi#getColor(I)Ljava/awt/Color;*"
+ij.gui.PointRoi*
+""ú
+ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÅ Å("
+colorjava.awt.Color"__id*
+
+%11java.awt.Color*
+64*ﬂ
+21_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¨ ¨(ÒÓ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¨ ¨(
+%52void"-java.awt.Graphics#setColor(Ljava/awt/Color;)V*
+
+gjava.awt.Graphics*
+
+colorjava.awt.Color2setColor(Ljava/awt/Color;)*
+20:
+gjava.awt.Graphics:
+"":
+"":
+""B
+ij.gui.PointRoi

@@ -1,0 +1,77 @@
+
+Aij.plugin.filter.GaussianBlur#blur(Lij/process/ImageProcessor;D)Zm
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java– –("startingBlock*Î
+2m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java™ ™(ÔÑ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java™ ™(
+
+%3void"%ij.process.ImageProcessor#snapshot()V*!
+
+ipij.process.ImageProcessor2
+snapshot()*
+1*þ
+3m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java˜* ˜(,þ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java˜* ˜(6
+%2ij.process.ImageProcessor">ij.process.ImageProcessor#getMask()Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor2	getMask()*
+2
+1*ó
+startingBlockm
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java– –(9Á
+¾
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java• •(
+%5"
+__annotate*
+java.lang.Deprecated*!
+
+ipij.process.ImageProcessor©
+¦
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java–' –()
+ipij.process.ImageProcessor"__annotation*
+
+%5*
+4*ø
+4m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java— —(ñî
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java— —(#
+%0java.awt.Rectangle"6ij.process.ImageProcessor#getRoi()Ljava/awt/Rectangle;*!
+
+ipij.process.ImageProcessor2getRoi()¯
+¬
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java— —($
+roijava.awt.Rectangle"__id*
+
+%0java.awt.RectangleÕÒ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java˜ ˜(&	
+%1int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()*
+3
+1*Å
+1m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaš š(×Ô
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaš š(6
+
+%4void"Kij.plugin.filter.GaussianBlur#blurGaussian(Lij/process/ImageProcessor;DDD)V*!
+ij.plugin.filter.GaussianBlur*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""2,blurGaussian(Lij/process/ImageProcessor;DDD)"w
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java› ›(
+"":
+ipij.process.ImageProcessor:
+""B!
+ij.plugin.filter.GaussianBlur

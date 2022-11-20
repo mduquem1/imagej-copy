@@ -1,0 +1,50 @@
+
+#ij.plugin.DicomDecoder#getDouble()D_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java„ „("4*É
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java… …(¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java… …(	
+%0int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java† †(	
+%1int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java‡ ‡(	
+%2int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.javaˆ ˆ(	
+%3int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java‰ ‰(	
+%4int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.javaŠ Š(	
+%5int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java‹ ‹(	
+%6int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()¹¶
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.javaŒ Œ(	
+%7int"!ij.plugin.DicomDecoder#getByte()I*
+ij.plugin.DicomDecoder2	getByte()*
+1*‰
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¡	 ¡(·
+´
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¡	 ¡(%
+%8double"%java.lang.Double#longBitsToDouble(J)D*"
+java.lang.Double*
+"""i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¡ ¡(&
+""B
+ij.plugin.DicomDecoder

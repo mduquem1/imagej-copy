@@ -1,0 +1,69 @@
+
+Pij.process.ImageProcessor#getDefaultColorModel()Ljava/awt/image/IndexColorModel;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¶ ¶(,"7*ˆ
+2i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÀ+ À(,´±
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÀ À(*$
+%1java.awt.image.IndexColorModel"java.awt.image.IndexColorModelˆ
+…
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÀ À(;
+%2"0java.awt.image.IndexColorModel#<init>(II[B[B[B)V*&
+$
+%1java.awt.image.IndexColorModel*2*2€*
+
+rbyte[]*
+
+gbyte[]*
+
+bbyte[]Ð
+Í
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÀ À(;2
+ij.process.ImageProcessor"
+defaultColorModel"__id*&
+$
+%1java.awt.image.IndexColorModel*
+1*—
+6i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¸ ¸(‰
+†
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¸ ¸(
+rbyte[]"__id*
+""‰
+†
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¹ ¹(
+gbyte[]"__id*
+""‰
+†
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaº º(
+bbyte[]"__id*
+""*
+2*É
+7i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java· ·(Ð
+Í
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java· ·($
+%0java.awt.image.IndexColorModel"__id*4*2
+ij.process.ImageProcessor"
+defaultColorModel*
+6
+1*×
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÂ	 Â(Ð
+Í
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÂ	 Â($
+%3java.awt.image.IndexColorModel"__id*4*2
+ij.process.ImageProcessor"
+defaultColorModel"“
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÂ Â(&
+$
+%3java.awt.image.IndexColorModelB
+ij.process.ImageProcessor

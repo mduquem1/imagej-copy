@@ -1,0 +1,60 @@
+
+Gij.gui.Roi#getFloatPolygon(Ljava/lang/String;)Lij/process/FloatPolygon;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÊ Ê($"11*¸
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÒ Ò(ÑÎ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÒ Ò(-
+
+%4void"%ij.process.FloatPolygon#addPoint(FF)V*
+
+fpij.process.FloatPolygon*
+""*
+""2addPoint(FF)*
+1*è	
+11Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË Ë(×Ô
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË Ë(!
+%0java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+optionsjava.lang.String2toLowerCase()œ
+™
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaË Ë(!
+optionsjava.lang.String"__id*
+
+%0java.lang.StringàÝ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÌ Ì(5	
+%1int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+optionsjava.lang.String*	
+close2indexOf(Ljava/lang/String;)ØÕ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÍ Í(%
+%2ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+ij.gui.Roi2getFloatPolygon()¥
+¢
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÍ Í(&
+fpij.process.FloatPolygon"__id*
+
+%2ij.process.FloatPolygonž›
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÏ Ï(
+%3boolean"ij.gui.Roi#isArea()Z*
+
+ij.gui.Roi2isArea()*
+5
+1*Þ
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÖ	 Ö("}
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÖ Ö(
+
+fpij.process.FloatPolygon:
+optionsjava.lang.StringB
+
+ij.gui.Roi

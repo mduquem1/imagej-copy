@@ -1,0 +1,31 @@
+
+/ij.process.ImageProcessor#getAutoThreshold([I)Ii
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaè è("13"14*«
+13i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaı ı(´
+±
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaş ş(	
+%0int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*2*
+1*ä
+14i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaø ø("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaú ú(
+""*–
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java (°
+­
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java (!
+
+%1long"java.lang.Math#round(D)J*"
+java.lang.Math*
+"""s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java (
+"":
+""B
+ij.process.ImageProcessor

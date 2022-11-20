@@ -1,0 +1,80 @@
+
+ij.plugin.frame.Fitter#copy()Zf
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java¡ ¡("3*µ
+
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java¥. ¥(/¿¼
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java¥ ¥(-+
+%4%java.awt.datatransfer.StringSelection"%java.awt.datatransfer.StringSelectionü
+ù
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java¥ ¥(0
+%5"Ajava.awt.datatransfer.StringSelection#<init>(Ljava/lang/String;)V*-
++
+%4%java.awt.datatransfer.StringSelection*
+
+sjava.lang.StringÏ
+Ì
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java¥ ¥(1-
+cont%java.awt.datatransfer.StringSelection"__id*-
++
+%4%java.awt.datatransfer.StringSelectionÂ¿
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java¦ ¦(
+
+%6void"xjava.awt.datatransfer.Clipboard#setContents(Ljava/awt/datatransfer/Transferable;Ljava/awt/datatransfer/ClipboardOwner;)V*)
+'
+clipjava.awt.datatransfer.Clipboard*/
+-
+cont%java.awt.datatransfer.StringSelection*
+ij.plugin.frame.Fitter2WsetContents(Ljava/awt/datatransfer/Transferable;Ljava/awt/datatransfer/ClipboardOwner;)"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java§ §(
+""*ò
+
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java¢ ¢(´
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java¢ ¢(
+%0java.awt.TextArea"__id*(*&
+ij.plugin.frame.Fitter"
+
+textAreaíê
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java¢ ¢('
+%1java.lang.String":java.awt.TextComponent#getSelectedText()Ljava/lang/String;*
+
+%0java.awt.TextArea2getSelectedText()¢
+Ÿ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java¢ ¢((
+sjava.lang.String"__id*
+
+%1java.lang.StringÝÚ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java£ £(
+%2java.awt.Toolkit".java.awt.Window#getToolkit()Ljava/awt/Toolkit;*
+ij.plugin.frame.Fitter2getToolkit()Š‡
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java£ £(4%
+%3java.awt.datatransfer.Clipboard"Fjava.awt.Toolkit#getSystemClipboard()Ljava/awt/datatransfer/Clipboard;*
+
+%2java.awt.Toolkit2getSystemClipboard()Ã
+À
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java£ £(5'
+clipjava.awt.datatransfer.Clipboard"__id*'
+%
+%3java.awt.datatransfer.Clipboard*
+2
+1*Ý
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java©
+ ©("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java© ©(
+""B
+ij.plugin.frame.Fitter

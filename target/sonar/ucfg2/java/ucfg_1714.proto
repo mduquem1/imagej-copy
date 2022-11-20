@@ -1,0 +1,45 @@
+
+(ij.gui.Plot#isColored(Ljava/awt/Color;)Z[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaè	 è("3"4*½
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê' ê((ª§
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê' ê(3	
+%2int"java.awt.Color#getGreen()I*
+
+cjava.awt.Color2
+getGreen()¨¥
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê7 ê(B	
+%3int"java.awt.Color#getBlue()I*
+
+cjava.awt.Color2	getBlue()*
+1*¾
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê	 ê(
+¦£
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê	 ê(	
+%0int"java.awt.Color#getRed()I*
+
+cjava.awt.Color2getRed()ª§
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê ê(#	
+%1int"java.awt.Color#getGreen()I*
+
+cjava.awt.Color2
+getGreen()*
+2
+1*Ç
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaé é("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaé é(
+""*Ç
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê ê(C"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaê ê(C
+"":
+cjava.awt.ColorB
+ij.gui.Plot

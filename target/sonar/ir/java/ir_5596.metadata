@@ -1,0 +1,5 @@
+ij.plugin.FFT#pad(Lij/process/ImageProcessor;)Lij/process/ImageProcessor;
+ij.process.ImageStatistics#getStatistics(Lij/process/ImageProcessor;ILij/measure/Calibration;Lij/process/CentroidHelper;)Lij/process/ImageStatistics;
+ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V
+java.lang.Math#max(II)I
+ij.Undo#reset()V

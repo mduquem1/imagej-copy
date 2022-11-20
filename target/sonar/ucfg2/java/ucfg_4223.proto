@@ -1,0 +1,153 @@
+
+Hij.plugin.frame.Recorder#fixString(Ljava/lang/String;)Ljava/lang/String;h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java” ”("17*É
+13h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaš š(Ÿ
+œ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaš š(
+%4java.lang.String"__concat*
+\\*
+""°­
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaš š(
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%4java.lang.String2append(Ljava/lang/String;)*
+16*ó
+3h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¤ ¤(ýú
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¤ ¤(
+%12java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2	append(C)*
+16*Å
+15h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˜ ˜(
+ÄÁ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˜ ˜(
+
+%3char"java.lang.String#charAt(I)C*
+
+strjava.lang.String*
+""2	charAt(I)*
+13
+3
+7
+11*ª
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¢ ¢(´±
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¢ ¢(
+%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+octaljava.lang.String2append(Ljava/lang/String;)*
+16*³
+16h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java— —(¹¶
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java— —(	
+%2int"java.lang.String#length()I*
+
+strjava.lang.String2length()*
+15
+1*Õ
+5h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¡ ¡(´
+±
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¡ ¡(
+%10java.lang.String"__concat*
+0*
+
+octaljava.lang.String©
+¦
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¡ ¡(
+octaljava.lang.String"__id*
+
+%10java.lang.String*
+6*Œ
+17h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java• •((¥¢
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java• •(&
+%0java.lang.StringBuilder"java.lang.StringBuilder·
+´
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java• •((
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder³
+°
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java• •()
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+16*³
+6h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java   (»¸
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java   (	
+%9int"java.lang.String#length()I*
+
+octaljava.lang.String2length()*
+4
+5*û
+7h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaž ž(üù
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaž ž(
+%7java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+\\2	append(C)Ü
+Ù
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaŸ Ÿ((
+%8java.lang.String"0java.lang.Integer#toString(II)Ljava/lang/String;*"
+java.lang.Integer*
+""*2¨
+¥
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaŸ Ÿ()
+octaljava.lang.String"__id*
+
+%8java.lang.String*
+6*–
+11h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaœ œ(Ÿœ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaœ œ(
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+\\n2append(Ljava/lang/String;)*
+16*ø
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¦ ¦(˜•
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¦ ¦(
+%13java.lang.String"java.lang.Stringå
+â
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¦	 ¦(
+%14"3java.lang.String#<init>(Ljava/lang/StringBuilder;)V*
+
+%13java.lang.String*
+
+sbjava.lang.StringBuilder"…
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¦ ¦(
+
+%13java.lang.String:
+strjava.lang.StringB"
+ij.plugin.frame.Recorder

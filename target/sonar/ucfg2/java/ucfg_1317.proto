@@ -1,0 +1,23 @@
+
+-ij.process.ColorSpaceConverter#RGBtoLAB([I)[Dn
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÎ Î("1*Õ
+1n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÏ
+ Ï(ìé
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÏ Ï( 
+%0double[]"-ij.process.ColorSpaceConverter#RGBtoXYZ([I)[D*" 
+ij.process.ColorSpaceConverter*
+""2RGBtoXYZ([I)öó
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÏ
+ Ï(!
+%1double[]"-ij.process.ColorSpaceConverter#XYZtoLAB([D)[D*" 
+ij.process.ColorSpaceConverter*
+
+%0double[]2XYZtoLAB([D)"x
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÏ Ï("
+"":
+""B" 
+ij.process.ColorSpaceConverter

@@ -1,0 +1,58 @@
+
+Dij.Prefs#get(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÄ Ä("3*›
+2X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÉ
+ É("~
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÉ É("
+ 
+defaultValuejava.lang.String*Û
+3X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÅ Å(ö
+ó
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÅ Å(
+%0java.util.Properties"__id**
+
+ij.Prefs"	
+ijPrefsÉ
+Ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÅ% Å(/
+%1java.lang.String"__id*
+""¥
+±
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÅ% Å(3
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+keyjava.lang.Stringñì
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÅ Å(4
+%3java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%0java.util.Properties*
+
+%2java.lang.String2getProperty(Ljava/lang/String;)ò
+ï
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÅ Å(5
+valuejava.lang.String"__id*
+
+%3java.lang.String*
+2
+1*÷
+1X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÖ
+ Ö("w
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÖ Ö(
+
+valuejava.lang.String:
+keyjava.lang.String: 
+defaultValuejava.lang.StringB"
+
+ij.Prefs

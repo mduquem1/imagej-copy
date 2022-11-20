@@ -1,0 +1,43 @@
+
+8ij.plugin.frame.RoiManager#getRoisAsArray()[Lij/gui/Roi;j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaè è()"1*‘
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaé é(º
+·
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaé é(
+%0java.util.ArrayList"__id*(*&
+ij.plugin.frame.RoiManager"
+rois¼¹
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaé é(#	
+%1int"java.util.ArrayList#size()I*
+
+%0java.util.ArrayList2size()‘Ž
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaé é($
+%2ij.gui.Roi[]"ij.gui.Roi[]¢
+Ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaé é(%
+arrayij.gui.Roi[]"__id*
+
+%2ij.gui.Roi[]º
+·
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaê ê(
+%3java.util.ArrayList"__id*(*&
+ij.plugin.frame.RoiManager"
+rois¢Ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaê ê(#
+%4java.lang.Object[]"Cjava.util.ArrayList#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+%3java.util.ArrayList*
+
+arrayij.gui.Roi[]2toArray([Ljava/lang/Object;)"ˆ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaê ê($
+
+%4java.lang.Object[]B
+ij.plugin.frame.RoiManager

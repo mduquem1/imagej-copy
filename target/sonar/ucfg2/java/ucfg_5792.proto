@@ -1,0 +1,19 @@
+
+=ij.plugin.FolderOpener#open(Ljava/lang/String;)Lij/ImagePlus;d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java3 3("1*ø
+1d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java4	 4(Ž
+‹
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java4	 4(
+%0ij.ImagePlus"Oij.plugin.FolderOpener#open(Ljava/lang/String;Ljava/lang/String;)Lij/ImagePlus;*"
+ij.plugin.FolderOpener*
+
+pathjava.lang.String*
+"""|
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java4 4(
+
+%0ij.ImagePlus:
+pathjava.lang.StringB"
+ij.plugin.FolderOpener

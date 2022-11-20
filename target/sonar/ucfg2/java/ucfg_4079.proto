@@ -1,0 +1,19 @@
+
+>ij.gui.PointRoi#containedPoints(Lij/gui/Roi;)Lij/gui/PointRoi;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÙ Ù( "1*í
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÚ	 Ú(Š‡
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÚ	 Ú("
+%0ij.gui.PointRoi">ij.gui.PointRoi#checkContained(Lij/gui/Roi;Z)Lij/gui/PointRoi;*
+ij.gui.PointRoi*
+
+roi
+ij.gui.Roi*22checkContained(Lij/gui/Roi;Z)"z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÚ Ú(#
+
+%0ij.gui.PointRoi:
+roi
+ij.gui.RoiB
+ij.gui.PointRoi

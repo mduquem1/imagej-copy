@@ -1,0 +1,83 @@
+
+ij.plugin.frame.Editor#copy()Zf
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÀ	 À("3*µ
+
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java–. –(/øº
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java– –(-+
+%4%java.awt.datatransfer.StringSelection"%java.awt.datatransfer.StringSelection¸
+˘
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java– –(0
+%5"Ajava.awt.datatransfer.StringSelection#<init>(Ljava/lang/String;)V*-
++
+%4%java.awt.datatransfer.StringSelection*
+
+sjava.lang.Stringœ
+Ã
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java– –(1-
+cont%java.awt.datatransfer.StringSelection"__id*-
++
+%4%java.awt.datatransfer.StringSelection¬ø
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java— —(
+
+%6void"xjava.awt.datatransfer.Clipboard#setContents(Ljava/awt/datatransfer/Transferable;Ljava/awt/datatransfer/ClipboardOwner;)V*)
+'
+clipjava.awt.datatransfer.Clipboard*/
+-
+cont%java.awt.datatransfer.StringSelection*
+ij.plugin.frame.Editor2WsetContents(Ljava/awt/datatransfer/Transferable;Ljava/awt/datatransfer/ClipboardOwner;)"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java“ “(
+""*ˇ
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÃ Ã(ê
+ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÃ Ã(
+sjava.lang.String"__id*
+""Æ
+´
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÕ Õ(
+%0java.awt.TextArea"__id*"* 
+ij.plugin.frame.Editor"
+taÌÍ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÕ Õ(
+%1java.lang.String":java.awt.TextComponent#getSelectedText()Ljava/lang/String;*
+
+%0java.awt.TextArea2getSelectedText()¢
+ü
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaÕ Õ(
+sjava.lang.String"__id*
+
+%1java.lang.String›⁄
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaŒ Œ(
+%2java.awt.Toolkit".java.awt.Window#getToolkit()Ljava/awt/Toolkit;*
+ij.plugin.frame.Editor2getToolkit()äá
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaŒ Œ(4%
+%3java.awt.datatransfer.Clipboard"Fjava.awt.Toolkit#getSystemClipboard()Ljava/awt/datatransfer/Clipboard;*
+
+%2java.awt.Toolkit2getSystemClipboard()√
+¿
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaŒ Œ(5'
+clipjava.awt.datatransfer.Clipboard"__id*'
+%
+%3java.awt.datatransfer.Clipboard*
+2
+1*›
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java‘
+ ‘("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.java‘ ‘(
+""B
+ij.plugin.frame.Editor

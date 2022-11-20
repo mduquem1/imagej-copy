@@ -1,0 +1,53 @@
+
+0ij.ImagePlus#getInfoProperty()Ljava/lang/String;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÔ Ô("5*ò
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÚ Ú(‰
+†
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÚ Ú(
+infojava.lang.String"__id*
+""*
+1*¹
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaØ Ø(œ
+™
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaØ Ø(
+infojava.lang.String"__id*
+
+objjava.lang.Object®«
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÙ Ù(	
+%1int"java.lang.String#length()I*
+
+infojava.lang.String2length()*
+2
+1*‹
+5\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÕ Õ(‰
+†
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÕ Õ(
+infojava.lang.String"__id*
+""öó
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÖ Ö("
+%0java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+ij.ImagePlus*
+Info2getProperty(Ljava/lang/String;)š
+—
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÖ Ö(#
+objjava.lang.Object"__id*
+
+%0java.lang.Object*
+3
+1*Ý
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÜ	 Ü("z
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÜ Ü(
+
+infojava.lang.StringB
+ij.ImagePlus

@@ -1,0 +1,63 @@
+
+jij.plugin.filter.BackgroundSubtracter#shrinkImage(Lij/process/FloatProcessor;I)Lij/process/FloatProcessor;u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaª ª("18*›
+18u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java« «(ÛØ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java« «(!	
+%0int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.FloatProcessor2
+getWidth()ÝÚ
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java¬ ¬(#	
+%1int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.FloatProcessor2getHeight()ûø
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java­" ­(0
+%2java.lang.Object"7ij.process.FloatProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.FloatProcessor2getPixels()ñ
+î
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java° °(
+
+%3void"6ij.plugin.filter.BackgroundSubtracter#showProgress(D)V*)'
+%ij.plugin.filter.BackgroundSubtracter*
+""¶³
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java±( ±(6
+%4ij.process.FloatProcessor"ij.process.FloatProcessorÚ
+×
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java±$ ±(G
+%5"%ij.process.FloatProcessor#<init>(II)V*!
+
+%4ij.process.FloatProcessor*
+""*
+""Ì
+É
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java± ±(H'
+
+smallImageij.process.FloatProcessor"__id*!
+
+%4ij.process.FloatProcessorƒ€
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.java²# ²(9
+%6java.lang.Object"7ij.process.FloatProcessor#getPixels()Ljava/lang/Object;*)
+'
+
+smallImageij.process.FloatProcessor2getPixels()*
+1*Ÿ
+1u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÂ Â("¢
+u
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaÂ Â()
+'
+
+smallImageij.process.FloatProcessor:
+ipij.process.FloatProcessor:
+""B)'
+%ij.plugin.filter.BackgroundSubtracter

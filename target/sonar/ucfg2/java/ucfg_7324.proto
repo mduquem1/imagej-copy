@@ -1,0 +1,370 @@
+
+6ij.plugin.ContrastEnhancer#showDialog(Lij/ImagePlus;)Zh
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java+	 +("52*Ñ
+24h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaK K(ÒÏ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaK K( 
+%29double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()*
+16
+19
+22*”
+47h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java. .(ÏÌ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java. .(F
+%5java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+optionsjava.lang.String*
+normalize_all*
+process_all20replaceAll(Ljava/lang/String;Ljava/lang/String;)Ë
+È
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java. .(G
+
+%6void"(ij.Macro#setOptions(Ljava/lang/String;)V*"
+
+ij.Macro*
+
+%5java.lang.String*
+44*â
+25h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaJ
+ J("r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaJ J(
+""*ƒ
+48h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java- -(ˆ…
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java- -(8
+%4boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+optionsjava.lang.String*
+normalize_all2"contains(Ljava/lang/CharSequence;)*
+47
+44*ˆ	
+26h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaG G(
+”
+‘
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaG G(
+%24java.lang.String"__id*
+""Ñ
+Î
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaG G(<
+%25java.lang.String"__concat*
+
+%24java.lang.String*$"
+ /docs/menus/process.html#enhanceƒ€
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaG G(=
+%26void"1ij.gui.GenericDialog#addHelp(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%25java.lang.String2addHelp(Ljava/lang/String;)ÊÇ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaH H(
+%27void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()ÏÌ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaI I(
+%28boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+24
+25*¥
+49h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java, ,(8ª
+§
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java, ,(8
+optionsjava.lang.String"__id*
+
+%1java.lang.String*
+48
+44*Š
+27h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaE E(“
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaE E(;
+%23void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Use stack histogram*
+""2 addCheckbox(Ljava/lang/String;Z)*
+26*ô
+28h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaD D(ª
+§
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaD D(+
+%20java.lang.String"__concat*
+Process_all *
+""¸
+µ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaD D(5
+%21java.lang.String"__concat*
+
+%20java.lang.String*	
+ slices•’
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaD D(D
+%22void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+
+%21java.lang.String*
+""2 addCheckbox(Ljava/lang/String;Z)*
+27*–
+50h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java,3 ,(7Ÿ
+œ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java,3 ,(7
+%1java.lang.String"__id*
+
+%3
+<nulltype>*
+49*Û
+51h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java,  ,(%¼
+¹
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java,  ,(2
+%2java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro¥
+¢
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java,  ,(2
+%1java.lang.String"__id*
+
+%2java.lang.String*
+49*”
+52h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java, ,(™
+–
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java, ,(
+%0boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+50
+51*‘
+30h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaA A(’
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaA A(0
+%19void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Equalize histogram*
+""2 addCheckbox(Ljava/lang/String;Z)*
+26
+27
+28*º
+31h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java> >(S©
+¦
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java> >(S
+labeljava.lang.String"__id*
+
+%15java.lang.String—”
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java? ?(%
+%18void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+
+labeljava.lang.String*
+""2 addCheckbox(Ljava/lang/String;Z)*
+30*ž
+32h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java>5 >(R§
+¤
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java>5 >(R
+%15java.lang.String"__id*
+
+%17java.lang.String*
+31*‹
+11h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaX6 X(;•
+’
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaX6 X(;
+%36boolean"__id*
+
+%38boolean*
+1*ž
+33h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java> >(4§
+¤
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java> >(4
+%15java.lang.String"__id*
+
+%16java.lang.String*
+31*ã
+12h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaX" X($ÕÒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaX" X(5
+%37boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()•
+’
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaX" X(5
+%36boolean"__id*
+
+%37boolean*
+1*ˆ
+36h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java< <(‰†
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java< <()
+%14void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+	Normalize*
+""2 addCheckbox(Ljava/lang/String;Z)*
+30
+32
+33*
+14h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaW1 W(6•
+’
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaW1 W(6
+%33boolean"__id*
+
+%35boolean*
+11
+12*è
+15h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaW W(ÕÒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaW W(0
+%34boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()•
+’
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaW W(0
+%33boolean"__id*
+
+%34boolean*
+11
+12*‰
+38h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java8 8(< 
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java9 9(&
+%11ij.gui.GenericDialog"ij.gui.GenericDialogÛ
+Ø
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java9 9(:
+%12"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%11ij.gui.GenericDialog*
+Enhance Contrast®
+«
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java9 9(;
+gdij.gui.GenericDialog"__id*
+
+%11ij.gui.GenericDialogÔÑ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java: :(?
+%13void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Saturated pixels:*
+""*2*2*
+%28addNumericField(Ljava/lang/String;DIILjava/lang/String;)*
+36
+30
+32
+33*Ð
+16h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaV V(ÕÒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaV V( 
+%32boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+14
+15*Ì
+19h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaQ Q(ÕÒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaQ Q($
+%31boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+16*á
+1h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaa	 a("r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaa a(
+""*©
+41h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java8! 8($²¯
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java8! 8(-
+%10boolean"ij.gui.Roi#isArea()Z*
+
+roi
+ij.gui.Roi2isArea()*
+38*Û
+42h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java7 7(ÃÀ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java7 7(
+%9
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()š
+—
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java7 7(
+roi
+ij.gui.Roi"__id*
+
+%9
+ij.gui.Roi*
+38
+41*ô
+44h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java4 4(»¸
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java4 4("	
+%7int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()¿¼
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.java5 5('
+%8boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+42*Ð
+22h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaM M(ÕÒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ContrastEnhancer.javaM M("
+%30boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+16
+19:
+impij.ImagePlusB
+ij.plugin.ContrastEnhancer

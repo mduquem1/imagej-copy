@@ -1,0 +1,61 @@
+
+.ij.gui.OvalRoi#getPolygon(Z)Ljava/awt/Polygon;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaò	 ò("6*Ã	
+6^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaó ó(ØÕ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaó ó(!
+%0ij.process.ImageProcessor"3ij.gui.OvalRoi#getMask()Lij/process/ImageProcessor;*
+ij.gui.OvalRoi2	getMask()¯
+¬
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaó ó("!
+maskij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessorƒ€
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaô ô(
+%1ij.gui.Wand"ij.gui.WandÕ
+Ò
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaô ô(
+%2"0ij.gui.Wand#<init>(Lij/process/ImageProcessor;)V*
+
+%1ij.gui.Wand*#
+!
+maskij.process.ImageProcessor“
+
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaô ô(
+wandij.gui.Wand"__id*
+
+%1ij.gui.Wand×Ô
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaõ õ(.
+
+%3void"ij.gui.Wand#autoOutline(IIII)V*
+
+wandij.gui.Wand*
+""*
+""*2ÿ*2ÿ2autoOutline(IIII)*
+1*®
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaû û(Š
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaû û(
+%4java.awt.Polygon"java.awt.Polygon¼
+¹
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaû	 û(>
+%5"java.awt.Polygon#<init>([I[II)V*
+
+%4java.awt.Polygon*
+""*
+""*
+"""z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaû û(?
+
+%4java.awt.Polygon:
+""B
+ij.gui.OvalRoi

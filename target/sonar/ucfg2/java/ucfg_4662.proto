@@ -1,0 +1,20 @@
+
+%ij.gui.ImageCanvas#getPaintPending()Zb
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaÌ Ì("1*…
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaÍ	 Í(È
+Å
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaÍ	 Í(/
+%0)java.util.concurrent.atomic.AtomicBoolean"__id*(*&
+ij.gui.ImageCanvas"
+paintPendingâß
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaÍ	 Í(
+%1boolean"0java.util.concurrent.atomic.AtomicBoolean#get()Z*1
+/
+%0)java.util.concurrent.atomic.AtomicBoolean2get()"l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaÍ Í(
+""B
+ij.gui.ImageCanvas

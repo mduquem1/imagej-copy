@@ -1,0 +1,307 @@
+
+0ij.io.ImportDialog#getFileInfo()Lij/io/FileInfo;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÎ Î("37*ø
+35b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÓ Ó(™
+ß
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÓ Ó(
+%1java.lang.String[]"__id*!*
+ij.io.ImportDialog"
+typesØ
+¨
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÓ Ó(+
+%2java.lang.String"
+__arrayGet*
+
+%1java.lang.String[]*
+""¶
+£
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÓ Ó(,
+	imageTypejava.lang.String"__id*
+
+%2java.lang.Stringçä
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÔ Ô(
+%3ij.io.FileInfo"ij.io.FileInfoü
+ú
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÔ Ô(
+%4"ij.io.FileInfo#<init>()V*
+
+%3ij.io.FileInfoõ
+ò
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÔ Ô(
+fiij.io.FileInfo"__id*
+
+%3ij.io.FileInfo´
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÒ Ò(
+%5java.lang.String"__id*$*"
+ij.io.ImportDialog"
+
+fileName´
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÒ Ò("
+
+fiij.io.FileInfo"
+
+fileName"__id*
+
+%5java.lang.String¨
+©
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÚ Ú('
+%6java.lang.String"__id*%*#
+ij.io.ImportDialog"
+	directoryﬁ
+€
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÚ Ú((
+%7java.lang.String"8ij.IJ#addSeparator(Ljava/lang/String;)Ljava/lang/String;*	"
+ij.IJ*
+
+%6java.lang.String¨
+©
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÚ Ú((#
+ij.io.ImportDialog"
+	directory"__id*
+
+%7java.lang.String¨
+©
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÛ Û(
+%8java.lang.String"__id*%*#
+ij.io.ImportDialog"
+	directory¨
+©
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÛ Û(#
+
+fiij.io.FileInfo"
+	directory"__id*
+
+%8java.lang.String*
+32*Ó
+24b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaá á(˜Ù
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaá á(.
+%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+32-bit Unsigned2equals(Ljava/lang/Object;)*
+
+2
+22
+1*÷
+36b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÌ
+ Ì("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÌ Ì(
+""*È
+14b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaë ë(ÚÔ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaë ë()
+%18boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+
+24-bit BGR2equals(Ljava/lang/Object;)*
+
+2
+12
+1*≥
+37b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÏ Ï(æª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÏ Ï(
+%0boolean" ij.io.ImportDialog#showDialog()Z*
+ij.io.ImportDialog2showDialog()*
+35
+36*Ï
+26b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÖ Ö(ıÚ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÖ Ö(,
+%12boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+32-bit Signed2equals(Ljava/lang/Object;)*
+
+24
+2
+1*
+16b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaè è(˘ˆ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaè è(0
+%17boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+24-bit RGB Planar2equals(Ljava/lang/Object;)*
+
+2
+14
+1*Ó
+28b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÉ É(˜Ù
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÉ É(.
+%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+16-bit Unsigned2equals(Ljava/lang/Object;)*
+
+2
+26
+1*È
+18b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaç ç(ÚÔ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaç ç()
+%16boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+
+24-bit RGB2equals(Ljava/lang/Object;)*
+
+2
+16
+1*Ê
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaû û(À»
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaû û(%
+%25java.lang.Object"(ij.io.FileInfo#clone()Ljava/lang/Object;*
+
+fiij.io.FileInfo2clone()∞
+≠
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaû û(%&
+ij.io.ImportDialog"
+lastFileInfo"__id*
+
+%25java.lang.Object"|
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaü ü(
+
+fiij.io.FileInfo*‚
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaù ù(∂
+≥
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaù ù(.
+%23java.lang.String"__concat*
+ImportDialog: *
+
+fiij.io.FileInfo∫
+∑
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaù ù(/
+%24void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%23java.lang.String*
+1*Ê
+6b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaô ô(ÙÒ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaô ô(+
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+1-bit Bitmap2equals(Ljava/lang/Object;)*
+2
+1*Ë
+8b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaó ó(Û
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaó ó(*
+%21boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+32-bit ABGR2equals(Ljava/lang/Object;)*	
+2
+6
+1*Ï
+30b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÅ Å(ıÚ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaÅ Å(,
+%10boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+16-bit Signed2equals(Ljava/lang/Object;)*
+
+2
+28
+1*Í
+20b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaã ã(Û
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaã ã(*
+%15boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+64-bit Real2equals(Ljava/lang/Object;)*
+
+2
+18
+1*„
+32b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.java˙ ˙(ÏÈ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaˇ ˇ(
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*	
+8-bit2equals(Ljava/lang/Object;)*
+
+2
+30
+1*È
+10b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaï ï(Û
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaï ï(*
+%20boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+32-bit ARGB2equals(Ljava/lang/Object;)*	
+2
+8
+1*Í
+22b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaâ â(Û
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaâ â(*
+%14boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+32-bit Real2equals(Ljava/lang/Object;)*
+
+2
+20
+1*Ì
+12b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaì ì(ˆÛ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImportDialog.javaì ì(-
+%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	imageTypejava.lang.String*
+24-bit Integer2equals(Ljava/lang/Object;)*
+
+2
+10
+1B
+ij.io.ImportDialog

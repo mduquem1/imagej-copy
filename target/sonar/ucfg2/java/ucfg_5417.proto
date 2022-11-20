@@ -1,0 +1,59 @@
+
+Nij.plugin.CalibrationBar#getFontMetrics(Ljava/awt/Font;)Ljava/awt/FontMetrics;h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¢ ¢(#"1*˜
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java£& £('†
+ƒ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java£, £(F	
+%0int"__id*
+""¯¬
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java£ £(%"
+%1java.awt.image.BufferedImage"java.awt.image.BufferedImageÝ
+Ú
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java£ £(G
+%2")java.awt.image.BufferedImage#<init>(III)V*$
+"
+%1java.awt.image.BufferedImage*2*2*
+	
+%0int½
+º
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java£ £(H"
+bijava.awt.image.BufferedImage"__id*$
+"
+%1java.awt.image.BufferedImageú÷
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¤ ¤(+
+%3java.awt.Graphics"=java.awt.image.BufferedImage#getGraphics()Ljava/awt/Graphics;*$
+"
+bijava.awt.image.BufferedImage2getGraphics()¦
+£
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¤ ¤(,
+gjava.awt.Graphics"__id*
+
+%3java.awt.Graphicsóð
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¥ ¥(
+
+%4void"+java.awt.Graphics#setFont(Ljava/awt/Font;)V*
+
+gjava.awt.Graphics*
+
+fontjava.awt.Font2setFont(Ljava/awt/Font;)¦£
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¦	 ¦(
+%5java.awt.FontMetrics"Gjava.awt.Graphics#getFontMetrics(Ljava/awt/Font;)Ljava/awt/FontMetrics;*
+
+gjava.awt.Graphics*
+
+fontjava.awt.Font2getFontMetrics(Ljava/awt/Font;)"ˆ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¦ ¦( 
+
+%5java.awt.FontMetrics:
+fontjava.awt.FontB
+ij.plugin.CalibrationBar

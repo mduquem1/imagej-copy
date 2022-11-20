@@ -1,0 +1,60 @@
+
+Dij.process.ImageProcessor#getColorModel()Ljava/awt/image/ColorModel;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaô ô( "5*¬
+2i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaù
+ ù(¿
+Ω
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaù
+ ù(
+%3java.awt.image.ColorModel"__id*)*'
+ij.process.ImageProcessor"
+baseCM"é
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaù ù(!
+
+%3java.awt.image.ColorModel*π
+3i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaú ú(¿
+Ω
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaú ú(
+%2java.awt.image.ColorModel"__id*)*'
+ij.process.ImageProcessor"
+baseCM*
+2
+1*‹
+4i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaõ õ(Ê„
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaõ õ(
+
+%1void"2ij.process.ImageProcessor#makeDefaultColorModel()V*
+ij.process.ImageProcessor2makeDefaultColorModel()*
+3*µ
+5i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaö ö(º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaö ö(
+%0java.awt.image.ColorModel"__id*%*#
+ij.process.ImageProcessor"
+cm*
+3
+4*æ
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaü
+ ü(º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaü
+ ü(
+%4java.awt.image.ColorModel"__id*%*#
+ij.process.ImageProcessor"
+cm"é
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaü ü(!
+
+%4java.awt.image.ColorModelB
+ij.process.ImageProcessor

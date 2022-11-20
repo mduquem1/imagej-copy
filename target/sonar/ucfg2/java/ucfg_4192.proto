@@ -1,0 +1,51 @@
+
+Bij.plugin.filter.ParticleAnalyzer#getColumnID(Ljava/lang/String;)Iq
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¥	 ¥	("3*Í
+2q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∑	 ∑	(
+ 
+«
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∑	 ∑	(
+
+%3ij.measure.ResultsTable"__id*-*+#
+!ij.plugin.filter.ParticleAnalyzer"
+rtüú
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∑	 ∑	(	
+%4int";ij.measure.ResultsTable#getColumnIndex(Ljava/lang/String;)I*
+
+%3ij.measure.ResultsTable*
+
+namejava.lang.String2"getColumnIndex(Ljava/lang/String;)*
+1*˝
+3q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaµ	 µ	( 
+«
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaµ	 µ	(
+%0ij.measure.ResultsTable"__id*-*+#
+!ij.plugin.filter.ParticleAnalyzer"
+rtùö
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaµ	 µ	(!	
+%1int":ij.measure.ResultsTable#getFreeColumn(Ljava/lang/String;)I*
+
+%0ij.measure.ResultsTable*
+
+namejava.lang.String2!getFreeColumn(Ljava/lang/String;)è
+å
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∂	
+ ∂	($	
+%2int"__id*
+""*
+2
+1*Û
+1q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∏		 ∏	("{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java∏	 ∏	(
+"":
+namejava.lang.StringB%#
+!ij.plugin.filter.ParticleAnalyzer

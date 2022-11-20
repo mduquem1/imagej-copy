@@ -1,0 +1,33 @@
+
+ij.ImagePlus#isInvertedLut()Z\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaŠ Š("3*Þ
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‹ ‹(¢
+Ÿ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‹ ‹(
+%1ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipÐÍ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‹ ‹('
+%2boolean"*ij.process.ImageProcessor#isInvertedLut()Z*!
+
+%1ij.process.ImageProcessor2isInvertedLut()*
+1*Ž
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‹	 ‹(¢
+Ÿ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‹	 ‹(
+%0ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ip*
+2
+1*É
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‹ ‹(("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java‹ ‹((
+""B
+ij.ImagePlus

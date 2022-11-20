@@ -1,0 +1,50 @@
+
+Nij.plugin.AVI_Reader#readFrame(Ljava/io/RandomAccessFile;JI)Ljava/lang/Object;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÔ Ô("3*ê
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaı
+ ı(°
+û
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaı
+ ı(*
+%1java.lang.Object"Wij.plugin.AVI_Reader#readCompressedFrame(Ljava/io/RandomAccessFile;I)Ljava/lang/Object;*
+ij.plugin.AVI_Reader*#
+!
+rFilejava.io.RandomAccessFile*
+"""Ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaı ı(+
+
+%1java.lang.Object*¬
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÒ Ò(ŒÀ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.javaÒ Ò(
+
+%0void"!java.io.RandomAccessFile#seek(J)V*#
+!
+rFilejava.io.RandomAccessFile*
+""2seek(J)*
+2
+1*ë
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java˜
+ ˜(¢
+ü
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java˜
+ ˜(+
+%2java.lang.Object"Xij.plugin.AVI_Reader#readFixedLengthFrame(Ljava/io/RandomAccessFile;I)Ljava/lang/Object;*
+ij.plugin.AVI_Reader*#
+!
+rFilejava.io.RandomAccessFile*
+"""Ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/AVI_Reader.java˜ ˜(,
+
+%2java.lang.Object:!
+rFilejava.io.RandomAccessFile:
+"":
+""B
+ij.plugin.AVI_Reader

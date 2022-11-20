@@ -1,0 +1,118 @@
+
+>ij.gui.PointRoi#checkContained(Lij/gui/Roi;Z)Lij/gui/PointRoi;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÞ
+ Þ("10*Ï
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaç
+ ç("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaç ç(
+""*Í
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaä ä(ÛØ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaä ä(:
+
+%5void"%ij.process.FloatPolygon#addPoint(FF)V*$
+"
+points2ij.process.FloatPolygon*
+""*
+""2addPoint(FF)*	
+2
+6
+1*¿
+6_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaã ã(ÊÇ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaã ã(O
+%4boolean"ij.gui.Roi#containsPoint(DD)Z*
+
+roi
+ij.gui.Roi*
+""*
+""2containsPoint(DD)*
+2
+5
+6
+1*Ž
+8_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaà à('éæ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaà à()
+%1ij.process.FloatPolygon"<ij.gui.PolygonRoi#getFloatPolygon()Lij/process/FloatPolygon;*
+ij.gui.PointRoi2getFloatPolygon()®
+«
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaà à(*!
+pointsij.process.FloatPolygon"__id*
+
+%1ij.process.FloatPolygonœ™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaá á()
+%2ij.process.FloatPolygon"ij.process.FloatPolygon®
+«
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaá á(+
+%3"!ij.process.FloatPolygon#<init>()V*
+
+%2ij.process.FloatPolygon¯
+¬
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaá á(,"
+points2ij.process.FloatPolygon"__id*
+
+%2ij.process.FloatPolygon*	
+2
+6
+1*Ï
+9_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaß ß( "i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaß ß(!
+""*˜
+10_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaß ß(
+¨¥
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaß ß(
+%0boolean"ij.gui.Roi#isArea()Z*
+
+roi
+ij.gui.Roi2isArea()*
+8
+9*¾
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaé  é('Œ‰
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaé é(
+%6ij.gui.PointRoi"ij.gui.PointRoi»
+¸
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaé é(R
+%7"ij.gui.PointRoi#<init>([F[FI)V*
+
+%6ij.gui.PointRoi*
+""*
+""*
+""œ
+™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaé é(S
+roi2ij.gui.PointRoi"__id*
+
+%6ij.gui.PointRoiíê
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaê ê(
+
+%8void"-ij.gui.PointRoi#copyAttributes(Lij/gui/Roi;)V*
+
+roi2ij.gui.PointRoi*
+ij.gui.PointRoi2copyAttributes(Lij/gui/Roi;)"|
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaë ë(
+
+roi2ij.gui.PointRoi:
+roi
+ij.gui.Roi:
+""B
+ij.gui.PointRoi

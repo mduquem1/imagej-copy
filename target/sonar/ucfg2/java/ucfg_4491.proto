@@ -1,0 +1,51 @@
+
+ij.gui.ShapeRoi#getLength()D_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaí í("2"1*Ï
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaï
+ ï("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaï ï(
+""*
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javağ	 ğ( 
+
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javağ ğ(
+%0java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape¨¥
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javağ- ğ(<#
+%1java.awt.geom.AffineTransform"java.awt.geom.AffineTransformº
+·
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javağ) ğ(>
+%2"'java.awt.geom.AffineTransform#<init>()V*%
+#
+%1java.awt.geom.AffineTransformÔÑ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javağ ğ(? 
+%3java.awt.geom.PathIterator"[java.awt.Shape#getPathIterator(Ljava/awt/geom/AffineTransform;)Ljava/awt/geom/PathIterator;*
+
+%0java.awt.Shape*%
+#
+%1java.awt.geom.AffineTransform20getPathIterator(Ljava/awt/geom/AffineTransform;)|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javağA ğ(K	
+%4int"__id*
+""ÏÌ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javağ	 ğ(R
+%5double"Nij.gui.ShapeRoi#parsePath(Ljava/awt/geom/PathIterator;ILjava/util/ArrayList;)D*
+ij.gui.ShapeRoi*"
+ 
+%3java.awt.geom.PathIterator*
+	
+%4int*
+""2=parsePath(Ljava/awt/geom/PathIterator;ILjava/util/ArrayList;)"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javağ ğ(S
+""B
+ij.gui.ShapeRoi

@@ -1,0 +1,60 @@
+
+Aij.plugin.filter.Printer#setup(Ljava/lang/String;Lij/ImagePlus;)If
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java ("3*∞
+2f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java (…∆
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java (
+
+%1void"%ij.plugin.filter.Printer#pageSetup()V*
+ij.plugin.filter.Printer2pageSetup()Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java (	
+%2int"__id*
+"""p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java (
+""*‡
+3f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java (	ÍÁ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java (
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+setup2equals(Ljava/lang/Object;)*
+2
+1*Ã
+1f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java (≠
+™
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java (#
+ij.plugin.filter.Printer"
+imp"__id*
+
+impij.ImagePlusÆ
+´
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java (
+
+%3void""ij.IJ#register(Ljava/lang/Class;)V*	"
+ij.IJ*
+""Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java	 (	
+%4int"__id*
+""Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java (	
+%5int"__id*
+"""p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Printer.java (
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Printer

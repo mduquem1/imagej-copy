@@ -1,0 +1,35 @@
+
+6ij.plugin.TextReader#open()Lij/process/ImageProcessor;b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/TextReader.java, ,("3*¿
+2b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/TextReader.java. .(©
+¶
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/TextReader.java. .(
+%1java.lang.String"__id*"* 
+ij.plugin.TextReader"
+path†ù
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/TextReader.java. .(
+%2ij.process.ImageProcessor"Hij.plugin.TextReader#open(Ljava/lang/String;)Lij/process/ImageProcessor;*
+ij.plugin.TextReader*
+
+%1java.lang.String2open(Ljava/lang/String;)"á
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/TextReader.java. .(!
+
+%2ij.process.ImageProcessor*¥
+3b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/TextReader.java- -(¬ø
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/TextReader.java- -(
+%0boolean""ij.plugin.TextReader#showDialog()Z*
+ij.plugin.TextReader2showDialog()*
+2
+1*’
+1b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/TextReader.java0 0("l
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/TextReader.java0 0(
+""B
+ij.plugin.TextReader

@@ -1,0 +1,62 @@
+
++ij.gui.ShapeRoi#setShape(Ljava/awt/Shape;)Z_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java≠	 ≠("3"4*œ
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java∞  ∞(%"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java∞ ∞(&
+""*Ä
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java∞ ∞(†
+ù
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java∞ ∞(
+%0java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeÓÎ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java∞ ∞(
+%1boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+%0java.awt.Shape*
+
+rhsjava.awt.Shape2equals(Ljava/lang/Object;)*
+2
+1*œ
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaØ Ø("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaØ Ø(
+""*ë
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java±
+ ±(°
+û
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java± ±(
+ij.gui.ShapeRoi"
+shape"__id*
+
+rhsjava.awt.Shape†
+ù
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java≥ ≥(
+%2java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shape”–
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java≥ ≥($
+%3java.awt.Rectangle".java.awt.Shape#getBounds()Ljava/awt/Rectangle;*
+
+%2java.awt.Shape2getBounds()¢
+ü
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java≥ ≥(%
+rectjava.awt.Rectangle"__id*
+
+%3java.awt.Rectangle"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java∂ ∂(
+"":
+rhsjava.awt.ShapeB
+ij.gui.ShapeRoi

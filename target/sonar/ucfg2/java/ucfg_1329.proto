@@ -1,0 +1,171 @@
+
+Eij.process.ColorSpaceConverter#LabToRGB(Lij/ImagePlus;)Lij/ImagePlus;n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÌ Ì("8*›
+
+4n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÙ Ù(âß
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÙ Ù(
+%10float"#ij.process.FloatProcessor#getf(II)F* 
+
+Lij.process.FloatProcessor*
+""*
+""2getf(II)âß
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÚ Ú(
+%11float"#ij.process.FloatProcessor#getf(II)F* 
+
+aij.process.FloatProcessor*
+""*
+""2getf(II)âß
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÛ Û(
+%12float"#ij.process.FloatProcessor#getf(II)F* 
+
+bij.process.FloatProcessor*
+""*
+""2getf(II)õò
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÜ Ü((
+%13int[]"-ij.process.ColorSpaceConverter#LABtoRGB([D)[I*-
++
+	converterij.process.ColorSpaceConverter*
+""2LABtoRGB([D)öó
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÝ Ý(
+%14void")ij.process.ColorProcessor#putPixel(II[I)V*!
+
+cpij.process.ColorProcessor*
+""*
+""*
+""2putPixel(II[I)*
+4
+1*à
+8n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÍ
+ Í(»¸
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÍ
+ Í(	
+%0int"ij.ImagePlus#getWidth()I*
+
+imgij.ImagePlus2
+getWidth()½º
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÎ
+ Î(	
+%1int"ij.ImagePlus#getHeight()I*
+
+imgij.ImagePlus2getHeight()ÓÐ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÏ Ï(#
+%2ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+imgij.ImagePlus2
+getStack()¨
+¥
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÏ Ï($
+stackij.ImageStack"__id*
+
+%2ij.ImageStackÿü
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÐ% Ð(:
+%3ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*22getProcessor(I)¼
+¹
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÐ Ð(;
+Lij.process.FloatProcessor"__id*!
+
+%3ij.process.ImageProcessorÿü
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÑ% Ñ(:
+%4ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*22getProcessor(I)¼
+¹
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÑ Ñ(;
+aij.process.FloatProcessor"__id*!
+
+%4ij.process.ImageProcessorÿü
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÒ% Ò(:
+%5ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*22getProcessor(I)¼
+¹
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÒ Ò(;
+bij.process.FloatProcessor"__id*!
+
+%5ij.process.ImageProcessor¯¬
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÓ Ó((
+%6ij.process.ColorProcessor"ij.process.ColorProcessorÓ
+Ð
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÓ Ó(.
+%7"%ij.process.ColorProcessor#<init>(II)V*!
+
+%6ij.process.ColorProcessor*
+""*
+""½
+º
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÓ Ó(/
+cpij.process.ColorProcessor"__id*!
+
+%6ij.process.ColorProcessor¹¶
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÔ& Ô(9$
+%8ij.process.ColorSpaceConverter"ij.process.ColorSpaceConverterË
+È
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÔ" Ô(;
+%9"(ij.process.ColorSpaceConverter#<init>()V*&
+$
+%8ij.process.ColorSpaceConverterÎ
+Ë
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaÔ Ô(<+
+	converterij.process.ColorSpaceConverter"__id*&
+$
+%8ij.process.ColorSpaceConverter*
+4
+1*´
+1n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaà! à($Ú×
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaà! à(/
+%15java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+imgij.ImagePlus2
+getTitle()–“
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaà à( 
+%16ij.ImagePlus"ij.ImagePlus”
+‘
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaà à(4
+%17"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%16ij.ImagePlus*
+
+%15java.lang.String*!
+
+cpij.process.ColorProcessor¦
+£
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaà à(5
+img2ij.ImagePlus"__id*
+
+%16ij.ImagePlus"ˆ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorSpaceConverter.javaá á(
+
+img2ij.ImagePlus:
+imgij.ImagePlusB" 
+ij.process.ColorSpaceConverter

@@ -1,0 +1,42 @@
+
+Nij.plugin.filter.BackgroundSubtracter#setup(Ljava/lang/String;Lij/ImagePlus;)Is
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaJ J("3*ï
+2s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaL L(øõ
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaL L(
+%1ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()æã
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaL L(/
+
+%2void"+ij.process.ImageProcessor#resetMinAndMax()V*!
+
+%1ij.process.ImageProcessor2resetMinAndMax()‘
+Ž
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaM M(	
+%3int"__id*
+"""}
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaM M(
+""*ú
+3s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaK K(÷ô
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaK K(
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+final2equals(Ljava/lang/Object;)*
+2
+1*÷
+1s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaO O("}
+s
+i/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/BackgroundSubtracter.javaO O(
+"":
+argjava.lang.String:
+impij.ImagePlusB)'
+%ij.plugin.filter.BackgroundSubtracter

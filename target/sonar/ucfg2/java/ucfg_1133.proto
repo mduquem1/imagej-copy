@@ -1,0 +1,53 @@
+
+ij.plugin.BMPDecoder#readInt()Ib
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Reader.java` `("1*å
+1b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Reader.javaa a(ª
+§
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Reader.javaa a(
+%0java.io.InputStream"__id* *
+ij.plugin.BMPDecoder"
+is´±
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Reader.javaa a("	
+%1int"java.io.InputStream#read()I*
+
+%0java.io.InputStream2read()ª
+§
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Reader.javab b(
+%2java.io.InputStream"__id* *
+ij.plugin.BMPDecoder"
+is´±
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Reader.javab b("	
+%3int"java.io.InputStream#read()I*
+
+%2java.io.InputStream2read()ª
+§
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Reader.javac c(
+%4java.io.InputStream"__id* *
+ij.plugin.BMPDecoder"
+is´±
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Reader.javac c("	
+%5int"java.io.InputStream#read()I*
+
+%4java.io.InputStream2read()ª
+§
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Reader.javad d(
+%6java.io.InputStream"__id* *
+ij.plugin.BMPDecoder"
+is´±
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Reader.javad d("	
+%7int"java.io.InputStream#read()I*
+
+%6java.io.InputStream2read()"l
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/BMP_Reader.javaf f(I
+""B
+ij.plugin.BMPDecoder

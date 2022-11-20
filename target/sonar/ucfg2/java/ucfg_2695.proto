@@ -1,0 +1,35 @@
+
+!ij.gui.Roi#getContourCentroid()[DZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÉ É(#"5*å
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaâ â(¢
+ü
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaç ç(
+%1double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+3
+1*Ï
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÑ Ñ(ÿ’
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÖ Ö('
+%0ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+ij.gui.Roi2getFloatPolygon()ß
+§
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÖ Ö((
+polyij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygon*
+3
+1*≈
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaì ì("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaï ï(
+""B
+
+ij.gui.Roi

@@ -1,0 +1,27 @@
+
+9ij.plugin.tool.PlugInTool#getToolName()Ljava/lang/String;g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PlugInTool.java ("1*•
+1g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PlugInTool.java 	  (ÜÙ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PlugInTool.java 	  (
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+ij.plugin.tool.PlugInTool2
+getClass()ÕÒ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PlugInTool.java 	  (
+%1java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+%0java.lang.Class2	getName()éæ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PlugInTool.java 	  (/
+%2java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*
+
+%1java.lang.String*
+_*
+ 2replace(CC)"ƒ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/PlugInTool.java   (0
+
+%2java.lang.StringB
+ij.plugin.tool.PlugInTool

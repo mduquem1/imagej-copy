@@ -1,0 +1,20 @@
+
+"ij.WindowManager#getWindowCount()I^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java (!"1*´
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaÄ Ä(®
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaÄ Ä(
+%0java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList¨©
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaÄ Ä(	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()"j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaÅ Å(
+""B"
+ij.WindowManager

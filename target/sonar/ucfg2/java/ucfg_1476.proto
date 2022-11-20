@@ -1,0 +1,29 @@
+
+<ij.gui.MultiLineLabel#getPreferredSize()Ljava/awt/Dimension;c
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/MultiLineLabel.javaO O(%"1*˙
+1c
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/MultiLineLabel.javaP P(!∞
+≠
+c
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/MultiLineLabel.javaP P(L	
+%0int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*
+""ñì
+c
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/MultiLineLabel.javaP P(
+%1java.awt.Dimension"java.awt.Dimensionø
+º
+c
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/MultiLineLabel.javaP Q(?
+%2"java.awt.Dimension#<init>(II)V*
+
+%1java.awt.Dimension*
+	
+%0int*
+"""Å
+c
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/MultiLineLabel.javaP Q(@
+
+%1java.awt.DimensionB
+ij.gui.MultiLineLabel

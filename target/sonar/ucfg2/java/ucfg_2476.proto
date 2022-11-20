@@ -1,0 +1,160 @@
+
+Cij.plugin.filter.FFTFilter#setup(Ljava/lang/String;Lij/ImagePlus;)Ih
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java' '("10*‹
+2h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java5? 5(G‡
+„
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java5? 5(G
+
+%11int"__id*
+""Œ
+‰
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java5? 5(G	
+%9int"__id*
+
+
+%11int*
+1*Ÿ
+3h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java5 5(‡
+„
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java5 5(
+
+%12int"__id*
+""‡
+„
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java5  5(+
+
+%13int"__id*
+""‡
+„
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java5, 5(>
+
+%14int"__id*
+""Œ
+‰
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java5 5(>	
+%9int"__id*
+
+
+%10int*
+1*ê
+5h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java3
+ 3(†
+ƒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java3
+ 3(	
+%8int"__id*
+"""r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java3 3(
+""*’
+6h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java2 2(—”
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java2 2(
+%7boolean">ij.plugin.filter.FFTFilter#showBandpassDialog(Lij/ImagePlus;)Z*
+ij.plugin.filter.FFTFilter*
+
+impij.ImagePlus2"showBandpassDialog(Lij/ImagePlus;)*	
+2
+3
+5*Ø
+7h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java/ /(ë
+è
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java/ /(:
+
+%5void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+FFT Filter*!
+Spatial domain image required†
+ƒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java0
+ 0(	
+%6int"__id*
+"""r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java0 0(
+""*ª
+8h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java, ,(½º
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java, ,(!	
+%2int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()†ƒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java- -($
+%3java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+impij.ImagePlus*
+FHT2getProperty(Ljava/lang/String;)´
+±
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java- -($%
+ij.plugin.filter.FFTFilter"
+fht"__id*
+
+%3java.lang.Object²
+¯
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java. .(	
+%4ij.process.FHT"__id*'*%
+ij.plugin.filter.FFTFilter"
+fht*
+6
+7*ƒ
+9h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java+ +(–
+“
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java+ +(
+
+%0void"ij.IJ#noImage()V*	"
+ij.IJ†
+ƒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java+ +(	
+%1int"__id*
+"""r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java+ +(
+""*â
+10h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java( ((µ
+²
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java( ((%
+ij.plugin.filter.FFTFilter"
+arg"__id*
+
+argjava.lang.String±
+®
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java) )(%
+ij.plugin.filter.FFTFilter"
+imp"__id*
+
+impij.ImagePlus*
+8
+9*á
+1h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java5 5(H"r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTFilter.java5 5(H
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.FFTFilter

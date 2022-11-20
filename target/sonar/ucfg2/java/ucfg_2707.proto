@@ -1,0 +1,18 @@
+
++ij.gui.Roi#getListeners()Ljava/util/Vector;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÕ Õ(""1*ö
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÖ	 Ö(œ
+™
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÖ	 Ö(
+%0java.util.Vector"__id**
+
+ij.gui.Roi"
+	listeners"v
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÖ Ö(
+
+%0java.util.VectorB"
+
+ij.gui.Roi

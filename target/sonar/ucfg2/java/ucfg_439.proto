@@ -1,0 +1,96 @@
+
+Nij.macro.Tokenizer#addSpacesToEmptyLines(Ljava/lang/String;)Ljava/lang/String;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaò ò(%"8*â
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaü ü(óî
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaü ü(
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+ 2append(Ljava/lang/String;)*
+6
+1*≥
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaû û(!æª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaû û(.
+
+%5char"java.lang.String#charAt(I)C*
+
+pgmjava.lang.String*
+""2	charAt(I)*	
+3
+6
+1*¨
+6b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaú ú(æª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaú ú(
+
+%3char"java.lang.String#charAt(I)C*
+
+pgmjava.lang.String*
+""2	charAt(I)ˆÛ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaù ù(
+%4java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2	append(C)*	
+4
+6
+1*´
+8b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaô ô((üú
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaô ô(&
+%0java.lang.StringBuilder"java.lang.StringBuilder±
+Æ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaô ô((
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaô ô()
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder≥∞
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.javaö ö(	
+%2int"java.lang.String#length()I*
+
+pgmjava.lang.String2length()*
+6
+1*å
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.java° °(æª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.java° °(
+
+%7char"java.lang.String#charAt(I)C*
+
+pgmjava.lang.String*
+""2	charAt(I)¸˘
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.java° °(
+%8java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+
+%7char2	append(C)‚ﬂ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.java¢	 ¢(
+%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"~
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Tokenizer.java¢ ¢(
+
+%9java.lang.String:
+pgmjava.lang.StringB
+ij.macro.Tokenizer

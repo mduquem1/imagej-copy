@@ -1,0 +1,98 @@
+
+'ij.gui.Roi#toString()Ljava/lang/String;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaý ý("1*´
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ(ÊÇ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ þ("
+%0java.lang.String".ij.gui.Roi#getTypeAsString()Ljava/lang/String;*
+
+ij.gui.Roi2getTypeAsString()¥
+¢
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ("
+%1java.lang.String"__concat*
+Roi[*
+
+%0java.lang.String¥
+¢
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ()
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, x=£
+ 
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ(+
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+""¥
+¢
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ(2
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+, y=£
+ 
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ(4
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+""©
+¦
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ(?
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+
+, width=£
+ 
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ(E
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+""ª
+§
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ(Q
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+	, height=£
+ 
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ(X
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+""£
+ 
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ
+ þ(\
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+]"w
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaþ þ(^
+
+%10java.lang.StringB
+
+ij.gui.Roi

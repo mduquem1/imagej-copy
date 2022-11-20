@@ -1,0 +1,100 @@
+
+?ij.gui.Overlay#measure(Lij/ImagePlus;)Lij/measure/ResultsTable;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÖ Ö("5*Ş
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÛ Û(¼¹
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÛ Û(
+%6
+ij.gui.Roi"!ij.gui.Overlay#get(I)Lij/gui/Roi;*
+ij.gui.Overlay*
+""2get(I)
+
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÛ Û(
+roi
+ij.gui.Roi"__id*
+
+%6
+ij.gui.RoiÕÒ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÜ Ü(
+
+%7void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+impij.ImagePlus*
+
+roi
+ij.gui.Roi2setRoi(Lij/gui/Roi;)ÉÆ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaİ İ(
+
+%8void"$ij.plugin.filter.Analyzer#measure()V*'
+%
+analyzerij.plugin.filter.Analyzer2	measure()*
+4*
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÚ Ú(¢Ÿ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÚ Ú(	
+%5int"ij.gui.Overlay#size()I*
+ij.gui.Overlay2size()*
+3
+1*¥
+5^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java× ×(&›˜
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java× ×($
+%0ij.measure.ResultsTable"ij.measure.ResultsTable­
+ª
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java× ×(&
+%1"!ij.measure.ResultsTable#<init>()V*
+
+%0ij.measure.ResultsTable©
+¦
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java× ×('
+rtij.measure.ResultsTable"__id*
+
+%0ij.measure.ResultsTableÕÒ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaØ Ø(
+
+%2void"*ij.measure.ResultsTable#showRowNumbers(Z)V*
+
+rtij.measure.ResultsTable*22showRowNumbers(Z)Ÿœ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÙ Ù("
+%3ij.plugin.filter.Analyzer"ij.plugin.filter.Analyzer
+
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÙ Ù(+
+%4"Jij.plugin.filter.Analyzer#<init>(Lij/ImagePlus;Lij/measure/ResultsTable;)V*!
+
+%3ij.plugin.filter.Analyzer*
+
+impij.ImagePlus*
+
+rtij.measure.ResultsTable³
+°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaÙ Ù(,%
+analyzerij.plugin.filter.Analyzer"__id*!
+
+%3ij.plugin.filter.Analyzer*
+4*˜
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaß ß(®«
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaß ß(
+
+%9void"ij.ImagePlus#deleteRoi()V*
+
+impij.ImagePlus2deleteRoi()"
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaà à(
+
+rtij.measure.ResultsTable:
+impij.ImagePlusB
+ij.gui.Overlay

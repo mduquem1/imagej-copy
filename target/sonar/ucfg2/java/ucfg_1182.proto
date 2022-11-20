@@ -1,0 +1,128 @@
+
+ij.gui.OvalRoi#isHandle(II)I^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java§ §("44*Î
+37^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¶K ¶(L"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¶D ¶(M
+""*Î
+27^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¸K ¸(L"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¸D ¸(M
+""*Î
+17^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaºK º(L"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaºD º(M
+""*Í
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¾
+ ¾("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¾ ¾(
+""*Í
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java½; ½(<"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java½4 ½(=
+""*Í
+7^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¼K ¼(L"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¼D ¼(M
+""*ì
+
+41^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java© ©(Ÿ
+œ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java© ©(
+%2ij.gui.ImageCanvas"__id**
+ij.gui.OvalRoi"
+icÉÆ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java© ©($
+%3double"&ij.gui.ImageCanvas#getMagnification()D*
+
+%2ij.gui.ImageCanvas2getMagnification()°­
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaª ª(	
+%4int"ij.gui.Roi#getHandleSize()I*
+ij.gui.OvalRoi2getHandleSize()®«
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¬ ¬(	
+%5int"ij.gui.Roi#screenX(I)I*
+ij.gui.OvalRoi*
+""2
+screenX(I)®«
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java­ ­(	
+%6int"ij.gui.Roi#screenY(I)I*
+ij.gui.OvalRoi*
+""2
+screenY(I)®«
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java® ®(	
+%7int"ij.gui.Roi#screenX(I)I*
+ij.gui.OvalRoi*
+""2
+screenX(I)®«
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¯ ¯(	
+%8int"ij.gui.Roi#screenY(I)I*
+ij.gui.OvalRoi*
+""2
+screenY(I)*!
+2
+37
+27
+17
+7
+32
+22
+1
+12*Î
+42^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¨+ ¨(,"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¨# ¨(-
+""*
+43^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¨ ¨(Ÿ
+œ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¨ ¨(
+%1ij.gui.ImageCanvas"__id**
+ij.gui.OvalRoi"
+ic*
+41
+42*Î
+32^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java·; ·(<"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java·4 ·(=
+""*‘
+44^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¨ ¨( 
+
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¨ ¨(
+%0ij.ImagePlus"__id*!*
+ij.gui.OvalRoi"
+	clipboard*
+42
+43*Î
+22^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¹; ¹(<"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java¹4 ¹(=
+""*Î
+12^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java»; »(<"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.java»4 »(=
+"":
+"":
+""B
+ij.gui.OvalRoi

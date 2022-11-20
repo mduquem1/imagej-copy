@@ -1,0 +1,50 @@
+
+Dij.plugin.frame.RoiManager#getInstance()Lij/plugin/frame/RoiManager;j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaï ï(%"4*˚
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaó
+ ó(ˆ
+Û
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaó
+ ó(. 
+%2ij.plugin.frame.RoiManager"Iij.macro.Interpreter#getBatchModeRoiManager()Lij/plugin/frame/RoiManager;*"
+ij.macro.Interpreter"ê
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaó ó(/"
+ 
+%2ij.plugin.frame.RoiManager*ï
+3j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javañ ñ(õ
+ò
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javañ ñ($
+%1boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+2
+1*≥
+4j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javañ ñ(π
+∂
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javañ ñ(
+%0java.awt.Frame"__id*,**
+ij.plugin.frame.RoiManager"
+
+instance*
+3
+1*≤
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaô ô(π
+∂
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaô ô(
+%3java.awt.Frame"__id*,**
+ij.plugin.frame.RoiManager"
+
+instance"Ñ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaô ô(
+
+%3java.awt.FrameB"
+ij.plugin.frame.RoiManager

@@ -1,0 +1,58 @@
+
+5ij.plugin.frame.ThresholdAdjuster#isDarkBackground()Zq
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.javaÖ Ö('"4*š
+2q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java×; ×(@œ
+™
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java×; ×(@
+%1boolean"__id*
+
+%3boolean*
+1*œ
+3q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java× ×( Ú
+×
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java× ×( '
+%4!ij.plugin.frame.ThresholdAdjuster"__id*3*1#
+!ij.plugin.frame.ThresholdAdjuster"
+
+instanceÔ
+Ñ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java× ×(/
+%5java.awt.Checkbox"__id*=*;
+'
+%4!ij.plugin.frame.ThresholdAdjuster"
+darkBackgroundËÈ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java× ×(:
+%2boolean"java.awt.Checkbox#getState()Z*
+
+%5java.awt.Checkbox2
+getState()œ
+™
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java× ×(:
+%1boolean"__id*
+
+%2boolean*
+1*Û
+4q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java×	 ×(Ú
+×
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java×	 ×('
+%0!ij.plugin.frame.ThresholdAdjuster"__id*3*1#
+!ij.plugin.frame.ThresholdAdjuster"
+
+instance*
+2
+3*ó
+1q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java× ×(A"{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ThresholdAdjuster.java× ×(A
+""B%"#
+!ij.plugin.frame.ThresholdAdjuster

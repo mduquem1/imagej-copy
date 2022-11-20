@@ -1,0 +1,60 @@
+
++ij.ImagePlus#getImageStack()Lij/ImageStack;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÄ Ä( "3*ó
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÇ
+ Ç(ºπ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÇ
+ Ç(
+%1ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+ij.ImagePlus2
+getStack()"u
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÇ Ç(
+
+%1ij.ImageStack*Ö
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÅ Å(ô
+ñ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÅ Å(
+%0ij.ImageStack"__id**
+ij.ImagePlus"
+stack*
+2
+1*∏
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÑ Ñ(ô
+ñ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÑ Ñ(
+%2ij.ImageStack"__id**
+ij.ImagePlus"
+stack¢
+ü
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÑ Ñ(
+%3ij.process.ImageProcessor"__id**
+ij.ImagePlus"
+ipÄ˝
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÑ Ñ(
+
+%4void"2ij.ImageStack#update(Lij/process/ImageProcessor;)V*
+
+%2ij.ImageStack*!
+
+%3ij.process.ImageProcessor2#update(Lij/process/ImageProcessor;)ô
+ñ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÖ
+ Ö(
+%5ij.ImageStack"__id**
+ij.ImagePlus"
+stack"u
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÖ Ö(
+
+%5ij.ImageStackB
+ij.ImagePlus

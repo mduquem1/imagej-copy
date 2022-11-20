@@ -1,0 +1,551 @@
+
+5ij.plugin.CompositeConverter#run(Ljava/lang/String;)Vj
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java ("38*“
+24j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java( ((â
+Ü
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java($ ((,
+
+%23int"__id*
+""Õ 
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java( ((-
+%24void"ij.CompositeImage#setMode(I)V*
+
+imp2ij.ImagePlus*
+
+
+%23int2
+setMode(I)*
+23*Ï
+25j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java' '(ÔÏ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java' '((
+%22boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+color2equals(Ljava/lang/Object;)*
+24
+23*ˆ
+27j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java$ $(±Æ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java$ $(
+%19void"ij.ImagePlus#hide()V*
+
+impij.ImagePlus2hide()›⁄
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java%# %(3
+%20ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+imp2ij.ImagePlus2getWindow()È
+Ê
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java% %(4
+%21void"8ij.WindowManager#setCurrentWindow(Lij/gui/ImageWindow;)V*"
+ij.WindowManager*
+
+%20ij.gui.ImageWindow*
+22*≥
+28j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java! !(≤Ø
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java! !(
+%18void"ij.ImagePlus#show()V*
+
+imp2ij.ImagePlus2show()*
+25
+27
+23*›
+29j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java   (‰
+·
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java   (2
+%17void"5ij.gui.ImageWindow#setNextLocation(Ljava/awt/Point;)V*"
+ij.gui.ImageWindow*
+
+locjava.awt.Point*
+28*ö
+30j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (0•
+¢
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (0
+locjava.awt.Point"__id*
+
+%12java.awt.Point∆√
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java ($
+
+%15int"ij.ImagePlus#getCurrentSlice()I*
+
+impij.ImagePlus2getCurrentSlice()á
+Ñ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (&
+%16ij.ImagePlus"Hij.plugin.CompositeConverter#makeComposite(Lij/ImagePlus;)Lij/ImagePlus;* "
+ij.plugin.CompositeConverter*
+
+impij.ImagePlus¢
+ü
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java ('
+imp2ij.ImagePlus"__id*
+
+%16ij.ImagePlus*
+28
+29*ö
+31j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java+ (/°
+û
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java+ (/
+%12java.awt.Point"__id*
+
+%14
+<nulltype>*
+30*Ö
+32j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (‰·
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (*
+%13java.awt.Point"0java.awt.Component#getLocation()Ljava/awt/Point;*
+
+winij.gui.ImageWindow2getLocation()•
+¢
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (*
+%12java.awt.Point"__id*
+
+%13java.awt.Point*
+30*ç
+10j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java: :(ºπ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java: :(
+%46void"ij.CompositeImage#reset()V*
+
+ciij.CompositeImage2reset()÷”
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java; ;(
+%47void"'ij.CompositeImage#resetDisplayRanges()V*
+
+ciij.CompositeImage2resetDisplayRanges()*
+9*â
+33j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (‹Ÿ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java ($
+%11ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()≠
+™
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (%
+winij.gui.ImageWindow"__id*
+
+%11ij.gui.ImageWindow*
+31
+32*ƒ
+11j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java7 7(€ÿ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java7 7(&
+
+%42int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()úô
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java8 8()
+%43ij.CompositeImage"ij.CompositeImage›
+⁄
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java8 8(7
+%44"*ij.CompositeImage#<init>(Lij/ImagePlus;I)V*
+
+%43ij.CompositeImage*
+
+impij.ImagePlus*
+""™
+ß
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java8 8(8
+ciij.CompositeImage"__id*
+
+%43ij.CompositeImageæª
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java9 9(
+
+%45int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+9
+10*˝
+34j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java
+ (øº
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java
+ (	
+%7int"ij.ImagePlus#getNChannels()I*
+
+impij.ImagePlus2getNChannels()ª∏
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java
+ (	
+%8int"ij.ImagePlus#getNSlices()I*
+
+impij.ImagePlus2getNSlices()ª∏
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java
+ (	
+%9int"ij.ImagePlus#getNFrames()I*
+
+impij.ImagePlus2getNFrames()æª
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (
+
+%10int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+16
+18
+33*Ê
+12j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java6 6( "t
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java6 6( 
+""*Ê
+35j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (
+"t
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (
+
+""*‹
+13j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java3( 3(8¢ü
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java3 3('
+%37ij.gui.GenericDialog"ij.gui.GenericDialog€
+ÿ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java3 3(9
+%38"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%37ij.gui.GenericDialog*
+Make Composite∞
+≠
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java3 3(:
+gdij.gui.GenericDialog"__id*
+
+%37ij.gui.GenericDialogÜÉ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java4 4(-
+%39void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Display Mode:*
+
+modesjava.lang.String[]*
+
+modejava.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)Ã…
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java5 5(
+%40void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()—Œ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java6 6(
+%41boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+11
+12*†
+36j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (à
+Ö
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (	
+%4int"__id*
+""ŒÀ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (
+
+%5void"ij.CompositeImage#setMode(I)V*
+
+ciij.CompositeImage*
+	
+%4int2
+setMode(I)À»
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (
+
+%6void""ij.CompositeImage#updateAndDraw()V*
+
+ciij.CompositeImage2updateAndDraw()*
+35*ﬂ
+14j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java2 2(π
+∂
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java2 2(
+%36java.lang.String"
+__arrayGet*
+
+modesjava.lang.String[]*2™
+ß
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java2 2(
+modejava.lang.String"__id*
+
+%36java.lang.String*
+13*Ó
+37j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java' (*•
+¢
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (+
+ciij.CompositeImage"__id*
+
+impij.ImagePlusæª
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (	
+%2int"ij.CompositeImage#getMode()I*
+
+ciij.CompositeImage2	getMode()à
+Ö
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (!	
+%3int"__id*
+""*
+35
+36*í
+38j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (Æ
+´
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJ†
+ù
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java ( 
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus¡æ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java (
+%1boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+37
+34*”
+
+16j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java/ /( ûõ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java/ /(7
+%31java.lang.String[]"java.lang.String[]≤
+Ø
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java/ /(7
+%32"
+__arraySet*
+
+%31java.lang.String[]*2 *
+	Composite∞
+≠
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java/ /(7
+%33"
+__arraySet*
+
+%31java.lang.String[]*2*	
+Color¥
+±
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java/ /(7
+%34"
+__arraySet*
+
+%31java.lang.String[]*2*
+	GrayscaleØ
+¨
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java/ /(8
+modesjava.lang.String[]"__id*
+
+%31java.lang.String[]∑
+¥
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java0 0(
+%35java.lang.String"
+__arrayGet*
+
+modesjava.lang.String[]*2 ™
+ß
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java0 0(
+modejava.lang.String"__id*
+
+%35java.lang.String*
+13
+14*ù
+18j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java. .(°
+û
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java. .('
+%30boolean"ij.IJ#macroRunning()Z*	"
+ij.IJ*
+16
+1*â
+0 "Å
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaG G(
+implicit return*é
+1j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaF F(ó
+î
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaF F(w
+%57void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*lj
+hTo create a composite, the current image must be\n a stack with at least 2 channels or be in RGB format.*
+0*¨
+2j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaD D(µ≤
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaD D(
+%56void"ij.ImagePlus#show()V*
+
+ciij.CompositeImage2show()*
+0*ï
+3j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaC C(û
+õ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaC C(
+%55void"ij.IJ#wait(I)V*	"
+ij.IJ*2˙*
+2*ñ
+4j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaB B(	ú
+ô
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaB B(
+%54boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+2
+3*‡
+5j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaA A(È
+Ê
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaA A()
+%53void"5ij.gui.ImageWindow#setNextLocation(Ljava/awt/Point;)V*"
+ij.gui.ImageWindow*
+
+locationjava.awt.Point*
+4*ÿ
+6j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java> >(5™
+ß
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java> >(5
+locationjava.awt.Point"__id*
+
+%49java.awt.Point±Æ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java? ?(
+%52void"ij.ImagePlus#hide()V*
+
+impij.ImagePlus2hide()*
+4
+5*ò
+7j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java>0 >(4°
+û
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java>0 >(4
+%49java.awt.Point"__id*
+
+%51
+<nulltype>*
+6*É
+8j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java> >(!‰·
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java> >(/
+%50java.awt.Point"0java.awt.Component#getLocation()Ljava/awt/Point;*
+
+winij.gui.ImageWindow2getLocation()•
+¢
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java> >(/
+%49java.awt.Point"__id*
+
+%50java.awt.Point*
+6*Ü
+9j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java= =(‹Ÿ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java= =($
+%48ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()≠
+™
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java= =(%
+winij.gui.ImageWindow"__id*
+
+%48ij.gui.ImageWindow*
+7
+8*ñ
+20j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java- -(û
+õ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java- -(
+%29void"ij.IJ#wait(I)V*	"
+ij.IJ*2Ù*
+0*∫
+21j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java, ,(#æ
+ª
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java, ,(1
+%28boolean"#ij.macro.Interpreter#isBatchMode()Z*"
+ij.macro.Interpreter*
+20
+0*ò
+22j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java, ,(	ú
+ô
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java, ,(
+%27boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+21
+0*Û
+23j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java) )(ƒ¡
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java) )(
+%25void"ij.ImagePlus#setSlice(I)V*
+
+imp2ij.ImagePlus*
+""2setSlice(I)≥∞
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.java* *(
+%26void"ij.ImagePlus#close()V*
+
+impij.ImagePlus2close()*
+22:
+argjava.lang.StringB 
+ij.plugin.CompositeConverter

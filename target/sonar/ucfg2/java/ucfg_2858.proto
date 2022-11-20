@@ -1,0 +1,30 @@
+
+;ij.process.FloatProcessor#crop()Lij/process/ImageProcessor;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÌ Ì("8*¬
+8i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÓ Ó(&ùö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÓ Ó(;
+%0ij.process.ImageProcessor"Hij.process.FloatProcessor#createProcessor(II)Lij/process/ImageProcessor;*
+ij.process.FloatProcessor*
+""*
+""2createProcessor(II)π
+∂
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÓ Ó(< 
+ip2ij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessorÌ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÔ Ô(,
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*"
+ 
+ip2ij.process.ImageProcessor2getPixels()*
+1*Ä
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaˆ	 ˆ("è
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaˆ ˆ("
+ 
+ip2ij.process.ImageProcessorB
+ij.process.FloatProcessor

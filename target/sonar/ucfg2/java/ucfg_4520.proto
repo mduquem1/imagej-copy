@@ -1,0 +1,49 @@
+
+.ij.gui.ShapeRoi#getPolygon()Ljava/awt/Polygon;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java—	 —	("1*¡
+
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java˜	 ˜	(#çä
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java˜	 ˜	(%
+%0ij.process.FloatPolygon":ij.gui.ShapeRoi#getFloatPolygon()Lij/process/FloatPolygon;*
+ij.gui.ShapeRoi2getFloatPolygon()ª
+§
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java˜	 ˜	(&
+fpij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygon¢
+Ÿ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java™	 ™	('
+%1int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""¢
+Ÿ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java™	) ™	(;
+%2int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""Ž‹
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java™	 ™	(
+%3java.awt.Polygon"java.awt.PolygonË
+È
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java™		 ™	(H
+%4"java.awt.Polygon#<init>([I[II)V*
+
+%3java.awt.Polygon*
+
+%1int[]*
+
+%2int[]*
+"""{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java™	 ™	(I
+
+%3java.awt.PolygonB
+ij.gui.ShapeRoi

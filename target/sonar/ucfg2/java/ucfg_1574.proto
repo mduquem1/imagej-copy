@@ -1,0 +1,57 @@
+
+ij.gui.Plot#toByteArray()[B[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÕ Õ("7*Ï
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÚ Ú("m
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÚ Ú(
+
+%4byte[]*¼
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÚ
+ Ú(ÔÑ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÚ
+ Ú(
+%4byte[]"-java.io.ByteArrayOutputStream#toByteArray()[B*&
+$
+bosjava.io.ByteArrayOutputStream2toByteArray()*
+3*­
+5[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÙ Ù(ÅÂ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÙ Ù(
+
+%3void"&java.io.ByteArrayOutputStream#close()V*&
+$
+bosjava.io.ByteArrayOutputStream2close()*
+4*”
+6[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java× ×(;³
+°
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java× ×(;$
+bosjava.io.ByteArrayOutputStream"__id*%
+#
+%0java.io.ByteArrayOutputStreamöó
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaØ Ø(
+
+%2void"-ij.gui.Plot#toStream(Ljava/io/OutputStream;)V*
+ij.gui.Plot*&
+$
+bosjava.io.ByteArrayOutputStream2 toStream(Ljava/io/OutputStream;)*
+5*Å
+7[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java× ×(:¤¡
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java×# ×(8#
+%0java.io.ByteArrayOutputStream"java.io.ByteArrayOutputStream¶
+³
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java× ×(:
+%1"'java.io.ByteArrayOutputStream#<init>()V*%
+#
+%0java.io.ByteArrayOutputStream*
+6B
+ij.gui.Plot

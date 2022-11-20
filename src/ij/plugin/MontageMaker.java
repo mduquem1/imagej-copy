@@ -171,7 +171,7 @@ public class MontageMaker implements PlugIn {
 			boolean whiteBackground = false;
 			if ((ip instanceof ByteProcessor) || (ip instanceof ColorProcessor)) {
 				ip.setRoi(0, stackHeight-12, stackWidth, 12);
-				ImageStatistics stats = ImageStatistics.getStatistics(ip, Measurements.MODE, null);
+				ImageStatistics stats = ImageStatistics.getStatistics(ip, Measurements.MODE, null, null);
 				ip.resetRoi();
 				whiteBackground = stats.mode>=200;
 				if (imp.isInvertedLut())

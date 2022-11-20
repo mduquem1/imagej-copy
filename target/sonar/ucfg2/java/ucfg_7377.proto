@@ -1,0 +1,215 @@
+
+Mij.plugin.Selection#trimFloatPolygon(Lij/gui/PolygonRoi;D)Lij/gui/PolygonRoi;c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.javaì ì("14*Ü
+2c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java≥ ≥(¬ø
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java≥ ≥((
+%16float"ij.gui.Roi#getStrokeWidth()F*
+
+roiij.gui.PolygonRoi2getStrokeWidth()—Œ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java≥ ≥()
+%17void"ij.gui.Roi#setStrokeWidth(F)V*
+
+pij.gui.PolygonRoi*
+
+%16float2setStrokeWidth(F)*
+1*¢
+14c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.javaî î(ÙÒ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.javaî î(+
+%0ij.process.FloatPolygon"<ij.gui.PolygonRoi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+roiij.gui.PolygonRoi2getFloatPolygon()∞
+≠
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.javaî î(,
+polyij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygon–Õ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.javaò ò(
+%1float[]"!ij.plugin.Selection#smooth([FI)[F*
+ij.plugin.Selection*
+""*
+""2smooth([FI)–Õ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.javaô ô(
+%2float[]"!ij.plugin.Selection#smooth([FI)[F*
+ij.plugin.Selection*
+""*
+""2smooth([FI)ËÂ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.javaö ö(+
+%3float[]")ij.plugin.Selection#getCurvature([F[FI)[F*
+ij.plugin.Selection*
+""*
+""*
+""2getCurvature([F[FI)ƒ¡
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.javaõ õ($
+%4double"ij.plugin.Selection#rodbard(D)D*
+ij.plugin.Selection*
+""2
+rodbard(D)´
+®
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.javaù ù(N
+%5double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+9
+12*›
+3c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java±  ±(!ïí
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java± ±(
+%13ij.gui.PolygonRoi"ij.gui.PolygonRoiŒ
+À
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java± ±(/
+%14"!ij.gui.PolygonRoi#<init>([F[FII)V*
+
+%13ij.gui.PolygonRoi*
+""*
+""*
+""*
+""¢
+ü
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java± ±(0
+pij.gui.PolygonRoi"__id*
+
+%13ij.gui.PolygonRoi‹Ÿ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java≤ ≤(
+%15java.awt.BasicStroke",ij.gui.Roi#getStroke()Ljava/awt/BasicStroke;*
+
+roiij.gui.PolygonRoi2getStroke()*
+2
+1*Ò
+6c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java´ ´(BÅ
+
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java¨ ¨(
+
+%12int"__id*
+""*
+3*˚
+7c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java´6 ´(9Å
+
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java´6 ´(A
+
+%11int"__id*
+""á
+Ñ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java´6 ´(A	
+%9int"__id*
+
+
+%11int*
+6*˚
+8c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java´) ´(,Å
+
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java´) ´(5
+
+%10int"__id*
+""á
+Ñ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java´) ´(5	
+%9int"__id*
+
+
+%10int*
+6*ß
+9c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java´ ´(±Æ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java´ ´(	
+%7int"ij.gui.Roi#getType()I*
+
+roiij.gui.PolygonRoi2	getType()Ä
+~
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java´ ´((	
+%8int"__id*
+""*
+7
+8*†
+12c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java° °(´
+®
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java¢ ¢(9
+%6double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+9
+12*´
+1c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java¥ ¥(⁄◊
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java¥ ¥('
+%18java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+roiij.gui.PolygonRoi2getStrokeColor()¯ı
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java¥ ¥((
+%19void",ij.gui.Roi#setStrokeColor(Ljava/awt/Color;)V*
+
+pij.gui.PolygonRoi*
+
+%18java.awt.Color2 setStrokeColor(Ljava/awt/Color;)¬ø
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.javaµ µ(%
+%20boolean"ij.gui.Roi#getDrawOffset()Z*
+
+roiij.gui.PolygonRoi2getDrawOffset()—Œ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.javaµ µ(&
+%21void"ij.gui.Roi#setDrawOffset(Z)V*
+
+pij.gui.PolygonRoi*
+
+%20boolean2setDrawOffset(Z)–Õ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java∂ ∂(
+%22java.lang.String"&ij.gui.Roi#getName()Ljava/lang/String;*
+
+roiij.gui.PolygonRoi2	getName()Ì
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java∂ ∂(
+%23void"'ij.gui.Roi#setName(Ljava/lang/String;)V*
+
+pij.gui.PolygonRoi*
+
+%22java.lang.String2setName(Ljava/lang/String;)•
+¢
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java∑ ∑(
+%24ij.ImagePlus"__id* *
+ij.plugin.Selection"
+imp‡›
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java∑ ∑(
+%25void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+%24ij.ImagePlus*
+
+pij.gui.PolygonRoi2setRoi(Lij/gui/Roi;)"
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Selection.java∏ ∏(
+
+pij.gui.PolygonRoi:
+roiij.gui.PolygonRoi:
+""B
+ij.plugin.Selection

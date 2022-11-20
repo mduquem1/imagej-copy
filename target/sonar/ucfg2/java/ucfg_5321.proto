@@ -1,0 +1,169 @@
+
+Oij.plugin.frame.Editor#isWholeWordMatch(Ljava/lang/String;Ljava/lang/String;I)Zf
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaß
+	 ß
+("11"12*Ý
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaã
+5 ã
+(:"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaã
+. ã
+(;
+""*»
+4f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ
+ â
+(MÅ
+Â
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaã
+ ã
+("
+%10boolean"'java.lang.Character#isLetterOrDigit(C)Z*"
+java.lang.Character*
+""*
+2
+1*ÿ
+5f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ
+- â
+(1¸µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ
+? â
+(L	
+%9int"java.lang.String#length()I*
+
+wordjava.lang.String2length()ÃÀ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ
+- â
+(M
+
+%8char"java.lang.String#charAt(I)C*
+
+textjava.lang.String*
+""2	charAt(I)‹
+ˆ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ
+- â
+(M
+
+%6char"__id*
+
+
+%8char*
+4*þ
+6f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ
+) â
+(,‹
+ˆ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ
+) â
+(,
+
+%6char"__id*
+
+
+%7char*
+4*é
+7f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ
+ â
+(¸µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ
+ â
+(	
+%4int"java.lang.String#length()I*
+
+wordjava.lang.String2length()¸µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaâ
+ â
+((	
+%5int"java.lang.String#length()I*
+
+textjava.lang.String2length()*
+5
+6*Ý
+8f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaá
+5 á
+(:"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaá
+. á
+(;
+""*»
+10f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà
+ à
+(-Ä
+Á
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaá
+ á
+("
+%3boolean"'java.lang.Character#isLetterOrDigit(C)Z*"
+java.lang.Character*
+""*
+7
+8*Æ
+11f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà
+ à
+(ÃÀ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà
+ à
+(,
+
+%2char"java.lang.String#charAt(I)C*
+
+textjava.lang.String*
+""2	charAt(I)‹
+ˆ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà
+ à
+(,
+
+%0char"__id*
+
+
+%2char*
+10*€
+12f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà
+ à
+(‹
+ˆ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaà
+ à
+(
+
+%0char"__id*
+
+
+%1char*
+10*Ý
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä
+	 ä
+("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Editor.javaä
+ ä
+(
+"":
+textjava.lang.String:
+wordjava.lang.String:
+""B
+ij.plugin.frame.Editor

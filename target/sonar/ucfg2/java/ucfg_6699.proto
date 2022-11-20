@@ -1,0 +1,46 @@
+
+:ij.plugin.WindowOrganizer#getWindow(I)Lij/gui/ImageWindow;g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/WindowOrganizer.javay y("3*¯
+2g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/WindowOrganizer.java}	 }(ÿ’
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/WindowOrganizer.java}	 }(
+%1ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()©
+¶
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/WindowOrganizer.java} }(
+winij.gui.ImageWindow"__id*
+
+%1ij.gui.ImageWindow*
+1*˘
+3g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/WindowOrganizer.javaz z(ï
+í
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/WindowOrganizer.javaz z(
+winij.gui.ImageWindow"__id*
+"" 
+«
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/WindowOrganizer.java{ {(,
+%0ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""ù
+ö
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/WindowOrganizer.java{ {(-
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+2
+1*ı
+1g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/WindowOrganizer.java~	 ~("Ü
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/WindowOrganizer.java~ ~(
+
+winij.gui.ImageWindow:
+""B
+ij.plugin.WindowOrganizer

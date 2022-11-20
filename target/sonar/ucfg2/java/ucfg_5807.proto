@@ -1,0 +1,143 @@
+
+Kij.plugin.FolderOpener#trimFileList([Ljava/lang/String;)[Ljava/lang/String;f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaÒ Ò("15"18"7"8*ï
+13f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaØ7 Ø(Gð
+í
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaØ7 Ø(M
+%3boolean"<ij.plugin.FolderOpener#excludedFileType(Ljava/lang/String;)Z*"
+ij.plugin.FolderOpener*
+
+namejava.lang.String*
+15
+7
+8
+12*è
+14f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaØ Ø(!ïì
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaØ Ø(5
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+	Thumbs.db2equals(Ljava/lang/Object;)*
+13
+12*î
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaä ä(	¸
+µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaä ä(
+%7java.lang.String"
+__arrayGet*
+
+rawlistjava.lang.String[]*
+""½
+º
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaä ä(
+%8"
+__arraySet*
+
+listjava.lang.String[]*
+""*
+
+%7java.lang.String*
+4
+1*Ë
+15f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java× ×(¸
+µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java× ×(
+%0java.lang.String"
+__arrayGet*
+
+rawlistjava.lang.String[]*
+""¥
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.java× ×(
+namejava.lang.String"__id*
+
+%0java.lang.Stringïì
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaØ Ø(
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.2startsWith(Ljava/lang/String;)*
+14
+12*±
+4f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaã ã(¸
+µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaã ã(
+%6java.lang.String"
+__arrayGet*
+
+rawlistjava.lang.String[]*
+""*	
+3
+4
+1*»
+6f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaà à(™–
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaà
+ à(
+%5java.lang.String[]"java.lang.String[]©
+¦
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaà à(
+listjava.lang.String[]"__id*
+
+%5java.lang.String[]*
+4
+1*Þ
+18f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaÔ
+ Ô("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaÔ Ô(
+""*¤
+7f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaÞ Þ(®
+«
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaÞ Þ(
+listjava.lang.String[]"__id*
+
+rawlistjava.lang.String[]*
+6
+1*Ý
+8f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaÝ Ý("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaÝ Ý(
+""*©
+12f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaÙ Ù(®
+«
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaÙ Ù(
+%4"
+__arraySet*
+
+rawlistjava.lang.String[]*
+""*
+""*
+
+15
+7
+8*ô
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaç	 ç("†
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FolderOpener.javaç ç(
+
+listjava.lang.String[]:
+rawlistjava.lang.String[]B
+ij.plugin.FolderOpener

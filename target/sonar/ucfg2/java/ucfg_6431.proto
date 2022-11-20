@@ -1,0 +1,44 @@
+
+9ij.plugin.frame.RoiManager#countPointRois([Lij/gui/Roi;)Ij
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÑ Ñ("2*ª
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÜ Ü(ê
+ç
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÜ Ü(
+roi
+ij.gui.Roi"__id*
+""Æ
+´
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÜ Ü(
+roi
+ij.gui.Roi"
+__arrayGet*
+
+roisij.gui.Roi[]*
+""*
+4
+1*≥
+4j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaá á(
+±Æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaá á(	
+%0int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()à
+Ö
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaá á(	
+%1int"__id*
+""*
+2*Â
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaâ	 â("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaâ â(
+"":
+roisij.gui.Roi[]B
+ij.plugin.frame.RoiManager

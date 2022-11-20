@@ -1,0 +1,22 @@
+
+)ij.gui.Roi#getPolygon()Ljava/awt/Polygon;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡ ¡("1*œ
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¢ ¢(‰†
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¬ ¬(
+%0java.awt.Polygon"java.awt.Polygon¶
+³
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¬	 ¬()
+%1"java.awt.Polygon#<init>([I[II)V*
+
+%0java.awt.Polygon*
+""*
+""*2"v
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¬ ¬(*
+
+%0java.awt.PolygonB
+
+ij.gui.Roi

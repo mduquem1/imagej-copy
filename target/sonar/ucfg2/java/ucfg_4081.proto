@@ -1,0 +1,112 @@
+
+4ij.gui.PointRoi#getMask()Lij/process/ImageProcessor;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaï ï("8*²
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java÷ ÷(¦
+£
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java÷ ÷(1
+
+%6long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""¦
+£
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java÷8 ÷(S
+
+%7long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""ñî
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java÷ ÷(Y
+
+%8void"(ij.process.ImageProcessor#putPixel(III)V*#
+!
+maskij.process.ImageProcessor*
+
+
+%6long*
+
+
+%7long*2ÿ2putPixel(III)*
+3
+1*à
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaó ó( ž›
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaó ó(
+%2ij.process.ByteProcessor"ij.process.ByteProcessorÂ
+¿
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaó	 ó()
+%3"$ij.process.ByteProcessor#<init>(II)V* 
+
+%2ij.process.ByteProcessor*
+""*
+""¯
+¬
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaó ó()!
+maskij.process.ImageProcessor"__id* 
+
+%2ij.process.ByteProcessor«¨
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaô ô(
+%4double"ij.gui.Roi#getXBase()D*
+ij.gui.PointRoi2
+getXBase()«¨
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaõ õ(
+%5double"ij.gui.Roi#getYBase()D*
+ij.gui.PointRoi2
+getYBase()*
+3
+1*í
+6_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaò
+ ò("†
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaò ò(#
+!
+maskij.process.ImageProcessor*Ö
+7_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javañ ñ(çä
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javañ ñ($
+%1java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*#
+!
+maskij.process.ImageProcessor2getPixels()*
+5
+6*Ò
+8_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javað ð("°
+­
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javað ð("
+%0ij.process.ImageProcessor"__id*#*!
+ij.gui.PointRoi"
+
+cachedMask°
+­
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javað ð(#!
+maskij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor*
+5
+7*¢
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaø ø(²
+¯
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaø ø(!
+ij.gui.PointRoi"
+
+cachedMask"__id*#
+!
+maskij.process.ImageProcessor"†
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaù ù(#
+!
+maskij.process.ImageProcessorB
+ij.gui.PointRoi

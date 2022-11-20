@@ -1,0 +1,17 @@
+
+2ij.plugin.frame.ContrastAdjuster#set16bitRange(I)Ip
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaï ï( "1*¶
+1p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java÷ ÷(Â
+¿
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.java÷ ÷('
+
+%0void"%ij.ImagePlus#setDefault16bitRange(I)V*"
+ij.ImagePlus*
+"""z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ContrastAdjuster.javaø ø(
+"":
+""B$""
+ ij.plugin.frame.ContrastAdjuster

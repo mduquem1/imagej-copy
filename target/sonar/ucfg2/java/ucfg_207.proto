@@ -1,0 +1,68 @@
+
+.ij.gui.PlotContentsDialog#tableWindowExists()Zi
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java≈ ≈(("7* 
+2i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java« «(ì
+ê
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java« «(
+winjava.awt.Frame"__id*
+""∏
+µ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java« «(
+winjava.awt.Frame"
+__arrayGet*
+
+windowsjava.awt.Frame[]*
+""*	
+2
+4
+1*„
+3i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java   ( "s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java   (!
+""*ß
+4i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java…# …(&¯ı
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java… …(9
+%1ij.measure.ResultsTable"=ij.text.TextWindow#getResultsTable()Lij/measure/ResultsTable;*
+
+winjava.awt.Frame2getResultsTable()¥
+±
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java… …(:
+rtij.measure.ResultsTable"__id*
+
+%1ij.measure.ResultsTable¸
+˘
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java   (
+%2boolean"=ij.gui.PlotContentsDialog#isValid(Lij/measure/ResultsTable;)Z*"
+ij.gui.PlotContentsDialog*
+
+rtij.measure.ResultsTable*
+2
+3*¯
+7i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java∆ ∆(!‘
+—
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java∆ ∆(6
+%0java.awt.Frame[]"6ij.WindowManager#getNonImageWindows()[Ljava/awt/Frame;*"
+ij.WindowManager´
+®
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.java∆ ∆(7
+windowsjava.awt.Frame[]"__id*
+
+%0java.awt.Frame[]*
+2*„
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaÕ	 Õ("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaÕ Õ(
+""B"
+ij.gui.PlotContentsDialog

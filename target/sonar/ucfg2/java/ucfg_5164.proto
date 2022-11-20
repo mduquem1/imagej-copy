@@ -1,0 +1,36 @@
+
+*ij.plugin.filter.Filler#isLineSelection()Ze
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaG	 G("3* 
+2e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaH H(®
+•
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaH H(
+%1
+ij.gui.Roi"__id*$*"
+ij.plugin.filter.Filler"
+roi≠™
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaH H("
+%2boolean"ij.gui.Roi#isLine()Z*
+
+%1
+ij.gui.Roi2isLine()*
+1*ù
+3e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaH	 H(®
+•
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaH	 H(
+%0
+ij.gui.Roi"__id*$*"
+ij.plugin.filter.Filler"
+roi*
+2
+1*€
+1e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaH H(#"o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Filler.javaH H(#
+""B
+ij.plugin.filter.Filler

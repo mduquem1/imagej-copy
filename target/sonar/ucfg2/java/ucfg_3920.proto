@@ -1,0 +1,67 @@
+
++ij.Menus#getCommands()Ljava/util/Hashtable;X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java²
+ ²
+($"4*è
+2X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java´
+ ´
+(ƒ
+€
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java´
+ ´
+(
+
+%2void"ij.IJ#init()V*	"
+ij.IJ*
+1*¢
+3X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java³
+ ³
+(0º
+·
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java³
+ ³
+(=
+%1boolean"*java.awt.GraphicsEnvironment#isHeadless()Z* "
+java.awt.GraphicsEnvironment*
+2
+1*†
+4X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java³
+ ³
+(ž
+›
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java³
+ ³
+(
+%0java.util.Hashtable"__id**
+
+ij.Menus"
+pluginsTable*
+3
+1*÷
+1X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaµ
+	 µ
+(ž
+›
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaµ
+	 µ
+(
+%3java.util.Hashtable"__id**
+
+ij.Menus"
+pluginsTable"w
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaµ
+ µ
+(
+
+%3java.util.HashtableB"
+
+ij.Menus

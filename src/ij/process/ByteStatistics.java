@@ -1,5 +1,6 @@
 package ij.process;
 import ij.measure.Calibration;
+import ij.process.CentroidHelper;
 
 /** 8-bit image statistics, including histogram. */
 public class ByteStatistics extends ImageStatistics {
@@ -8,12 +9,12 @@ public class ByteStatistics extends ImageStatistics {
 		using the standard measurement options (area, mean,
 		mode, min and max) and no calibration. */
 	public ByteStatistics(ImageProcessor ip) {
-		this(ip, AREA+MEAN+MODE+MIN_MAX, null);
+		this(ip, AREA+MEAN+MODE+MIN_MAX, null, null);
 	}
 
 	/** Constructs a ByteStatistics object from a ByteProcessor using
 		the specified measurement and calibration. */
-	public ByteStatistics(ImageProcessor ip, int mOptions, Calibration cal) {
+	public ByteStatistics(ImageProcessor ip, int mOptions, Calibration cal, CentroidHelper centroid) {
 		ByteProcessor bp = (ByteProcessor)ip;
 		histogram = bp.getHistogram();
 		setup(ip, cal);
@@ -45,7 +46,7 @@ public class ByteStatistics extends ImageStatistics {
 		if ((mOptions&ELLIPSE)!=0 || (mOptions&SHAPE_DESCRIPTORS)!=0)
 			fitEllipse(ip, mOptions);
 		else if ((mOptions&CENTROID)!=0)
-			getCentroid(ip, minThreshold, maxThreshold);
+			centroid.getCentroid(ip, minThreshold, maxThreshold);
 		if ((mOptions&(CENTER_OF_MASS|SKEWNESS|KURTOSIS))!=0)
 			calculateMoments(ip, minThreshold, maxThreshold, cTable);
 		if ((mOptions&MEDIAN)!=0)
@@ -84,40 +85,7 @@ public class ByteStatistics extends ImageStatistics {
 		histMax = 255.0;
 	}
 	
-	void getCentroid(ImageProcessor ip, int minThreshold, int maxThreshold) {
-		byte[] pixels = (byte[])ip.getPixels();
-		byte[] mask = ip.getMaskArray();
-		boolean limit = minThreshold>0 || maxThreshold<255;
-		double xsum=0, ysum=0;
-		int count=0,i,mi,v;
-		for (int y=ry,my=0; y<(ry+rh); y++,my++) {
-			i = y*width + rx;
-			mi = my*rw;
-			for (int x=rx; x<(rx+rw); x++) {
-				if (mask==null||mask[mi++]!=0) {
-					if (limit) {
-						v = pixels[i]&255;
-						if (v>=minThreshold&&v<=maxThreshold) {
-							count++;
-							xsum+=x;
-							ysum+=y;
-						}
-					} else {
-						count++;
-						xsum+=x;
-						ysum+=y;
-					}
-				}
-				i++;
-			}
-		}
-		xCentroid = xsum/count+0.5;
-		yCentroid = ysum/count+0.5;
-		if (cal!=null) {
-			xCentroid = cal.getX(xCentroid);
-			yCentroid = cal.getY(yCentroid, height);
-		}
-	}
+
 
 	void calculateMoments(ImageProcessor ip,  int minThreshold, int maxThreshold, float[] cTable) {
 		byte[] pixels = (byte[])ip.getPixels();

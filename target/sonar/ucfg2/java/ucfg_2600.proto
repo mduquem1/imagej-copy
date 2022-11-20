@@ -1,0 +1,18 @@
+
++ij.gui.Roi#getStrokeColor()Ljava/awt/Color;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   ("1*ô
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡	 ¡(œ
+™
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡	 ¡(
+%0java.awt.Color"__id**
+
+ij.gui.Roi"
+strokeColor"t
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¡ ¡(
+
+%0java.awt.ColorB
+
+ij.gui.Roi

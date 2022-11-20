@@ -1,0 +1,286 @@
+
+7ij.gui.TextRoi#drawPixels(Lij/process/ImageProcessor;)V^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java’ ’("10*Î
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java‚ ‚(|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java„	 „(
+
+%32int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÊ	 Ê(
+
+%33int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÍ	 Í(
+
+%34int"__id*
+""*
+3
+4
+5
+7*¿
+
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÍ Ì(•
+¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÎ Î(%
+%26java.lang.String[]"__id**
+ij.gui.TextRoi"	
+theText≠
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÎ Î((
+%27java.lang.String"
+__arrayGet*
+
+%26java.lang.String[]*
+""ÖÇ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÎ
+ Î()
+
+%28int"5java.awt.FontMetrics#stringWidth(Ljava/lang/String;)I*!
+
+metricsjava.awt.FontMetrics*
+
+%27java.lang.String2stringWidth(Ljava/lang/String;)•
+¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÏ Ï(
+%29java.lang.String[]"__id**
+ij.gui.TextRoi"	
+theText≠
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÏ Ï(
+%30java.lang.String"
+__arrayGet*
+
+%29java.lang.String[]*
+""ùö
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÏ Ï(B
+%31void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%30java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+7*¿
+
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÊ È(•
+¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÁ" Á()
+%20java.lang.String[]"__id**
+ij.gui.TextRoi"	
+theText≠
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÁ" Á(,
+%21java.lang.String"
+__arrayGet*
+
+%20java.lang.String[]*
+""ÖÇ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÁ Á(-
+
+%22int"5java.awt.FontMetrics#stringWidth(Ljava/lang/String;)I*!
+
+metricsjava.awt.FontMetrics*
+
+%21java.lang.String2stringWidth(Ljava/lang/String;)•
+¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaË Ë(
+%23java.lang.String[]"__id**
+ij.gui.TextRoi"	
+theText≠
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaË Ë(
+%24java.lang.String"
+__arrayGet*
+
+%23java.lang.String[]*
+""ùö
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaË Ë(F
+%25void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%24java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+7*‡
+5^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java„ Â(•
+¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java‰ ‰(
+%17java.lang.String[]"__id**
+ij.gui.TextRoi"	
+theText≠
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java‰ ‰(
+%18java.lang.String"
+__arrayGet*
+
+%17java.lang.String[]*
+""ùö
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java‰ ‰(4
+%19void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%18java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+7*√
+6^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java· ·(•
+¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java· ·(
+%15java.lang.String[]"__id**
+ij.gui.TextRoi"	
+theText≠
+™
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java· ·("
+%16java.lang.String"
+__arrayGet*
+
+%15java.lang.String[]*
+""*
+2
+0*È
+7^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java·	 ·(
+|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java· ·(
+
+%14int"__id*
+""*
+6
+0*í
+8^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÿ ÿ(ú
+ô
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÿ ÿ(
+%3java.awt.Font"__id**
+ij.gui.TextRoi"
+font¯ı
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÿ ÿ(
+
+%4void"3ij.process.ImageProcessor#setFont(Ljava/awt/Font;)V*!
+
+ipij.process.ImageProcessor*
+
+%3java.awt.Font2setFont(Ljava/awt/Font;)≤Ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaŸ Ÿ(&
+%5boolean"ij.gui.Roi#getAntiAlias()Z*
+ij.gui.TextRoi2getAntiAlias()ÏÈ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaŸ Ÿ('
+
+%6void"0ij.process.ImageProcessor#setAntialiasedText(Z)V*!
+
+ipij.process.ImageProcessor*
+
+%5boolean2setAntialiasedText(Z)ˆÛ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java⁄ ⁄(+
+%7java.awt.FontMetrics"@ij.process.ImageProcessor#getFontMetrics()Ljava/awt/FontMetrics;*!
+
+ipij.process.ImageProcessor2getFontMetrics()®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java⁄ ⁄(,
+metricsjava.awt.FontMetrics"__id*
+
+%7java.awt.FontMetrics¡æ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java€ €(&	
+%8int"!java.awt.FontMetrics#getHeight()I*!
+
+metricsjava.awt.FontMetrics2getHeight()√¿
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java‹ ‹($	
+%9int""java.awt.FontMetrics#getDescent()I*!
+
+metricsjava.awt.FontMetrics2getDescent()™ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaﬂ ﬂ(%
+%10double"ij.gui.Roi#getXBase()D*
+ij.gui.TextRoi2
+getXBase()Ø
+¨
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaﬂ ﬂ(&
+%11long"java.lang.Math#round(D)J*"
+java.lang.Math*
+
+%10double™ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java‡ ‡(%
+%12double"ij.gui.Roi#getYBase()D*
+ij.gui.TextRoi2
+getYBase()Ø
+¨
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java‡ ‡(&
+%13long"java.lang.Math#round(D)J*"
+java.lang.Math*
+
+%12double*
+7*≠
+9^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java◊ ◊(¬
+ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java◊ ◊(+
+%1java.awt.Color"3ij.gui.Toolbar#getForegroundColor()Ljava/awt/Color;*"
+ij.gui.Toolbar˝˙
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java◊ ◊(,
+
+%2void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*!
+
+ipij.process.ImageProcessor*
+
+%1java.awt.Color2setColor(Ljava/awt/Color;)*
+8*ø
+10^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java÷ ÷(	–Õ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java÷ ÷(
+%0boolean")ij.process.ImageProcessor#fillValueSet()Z*!
+
+ipij.process.ImageProcessor2fillValueSet()*
+8
+9*|
+0 "u
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaÚ Ú(
+implicit return:
+ipij.process.ImageProcessorB
+ij.gui.TextRoi

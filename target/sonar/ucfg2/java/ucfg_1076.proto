@@ -1,0 +1,28 @@
+
+6ij.plugin.FitsDecoder#parseDouble(Ljava/lang/String;)De
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FITS_Reader.java¶ ¶("1*·
+1e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FITS_Reader.java· ·(ñ
+î
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FITS_Reader.java· ·(
+%0java.lang.Double">java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;*"
+java.lang.Double*
+
+sjava.lang.String¡
+ž
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FITS_Reader.java· ·(
+djava.lang.Double"__id*
+
+%0java.lang.DoubleÁ¾
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FITS_Reader.java¸	 ¸(
+%1double"java.lang.Double#doubleValue()D*
+
+djava.lang.Double2doubleValue()"o
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FITS_Reader.java¸ ¸(
+"":
+sjava.lang.StringB
+ij.plugin.FitsDecoder

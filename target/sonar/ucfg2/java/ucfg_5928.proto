@@ -1,0 +1,21 @@
+
+ ij.plugin.frame.IJEventMulticaster#remove(Lij/plugin/frame/DisplayChangeListener;Lij/plugin/frame/DisplayChangeListener;)Lij/plugin/frame/DisplayChangeListener;k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.java´	% ´	(+"1*Ž
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaµ	  µ	(.Š
+‡
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaµ	  µ	(7
+%0java.util.EventListener"xjava.awt.AWTEventMulticaster#removeInternal(Ljava/util/EventListener;Ljava/util/EventListener;)Ljava/util/EventListener;* "
+java.awt.AWTEventMulticaster*,
+*
+l%ij.plugin.frame.DisplayChangeListener*/
+-
+oldl%ij.plugin.frame.DisplayChangeListener"Ž
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/SyncWindows.javaµ	 µ	(8
+
+%0java.util.EventListener:*
+l%ij.plugin.frame.DisplayChangeListener:-
+oldl%ij.plugin.frame.DisplayChangeListenerB&"$
+"ij.plugin.frame.IJEventMulticaster

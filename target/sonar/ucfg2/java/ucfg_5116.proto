@@ -1,0 +1,927 @@
+
+-ij.io.Opener#getFileType(Ljava/lang/String;)I\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¯	 ¯	("124"121*‘
+24\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaŒ
+ Œ
+(#Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaŒ
+ Œ
+(4
+%47boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.csv2endsWith(Ljava/lang/String;)*
+22
+23*‘
+25\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaŒ
+ Œ
+(
+Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaŒ
+ Œ
+(
+%46boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.xls2endsWith(Ljava/lang/String;)*
+24
+22*∆
+26\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÀ
+
+ À
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÀ
+
+ À
+(
+
+%45int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÀ
+ À
+(
+""*‘
+27\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java 
+2  
+(6Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java 
+2  
+(G
+%44boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.ojj2endsWith(Ljava/lang/String;)*
+25
+26*∆
+71\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java™
+ ™
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java™
+ ™
+(
+
+%25int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java™
+ ™
+(
+""*”
+72\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java©
+E ©
+(I‡›
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java©
+E ©
+(W
+%24boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+fid2equals(Ljava/lang/Object;)*
+58
+59
+71*ÿ
+73\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java©
++ ©
+(/Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java©
++ ©
+(@
+%23boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.spe2endsWith(Ljava/lang/String;)*
+58
+59
+72*∆
+32\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java«
+
+ «
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java«
+
+ «
+(
+
+%43int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java«
+ «
+(
+""*∆
+78\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java•
+
+ •
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java•
+
+ •
+(
+
+%22int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java•
+ •
+(
+""*‹
+79\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java§
+F §
+(JÂ‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java§
+F §
+([
+%21boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.dcm2endsWith(Ljava/lang/String;)*
+58
+59
+73
+78*∆
+35\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java√
+
+ √
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java√
+
+ √
+(
+
+%42int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java√
+ √
+(
+""*›
+36\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¬
+7 ¬
+(;Ê„
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¬
+7 ¬
+(M
+%41boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*	
+.html2endsWith(Ljava/lang/String;)*
+35
+26
+27
+32*”
+37\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¬
+ ¬
+(#‰·
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¬
+ ¬
+(3
+%40boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.py2endsWith(Ljava/lang/String;)*
+35
+36*‘
+38\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¬
+ ¬
+(
+Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¬
+ ¬
+(
+%39boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.bsh2endsWith(Ljava/lang/String;)*
+35
+37*”
+39\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¡
+R ¡
+(V‰·
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¡
+R ¡
+(f
+%38boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.js2endsWith(Ljava/lang/String;)*
+35
+38*‚
+100\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaí
+; í
+(?Ê„
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaí
+; í
+(Q
+%14boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*	
+.flex2endsWith(Ljava/lang/String;)*
+93
+83
+84
+98
+89*«
+106\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaë
+ ë
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaë
+ ë
+(
+
+%13int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaë
+ ë
+(
+""*Î
+107\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaê
+ ê
+(
+Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaê
+ ê
+(
+%12boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.lsm2endsWith(Ljava/lang/String;)*
+106
+93
+83
+84
+98
+100
+89*«
+108\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaç
+
+ ç
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaç
+
+ ç
+(
+
+%11int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaç
+ ç
+(
+""*Ø
+83\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java°
+	 °
+(à
+Ö
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java°
+ °
+(#
+%19java.util.Locale"__id*
+""ñì
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java°
+	 °
+($
+%20java.lang.String"Bjava.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;*
+
+namejava.lang.String*
+
+%19java.util.Locale2toLowerCase(Ljava/util/Locale;)ú
+ô
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java°
+ °
+($
+namejava.lang.String"__id*
+
+%20java.lang.String*
+79
+78*∆
+84\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaü
+
+ ü
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaü
+
+ ü
+(
+
+%18int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaü
+ ü
+(
+""*‘
+40\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¡
+9 ¡
+(=Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¡
+9 ¡
+(N
+%37boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.ijm2endsWith(Ljava/lang/String;)*
+35
+39*‘
+41\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¡
+  ¡
+($Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¡
+  ¡
+(5
+%36boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.txt2endsWith(Ljava/lang/String;)*
+35
+40*’
+42\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¡
+ ¡
+(
+Ê„
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¡
+ ¡
+(
+%35boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*	
+.java2endsWith(Ljava/lang/String;)*
+35
+41*∆
+43\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaæ
+
+ æ
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaæ
+
+ æ
+(
+
+%34int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaæ
+ æ
+(
+""*ÿ
+44\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaΩ
+L Ω
+(PÈÊ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaΩ
+L Ω
+(e
+%33boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+
+.fits.gz2endsWith(Ljava/lang/String;)*
+42
+43*∆
+89\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaõ
+
+ õ
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaõ
+
+ õ
+(
+
+%17int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaõ
+ õ
+(
+""*◊
+45\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaΩ
+0 Ω
+(4ËÂ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaΩ
+0 Ω
+(H
+%32boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*	
+.fts.gz2endsWith(Ljava/lang/String;)*
+43
+44*£
+118\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÇ
+ Ç
+(±Æ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÇ
+ Ç
+(
+
+%9void"java.io.InputStream#close()V*
+
+isjava.io.InputStream2close()*
+
+107
+108*Â
+119\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÄ
+ Ä
+(!£
+†
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÄ
+ Ä
+(!
+isjava.io.InputStream"__id*
+
+%6java.io.FileInputStream“œ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÅ
+ Å
+(	
+%8int"java.io.InputStream#read([BII)I*
+
+isjava.io.InputStream*
+
+bufbyte[]*2 *2Ñ2
+read([BII)*
+118*∆
+93\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaó
+
+ ó
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaó
+
+ ó
+(
+
+%16int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaó
+ ó
+(
+""*∆
+50\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java∫
+
+ ∫
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java∫
+
+ ∫
+(
+
+%31int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java∫
+ ∫
+(
+""*ÿ
+51\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaπ
+ π
+(
+Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaπ
+ π
+(
+%30boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.zip2endsWith(Ljava/lang/String;)*
+50
+43
+45*∆
+52\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java∂
+
+ ∂
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java∂
+
+ ∂
+(
+
+%29int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java∂
+ ∂
+(
+""*∆
+98\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaì
+
+ ì
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaì
+
+ ì
+(
+
+%15int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaì
+ ì
+(
+""*∆
+57\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java≤
+
+ ≤
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java≤
+
+ ≤
+(
+
+%28int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java≤
+ ≤
+(
+""*ÿ
+58\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java±
+ ±
+(
+Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java±
+ ±
+(
+%27boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.lut2endsWith(Ljava/lang/String;)*
+57
+51
+52*∆
+59\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÆ
+
+ Æ
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÆ
+
+ Æ
+(
+
+%26int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÆ
+ Æ
+(
+""*⁄
+120\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÄ
+ Ä
+( ôñ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÄ
+ Ä
+(
+%6java.io.FileInputStream"java.io.FileInputStream—
+Œ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÄ
+ Ä
+(!
+%7"/java.io.FileInputStream#<init>(Ljava/io/File;)V*
+
+%6java.io.FileInputStream*
+
+filejava.io.File*
+119*ø	
+121\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˚	 ˚	(ÉÄ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˚	 ˚	(
+%3java.io.File"java.io.File√
+¿
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˚	 ˚	(
+%4"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%3java.io.File*
+
+pathjava.lang.Stringì
+ê
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˚	 ˚	(
+filejava.io.File"__id*
+
+%3java.io.File∆√
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¸	 ¸	(
+%5java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+filejava.io.File2	getName()õ
+ò
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¸	 ¸	(
+namejava.lang.String"__id*
+
+%5java.lang.Stringä
+á
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˝	 ˝	(
+isjava.io.InputStream"__id*
+""}
+{
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˛	 ˛	(
+bufbyte[]"__id*
+""*
+120*∆
+122\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˙	
+ ˙	(y
+w
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˙	
+ ˙	(	
+%2int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˙	 ˙	(
+""*≈
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÈ
+	 È
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÈ
+	 È
+(
+
+%57int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÈ
+ È
+(
+""*◊
+123\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˘	6 ˘	(:Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˘	6 ˘	(L
+%1boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*	
+.java2endsWith(Ljava/lang/String;)*
+
+121
+122*≈
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÁ
+
+ Á
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÁ
+
+ Á
+(
+
+%56int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÁ
+ Á
+(
+""*÷
+124\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˘	 ˘	(‰·
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java˘	 ˘	(0
+%0boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+.txt2endsWith(Ljava/lang/String;)*
+
+123
+121*—
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÊ
+ Ê
+(
+Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÊ
+ Ê
+(
+%55boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.raw2endsWith(Ljava/lang/String;)*
+2
+1*≈
+5\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java„
+
+ „
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java„
+
+ „
+(
+
+%54int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java„
+ „
+(
+""*—
+6\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java‚
+ ‚
+(Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java‚
+ ‚
+(/
+%53boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.dib2endsWith(Ljava/lang/String;)*
+4
+5*≈
+9\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaﬂ
+ ﬂ
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaﬂ
+ ﬂ
+(
+
+%52int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaﬂ
+ ﬂ
+(
+""*∆
+20\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java”
+
+ ”
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java”
+
+ ”
+(
+
+%51int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java”
+ ”
+(
+""*Ÿ
+21\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java“
+ “
+(
+Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java“
+ “
+(
+%50boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.avi2endsWith(Ljava/lang/String;)*
+5
+6
+9
+20*∆
+22\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaœ
+
+ œ
+(z
+x
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaœ
+
+ œ
+(
+
+%49int"__id*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaœ
+ œ
+(
+""*‘
+23\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaŒ
+8 Œ
+(<Â‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaŒ
+8 Œ
+(M
+%48boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*
+.tsv2endsWith(Ljava/lang/String;)*
+21
+22:
+pathjava.lang.StringB
+ij.io.Opener

@@ -1,0 +1,83 @@
+
+Uij.process.FloatProcessor#getBicubicInterpolatedPixel(DDLij/process/ImageProcessor;)Di
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java‘ ‘(*"14*Ë
+14i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java’ ’(≤
+Ø
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java’ ’(
+%0double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+""≤
+Ø
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java÷ ÷(
+%1double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+""*
+3
+5
+10
+1*—
+3i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java· ·(ä
+á
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java· ·(
+%6double"__id*
+""»
+≈
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java· ·(
+%7double"#ij.process.ImageProcessor#cubic(D)D*"
+ij.process.ImageProcessor*
+""*	
+3
+5
+1*Ø
+5i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaﬁ ﬁ(ﬁ€
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaﬂ ﬂ(
+%3float"#ij.process.ImageProcessor#getf(II)F*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""2getf(II)ä
+á
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaﬂ ﬂ(!
+%4double"__id*
+""»
+≈
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaﬂ ﬂ()
+%5double"#ij.process.ImageProcessor#cubic(D)D*"
+ij.process.ImageProcessor*
+""*
+3
+5*ˆ
+10i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÿ
+ ÿ(èå
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÿ
+ ÿ(2
+%2double";ij.process.ImageProcessor#getBilinearInterpolatedPixel(DD)D*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""2 getBilinearInterpolatedPixel(DD)"s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.javaÿ ÿ(3
+""*„
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java„	 „(
+"s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FloatProcessor.java„ „(
+"":
+"":
+"": 
+ip2ij.process.ImageProcessorB
+ij.process.FloatProcessor

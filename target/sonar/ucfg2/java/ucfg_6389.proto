@@ -1,0 +1,66 @@
+
+Eij.plugin.frame.RoiManager#getHex(Ljava/awt/Color;)Ljava/lang/String;j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÖ Ö("3"4*‰
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÙ Ù( çä
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÙ Ù(-
+%4java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+hexjava.lang.String*22substring(I)¨
+¥
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÙ Ù(-
+hexjava.lang.String"__id*
+
+%4java.lang.String*
+1*þ
+3j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaØ Ø(¹¶
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaØ# Ø(1	
+%1int"java.awt.Color#getRGB()I*
+
+colorjava.awt.Color2getRGB()ß
+Ü
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaØ Ø(2
+%2java.lang.String"2java.lang.Integer#toHexString(I)Ljava/lang/String;*"
+java.lang.Integer*
+	
+%1int¨
+¥
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaØ Ø(3
+hexjava.lang.String"__id*
+
+%2java.lang.String»¸
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÙ Ù(	
+%3int"java.lang.String#length()I*
+
+hexjava.lang.String2length()*
+2
+1*ó
+4j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java× ×(&Ó
+Ð
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java× ×(8
+%0java.awt.Color"4ij.gui.ImageCanvas#getShowAllColor()Ljava/awt/Color;*"
+ij.gui.ImageCanvas¦
+£
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java× ×(8
+colorjava.awt.Color"__id*
+
+%0java.awt.Color*
+3*ù
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÚ	 Ú("‡
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÚ Ú(
+
+hexjava.lang.String:
+colorjava.awt.ColorB
+ij.plugin.frame.RoiManager

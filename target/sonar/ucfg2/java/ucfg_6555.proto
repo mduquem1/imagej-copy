@@ -1,0 +1,121 @@
+
+Rij.plugin.Straightener#straightenStack(Lij/ImagePlus;Lij/gui/Roi;I)Lij/ImageStack;d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaU U(""7*±
+3d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java_ _(	Ω∫
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java_ _(
+
+%9void"Fij.ImageStack#addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+stack2ij.ImageStack*
+""*"
+ 
+ip2ij.process.ImageProcessor27addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)*
+5
+1*¸
+4d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java^ ^(À»
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java^ ^(*	
+%5int"%ij.process.ImageProcessor#getWidth()I*"
+ 
+ip2ij.process.ImageProcessor2
+getWidth()Õ 
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java^, ^(;	
+%6int"&ij.process.ImageProcessor#getHeight()I*"
+ 
+ip2ij.process.ImageProcessor2getHeight()çä
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java^ ^(
+%7ij.ImageStack"ij.ImageStackª
+∏
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java^ ^(<
+%8"ij.ImageStack#<init>(II)V*
+
+%7ij.ImageStack*
+	
+%5int*
+	
+%6intü
+ú
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java^ ^(<
+stack2ij.ImageStack"__id*
+
+%7ij.ImageStack*
+3*Ù
+5d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaZ Z(©
+¶
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaZ Z(
+
+%2void"ij.IJ#showProgress(II)V*	"
+ij.IJ*
+""*
+""ºπ
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java[ [(
+
+%3void"ij.ImagePlus#setSlice(I)V*
+
+impij.ImagePlus*
+""2setSlice(I)ﬁ€
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java\ \(3
+%4ij.process.ImageProcessor"Yij.plugin.Straightener#straighten(Lij/ImagePlus;Lij/gui/Roi;I)Lij/process/ImageProcessor;*
+ij.plugin.Straightener*
+
+impij.ImagePlus*
+
+roi
+ij.gui.Roi*
+""2'straighten(Lij/ImagePlus;Lij/gui/Roi;I)¥
+±
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java\ \(4 
+ip2ij.process.ImageProcessor"__id*!
+
+%4ij.process.ImageProcessor*
+3
+4*Ç
+7d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaV V(øº
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaV V(%	
+%0int"ij.ImagePlus#getCurrentSlice()I*
+
+impij.ImagePlus2getCurrentSlice()π∂
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaW
+ W(	
+%1int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()ê
+ç
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaX X(
+stack2ij.ImageStack"__id*
+""*
+5
+1*≠
+1d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaa a(Ω∫
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaa a(
+%10void"ij.ImagePlus#setSlice(I)V*
+
+impij.ImagePlus*
+""2setSlice(I)"Å
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javab b(
+
+stack2ij.ImageStack:
+impij.ImagePlus:
+roi
+ij.gui.Roi:
+""B
+ij.plugin.Straightener

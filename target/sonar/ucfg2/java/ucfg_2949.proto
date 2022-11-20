@@ -1,0 +1,50 @@
+
+%ij.plugin.ScaleBar#parseCurrentROI()Z`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javab b("3*—
+2`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javad  d(%"j
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javad d(&
+""*‚
+3`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javac c(†
+ù
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javac c(
+%0ij.ImagePlus"__id**
+ij.plugin.ScaleBar"
+imp∫∑
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javac c(
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%0ij.ImagePlus2getRoi()í
+è
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javac c(
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roi*
+2
+1*ƒ
+1`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaf f(Õ 
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaf f(%
+%2java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()†
+ù
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaf f(&
+rjava.awt.Rectangle"__id*
+
+%2java.awt.Rectangle"j
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javak k(
+""B
+ij.plugin.ScaleBar

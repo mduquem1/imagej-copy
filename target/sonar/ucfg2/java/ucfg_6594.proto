@@ -1,0 +1,105 @@
+
+6ij.plugin.RGBStackMerge#getPixels(Lij/ImageStack;II)[Bg
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java§ §("5"6*å
+
+2g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java¯ ¯(ú÷
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java¯ ¯(1
+%2ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*
+""2getProcessor(I)¶
+³
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java¯ ¯(2
+ipij.process.ImageProcessor"__id*!
+
+%2ij.process.ImageProcessor‘Ž
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java°	 °(.
+%3ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToByte(Z)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*
+""2convertToByte(Z)¶
+³
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java° °(.
+ipij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessoríê
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java± ±(!
+%4java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*!
+
+ipij.process.ImageProcessor2getPixels()"ƒ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java± ±("
+
+%4java.lang.Object*ö
+3g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java­ ­("‡
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java­ ­(
+
+pixelsjava.lang.Object*‡
+5g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaª ª(âß
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaª ª((
+%1java.lang.Object",ij.ImageStack#getPixels(I)Ljava/lang/Object;*
+
+stackij.ImageStack*
+""2getPixels(I)¨
+¥
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaª ª()
+pixelsjava.lang.Object"__id*
+
+%1java.lang.Object*	
+2
+3
+1*’
+6g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java©
+ ©(¨
+¥
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java©
+ ©(
+%0byte[]"__id*&*$
+ij.plugin.RGBStackMerge"
+blank"y
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java© ©(
+
+%0byte[]*ÿ
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java´' ´(,ú÷
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java´' ´(@
+%5ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*
+""2getProcessor(I)¶
+³
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.java´ ´(A
+cpij.process.ColorProcessor"__id*!
+
+%5ij.process.ImageProcessorßÜ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaµ
+ µ(2
+%6byte[]")ij.process.ColorProcessor#getChannel(I)[B*!
+
+cpij.process.ColorProcessor*
+""2getChannel(I)"y
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackMerge.javaµ µ(3
+
+%6byte[]:
+stackij.ImageStack:
+"":
+""B
+ij.plugin.RGBStackMerge

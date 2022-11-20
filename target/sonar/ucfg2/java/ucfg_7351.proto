@@ -1,0 +1,476 @@
+
+>ij.plugin.filter.StackLabeler#getString(IDI)Ljava/lang/String;m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.java˝ ˝("24*±
+24m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.java˛ ˛(∂
+≥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaˇ ˇ(#
+%0double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+""*
+2*·
+13m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaì ì(∑
+¥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaì ì(!
+%31java.lang.String"__concat*
+-*
+
+strjava.lang.String¨
+©
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaì ì(!
+strjava.lang.String"__id*
+
+%31java.lang.String*
+1*ı
+14m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaë î(
+∑
+¥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí í('
+%19double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+""ˇ¸
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí í((
+%20java.lang.String"6ij.plugin.filter.StackLabeler#pad(I)Ljava/lang/String;*!
+ij.plugin.filter.StackLabeler*
+
+%19double2pad(I)∑
+¥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí í(,
+%21java.lang.String"__concat*
+
+%20java.lang.String*
+:∑
+¥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí6 í(O
+%22double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+""ˇ¸
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí- í(P
+%23java.lang.String"6ij.plugin.filter.StackLabeler#pad(I)Ljava/lang/String;*!
+ij.plugin.filter.StackLabeler*
+
+%22double2pad(I)À
+»
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí í(P
+%24java.lang.String"__concat*
+
+%21java.lang.String*
+
+%23java.lang.String∑
+¥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí í(T
+%25java.lang.String"__concat*
+
+%24java.lang.String*
+:ˆÛ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaíU í(b
+%26java.lang.String"6ij.plugin.filter.StackLabeler#pad(I)Ljava/lang/String;*!
+ij.plugin.filter.StackLabeler*
+""2pad(I)À
+»
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí í(b
+%27java.lang.String"__concat*
+
+%25java.lang.String*
+
+%26java.lang.String∑
+¥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí í(f
+%28java.lang.String"__concat*
+
+%27java.lang.String*
+ æ
+ª
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaíg í(k
+%29java.lang.String"__id*+*)
+ij.plugin.filter.StackLabeler"
+textÀ
+»
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí í(k
+%30java.lang.String"__concat*
+
+%28java.lang.String*
+
+%29java.lang.String¨
+©
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaí í(k
+strjava.lang.String"__id*
+
+%30java.lang.String*
+13
+1*·
+16m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaè è(∑
+¥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaè è(!
+%18java.lang.String"__concat*
+-*
+
+strjava.lang.String¨
+©
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaè è(!
+strjava.lang.String"__id*
+
+%18java.lang.String*
+1*±
+17m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaç ê(
+∑
+¥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaé é(*
+%10double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+""ˇ¸
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaé é(+
+%11java.lang.String"6ij.plugin.filter.StackLabeler#pad(I)Ljava/lang/String;*!
+ij.plugin.filter.StackLabeler*
+
+%10double2pad(I)∑
+¥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaé é(/
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+:ˆÛ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaé0 é(=
+%13java.lang.String"6ij.plugin.filter.StackLabeler#pad(I)Ljava/lang/String;*!
+ij.plugin.filter.StackLabeler*
+""2pad(I)À
+»
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaé é(=
+%14java.lang.String"__concat*
+
+%12java.lang.String*
+
+%13java.lang.String∑
+¥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaé é(A
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+ æ
+ª
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaéB é(F
+%16java.lang.String"__id*+*)
+ij.plugin.filter.StackLabeler"
+textÀ
+»
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaé é(F
+%17java.lang.String"__concat*
+
+%15java.lang.String*
+
+%16java.lang.String¨
+©
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaé é(F
+strjava.lang.String"__id*
+
+%17java.lang.String*
+16
+1*Í
+18m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaã
+ ã(Ω
+∫
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaã
+ ã(
+%7java.lang.String"__id*+*)
+ij.plugin.filter.StackLabeler"
+textµ
+≤
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaã
+ ã(
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+ …
+∆
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaã
+ ã(
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+
+strjava.lang.String´
+®
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaã ã(
+strjava.lang.String"__id*
+
+%9java.lang.String*
+1*
+19m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaä	 ä(∆
+√
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaä	 ä($
+%6java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*
+""´
+®
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaä ä($
+strjava.lang.String"__id*
+
+%6java.lang.String*
+18*Æ
+1m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.java†	 †(¨
+©
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.java†	 †(
+%38java.lang.String"__id*
+
+strjava.lang.String"ä
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.java† †(
+
+strjava.lang.String*á	
+2m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÇ
+ Ç(ï
+í
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÉ É(
+strjava.lang.String"__id* å
+â
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÖ Ö(
+
+%41int"__id*
+""å
+â
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÜ Ü(
+
+%42int"__id*
+""å
+â
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaç ç(
+
+%43int"__id*
+""å
+â
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaë ë(
+
+%44int"__id*
+""å
+â
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaï ï(
+
+%45int"__id*
+""å
+â
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaò ò(
+
+%46int"__id*
+""*!
+14
+4
+17
+19
+9
+20
+11
+22
+1*ï
+4m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaù	 ù(õ
+ò
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaù ù(
+strjava.lang.String"__id*
+void*
+1*¶
+5m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ õ(;¨
+©
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ õ(;
+strjava.lang.String"__id*
+
+%38java.lang.String*
+1*¶
+6m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ8 õ(;¨
+©
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ8 õ(;
+%38java.lang.String"__id*
+
+strjava.lang.String*
+5*ò
+7m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ õ()µ
+≤
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ õ(3
+%40java.lang.String"__concat*
+null slice label (*
+""∑
+¥
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ õ(7
+%39java.lang.String"__concat*
+
+%40java.lang.String*
+)¨
+©
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaõ õ(7
+%38java.lang.String"__id*
+
+%39java.lang.String*
+5*∑
+8m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaö ö(π
+∂
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaö ö(
+%35ij.ImagePlus"__id***(
+ij.plugin.filter.StackLabeler"
+imp”–
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaö ö(
+%36ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%35ij.ImagePlus2
+getStack()˘ˆ
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaö ö(5
+%37java.lang.String"5ij.ImageStack#getShortSliceLabel(I)Ljava/lang/String;*
+
+%36ij.ImageStack*
+""2getShortSliceLabel(I)¨
+©
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaö ö(5
+strjava.lang.String"__id*
+
+%37java.lang.String*
+6
+7*¸
+9m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaô ô(π
+∂
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaô ô(
+%33ij.ImagePlus"__id***(
+ij.plugin.filter.StackLabeler"
+imp√¿
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaô ô(,
+
+%34int"ij.ImagePlus#getStackSize()I*
+
+%33ij.ImagePlus2getStackSize()*
+4
+8*©
+20m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaà	 à(ˇ¸
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaà	 à(
+%5java.lang.String";ij.plugin.filter.StackLabeler#zeroFill(I)Ljava/lang/String;*!
+ij.plugin.filter.StackLabeler*
+""2zeroFill(I)´
+®
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaà à(
+strjava.lang.String"__id*
+
+%5java.lang.String*
+18*Ë
+11m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaï ó(
+æ
+ª
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javañ ñ(
+%32java.lang.String"__id*+*)
+ij.plugin.filter.StackLabeler"
+text¨
+©
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javañ ñ(
+strjava.lang.String"__id*
+
+%32java.lang.String*
+1*≤
+22m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÖ Ö(@∆
+√
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÖ Ö(/
+%1java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*
+""µ
+≤
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÖ Ö(3
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+ Ω
+∫
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÖ4 Ö(8
+%3java.lang.String"__id*+*)
+ij.plugin.filter.StackLabeler"
+text»
+≈
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÖ Ö(8
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String´
+®
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/StackLabeler.javaÖ Ö(8
+strjava.lang.String"__id*
+
+%4java.lang.String*
+1:
+"":
+"":
+""B!
+ij.plugin.filter.StackLabeler

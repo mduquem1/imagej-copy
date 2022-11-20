@@ -1,0 +1,106 @@
+
+xij.plugin.filter.LineGraphAnalyzer#extrapolated(Lij/util/FloatArray;ILij/plugin/filter/LineGraphAnalyzer$Extrapolator;)Fr
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.javaœ œ("14*ç
+14r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java– –(âÜ
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java– –(
+
+%0void"8ij.plugin.filter.LineGraphAnalyzer$Extrapolator#clear()V*A
+?
+extrapolator/ij.plugin.filter.LineGraphAnalyzer$Extrapolator2clear()*
+1
+12*ú
+3r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.javaŸ Ÿ(ôñ
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.javaŸ Ÿ(
+
+%8void"8ij.plugin.filter.LineGraphAnalyzer$Extrapolator#add(DD)V*A
+?
+extrapolator/ij.plugin.filter.LineGraphAnalyzer$Extrapolator*
+""*
+""2add(DD)*
+1
+12*∆
+4r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.javaÿ ÿ(¿
+Ω
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.javaÿ ÿ(
+%7boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+
+3
+1
+12*í
+6r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java÷ ÷(	ê
+ç
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java÷ ÷(	
+%6int"__id*
+""*
+4
+1*ä
+7r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java’ ’(í
+è
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java’ ’(
+%5float"__id*
+"""|
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java’ ’(
+""*í
+9r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java‘ ‘(ê
+ç
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java‘! ‘(0	
+%4int"__id*
+""*
+6
+7*ì
+10r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java” ”(Õ 
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java” ”(
+%2float"ij.util.FloatArray#get(I)F*
+
+arrij.util.FloatArray*
+""2get(I)¿
+Ω
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java‘ ‘(
+%3boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+6
+9*À
+12r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java“ “(	√¿
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java“ “(	
+%1int"ij.util.FloatArray#size()I*
+
+arrij.util.FloatArray2size()*
+10
+1
+12*ô
+1r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java› ›(°û
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java› ›(+
+%9double"?ij.plugin.filter.LineGraphAnalyzer$Extrapolator#extrapolate(D)D*A
+?
+extrapolator/ij.plugin.filter.LineGraphAnalyzer$Extrapolator*
+""2extrapolate(D)"|
+r
+f/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/LineGraphAnalyzer.java› ›(,
+"":
+arrij.util.FloatArray:
+"":?
+extrapolator/ij.plugin.filter.LineGraphAnalyzer$ExtrapolatorB&$
+"ij.plugin.filter.LineGraphAnalyzer

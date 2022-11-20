@@ -1,0 +1,188 @@
+
+eij.plugin.tool.OverlayBrushTool$Options#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Zo
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÊ Ê(""15"8*
+13o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÈ È("y
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÈ È(
+""*˙
+14o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaË Ë(!–
+Õ
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaË Ë(3
+%2ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager•
+¢
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaË Ë(4
+impij.ImagePlus"__id*
+
+%2ij.ImagePlus*
+13
+12*Á
+15o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÁ Á(‚ﬂ
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÁ Á(
+%0java.lang.String".java.awt.AWTEvent#toString()Ljava/lang/String;*
+
+ejava.awt.AWTEvent2
+toString()Å˛
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÁ Á(/
+%1boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+%0java.lang.String*
+Undo2"contains(Ljava/lang/CharSequence;)*
+14
+8*≤
+5o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÙ Ù(Ÿ÷
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÙ Ù()
+%12double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()⁄◊
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaı ı(
+%13boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+1*ú
+6o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÛ Û(«
+ƒ
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÛ Û(&
+%10java.lang.String"__id*2*0!
+ij.plugin.tool.OverlayBrushTool"
+	WIDTH_KEY÷
+”
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÛ Û(*
+%11double""ij.Prefs#get(Ljava/lang/String;D)D*"
+
+ij.Prefs*
+
+%10java.lang.String*2*
+5*≥
+8o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÒ Ò(ÿ’
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÒ Ò($
+%8double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()Ÿ÷
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÚ Ú(
+%9boolean"%ij.gui.GenericDialog#invalidNumber()Z*
+
+gdij.gui.GenericDialog2invalidNumber()*
+5
+6*Ô
+9o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÔ Ô("y
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÔ Ô(
+""*ø
+10o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÏ Ï(ºπ
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÏ Ï("	
+%5int"ij.gui.Overlay#size()I*
+
+overlayij.gui.Overlay2size()À»
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÏ Ï(%
+
+%6void"ij.gui.Overlay#remove(I)V*
+
+overlayij.gui.Overlay*
+""2	remove(I)µ≤
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÌ Ì(
+
+%7void"ij.ImagePlus#draw()V*
+
+impij.ImagePlus2draw()*
+9*Ω
+11o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÎ Î( ºπ
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÎ Î('	
+%4int"ij.gui.Overlay#size()I*
+
+overlayij.gui.Overlay2size()*
+9
+10*ã
+12o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÍ Í(⁄◊
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÍ Í(&
+%3ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()≠
+™
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.javaÍ Í('
+overlayij.gui.Overlay"__id*
+
+%3ij.gui.Overlay*
+9
+11*Ú
+1o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˜ ˜(ÙÒ
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˜ ˜((
+%14java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()¥
+±
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˜ ˜()
+	colorNamejava.lang.String"__id*
+
+%14java.lang.Stringó
+î
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java¯ ¯(/
+%15java.awt.Color"Kij.plugin.Colors#decode(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors*
+
+	colorNamejava.lang.String*
+""¨
+©
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java¯ ¯(0
+colorjava.awt.Color"__id*
+
+%15java.awt.ColorÊ
+„
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˘ ˘($
+%16void"4ij.gui.Toolbar#setForegroundColor(Ljava/awt/Color;)V*"
+ij.gui.Toolbar*
+
+colorjava.awt.Color«
+ƒ
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˙ ˙(
+%17java.lang.String"__id*2*0!
+ij.plugin.tool.OverlayBrushTool"
+	WIDTH_KEY÷
+”
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˙ ˙(
+%18void""ij.Prefs#set(Ljava/lang/String;D)V*"
+
+ij.Prefs*
+
+%17java.lang.String*
+"""y
+o
+c/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/tool/OverlayBrushTool.java˚ ˚(
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB+)
+'ij.plugin.tool.OverlayBrushTool$Options

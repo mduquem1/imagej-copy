@@ -1,0 +1,50 @@
+
+2ij.gui.Plot#scFont(Ljava/awt/Font;)Ljava/awt/Font;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java◊ ◊("4*Â
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ Ÿ(î
+ë
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ Ÿ(
+%1java.awt.Font"__id*
+
+fontjava.awt.Font—Œ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ Ÿ(6
+%2java.awt.Font"*java.awt.Font#deriveFont(F)Ljava/awt/Font;*
+
+fontjava.awt.Font*
+""2deriveFont(F)í
+è
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ Ÿ(6
+%1java.awt.Font"__id*
+
+%2java.awt.Font*
+1*¸
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ Ÿ(î
+ë
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ Ÿ(
+%1java.awt.Font"__id*
+
+fontjava.awt.Font*
+1*ö
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÿ ÿ(Ø¨
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaÿ ÿ(
+%0float"java.awt.Font#getSize2D()F*
+
+fontjava.awt.Font2getSize2D()*
+2
+3*÷
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ Ÿ(7"t
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaŸ Ÿ(7
+
+%1java.awt.Font:
+fontjava.awt.FontB
+ij.gui.Plot

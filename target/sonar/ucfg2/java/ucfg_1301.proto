@@ -1,0 +1,35 @@
+
+*ij.plugin.Orthogonal_Views#getCrossLoc()[Ij
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.java¿ ¿("1*Ë
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÀ À(¹
+¶
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÁ Á(
+%0java.awt.Point"__id*,**
+ij.plugin.Orthogonal_Views"
+
+crossLoc¹
+¶
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÂ Â(
+%1java.awt.Point"__id*,**
+ij.plugin.Orthogonal_Views"
+
+crossLoc²
+¯
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÃ Ã(
+%2ij.ImagePlus"__id*'*%
+ij.plugin.Orthogonal_Views"
+imp¶³
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÃ Ã(	
+%3int"ij.ImagePlus#getSlice()I*
+
+%2ij.ImagePlus2
+getSlice()"t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Orthogonal_Views.javaÄ Ä(
+""B
+ij.plugin.Orthogonal_Views

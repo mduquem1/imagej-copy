@@ -1,0 +1,20 @@
+
+*ij.plugin.ControlPanel#hasVisiblePanels()Zf
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaî	 î("1*Í
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaï	 ï(¸
+µ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaï	 ï(
+%0java.util.Vector"__id*-*+
+ij.plugin.ControlPanel"
+visiblePanels²¯
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaï	 ï(	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ControlPanel.javaï ï( 
+""B
+ij.plugin.ControlPanel

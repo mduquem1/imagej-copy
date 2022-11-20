@@ -1,0 +1,95 @@
+
+0ij.io.OpenDialog#getFileName()Ljava/lang/String;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java– –("7*∫
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java‘ ‘(£
+†
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java‘ ‘(
+%7java.lang.String"__id**
+ij.io.OpenDialog"
+nameß
+§
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java‘ ‘( 
+ij.io.OpenDialog"
+
+lastName"__id*
+
+%7java.lang.String*
+1*¨
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java” ”(§
+°
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java” ”(
+%2java.lang.String"__id**
+ij.io.OpenDialog"
+title¢
+ü
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java” ”("
+%3java.lang.String"__id**
+ij.io.OpenDialog"
+dir£
+†
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java”# ”('
+%4java.lang.String"__id**
+ij.io.OpenDialog"
+nameª
+∏
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java” ”('
+%5java.lang.String"__concat*
+
+%3java.lang.String*
+
+%4java.lang.Stringè
+å
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java” ”((
+
+%6void"Jij.plugin.frame.Recorder#recordPath(Ljava/lang/String;Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+%2java.lang.String*
+
+%5java.lang.String*
+2*í
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java“( “(+¢
+ü
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java“( “(+
+%1java.lang.String"__id**
+ij.io.OpenDialog"
+dir*
+2
+3*ñ
+7`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java— —(
+£
+†
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java— —(
+
+%0java.lang.String"__id**
+ij.io.OpenDialog"
+name*	
+2
+4
+1*â
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java÷	 ÷(£
+†
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java÷	 ÷(
+%8java.lang.String"__id**
+ij.io.OpenDialog"
+name"|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/OpenDialog.java÷ ÷(
+
+%8java.lang.StringB
+ij.io.OpenDialog

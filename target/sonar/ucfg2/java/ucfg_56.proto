@@ -1,0 +1,728 @@
+
+@ij.gui.HistogramWindow#drawText(Lij/process/ImageProcessor;IIZ)Vf
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java• •("32*ö
+24f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaµD µ(\•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaµD µ(\
+%18java.lang.String"__id*
+
+%20java.lang.String*
+23*ö
+25f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaµ- µ(C•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaµ- µ(C
+%18java.lang.String"__id*
+
+%19java.lang.String*
+23*∑
+27f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java≠ ≠(Ÿ
+÷
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java≠ ≠(
+%11java.lang.String"/ij.gui.HistogramWindow#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramWindow*
+""•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java≠ ≠($
+%12void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%11java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)Ÿ
+÷
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaÆ Æ(
+%13java.lang.String"/ij.gui.HistogramWindow#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramWindow*
+""Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaÆ Æ()
+
+%14int"__id*
+""¶£
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaÆ, Æ(>
+
+%15int">ij.gui.HistogramWindow#getWidth(DLij/process/ImageProcessor;)I*
+ij.gui.HistogramWindow*
+""*!
+
+ipij.process.ImageProcessor2&getWidth(DLij/process/ImageProcessor;)•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaÆ Æ(G
+%16void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%13java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaØ Ø(
+
+%17int"__id*
+""*
+14
+12*˚
+31f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java´ ´(¥
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java´ ´(
+%9ij.measure.Calibration"__id*#*!
+ij.gui.HistogramWindow"
+calœÃ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java´ ´(#
+%10boolean"$ij.measure.Calibration#calibrated()Z*
+
+%9ij.measure.Calibration2calibrated()*
+27*¨
+32f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java¶ ¶(¨
+©
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java¶ ¶(
+%0java.awt.Font"__id*$*"
+ij.gui.HistogramWindow"
+fontÄ˝
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java¶ ¶(
+
+%1void"3ij.process.ImageProcessor#setFont(Ljava/awt/Font;)V*!
+
+ipij.process.ImageProcessor*
+
+%0java.awt.Font2setFont(Ljava/awt/Font;)ÈÊ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaß ß(
+
+%2void"0ij.process.ImageProcessor#setAntialiasedText(Z)V*!
+
+ipij.process.ImageProcessor*22setAntialiasedText(Z)¥
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java® ®(
+%3ij.measure.Calibration"__id*#*!
+ij.gui.HistogramWindow"
+cal∫
+∑
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java® ®(# 
+%4ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+stats’“
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java® ®(,
+%5double"$ij.measure.Calibration#getCValue(D)D*
+
+%3ij.measure.Calibration*
+""2getCValue(D)¥
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java© ©(
+%6ij.measure.Calibration"__id*#*!
+ij.gui.HistogramWindow"
+cal∫
+∑
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java© ©(# 
+%7ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+stats’“
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java© ©(,
+%8double"$ij.measure.Calibration#getCValue(D)D*
+
+%6ij.measure.Calibration*
+""2getCValue(D)*
+27
+31*ó
+10f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java¿ ¿()Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java¡	 ¡(
+
+%44int"__id*
+""Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java¬	 ¬(
+
+%45int"__id*
+""Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java¬ ¬(
+
+%46int"__id*
+""à
+Ö
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java√ √(
+%47double"__id*
+""*
+8
+9*·
+12f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaæ æ(ª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaæ æ(!
+%42ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+statsÆ
+´
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaø ø(
+%43double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+10*Î
+13f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaº º(Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaº º(2
+
+%40int"__id*
+""ÓÎ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaº º(3
+%41void".ij.process.ImageProcessor#setJustification(I)V*!
+
+ipij.process.ImageProcessor*
+
+
+%40int2setJustification(I)*
+12*©
+14f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∞ ∞(Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∞ ∞(
+
+%30int"__id*
+""Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java≤ ≤(4
+
+%31int"__id*
+""ÓÎ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java≤ ≤(5
+%32void".ij.process.ImageProcessor#setJustification(I)V*!
+
+ipij.process.ImageProcessor*
+
+
+%31int2setJustification(I)„‡
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java≥ ≥(>
+%33boolean".ij.process.ColorProcessor#weightedHistogram()Z*!
+
+ipij.process.ImageProcessor2weightedHistogram()Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaµ	 µ(
+
+%34int"__id*
+""Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∂	 ∂(
+
+%35int"__id*
+""Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∑	 ∑(
+
+%36int"__id*
+""Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∏	 ∏(
+
+%37int"__id*
+""Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaπ	 π(
+
+%38int"__id*
+""Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∫	 ∫(
+
+%39int"__id*
+""*$
+13
+24
+25
+15
+16
+17
+18
+20
+21*â
+15f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∫ ∫(3îë
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∫ ∫(*
+%29void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+Blue*
+""*
+""2 drawString(Ljava/lang/String;II)*
+13*ä
+16f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaπ π(4ïí
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaπ π(,
+%28void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*	
+Green*
+""*
+""2 drawString(Ljava/lang/String;II)*
+13*à
+17f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∏ ∏(0ìê
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∏ ∏((
+%27void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+Red*
+""*
+""2 drawString(Ljava/lang/String;II)*
+13*ä
+18f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∑ ∑(2ïí
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∑ ∑(*
+%26void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*	
+R+G+B*
+""*
+""2 drawString(Ljava/lang/String;II)*
+13*ö
+19f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∂_ ∂(`•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∂ ∂(d
+%25void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%22java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+13*Ñ
+0 "}
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaÿ ÿ(
+implicit return*ò
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java◊ ◊(à
+Ö
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java◊ ◊("
+%93double"__id*
+""ö
+ó
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java◊ ◊('
+%94void"Hij.gui.HistogramWindow#drawValueAndCount(Lij/process/ImageProcessor;DJ)V*
+ij.gui.HistogramWindow*!
+
+ipij.process.ImageProcessor*
+
+%93double*
+""*
+0*´
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java‘ ‘(ª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java‘  ‘(%!
+%86ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+statsŸ
+÷
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java‘ ‘(,
+%87java.lang.String"/ij.gui.HistogramWindow#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramWindow*
+""µ
+≤
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java‘ ‘(,
+%88java.lang.String"__concat*
+
+Bins: *
+
+%87java.lang.String•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java‘ ‘(9
+%89void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%88java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)Ÿ
+÷
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java’! ’(.
+%90java.lang.String"/ij.gui.HistogramWindow#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramWindow*
+""∫
+∑
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java’ ’(.
+%91java.lang.String"__concat*
+Bin Width: *
+
+%90java.lang.String•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java’ ’(;
+%92void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%91java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+1*Ï(
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaÕ Õ(ü
+ú
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaÕ Õ(
+%63java.lang.String"__concat*
+N: *
+""•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaÕ Õ(*
+%64void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%63java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaŒ Œ(#!
+%65ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+statsŸ
+÷
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaŒ Œ((
+%66java.lang.String"/ij.gui.HistogramWindow#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramWindow*
+""¥
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaŒ Œ((
+%67java.lang.String"__concat*	
+Min: *
+
+%66java.lang.String•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaŒ Œ(5
+%68void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%67java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaœ œ($!
+%69ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+statsŸ
+÷
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaœ œ(*
+%70java.lang.String"/ij.gui.HistogramWindow#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramWindow*
+""µ
+≤
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaœ œ(*
+%71java.lang.String"__concat*
+
+Mean: *
+
+%70java.lang.String•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaœ œ(7
+%72void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%71java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java– –(#!
+%73ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+statsŸ
+÷
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java– –((
+%74java.lang.String"/ij.gui.HistogramWindow#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramWindow*
+""¥
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java– –((
+%75java.lang.String"__concat*	
+Max: *
+
+%74java.lang.String•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java– –(5
+%76void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%75java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java—! —(&!
+%77ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+statsŸ
+÷
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java— —(.
+%78java.lang.String"/ij.gui.HistogramWindow#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramWindow*
+""∑
+¥
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java— —(.
+%79java.lang.String"__concat*
+
+StdDev: *
+
+%78java.lang.String•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java— —(;
+%80void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%79java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)ª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java“ “($!
+%81ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+statsŸ
+÷
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java“ “(+
+%82java.lang.String"/ij.gui.HistogramWindow#d2s(D)Ljava/lang/String;*
+ij.gui.HistogramWindow*
+""µ
+≤
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java“ “(+
+%83java.lang.String"__concat*
+
+Mode: *
+
+%82java.lang.String 
+«
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java“ “(7
+%84java.lang.String"__concat*
+
+%83java.lang.String*
+
+	modeCountjava.lang.String•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java“ “(D
+%85void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%84java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+2
+1*á
+4f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaÀ) À(+î
+ë
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaÀ À(+
+	modeCountjava.lang.String"__id* *
+3*Ù
+5f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java… …(Lª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java   (!!
+%59ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+statsû
+õ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java   (*
+%60java.lang.String"__concat*
+ (*
+""∞
+≠
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java   (0
+%61java.lang.String"__concat*
+
+%60java.lang.String*
+)´
+®
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java   (1
+	modeCountjava.lang.String"__id*
+
+%61java.lang.Stringæª
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaÀ À(
+
+%62int"java.lang.String#length()I*
+
+	modeCountjava.lang.String2length()*
+3
+4*Ω
+6f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java…; …(@ª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java…; …(@!
+%58ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+statså
+â
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java…; …(K
+%54long"__id*
+
+
+%56int*
+5*æ
+7f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java…& …(+ª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java…& …(+!
+%57ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+statsç
+ä
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java…& …(:
+%54long"__id*
+
+%55long*
+5*›
+8f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java≈	 ≈(à
+Ö
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java≈ ≈(
+%49double"__id*
+""à
+Ö
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∆ ∆(
+%50double"__id*
+""à
+Ö
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java« «(
+%51double"__id*
+""à
+Ö
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java» »(
+%52double"__id*
+""ª
+∏
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java… …(!
+%53ij.process.ImageStatistics"__id*%*#
+ij.gui.HistogramWindow"
+stats*
+6
+7*˚
+9f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaƒ ƒ(à
+Ö
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaƒ  ƒ(%
+%48double"__id*
+""*
+8*ö
+20f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∂F ∂(\•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∂F ∂(\
+%22java.lang.String"__id*
+
+%24java.lang.String*
+19*ö
+21f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∂- ∂(E•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.java∂- ∂(E
+%22java.lang.String"__id*
+
+%23java.lang.String*
+19*ö
+23f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaµ_ µ(`•¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/HistogramWindow.javaµ µ(d
+%21void";ij.process.ImageProcessor#drawString(Ljava/lang/String;II)V*!
+
+ipij.process.ImageProcessor*
+
+%18java.lang.String*
+""*
+""2 drawString(Ljava/lang/String;II)*
+13:
+ipij.process.ImageProcessor:
+"":
+"":
+""B
+ij.gui.HistogramWindow

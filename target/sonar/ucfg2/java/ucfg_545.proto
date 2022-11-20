@@ -1,0 +1,107 @@
+
+6ij.process.ImageProcessor#toString()Ljava/lang/String;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaò ò("1*™
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó
+ ó(§
+¤
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó
+ ó(
+%0java.lang.String"__concat*
+	ip[width=*
+""¹
+¶
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó
+ ó('
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+	, height=²
+¯
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó
+ ó(.
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+""·
+´
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó
+ ó(8
+%3java.lang.String"__concat*
+
+%2java.lang.String*	
+, bits=ÑÎ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó9 ó(F	
+%4int"(ij.process.ImageProcessor#getBitDepth()I*
+ij.process.ImageProcessor2getBitDepth()·
+´
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó
+ ó(F
+%5java.lang.String"__concat*
+
+%3java.lang.String*
+	
+%4int¶
+³
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó
+ ó(O
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+
+, min=ÊÇ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaóP ó(X
+%7double"#ij.process.ImageProcessor#getMin()D*
+ij.process.ImageProcessor2getMin()º
+·
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó
+ ó(X
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+
+%7double¶
+³
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó
+ ó(a
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+
+, max=ËÈ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaób ó(j
+%10double"#ij.process.ImageProcessor#getMax()D*
+ij.process.ImageProcessor2getMax()¼
+¹
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó
+ ó(j
+%11java.lang.String"__concat*
+
+%9java.lang.String*
+
+%10double³
+°
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó
+ ó(n
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+]"†
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaó ó(p
+
+%12java.lang.StringB
+ij.process.ImageProcessor

@@ -1,0 +1,59 @@
+
+:ij.measure.ResultsTable#saveAndRename(Ljava/lang/String;)Zg
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java¨
+ ¨
+("4*ï
+3g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java≠
+ ≠
+(≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java≠
+ ≠
+(
+%1java.lang.String"__id*&*$
+ij.measure.ResultsTable"
+titleÏÈ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java≠
+ ≠
+(-
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*	
+Results2equals(Ljava/lang/Object;)*
+1*©
+4g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java≠
+ ≠
+(≤
+Ø
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java≠
+ ≠
+(
+%0java.lang.String"__id*&*$
+ij.measure.ResultsTable"
+title*
+3
+1*„
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaØ
+ Ø
+(Å˛
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.javaØ
+ Ø
+(
+%3boolean"1ij.measure.ResultsTable#save(Ljava/lang/String;)Z*
+ij.measure.ResultsTable*
+
+pathjava.lang.String2save(Ljava/lang/String;)"q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java±
+ ±
+(
+"":
+pathjava.lang.StringB
+ij.measure.ResultsTable

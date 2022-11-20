@@ -1,0 +1,57 @@
+
+6ij.gui.GUI#getZeroBasedMaxBounds()Ljava/awt/Rectangle;X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java| |(."7*≥
+2X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java} }(#ï
+í
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java} }(#(
+configjava.awt.GraphicsConfiguration"__id*
+""≥
+∞
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java} }(#(
+configjava.awt.GraphicsConfiguration"
+__arrayGet*
+
+%0java.util.List*
+""*
+6
+1*›
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÄ Ä("|
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÄ Ä(
+
+boundsjava.awt.Rectangle*¯
+6X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java~ ~(Ì
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java~ ~((
+%1java.awt.Rectangle">java.awt.GraphicsConfiguration#getBounds()Ljava/awt/Rectangle;**
+(
+configjava.awt.GraphicsConfiguration2getBounds()ù
+ö
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java~ ~()
+boundsjava.awt.Rectangle"__id*
+
+%1java.awt.Rectangle*
+2
+3*ó
+7X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java}& }(6≤
+Ø
+X
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java}& }(8
+%0java.util.List"-ij.gui.GUI#getScreenConfigs()Ljava/util/List;*"
+
+ij.gui.GUI*
+2*≈
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÇ	 Ç("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÇ Ç(
+""B"
+
+ij.gui.GUI

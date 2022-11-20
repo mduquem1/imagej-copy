@@ -1,0 +1,80 @@
+
+:ij.macro.Interpreter#getVariableNames()[Ljava/lang/String;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java© ©(!"5*×
+
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¬ ¬(ª
+§
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¬ ¬(
+%1ij.macro.Program"__id*!*
+ij.macro.Interpreter"
+pgm­
+ª
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¬ ¬(
+%2ij.macro.Symbol[]"__id*#*!
+
+%1ij.macro.Program"
+table¯
+¬
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¬ ¬(!
+%3ij.macro.Variable[]"__id*#*!
+ij.macro.Interpreter"
+stack³
+°
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¬ ¬($
+%4ij.macro.Variable"
+__arrayGet*
+
+%3ij.macro.Variable[]*
+""¯
+¬
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¬ ¬(1
+%5ij.macro.Symbol"
+__arrayGet*
+
+%2ij.macro.Symbol[]*
+""©
+¦
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¬ ¬(5
+%6java.lang.String"__id* *
+
+%5ij.macro.Symbol"
+strÀ
+½
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¬ ¬(5
+%7"
+__arraySet*!
+
+	variablesjava.lang.String[]*
+""*
+
+%6java.lang.String*
+3
+1*º
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaª" ª(,—”
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaª ª(/
+%0java.lang.String[]"java.lang.String[]¬
+©
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaª ª(0
+	variablesjava.lang.String[]"__id*
+
+%0java.lang.String[]*
+3
+1*õ
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java­	 ­("‰
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java­ ­(!
+
+	variablesjava.lang.String[]B
+ij.macro.Interpreter

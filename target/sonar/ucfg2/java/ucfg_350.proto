@@ -1,0 +1,101 @@
+
+ij.gui.Line#isHandle(II)I[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÁ Á("18*Ç
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÍ? Í(@"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÍ8 Í(A
+""*¾
+16[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÄ Ä(£ 
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÅ Å(
+%4double"ij.gui.Roi#getXBase()D*
+ij.gui.Line2
+getXBase()ª§
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÅ Å($	
+%5int"ij.gui.Roi#screenXD(D)I*
+ij.gui.Line*
+""2screenXD(D)£ 
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÆ Æ(
+%6double"ij.gui.Roi#getYBase()D*
+ij.gui.Line2
+getYBase()ª§
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÆ Æ($	
+%7int"ij.gui.Roi#screenYD(D)I*
+ij.gui.Line*
+""2screenYD(D)£ 
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÇ Ç(
+%8double"ij.gui.Roi#getXBase()D*
+ij.gui.Line2
+getXBase()ª§
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÇ Ç($	
+%9int"ij.gui.Roi#screenXD(D)I*
+ij.gui.Line*
+""2screenXD(D)¤¡
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÈ È(
+%10double"ij.gui.Roi#getYBase()D*
+ij.gui.Line2
+getYBase()«¨
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÈ È($
+
+%11int"ij.gui.Roi#screenYD(D)I*
+ij.gui.Line*
+""2screenYD(D)*
+2
+7
+1
+12*Ä
+17[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÃ Ã(®«
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÃ0 Ã(@
+%2float"ij.gui.Roi#getStrokeWidth()F*
+ij.gui.Line2getStrokeWidth()©
+¦
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÃ' Ã(A
+%3double"java.lang.Math#log(D)D*"
+java.lang.Math*
+
+%2float*
+16*–
+18[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÂ Â(x
+v
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÂ Â(	
+%0int"__id*
+""®«
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÃ Ã(
+%1float"ij.gui.Roi#getStrokeWidth()F*
+ij.gui.Line2getStrokeWidth()*
+16
+17*Ç
+7[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÌ; Ì(<"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÌ4 Ì(=
+""*È
+12[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaË; Ë(<"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaË4 Ë(=
+""*Ç
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÎ
+ Î("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÎ Î(
+"":
+"":
+""B
+ij.gui.Line

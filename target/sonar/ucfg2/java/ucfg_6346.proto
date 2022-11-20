@@ -1,0 +1,29 @@
+
+1ij.gui.Arrow#getMask()Lij/process/ImageProcessor;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÎ Î("2"1*…
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÌ
+ Ì("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÌ Ì(
+""*˛
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÔ
+ Ô(∑
+¥
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÔ
+ Ô(
+%0ij.gui.ShapeRoi"+ij.gui.Arrow#getShapeRoi()Lij/gui/ShapeRoi;*
+ij.gui.Arrow‹Ÿ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÔ
+ Ô(!
+%1ij.process.ImageProcessor"4ij.gui.ShapeRoi#getMask()Lij/process/ImageProcessor;*
+
+%0ij.gui.ShapeRoi2	getMask()"Å
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÔ Ô("!
+
+%1ij.process.ImageProcessorB
+ij.gui.Arrow

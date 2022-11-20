@@ -1,0 +1,206 @@
+
+(ij.gui.Plot#toShape(Ljava/lang/String;)I[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaî î("33*ﬁ
+13[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java© ©(ÒÓ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java© ©(!
+%14boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
+
+xerror2"contains(Ljava/lang/CharSequence;)*
+3
+11*⁄
+24[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaü ü(ÌÍ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaü ü(
+%8boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
+box2"contains(Ljava/lang/CharSequence;)*
+3
+22*€
+15[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß ß(ÓÎ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß ß(
+%13boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
+dot2"contains(Ljava/lang/CharSequence;)*
+13
+3*›
+26[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaù ù(Ì
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaù ù(!
+%7boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
+
+circle2"contains(Ljava/lang/CharSequence;)*
+24
+3*ﬂ
+17[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java• •(ÚÔ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java• •("
+%12boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*	
+diamond2"contains(Ljava/lang/CharSequence;)*
+3
+15*›
+28[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaõ õ(Ì
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaõ õ(!
+%6boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
+
+filled2"contains(Ljava/lang/CharSequence;)*
+3
+26*Ÿ
+19[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java£$ £('ÏÈ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java£$ £(5
+%11boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
++2"contains(Ljava/lang/CharSequence;)*
+3
+17*«
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaµ	 µ("e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaµ µ(
+""*–
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java≥ ≥(	ËÂ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java≥ ≥(
+%19boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+strjava.lang.String*	
+code:2startsWith(Ljava/lang/String;)*
+1*÷
+5[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java± ±(ÓÎ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java± ±(
+%18boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
+bar2"contains(Ljava/lang/CharSequence;)*
+3*ﬁ
+7[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaØ Ø(Û
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaØ Ø(#
+%17boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
+
+separate2"contains(Ljava/lang/CharSequence;)*
+3
+5*◊
+9[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java≠ ≠(ÏÈ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java≠ ≠(
+%16boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
+x2"contains(Ljava/lang/CharSequence;)*
+3
+7*‡
+30[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaô ô(Û
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaô ô($
+%5boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
+	connected2"contains(Ljava/lang/CharSequence;)*
+3
+28*›
+20[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java£ £(Ì
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java£ £( 
+%10boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*	
+cross2"contains(Ljava/lang/CharSequence;)*
+3
+19*€
+32[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaó ó("ÓÎ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaó ó(3
+%4boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
+line2"contains(Ljava/lang/CharSequence;)*
+3
+30*ﬂ
+22[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java° °(ÚÔ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java° °(#
+%9boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*
+
+triangle2"contains(Ljava/lang/CharSequence;)*
+3
+20*ê
+33[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaï ï(Ü
+É
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaï ï(!
+%0java.util.Locale"__id*
+""íè
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaï ï("
+%1java.lang.String"Bjava.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;*
+
+strjava.lang.String*
+
+%0java.util.Locale2toLowerCase(Ljava/util/Locale;)ô
+ñ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaï ï("
+strjava.lang.String"__id*
+
+%1java.lang.Stringx
+v
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javañ ñ(	
+%2int"__id*
+""ÔÏ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaó ó(
+%3boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*	
+curve2"contains(Ljava/lang/CharSequence;)*
+3
+32*‹
+11[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java´ ´(Ì
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java´ ´( 
+%15boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+strjava.lang.String*	
+error2"contains(Ljava/lang/CharSequence;)*
+3
+9:
+strjava.lang.StringB"
+ij.gui.Plot

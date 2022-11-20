@@ -192,7 +192,7 @@ public class ZAxisProfiler implements PlugIn, Measurements, PlotMaker {
 			if (minThreshold!=ImageProcessor.NO_THRESHOLD)
 				ip.setThreshold(minThreshold,maxThreshold,ImageProcessor.NO_LUT_UPDATE);
 			ip.setRoi(roi);
-			ImageStatistics stats = ImageStatistics.getStatistics(ip, measurements, cal);
+			ImageStatistics stats = ImageStatistics.getStatistics(ip, measurements, cal, null);
 			analyzer.saveResults(stats, roi);
 			values[i-1] = (float)stats.mean;
 		}
@@ -237,7 +237,7 @@ public class ZAxisProfiler implements PlugIn, Measurements, PlotMaker {
 			if (isLine)
 				stats = getLineStatistics(roi, ip, measurements, cal);
 			else
-				stats = ImageStatistics.getStatistics(ip, measurements, cal);
+				stats = ImageStatistics.getStatistics(ip, measurements, cal, null);
 			analyzer.saveResults(stats, roi);
 			values[i-1] = (float)stats.mean;
 		}
@@ -254,7 +254,7 @@ public class ZAxisProfiler implements PlugIn, Measurements, PlotMaker {
 		ProfilePlot profile = new ProfilePlot(imp);
 		double[] values = profile.getProfile();
 		ImageProcessor ip2 = new FloatProcessor(values.length, 1, values);
-		return ImageStatistics.getStatistics(ip2, measurements, cal);
+		return ImageStatistics.getStatistics(ip2, measurements, cal, null);
 	}
 	
 }

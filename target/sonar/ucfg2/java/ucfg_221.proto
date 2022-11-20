@@ -1,0 +1,142 @@
+
+:ij.measure.CurveFitter#doCustomFit(Ljava/lang/String;[DZ)If
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaî î("11*›
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaß
+ ß("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaß ß(
+""*ˆ
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java¶ ¶(µ
+≤
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java¶ ¶(
+%12ij.macro.Interpreter"__id*%*#
+ij.measure.CurveFitter"
+macro»≈
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java¶ ¶(
+%13boolean" ij.macro.Interpreter#wasError()Z*
+
+%12ij.macro.Interpreter2
+wasError()*
+2
+1*Ï
+8f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java° °(¥
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java° °(
+%6ij.macro.Interpreter"__id*%*#
+ij.measure.CurveFitter"
+macro¬ø
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java° °(
+%7java.lang.String"Pij.macro.Interpreter#run(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+%6ij.macro.Interpreter*
+
+codejava.lang.String*
+""2)run(Ljava/lang/String;Ljava/lang/String;)*
+3*™
+9f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaô ô(æ
+ª
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaô ô(+
+ij.measure.CurveFitter"
+customFormula"__id*
+
+equationjava.lang.String»
+≈
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaõ ú(
+%1java.lang.String"__concat*
+var x, a, b, c, d, e, f;\n*
+function dummy() {}\n«
+ƒ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaõ ù(
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+equationjava.lang.String∞
+≠
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaõ ù(
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+;\n•
+¢
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaö ù(
+codejava.lang.String"__id*
+
+%3java.lang.Stringùö
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaü ü(
+%4ij.macro.Interpreter"ij.macro.InterpreterØ
+¨
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaü
+ ü(
+%5"ij.macro.Interpreter#<init>()V*
+
+%4ij.macro.Interpreter¥
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaü ü(#
+ij.measure.CurveFitter"
+macro"__id*
+
+%4ij.macro.Interpreter*
+8*ﬁ
+10f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaò
+ ò("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaò ò(
+""*ç
+11f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaï ï(¶
+£
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaï ï(+
+ij.measure.CurveFitter"
+customFormula"__id*
+""Ï
+È
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javañ ñ(+	
+%0int"8ij.measure.CurveFitter#getNumParams(Ljava/lang/String;)I*"
+ij.measure.CurveFitter*
+
+equationjava.lang.String*
+9
+10*¿
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java® ®($Ö
+Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java© ©(
+
+%14int"__id*
+""ÿ’
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java© ©(
+%15void"!ij.measure.CurveFitter#doFit(IZ)V*
+ij.measure.CurveFitter*
+
+
+%14int*
+""2	doFit(IZ)"p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java™ ™(
+"":
+equationjava.lang.String:
+"":
+""B
+ij.measure.CurveFitter

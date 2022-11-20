@@ -1,0 +1,79 @@
+
+Bij.gui.TextRoi#getFontGraphics(Ljava/awt/Font;)Ljava/awt/Graphics;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaç ç(!"3*∑	
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaè' è(({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaè- è(G	
+%1int"__id*
+""•¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaè è(&"
+%2java.awt.image.BufferedImage"java.awt.image.BufferedImage”
+–
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaè è(H
+%3")java.awt.image.BufferedImage#<init>(III)V*$
+"
+%2java.awt.image.BufferedImage*2*2*
+	
+%1int≥
+∞
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaè è(I"
+bijava.awt.image.BufferedImage"__id*$
+"
+%2java.awt.image.BufferedImageÌ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaê ê(.
+%4java.awt.Graphics"=java.awt.image.BufferedImage#getGraphics()Ljava/awt/Graphics;*$
+"
+bijava.awt.image.BufferedImage2getGraphics()®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaê ê(."
+ij.gui.TextRoi"
+fontGraphics"__id*
+
+%4java.awt.Graphics*
+1*ñ
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaé é(®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaé é(
+%0java.awt.Graphics"__id*$*"
+ij.gui.TextRoi"
+fontGraphics*
+2
+1*£
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaí í(®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaí í(
+%5java.awt.Graphics"__id*$*"
+ij.gui.TextRoi"
+fontGraphicsÍÁ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaí í(
+
+%6void"+java.awt.Graphics#setFont(Ljava/awt/Font;)V*
+
+%5java.awt.Graphics*
+
+fontjava.awt.Font2setFont(Ljava/awt/Font;)®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaì
+ ì(
+%7java.awt.Graphics"__id*$*"
+ij.gui.TextRoi"
+fontGraphics"{
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaì ì(
+
+%7java.awt.Graphics:
+fontjava.awt.FontB
+ij.gui.TextRoi

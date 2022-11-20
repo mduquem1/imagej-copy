@@ -1,0 +1,20 @@
+
+,ij.gui.Arrow#getBounds()Ljava/awt/Rectangle;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java– –("1*ç
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java—	 —(·
+´
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java—	 —(
+%0ij.gui.ShapeRoi"+ij.gui.Arrow#getShapeRoi()Lij/gui/ShapeRoi;*
+ij.gui.ArrowÍÊ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java—	 —("
+%1java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+%0ij.gui.ShapeRoi2getBounds()"z
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java— —(#
+
+%1java.awt.RectangleB
+ij.gui.Arrow

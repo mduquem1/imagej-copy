@@ -1,0 +1,92 @@
+
+Xij.plugin.filter.Convolver#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Zh
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.java` `($"3*ó
+2h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaf f(§
+¤
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaf f( 
+%4java.lang.String"__concat*
+
+Convolve: *
+""°
+­
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaf f($
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+x±
+®
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaf f('
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""¶
+³
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaf f(1
+%7java.lang.String"__concat*
+
+%6java.lang.String*	
+ kernelÅ
+Â
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaf f(2
+
+%8void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%7java.lang.String"r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javag g(
+""*Ì	
+3h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaa a(èå
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaa a(
+%0java.lang.String"4ij.gui.GenericDialog#getNextText()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextText()»
+¸
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javaa a(,
+ij.plugin.filter.Convolver"
+
+kernelText"__id*
+
+%0java.lang.StringÔÑ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javab b(%
+%1boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()»
+¸
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javad d((
+%2java.lang.String"__id*.*,
+ij.plugin.filter.Convolver"
+
+kernelText–“
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javad d()
+%3boolean"<ij.plugin.filter.Convolver#decodeKernel(Ljava/lang/String;)Z*
+ij.plugin.filter.Convolver*
+
+%2java.lang.String2 decodeKernel(Ljava/lang/String;)*
+2
+1*º
+1h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javai i(ÖÓ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javai i(
+%9boolean"'ij.gui.GenericDialog#isPreviewActive()Z*
+
+gdij.gui.GenericDialog2isPreviewActive()"r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Convolver.javai i( 
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.filter.Convolver

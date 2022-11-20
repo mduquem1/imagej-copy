@@ -1,0 +1,22 @@
+
+@ij.process.ImageProcessor#getFontMetrics()Ljava/awt/FontMetrics;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¢ ¢(""1*ˆ
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java£ £(È
+Å
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java£ £(
+
+%0void"-ij.process.ImageProcessor#setupFontMetrics()V*
+ij.process.ImageProcessorÀ
+½
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¤	 ¤(
+%1java.awt.FontMetrics"__id*.*,
+ij.process.ImageProcessor"
+fontMetrics"‰
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¤ ¤(
+
+%1java.awt.FontMetricsB
+ij.process.ImageProcessor

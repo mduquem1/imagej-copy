@@ -1,0 +1,128 @@
+
+5ij.gui.ShapeRoi#getShapeAsArray(Ljava/awt/Shape;FF)[F_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaõ õ("6"7*®
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‚ ‚(Â¿
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java‚ ‚(
+%11void""java.awt.geom.PathIterator#next()V*#
+!
+pItjava.awt.geom.PathIterator2next()*
+5*ƒ
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÿ ÿ(È
+Å
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaÿ ÿ(,
+
+%9void"!ij.gui.ShapeRoi#addOffset([FIFF)V*"
+ij.gui.ShapeRoi*
+""*
+""*
+""*
+""ÌÉ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java€ €(#
+
+%10int"ij.util.FloatArray#add([FI)I*"
+ 
+
+shapeArrayij.util.FloatArray*
+""*
+""2add([FI)*
+2*½
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaû û(àİ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaû û(+	
+%6int".java.awt.geom.PathIterator#currentSegment([F)I*#
+!
+pItjava.awt.geom.PathIterator*
+""2currentSegment([F)¿¼
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaü ü(	
+%7int"ij.util.FloatArray#add(F)I*"
+ 
+
+shapeArrayij.util.FloatArray*
+""2add(F)©
+¦
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaı ı(!	
+%8int"ij.gui.ShapeRoi#nCoords(I)I*"
+ij.gui.ShapeRoi*
+""*
+2
+3*·
+5_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaú
+ ú(ÈÅ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaú
+ ú(
+%5boolean"$java.awt.geom.PathIterator#isDone()Z*#
+!
+pItjava.awt.geom.PathIterator2isDone()*
+4
+1*Æ
+6_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java÷ ÷(¨¥
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java÷/ ÷(>#
+%0java.awt.geom.AffineTransform"java.awt.geom.AffineTransformº
+·
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java÷+ ÷(@
+%1"'java.awt.geom.AffineTransform#<init>()V*%
+#
+%0java.awt.geom.AffineTransform×Ô
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java÷ ÷(A 
+%2java.awt.geom.PathIterator"[java.awt.Shape#getPathIterator(Ljava/awt/geom/AffineTransform;)Ljava/awt/geom/PathIterator;*
+
+shapejava.awt.Shape*%
+#
+%0java.awt.geom.AffineTransform20getPathIterator(Ljava/awt/geom/AffineTransform;)±
+®
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java÷ ÷(B!
+pItjava.awt.geom.PathIterator"__id*"
+ 
+%2java.awt.geom.PathIterator’
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaø ø((
+%3ij.util.FloatArray"ij.util.FloatArray¤
+¡
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaø ø(*
+%4"ij.util.FloatArray#<init>()V*
+
+%3ij.util.FloatArray¨
+¥
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaø ø(+ 
+
+shapeArrayij.util.FloatArray"__id*
+
+%3ij.util.FloatArray*
+5*Ï
+7_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaö ö("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaö ö(
+""*•
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java„	 „(ÃÀ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java„	 „(
+%12float[]"ij.util.FloatArray#toArray()[F*"
+ 
+
+shapeArrayij.util.FloatArray2	toArray()"i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java„ „(
+"":
+shapejava.awt.Shape:
+"":
+""B"
+ij.gui.ShapeRoi

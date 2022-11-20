@@ -1,0 +1,188 @@
+
+,ij.process.AutoThresholder#RenyiEntropy([I)Ij
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaÜ Ü("61*◊
+35j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java‹5 ‹(9±
+Æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java‹5 ‹(T
+%6double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""ì
+ê
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java‹5 ‹(T
+%5double"__id*
+
+%6double*
+35
+38
+18
+8
+19
+42
+34*≥
+38j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaŸ Ÿ(≤
+Ø
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaŸ Ÿ(4
+%4double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+35
+38
+34*î
+18j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaˆS ˆ(Vî
+ë
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaˆS ˆ(V
+%8double"__id*
+
+%10double*
+18
+8
+19*«
+19j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaˆ4 ˆ(8±
+Æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaˆ4 ˆ(Q
+%9double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""ì
+ê
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaˆ4 ˆ(Q
+%8double"__id*
+
+%9double*
+18
+8
+19*Â
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java¨
+ ¨("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaØ Ø(
+""*¶
+4j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaü ü(Ø
+¨
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaü ü(&
+
+%13int"java.lang.Math#abs(I)I*"
+java.lang.Math*
+""*
+1*¶
+7j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaì ì(Ø
+¨
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaì ì(&
+
+%12int"java.lang.Math#abs(I)I*"
+java.lang.Math*
+""*
+1*©
+8j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaí í(Ø
+¨
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaí í(%
+
+%11int"java.lang.Math#abs(I)I*"
+java.lang.Math*
+""*
+4
+7*’
+61j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaé é(Ω∫
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java§ §(V
+
+%0void"9ij.process.AutoThresholder#normalizeHisto(D[DII[D[D[III)V*
+ij.process.AutoThresholder*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2normalizeHisto(D[DII[D[D[III)*#
+35
+38
+18
+8
+19
+51
+42
+56
+34*…
+51j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaª ª(±
+Æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaª- ª(Q
+%2double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""*#
+35
+38
+18
+8
+19
+51
+42
+56
+34*∑
+42j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java‘ ‘(≤
+Ø
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java‘ ‘(5
+%3double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+35
+38
+42
+34*£
+34j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java‹W ‹(Zì
+ê
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java‹W ‹(Z
+%5double"__id*
+
+%7double*
+35
+38
+18
+8
+19
+42
+34*…
+56j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java≥ ≥(±
+Æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java≥/ ≥(S
+%1double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""*#
+35
+38
+18
+8
+19
+51
+42
+56
+34:
+""B
+ij.process.AutoThresholder

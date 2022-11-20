@@ -1,0 +1,41 @@
+
+5ij.gui.Line#getFloatPoints()Lij/process/FloatPolygon;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaá á(#"1*÷
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaâ â(%˜•
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaâ â(#
+%0ij.process.FloatPolygon"ij.process.FloatPolygonª
+§
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaâ â(%
+%1"!ij.process.FloatPolygon#<init>()V*
+
+%0ij.process.FloatPolygon¥
+¢
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaâ â(&
+pij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygonÑÎ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaã ã($
+
+%2void"%ij.process.FloatPolygon#addPoint(FF)V*
+
+pij.process.FloatPolygon*
+""*
+""2addPoint(FF)ÑÎ
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaä ä($
+
+%3void"%ij.process.FloatPolygon#addPoint(FF)V*
+
+pij.process.FloatPolygon*
+""*
+""2addPoint(FF)"}
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaå å(
+
+pij.process.FloatPolygonB
+ij.gui.Line

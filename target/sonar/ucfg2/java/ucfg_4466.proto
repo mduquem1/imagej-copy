@@ -1,0 +1,184 @@
+
+:ij.plugin.RoiEnlarger#shrink255(Lij/gui/Roi;I)Lij/gui/Roi;e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.java¸ ¸("6*Ë
+2e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaè
+ è("|
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaè è(
+
+roi
+ij.gui.Roi*¯
+4e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaç ç(‘—
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaç ç(&
+%15java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi2
+ij.gui.Roi2getBounds()¨
+©
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaç ç('
+bounds2java.awt.Rectangle"__id*
+
+%15java.awt.Rectangle*
+2
+1*Ë
+5e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaå
+ å("|
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaå å(
+
+roi
+ij.gui.Roi*Í
+6e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.java˝ ˝(“œ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.java˝ ˝($
+%0java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()™
+ß
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.java˝ ˝(%
+boundsjava.awt.Rectangle"__id*
+
+%0java.awt.Rectangle§°
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaÄ Ä('
+%1ij.process.ByteProcessor"ij.process.ByteProcessor»
+≈
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaÄ Ä(6
+%2"$ij.process.ByteProcessor#<init>(II)V* 
+
+%1ij.process.ByteProcessor*
+""*
+""≥
+∞
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaÄ Ä(7
+ipij.process.ImageProcessor"__id* 
+
+%1ij.process.ByteProcessor≈¬
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaÅ Å(
+
+%3void"ij.gui.Roi#setLocation(II)V*
+
+roi
+ij.gui.Roi*2*22setLocation(II)’“
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaÇ Ç(
+
+%4void"&ij.process.ImageProcessor#setColor(I)V*!
+
+ipij.process.ImageProcessor*2ˇ2setColor(I)ÒÓ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaÉ É(
+
+%5void"-ij.process.ImageProcessor#fill(Lij/gui/Roi;)V*!
+
+ipij.process.ImageProcessor*
+
+roi
+ij.gui.Roi2fill(Lij/gui/Roi;)…∆
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaÑ Ñ(%
+
+%6void"ij.gui.Roi#setLocation(II)V*
+
+roi
+ij.gui.Roi*
+""*
+""2setLocation(II)úô
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaá á(	
+%7ij.plugin.filter.EDM"ij.plugin.filter.EDMÆ
+´
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaá á(
+%8"ij.plugin.filter.EDM#<init>()V*
+
+%7ij.plugin.filter.EDMïí
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaá á(
+
+%9void"8ij.plugin.filter.EDM#toEDM(Lij/process/ImageProcessor;)V*
+
+%7ij.plugin.filter.EDM*!
+
+ipij.process.ImageProcessor2"toEDM(Lij/process/ImageProcessor;)Ñ
+Å
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaâ â(8
+
+%10int"__id*
+""¯ı
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaâ â(9
+%11void",ij.process.ImageProcessor#setThreshold(DDI)V*!
+
+ipij.process.ImageProcessor*
+""*2ˇ*
+
+
+%10int2setThreshold(DDI)øº
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaä ä(&,
+%12%ij.plugin.filter.ThresholdToSelection"%ij.plugin.filter.ThresholdToSelection“
+œ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaä ä((
+%13"/ij.plugin.filter.ThresholdToSelection#<init>()V*.
+,
+%12%ij.plugin.filter.ThresholdToSelectionŒÀ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaä ä(5
+%14
+ij.gui.Roi"Vij.plugin.filter.ThresholdToSelection#convert(Lij/process/ImageProcessor;)Lij/gui/Roi;*.
+,
+%12%ij.plugin.filter.ThresholdToSelection*!
+
+ipij.process.ImageProcessor2$convert(Lij/process/ImageProcessor;)ô
+ñ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaä ä(6
+roi2
+ij.gui.Roi"__id*
+
+%14
+ij.gui.Roi*
+4
+5*§
+1e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaê ê(ÍÁ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaê ê(
+%16void"(ij.gui.Roi#copyAttributes(Lij/gui/Roi;)V*
+
+roi2
+ij.gui.Roi*
+
+roi
+ij.gui.Roi2copyAttributes(Lij/gui/Roi;)À»
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaë ë(>
+%17void"ij.gui.Roi#setLocation(II)V*
+
+roi2
+ij.gui.Roi*
+""*
+""2setLocation(II)"}
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiEnlarger.javaí í(
+
+roi2
+ij.gui.Roi:
+roi
+ij.gui.Roi:
+""B"
+ij.plugin.RoiEnlarger

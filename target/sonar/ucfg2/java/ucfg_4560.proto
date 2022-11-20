@@ -1,0 +1,70 @@
+
+fij.plugin.filter.FFTCustomFilter#resizeFilter(Lij/process/ImageProcessor;I)Lij/process/ImageProcessor;p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java¨ ¨("4*ç
+2p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java∞
+ ∞("ï
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java∞ ∞(!
+
+ipij.process.ImageProcessor*±
+4p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java≠ ≠(÷”
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java≠ ≠(	
+%0int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()ÿ’
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaÆ Æ(	
+%1int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()*
+2
+1*˝
+
+1p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java± ±(∑
+¥
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java± ±('
+%2java.lang.String"__concat*
+Scaling filter to *
+""∏
+µ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java± ±(-
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+xπ
+∂
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java± ±(4
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+""£†
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java± ±(5
+
+%5void"@ij.plugin.filter.FFTCustomFilter#showStatus(Ljava/lang/String;)V*$"
+ ij.plugin.filter.FFTCustomFilter*
+
+%4java.lang.String2showStatus(Ljava/lang/String;)ñì
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java≤	 ≤(
+%6ij.process.ImageProcessor"?ij.process.ImageProcessor#resize(II)Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor*
+""*
+""2
+resize(II)"ï
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java≤ ≤(!
+
+%6ij.process.ImageProcessor:
+ipij.process.ImageProcessor:
+""B$"
+ ij.plugin.filter.FFTCustomFilter

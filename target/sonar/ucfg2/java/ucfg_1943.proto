@@ -1,0 +1,51 @@
+
+*ij.IJ#versionLessThan(Ljava/lang/String;)ZU
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÄ	 Ä	(&"3*¼
+2U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÇ	 Ç	(Æ
+Ã
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÇ		 Ç	(8
+%2java.lang.String"__concat*)'
+%This plugin or macro requires ImageJ *
+
+versionjava.lang.Stringà
+Ý
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÇ		 Ç	(
+%3java.lang.String"__concat*
+
+%2java.lang.String*HF
+D or later. Use\nHelp>Update ImageJ to upgrade to the latest version.®
+«
+V
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÇ	 Ç	(€
+
+%4void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%3java.lang.String*
+1*Ô
+3U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÅ	 Å	(
+}
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÅ	 Å	(#
+%0java.lang.String"__id*
+""îë
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÅ	 Å	(6	
+%1int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%0java.lang.String*
+
+versionjava.lang.String2compareTo(Ljava/lang/String;)*
+2
+1*»
+1U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÈ		 È	("_
+U
+I/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/IJ.javaÈ	 È	(
+"":
+versionjava.lang.StringB	"
+ij.IJ

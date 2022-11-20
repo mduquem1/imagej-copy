@@ -1,0 +1,106 @@
+
+Eij.plugin.filter.Transformer#setup(Ljava/lang/String;Lij/ImagePlus;)Ij
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java ("6*Ç
+2j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java
+ (ˆ
+…
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (&	
+%3int"__id*
+""ˆ
+…
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java' (.	
+%4int"__id*
+""É
+Æ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java
+ (/	
+%5int"#ij.IJ#setupDialog(Lij/ImagePlus;I)I*	"
+ij.IJ*
+
+impij.ImagePlus*
+"""t
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (0
+""*è
+3j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java ( îë
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (0
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+flipv2equals(Ljava/lang/Object;)*
+2
+1*è
+4j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (	îë
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+argjava.lang.String*	
+fliph2equals(Ljava/lang/Object;)*
+2
+3*‰
+5j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (ÕÒ
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (
+%0ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()º
+·
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (+
+ij.plugin.filter.Transformer"	
+overlay"__id*
+
+%0ij.gui.Overlay*
+4*ë
+6j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (¹
+¶
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java ('
+ij.plugin.filter.Transformer"
+arg"__id*
+
+argjava.lang.Stringµ
+²
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java ('
+ij.plugin.filter.Transformer"
+imp"__id*
+
+impij.ImagePlus*
+4
+5*†
+1j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java
+ (ˆ
+…
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java
+ (	
+%6int"__id*
+""ˆ
+…
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (	
+%7int"__id*
+""ˆ
+…
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (%	
+%8int"__id*
+"""t
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Transformer.java (&
+"":
+argjava.lang.String:
+impij.ImagePlusB 
+ij.plugin.filter.Transformer

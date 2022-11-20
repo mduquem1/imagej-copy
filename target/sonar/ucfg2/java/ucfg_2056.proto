@@ -1,0 +1,117 @@
+
+6ij.plugin.CommandFinder#showMacro(Ljava/lang/String;)Zg
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.java‚ ‚("9*â
+
+2g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÏ Ï(¢ü
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÏ Ï(
+%3ij.plugin.frame.Editor"ij.plugin.frame.Editor¥
+±
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÏ Ï(
+%4" ij.plugin.frame.Editor#<init>()V*
+
+%3ij.plugin.frame.Editor∞
+≠
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÏ Ï(
+edij.plugin.frame.Editor"__id*
+
+%3ij.plugin.frame.Editor—Œ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÌ Ì(
+
+%5void"java.awt.Window#setSize(II)V*
+
+edij.plugin.frame.Editor*2º*2ÿ2setSize(II)ƒ¡
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÓ Ó(
+
+%6void"Dij.plugin.frame.Editor#create(Ljava/lang/String;Ljava/lang/String;)V*
+
+edij.plugin.frame.Editor*
+
+namejava.lang.String*
+
+codejava.lang.String2,create(Ljava/lang/String;Ljava/lang/String;)"q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÔ Ô(
+""*Ø
+3g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÍ Í(è
+å
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÍ Í(5
+%2java.lang.String"Oij.plugin.BatchProcessor#openMacroFromJar(Ljava/lang/String;)Ljava/lang/String;*"
+ij.plugin.BatchProcessor*
+
+namejava.lang.String¶
+£
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÍ Í(6
+codejava.lang.String"__id*
+
+%2java.lang.String*
+2
+1*ﬂ
+4g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÈ
+ È("q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÈ È(
+""*ì
+6g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÁ
+ Á(ú
+ô
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÁ Á(
+namejava.lang.String"__id*
+
+Search.txt*
+3
+4*È
+7g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÊ Ê(ÔÏ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÊ Ê("
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+cmdjava.lang.String*
+	Search...2equals(Ljava/lang/Object;)*	
+3
+4
+6*ò
+8g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÂ
+ Â(°
+û
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÂ Â(
+namejava.lang.String"__id*
+ShowAllLuts.txt*
+3
+4*Ä
+9g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.java„ „(î
+ë
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.java„ „(
+namejava.lang.String"__id*
+""ÚÔ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.java‰ ‰( 
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+cmdjava.lang.String*
+Display LUTs2equals(Ljava/lang/Object;)*
+7
+8*ﬂ
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÒ	 Ò("q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaÒ Ò(
+"":
+cmdjava.lang.StringB
+ij.plugin.CommandFinder

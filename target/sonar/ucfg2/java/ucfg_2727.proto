@@ -1,0 +1,671 @@
+
+7ij.plugin.FFTMath#doMath(Lij/ImagePlus;Lij/ImagePlus;)V_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaQ Q("32*–
+24_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javae	 e(˝
+˙
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javae	 e(Z
+%14void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+FFT Math*=;
+9Images must be a power of 2 size (256x256, 512x512, etc.)"i
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaf	 f(
+""*Æ
+25_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javad d(ºπ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javad d(
+%13boolean"ij.process.FHT#powerOf2Size()Z*
+
+h1ij.process.FHT2powerOf2Size()*
+24
+23*ı
+26_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javab b(ãà
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javab b(
+%11ij.process.FHT"ij.process.FHT›
+⁄
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javab b(
+%12"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%11ij.process.FHT*"
+ 
+ip2ij.process.ImageProcessorô
+ñ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javab b(
+h2ij.process.FHT"__id*
+
+%11ij.process.FHT*
+25*ã
+27_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java` `("Ê„
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java` `(1 
+%10ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+imp2ij.ImagePlus2getProcessor()∞
+≠
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java`	 `(2 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%10ij.process.ImageProcessor*
+25
+26*Ú
+28_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java^ ^(äá
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java^ ^(
+%8ij.process.FHT"ij.process.FHT‹
+Ÿ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java^ ^(
+%9"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%8ij.process.FHT*#
+!
+fht2ij.process.ImageProcessorò
+ï
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java^ ^(
+h2ij.process.FHT"__id*
+
+%8ij.process.FHT*
+25*ö
+29_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java\ \(˛˚
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java\ \(1
+%7java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+imp2ij.ImagePlus*
+FHT2getProperty(Ljava/lang/String;)ß
+§
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java\ \(1!
+fht2ij.process.ImageProcessor"__id*
+
+%7java.lang.Object*
+27
+28*…	
+30_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaX X(ª
+∏
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaX X('
+
+%3void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Converting to floatÂ‚
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaY Y(1
+%4ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+imp1ij.ImagePlus2getProcessor()Ø
+¨
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaY	 Y(2 
+ip1ij.process.ImageProcessor"__id*!
+
+%4ij.process.ImageProcessoräá
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaZ Z(
+%5ij.process.FHT"ij.process.FHT€
+ÿ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaZ Z(
+%6"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%5ij.process.FHT*"
+ 
+ip1ij.process.ImageProcessorò
+ï
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaZ
+ Z(
+h1ij.process.FHT"__id*
+
+%5ij.process.FHT*
+29*Ú
+31_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaV V(äá
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaV V(
+%1ij.process.FHT"ij.process.FHT‹
+Ÿ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaV V(
+%2"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%1ij.process.FHT*#
+!
+fht1ij.process.ImageProcessorò
+ï
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaV V(
+h1ij.process.FHT"__id*
+
+%1ij.process.FHT*
+29*‡
+32_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaR R(à
+Ö
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaR R(
+h1ij.process.FHT"__id*
+""à
+Ö
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaR R(
+h2ij.process.FHT"__id*
+""ï
+í
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaS S(!
+fht1ij.process.ImageProcessor"__id*
+""ï
+í
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaS S(!
+fht2ij.process.ImageProcessor"__id*
+""˛˚
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaT T(1
+%0java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+imp1ij.ImagePlus*
+FHT2getProperty(Ljava/lang/String;)ß
+§
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaT T(1!
+fht1ij.process.ImageProcessor"__id*
+
+%0java.lang.Object*
+30
+31*÷
+10a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaâ â(º
+π
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaâ â(%
+%34void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Inverse transform«ƒ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaä ä(
+%35void""ij.process.FHT#inverseTransform()V*
+
+resultij.process.FHT2inverseTransform()π
+∂
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaã ã("
+%36void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Swap quadrants¡æ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaå å(
+%37void"ij.process.FHT#swapQuadrants()V*
+
+resultij.process.FHT2swapQuadrants()∏
+µ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaç ç(!
+%38void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Display imageŒÀ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaé é(
+%39void"+ij.process.FloatProcessor#resetMinAndMax()V*
+
+resultij.process.FHT2resetMinAndMax()ß
+§
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaè è(
+%40java.lang.String"__id* *
+ij.plugin.FFTMath"
+titleâÜ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaè è(
+%41ij.ImagePlus"ij.ImagePlusÄ
+˝
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaè
+ è(&
+%42"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%41ij.ImagePlus*
+
+%40java.lang.String*
+
+resultij.process.FHTô
+ñ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaè è(&
+imp3ij.ImagePlus"__id*
+
+%41ij.ImagePlus*
+8*˝
+11a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaá á(ä
+á
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaá á(
+imp3ij.ImagePlus"__id*
+""*
+9
+10*Ö
+12_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javax x(å
+â
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javax x(
+resultij.process.FHT"__id*
+""}
+{
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaz z(
+
+%31int"__id*
+""}
+{
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java~ ~(
+
+%32int"__id*
+""
+}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaÇ Ç(
+
+%33int"__id*
+""*
+13
+14
+15
+11*’
+13a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaÇ Ö(
+¿
+Ω
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaÉ É(*
+%29void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Fourier domain divideÄ˝
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaÑ Ñ(
+%30ij.process.FHT"7ij.process.FHT#divide(Lij/process/FHT;)Lij/process/FHT;*
+
+h1ij.process.FHT*
+
+h2ij.process.FHT2divide(Lij/process/FHT;)ü
+ú
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaÑ Ñ(
+resultij.process.FHT"__id*
+
+%30ij.process.FHT*
+11*ÿ
+14`
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java~ Å(
+¿
+Ω
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java (,
+%27void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Fourier domain multiplyÑÅ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaÄ Ä(
+%28ij.process.FHT"9ij.process.FHT#multiply(Lij/process/FHT;)Lij/process/FHT;*
+
+h1ij.process.FHT*
+
+h2ij.process.FHT2multiply(Lij/process/FHT;)ü
+ú
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaÄ Ä(
+resultij.process.FHT"__id*
+
+%28ij.process.FHT*
+11*Ë
+15_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaz }(
+√
+¿
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java{ {(/
+%25void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Complex conjugate multiplyîë
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java| |(%
+%26ij.process.FHT"Bij.process.FHT#conjugateMultiply(Lij/process/FHT;)Lij/process/FHT;*
+
+h1ij.process.FHT*
+
+h2ij.process.FHT2#conjugateMultiply(Lij/process/FHT;)ù
+ö
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java| |(%
+resultij.process.FHT"__id*
+
+%26ij.process.FHT*
+11*›
+16_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javat t(π
+∂
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javat t(&
+%23void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Transform image2≥∞
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javau u(
+%24void"ij.process.FHT#transform()V*
+
+h2ij.process.FHT2transform()*
+12*Â
+17_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javar r(ÌÍ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javar r( 
+%20ij.process.ImageProcessor"@ij.process.FloatProcessor#duplicate()Lij/process/ImageProcessor;*
+
+h1ij.process.FHT2duplicate()ãà
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javar r(
+%21ij.process.FHT"ij.process.FHT›
+⁄
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javar	 r( 
+%22"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%21ij.process.FHT*"
+ 
+%20ij.process.ImageProcessorô
+ñ
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javar r( 
+h2ij.process.FHT"__id*
+
+%21ij.process.FHT*
+12*
+0 "x
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java° °(
+implicit return*Õ
+
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaú ú(èå
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaú ú(
+%57void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+imp3ij.ImagePlus* 
+
+cal3ij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)Ê„
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaù	 ù(
+%58ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+imp3ij.ImagePlus2getCalibration()≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaù ù(
+cal3ij.measure.Calibration"__id*
+
+%58ij.measure.CalibrationÁ‰
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaû û("
+%59void"3ij.measure.Calibration#disableDensityCalibration()V* 
+
+cal3ij.measure.Calibration2disableDensityCalibration()©¶
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaü ü(
+%60void"ij.ImagePlus#show()V*
+
+imp3ij.ImagePlus2show()û
+õ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.java† †(
+%61void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""*
+0*Ç
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaõ
+ õ(î
+ë
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaõ õ(
+cal3ij.measure.Calibration"__id*
+""*
+1*Á
+3a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaö) ö(-≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaö) ö(-
+%53ij.measure.Calibration"__id* 
+
+cal1ij.measure.Calibration≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaö5 ö(9
+%53ij.measure.Calibration"__id* 
+
+cal2ij.measure.Calibrationñì
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaö) ö(:
+%56boolean"8ij.measure.Calibration#equals(Lij/measure/Calibration;)Z* 
+
+cal1ij.measure.Calibration* 
+
+cal2ij.measure.Calibration2 equals(Lij/measure/Calibration;)*
+2
+1*Â
+4a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaö ö(≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaö ö(
+%53ij.measure.Calibration"__id* 
+
+cal2ij.measure.Calibrationƒ¡
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaö ö($
+%55boolean" ij.measure.Calibration#scaled()Z* 
+
+cal2ij.measure.Calibration2scaled()*
+3
+1*ï
+5a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaô ô(1≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaô ô(1
+cal3ij.measure.Calibration"__id*
+
+%53ij.measure.Calibration≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaö ö(
+
+%53ij.measure.Calibration"__id* 
+
+cal1ij.measure.Calibrationƒ¡
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaö ö(
+%54boolean" ij.measure.Calibration#scaled()Z* 
+
+cal1ij.measure.Calibration2scaled()*
+4
+1*õ
+6a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaô, ô(0≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaô, ô(0
+%53ij.measure.Calibration"__id* 
+
+cal2ij.measure.Calibration*
+5*õ
+7a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaô% ô()≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaô% ô()
+%53ij.measure.Calibration"__id* 
+
+cal1ij.measure.Calibration*
+5*Á
+8a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaó ó(Ê„
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaó ó(*
+%50ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+imp1ij.ImagePlus2getCalibration()≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaó ó(+
+cal1ij.measure.Calibration"__id*
+
+%50ij.measure.CalibrationÊ„
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaò ò(*
+%51ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+imp2ij.ImagePlus2getCalibration()≠
+™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaò ò(+
+cal2ij.measure.Calibration"__id*
+
+%51ij.measure.Calibrationƒ¡
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaô ô("
+%52boolean" ij.measure.Calibration#scaled()Z* 
+
+cal1ij.measure.Calibration2scaled()*
+6
+7*ﬂ
+9a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaë ë(π
+∂
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaë ë("
+%43void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Power spectrumˆÛ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaí í(0 
+%44ij.process.ImageProcessor"<ij.process.FHT#getPowerSpectrum()Lij/process/ImageProcessor;*
+
+resultij.process.FHT2getPowerSpectrum()±
+Æ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaí í(1
+psij.process.ImageProcessor"__id*"
+ 
+%44ij.process.ImageProcessorß
+§
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaì ì(
+%45java.lang.String"__id* *
+ij.plugin.FFTMath"
+titleÑÅ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaì ì(2 
+%46ij.process.ImageProcessor"Eij.process.ImageProcessor#convertToFloat()Lij/process/ImageProcessor;*!
+
+psij.process.ImageProcessor2convertToFloat()âÜ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaì ì(
+%47ij.ImagePlus"ij.ImagePlusà
+Ö
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaì
+ ì(3
+%48"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%47ij.ImagePlus*
+
+%45java.lang.String*"
+ 
+%46ij.process.ImageProcessorô
+ñ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaì ì(3
+imp3ij.ImagePlus"__id*
+
+%47ij.ImagePlus§°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaï ï("
+%49void"?ij.ImagePlus#setProperty(Ljava/lang/String;Ljava/lang/Object;)V*
+
+imp3ij.ImagePlus*
+FHT*
+
+resultij.process.FHT21setProperty(Ljava/lang/String;Ljava/lang/Object;)*
+8*Â
+20_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javam m(π
+∂
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javam m($
+%18void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Transform image1≥∞
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javan n(
+%19void"ij.process.FHT#transform()V*
+
+h1ij.process.FHT2transform()*
+16
+17
+12*≥
+22_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javai	 i(‡
+›
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javai	 i(=
+%17void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+FFT Math* 
+Images must be the same size"i
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javaj	 j(
+""*›
+23_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javah h(Æ´
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javah h(
+
+%15int"ij.ImagePlus#getWidth()I*
+
+imp1ij.ImagePlus2
+getWidth()Æ´
+_
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FFTMath.javah h(,
+
+%16int"ij.ImagePlus#getWidth()I*
+
+imp2ij.ImagePlus2
+getWidth()*
+16
+17
+20
+22
+12:
+imp1ij.ImagePlus:
+imp2ij.ImagePlusB
+ij.plugin.FFTMath

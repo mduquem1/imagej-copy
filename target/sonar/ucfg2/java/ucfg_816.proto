@@ -1,0 +1,53 @@
+
+Jij.gui.GenericDialog#newTextField(Ljava/lang/String;I)Ljava/awt/TextField;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÂ Â("3*ß
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÄ Ä("½º
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÄ Ä(+
+%1%ij.gui.GenericDialog$TrimmedTextField"%ij.gui.GenericDialog$TrimmedTextField›
+˜
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÄ
+ Ä(+
+%2"Xij.gui.GenericDialog$TrimmedTextField#<init>(Lij/gui/GenericDialog;Ljava/lang/String;I)V*-
++
+%1%ij.gui.GenericDialog$TrimmedTextField*
+
+txtjava.lang.String*
+"""•
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÄ Ä(,-
++
+%1%ij.gui.GenericDialog$TrimmedTextField*‰
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÃ Ã(•
+’
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÃ Ã(
+%0boolean"ij.IJ#isLinux()Z*	"
+ij.IJ*
+2
+1*ê
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÆ Æ(—”
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÆ Æ(
+%3java.awt.TextField"java.awt.TextFieldß
+Ü
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÆ
+ Æ($
+%4"/java.awt.TextField#<init>(Ljava/lang/String;I)V*
+
+%3java.awt.TextField*
+
+txtjava.lang.String*
+"""‚
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÆ Æ(%
+
+%3java.awt.TextField:
+txtjava.lang.String:
+""B
+ij.gui.GenericDialog

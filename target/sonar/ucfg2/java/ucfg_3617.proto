@@ -1,0 +1,40 @@
+
+ij.ImagePlus#getStackSize()I\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÈ	 È	("6*§
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÌ	 Ì	(™
+–
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÌ	 Ì	(
+%1ij.ImageStack"__id**
+ij.ImagePlus"
+stack¢Ÿ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÌ	 Ì	(	
+%2int"ij.ImageStack#size()I*
+
+%1ij.ImageStack2size()*
+1*É
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÊ	
+ Ê	("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÊ	 Ê	(
+""*…
+6\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÉ	 É	(™
+–
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÉ	 É	(
+%0ij.ImageStack"__id**
+ij.ImagePlus"
+stack*
+3
+4*É
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÎ	
+ Î	("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaÎ	 Î	(
+""B
+ij.ImagePlus

@@ -1,0 +1,57 @@
+
+2ij.gui.PointRoi#getCountsTitle()Ljava/lang/String;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java‹ ‹("4*ˆ
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaŒ- Œ(/œ
+™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaŒ- Œ(/
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*ó
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaŒ Œ(!œ
+™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaŒ Œ(!
+%4ij.ImagePlus"__id**
+ij.gui.PointRoi"
+impÉÆ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaŒ Œ(,
+%2java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%4ij.ImagePlus2
+getTitle()œ
+™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaŒ Œ(,
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*‹
+4_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaŒ	 Œ(œ
+™
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaŒ Œ(
+%0ij.ImagePlus"__id**
+ij.gui.PointRoi"
+imp*
+2
+3*‘
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaŒ	 Œ(0­
+ª
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaŒ	 Œ(0
+%5java.lang.String"__concat*	
+Counts_*
+
+%1java.lang.String"{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaŒ Œ(1
+
+%5java.lang.StringB
+ij.gui.PointRoi

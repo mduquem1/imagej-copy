@@ -1,0 +1,353 @@
+
+*ij.process.ByteProcessor#setMinAndMax(DD)Vh
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java≥ ≥("19"20*‚
+14h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¬ ¬(
+"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¬ ¬(
+
+""*ê	
+3h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java‘ ‘(	´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java‘ ‘(	
+%26byte[]"__id*'*%
+ij.process.ByteProcessor"
+rLUT2´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java‘ ‘(
+%27byte[]"__id*'*%
+ij.process.ByteProcessor"
+rLUT1´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java’ ’(	
+%28byte[]"__id*'*%
+ij.process.ByteProcessor"
+gLUT2´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java’ ’(
+%29byte[]"__id*'*%
+ij.process.ByteProcessor"
+gLUT1´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java÷ ÷(	
+%30byte[]"__id*'*%
+ij.process.ByteProcessor"
+bLUT2´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java÷ ÷(
+%31byte[]"__id*'*%
+ij.process.ByteProcessor"
+bLUT1*
+3
+8
+10
+1*Ø
+15h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¡ ¡(´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¡ ¡(
+%13byte[]"__id*'*%
+ij.process.ByteProcessor"
+rLUT2*
+14
+3
+8
+10
+1*£
+16h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaª ª(∫
+∑
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaª ª(
+%5java.awt.image.ColorModel"__id*$*"
+ij.process.ByteProcessor"
+cmæ
+ª
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaª ª(&
+ij.process.ByteProcessor"
+baseCM"__id*!
+
+%5java.awt.image.ColorModel∫
+∑
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaº( º(*
+%6java.awt.image.ColorModel"__id*$*"
+ij.process.ByteProcessor"
+cmª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaº º(+#
+mjava.awt.image.IndexColorModel"__id*!
+
+%6java.awt.image.ColorModel¢
+ü
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaΩ Ω(%
+ij.process.ByteProcessor"
+rLUT1"__id*
+""¢
+ü
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaΩ Ω(/%
+ij.process.ByteProcessor"
+gLUT1"__id*
+""¢
+ü
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaΩ1 Ω(F%
+ij.process.ByteProcessor"
+bLUT1"__id*
+""™
+ß
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaæ æ(
+%7byte[]"__id*'*%
+ij.process.ByteProcessor"
+rLUT1ÍÁ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaæ æ(
+
+%8void"+java.awt.image.IndexColorModel#getReds([B)V*%
+#
+mjava.awt.image.IndexColorModel*
+
+%7byte[]2getReds([B)™
+ß
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaæ! æ(&
+%9byte[]"__id*'*%
+ij.process.ByteProcessor"
+gLUT1ÔÏ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaæ æ('
+%10void"-java.awt.image.IndexColorModel#getGreens([B)V*%
+#
+mjava.awt.image.IndexColorModel*
+
+%9byte[]2getGreens([B)´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaæ4 æ(9
+%11byte[]"__id*'*%
+ij.process.ByteProcessor"
+bLUT1ÓÎ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaæ) æ(:
+%12void",java.awt.image.IndexColorModel#getBlues([B)V*%
+#
+mjava.awt.image.IndexColorModel*
+
+%11byte[]2getBlues([B)¢
+ü
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaø ø(%
+ij.process.ByteProcessor"
+rLUT2"__id*
+""¢
+ü
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaø ø(/%
+ij.process.ByteProcessor"
+gLUT2"__id*
+""¢
+ü
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaø1 ø(F%
+ij.process.ByteProcessor"
+bLUT2"__id*
+""*
+15*€
+17h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java∫ ∫(‰·
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java∫ ∫(
+
+%4void"2ij.process.ImageProcessor#makeDefaultColorModel()V*
+ij.process.ByteProcessor2makeDefaultColorModel()*
+16*µ
+18h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaπ π(	∫
+∑
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaπ π(	
+%3java.awt.image.ColorModel"__id*$*"
+ij.process.ByteProcessor"
+cm*
+16
+17*â
+19h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java∂ ∂(Ø
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java∂ ∂(!
+
+%0long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""Ø
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java∑ ∑(!
+
+%1long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""™
+ß
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java∏ ∏(
+%2byte[]"__id*'*%
+ij.process.ByteProcessor"
+rLUT1*
+15
+18*ê	
+8h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java   (	´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java   (	
+%20byte[]"__id*'*%
+ij.process.ByteProcessor"
+rLUT2´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java   (
+%21byte[]"__id*'*%
+ij.process.ByteProcessor"
+rLUT1´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaÀ À(	
+%22byte[]"__id*'*%
+ij.process.ByteProcessor"
+gLUT2´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaÀ À(
+%23byte[]"__id*'*%
+ij.process.ByteProcessor"
+gLUT1´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaÃ Ã(	
+%24byte[]"__id*'*%
+ij.process.ByteProcessor"
+bLUT2´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaÃ Ã(
+%25byte[]"__id*'*%
+ij.process.ByteProcessor"
+bLUT1*
+3
+8
+10
+1*‚
+20h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaµ µ(
+"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaµ µ(
+
+""*ë	
+10h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java∆ ∆(	´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java∆ ∆(	
+%14byte[]"__id*'*%
+ij.process.ByteProcessor"
+rLUT2´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java∆ ∆(
+%15byte[]"__id*'*%
+ij.process.ByteProcessor"
+rLUT1´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java« «(	
+%16byte[]"__id*'*%
+ij.process.ByteProcessor"
+gLUT2´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java« «(
+%17byte[]"__id*'*%
+ij.process.ByteProcessor"
+gLUT1´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java» »(	
+%18byte[]"__id*'*%
+ij.process.ByteProcessor"
+bLUT2´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java» »(
+%19byte[]"__id*'*%
+ij.process.ByteProcessor"
+bLUT1*
+3
+8
+10
+1*Ü
+0 "
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java€ €(
+implicit return*à
+
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaŸ Ÿ(´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaŸ# Ÿ((
+%32byte[]"__id*'*%
+ij.process.ByteProcessor"
+rLUT2´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaŸ* Ÿ(/
+%33byte[]"__id*'*%
+ij.process.ByteProcessor"
+gLUT2´
+®
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaŸ1 Ÿ(6
+%34byte[]"__id*'*%
+ij.process.ByteProcessor"
+bLUT2¥±
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaŸ Ÿ(%
+%35java.awt.image.IndexColorModel"java.awt.image.IndexColorModelè
+å
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaŸ Ÿ(7
+%36"0java.awt.image.IndexColorModel#<init>(II[B[B[B)V*'
+%
+%35java.awt.image.IndexColorModel*2*2Ä*
+
+%32byte[]*
+
+%33byte[]*
+
+%34byte[]¿
+Ω
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaŸ Ÿ(7"
+ij.process.ByteProcessor"
+cm"__id*'
+%
+%35java.awt.image.IndexColorModel*
+0:
+"":
+""B
+ij.process.ByteProcessor

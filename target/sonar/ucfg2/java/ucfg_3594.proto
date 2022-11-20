@@ -1,0 +1,33 @@
+
+ij.ImagePlus#isVisible()Z\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java› ›("3*Â
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaœ œ(œ
+™
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaœ œ(
+%1ij.gui.ImageWindow"__id**
+ij.ImagePlus"
+winº·
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaœ œ(%
+%2boolean"java.awt.Component#isVisible()Z*
+
+%1ij.gui.ImageWindow2isVisible()*
+1*ˆ
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaœ	 œ(œ
+™
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaœ	 œ(
+%0ij.gui.ImageWindow"__id**
+ij.ImagePlus"
+win*
+2
+1*É
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaœ œ(&"f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaœ œ(&
+""B
+ij.ImagePlus

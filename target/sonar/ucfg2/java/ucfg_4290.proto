@@ -1,0 +1,44 @@
+
+dij.plugin.FileInfoVirtualStack#getNumber(Ljava/util/Properties;Ljava/lang/String;)Ljava/lang/Double;n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¥ ¥("6*€
+3n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java© ©("Š
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java© ©(
+
+%1java.lang.Double*õ
+4n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java© ©(ú
+÷
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java© ©(
+%1java.lang.Double">java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;*"
+java.lang.Double*
+
+sjava.lang.String*
+3*Û
+6n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¦ ¦(°­
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¦ ¦(#
+%0java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;)ª
+§
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¦ ¦($
+sjava.lang.String"__id*
+
+%0java.lang.String*
+4
+1*í
+1n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¬	 ¬("x
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¬ ¬(
+"":
+propsjava.util.Properties:
+keyjava.lang.StringB" 
+ij.plugin.FileInfoVirtualStack

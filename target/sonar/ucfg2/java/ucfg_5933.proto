@@ -1,0 +1,44 @@
+
+Wij.plugin.Macro_Runner#runMacro(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Macro_Runner.javaü ü("18*Ò
+16f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Macro_Runner.java¢ ¢(!"Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Macro_Runner.java¢ ¢(!
+
+%2java.lang.String*œ
+17f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Macro_Runner.java¢
+ ¢(⁄◊
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Macro_Runner.java¢
+ ¢( 
+%2java.lang.String"Pij.macro.Interpreter#run(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;* 
+
+interpij.macro.Interpreter*
+
+macrojava.lang.String*
+
+argjava.lang.String2)run(Ljava/lang/String;Ljava/lang/String;)*
+16*ˆ
+18f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Macro_Runner.java† †((ùö
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Macro_Runner.java† †(&
+%0ij.macro.Interpreter"ij.macro.InterpreterØ
+¨
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Macro_Runner.java† †((
+%1"ij.macro.Interpreter#<init>()V*
+
+%0ij.macro.InterpreterØ
+¨
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Macro_Runner.java† †()
+interpij.macro.Interpreter"__id*
+
+%0ij.macro.Interpreter*
+17:
+macrojava.lang.String:
+argjava.lang.StringB
+ij.plugin.Macro_Runner

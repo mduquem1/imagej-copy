@@ -1,0 +1,90 @@
+
+Dij.process.TypeConverter#convertToShort()Lij/process/ImageProcessor;h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaé é(%"1*·
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaô ö("r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaö ö(
+""*—
+3h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javañ ò( ÜÉ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaó	 ó(
+%7ij.process.ByteProcessor"Eij.process.TypeConverter#convertRGBToByte()Lij/process/ByteProcessor;*
+ij.process.TypeConverter2convertRGBToByte()π
+∂
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaó ó("
+ij.process.TypeConverter"
+ip"__id* 
+
+%7ij.process.ByteProcessoråâ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaò ò(
+%8ij.process.ShortProcessor"Hij.process.TypeConverter#convertByteToShort()Lij/process/ShortProcessor;*
+ij.process.TypeConverter2convertByteToShort()"ç
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaò ò( !
+
+%8ij.process.ShortProcessor*é
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaî ï(!éã
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaï ï( 
+%6ij.process.ShortProcessor"Iij.process.TypeConverter#convertFloatToShort()Lij/process/ShortProcessor;*
+ij.process.TypeConverter2convertFloatToShort()"ç
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaï ï(!!
+
+%6ij.process.ShortProcessor*∫
+5h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaí ì(∫
+∑
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaì ì(
+%5ij.process.ImageProcessor"__id*$*"
+ij.process.TypeConverter"
+ip"ç
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaì ì(!
+
+%5ij.process.ImageProcessor*å
+6h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaê ë( åâ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaë ë(
+%4ij.process.ShortProcessor"Hij.process.TypeConverter#convertByteToShort()Lij/process/ShortProcessor;*
+ij.process.TypeConverter2convertByteToShort()"ç
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaë ë( !
+
+%4ij.process.ShortProcessor*¢
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaè
+ è(Ü
+É
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaê ê(	
+%0int"__id*
+""Ü
+É
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaí í(	
+%1int"__id*
+""Ü
+É
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javaî î(	
+%2int"__id*
+""Ü
+É
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/TypeConverter.javañ ñ(	
+%3int"__id*
+""*
+2
+3
+4
+5
+6B
+ij.process.TypeConverter

@@ -1,0 +1,57 @@
+
+%ij.plugin.LutLoader#spectrum([B[B[B)Ic
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaå å("5*…
+3c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaè è(Û
+Ø
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaè è((
+%0java.awt.Color"/java.awt.Color#getHSBColor(FFF)Ljava/awt/Color;*"
+java.awt.Color*
+""*
+""*
+""›
+˜
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaè è((
+cjava.awt.Color"__id*
+
+%0java.awt.Color®«
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaé é(	
+%1int"java.awt.Color#getRed()I*
+
+cjava.awt.Color2getRed()²¯
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaê ê(!	
+%2int"java.awt.Color#getGreen()I*
+
+cjava.awt.Color2
+getGreen()°­
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaë ë(	
+%3int"java.awt.Color#getBlue()I*
+
+cjava.awt.Color2	getBlue()*
+3
+1*þ
+5c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaæ æ(
+‹
+ˆ
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaæ æ(
+
+cjava.awt.Color"__id*
+""*
+3
+1*×
+1c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaí	 í("m
+c
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/LutLoader.javaí í(
+"":
+redsbyte[]:
+greensbyte[]:
+bluesbyte[]B
+ij.plugin.LutLoader

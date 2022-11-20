@@ -1,0 +1,43 @@
+
+(ij.measure.CurveFitter#getFitGoodness()Df
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaö ö("6*Ì
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaü ü(ÙÖ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaü ü(,
+%3double",ij.measure.CurveFitter#getSumResidualsSqr()D*
+ij.measure.CurveFitter2getSumResidualsSqr()*
+1*À
+4f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaø ø(ÊÇ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaú% ú(3	
+%2int"&ij.measure.CurveFitter#getNumParams()I*
+ij.measure.CurveFitter2getNumParams()*
+2
+1*´
+5f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java÷ ÷(,Á
+¾
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java÷ ÷(.
+
+%1void",ij.measure.CurveFitter#calculateSumYandY2()V*
+ij.measure.CurveFitter*
+4*ª
+6f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java÷ ÷(´
+±
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.java÷ ÷(
+%0boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+4
+5*Ý
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaþ	 þ("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/CurveFitter.javaþ þ(
+""B
+ij.measure.CurveFitter

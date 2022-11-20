@@ -1,0 +1,19 @@
+
+Vij.plugin.Duplicator#cropOverlay(Lij/gui/Overlay;Ljava/awt/Rectangle;)Lij/gui/Overlay;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java≠ ≠(""1*ˇ
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÆ	 Æ(ìê
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÆ	 Æ(
+%0ij.gui.Overlay"9ij.gui.Overlay#crop(Ljava/awt/Rectangle;)Lij/gui/Overlay;*
+
+overlayij.gui.Overlay*
+
+boundsjava.awt.Rectangle2crop(Ljava/awt/Rectangle;)"~
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÆ Æ(
+
+%0ij.gui.Overlay:
+overlayij.gui.Overlay:
+boundsjava.awt.RectangleB"
+ij.plugin.Duplicator

@@ -1,0 +1,66 @@
+
+3ij.process.ImageProcessor#getInterpolatedValue(DD)Di
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java³ ³()"16"6"7"1*Ä
+16i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaµ
+ µ(%ÝÚ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaµ
+ µ(1
+%0double"Uij.process.ImageProcessor#getBicubicInterpolatedPixel(DDLij/process/ImageProcessor;)D*
+ij.process.ImageProcessor*
+""*
+""*
+ij.process.ImageProcessor2:getBicubicInterpolatedPixel(DDLij/process/ImageProcessor;)"s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaµ µ(2
+""*Ê
+6i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaº º(#ä
+á
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaº º()
+%1double"7ij.process.ImageProcessor#getInterpolatedEdgeValue(DD)D*
+ij.process.ImageProcessor*
+""*
+"""s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaº º(*
+""*ã
+7i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¸ ¸("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java¸ ¸(
+""*›	
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÂ Â("ëè
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÂ Â(0
+%2float",ij.process.ImageProcessor#getPixelValue(II)F*
+ij.process.ImageProcessor*
+""*
+""2getPixelValue(II)ëè
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÃ Ã(3
+%3float",ij.process.ImageProcessor#getPixelValue(II)F*
+ij.process.ImageProcessor*
+""*
+""2getPixelValue(II)ëè
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÄ Ä(5
+%4float",ij.process.ImageProcessor#getPixelValue(II)F*
+ij.process.ImageProcessor*
+""*
+""2getPixelValue(II)ëè
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÅ Å(2
+%5float",ij.process.ImageProcessor#getPixelValue(II)F*
+ij.process.ImageProcessor*
+""*
+""2getPixelValue(II)"s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÈ È(B
+"":
+"":
+""B
+ij.process.ImageProcessor

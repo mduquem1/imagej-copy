@@ -1,0 +1,64 @@
+
+4ij.measure.ResultsTable#toString()Ljava/lang/String;g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java† †("1*½
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java‡
+ ‡(²
+¯
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java‡ ‡(
+%0java.lang.String"__id*&*$
+ij.measure.ResultsTable"
+title´
+±
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java‡
+ ‡(
+%1java.lang.String"__concat*
+
+title=*
+
+%0java.lang.Stringµ
+²
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java‡
+ ‡("
+%2java.lang.String"__concat*
+
+%1java.lang.String*	
+, size=°
+­
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java‡
+ ‡(*
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+""´
+±
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java‡
+ ‡(3
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+
+, hdr=õò
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java‡4 ‡(G
+%5java.lang.String"=ij.measure.ResultsTable#getColumnHeadings()Ljava/lang/String;*
+ij.measure.ResultsTable2getColumnHeadings()Â
+¿
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java‡
+ ‡(G
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"ƒ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/ResultsTable.java‡ ‡(I
+
+%6java.lang.StringB
+ij.measure.ResultsTable

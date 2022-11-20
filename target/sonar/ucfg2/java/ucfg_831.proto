@@ -1,0 +1,39 @@
+
+#ij.gui.GenericDialog#wasCanceled()Zd
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÔ Ô("3"1*‡
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÖ Ö(–
+“
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÖ Ö(
+
+%3void"ij.Macro#abort()V*"
+
+ij.Macro*
+1*Œ
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÕ Õ(Ë
+È
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÕ Õ(,
+%0java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.ThreadÔÑ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÕ Õ(6
+%1java.lang.String",java.lang.Thread#getName()Ljava/lang/String;*
+
+%0java.lang.Thread2	getName()óð
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.javaÕ Õ(P
+%2boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+%1java.lang.String*
+Script_Macro$2endsWith(Ljava/lang/String;)*
+2
+1*Ù
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java×	 ×("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GenericDialog.java× ×(
+""B
+ij.gui.GenericDialog

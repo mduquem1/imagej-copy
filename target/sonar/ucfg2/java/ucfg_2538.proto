@@ -1,0 +1,56 @@
+
+>ij.gui.Roi#getInterpolatedPolygon(DZ)Lij/process/FloatPolygon;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaå å(+"2"3*ç
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæH æ(WØÕ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæH æ(Y
+%2ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+ij.gui.Roi2getFloatPolygon()¥
+¢
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæH æ(Y
+%0ij.process.FloatPolygon"__id*
+
+%2ij.process.FloatPolygon*
+1*æ
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæ1 æ(5×Ô
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæ* æ(G
+%1ij.process.FloatPolygon"5ij.gui.Line#getFloatPoints()Lij/process/FloatPolygon;*
+
+ij.gui.Roi2getFloatPoints()¥
+¢
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæ* æ(G
+%0ij.process.FloatPolygon"__id*
+
+%1ij.process.FloatPolygon*
+1*Ô
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæ æ(Z¤
+¡
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaæ æ(Z
+pij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygonÌÉ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaç	 ç(4
+%3ij.process.FloatPolygon"Wij.gui.Roi#getInterpolatedPolygon(Lij/process/FloatPolygon;DZ)Lij/process/FloatPolygon;*
+
+ij.gui.Roi*
+
+pij.process.FloatPolygon*
+""*
+""23getInterpolatedPolygon(Lij/process/FloatPolygon;DZ)"}
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaç ç(5
+
+%3ij.process.FloatPolygon:
+"":
+""B
+
+ij.gui.Roi

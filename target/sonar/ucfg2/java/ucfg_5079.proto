@@ -1,0 +1,33 @@
+
+4ij.io.Opener#openAndAddToRecent(Ljava/lang/String;)Z\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaµ µ(""3*±
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¸ ¸(È
+Å
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¸ ¸( 
+
+%1void"/ij.Menus#addOpenRecentItem(Ljava/lang/String;)V*"
+
+ij.Menus*
+
+pathjava.lang.String*
+1*É
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¶ ¶(ÝÚ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¶ ¶(
+
+%0void"&ij.io.Opener#open(Ljava/lang/String;)V*
+ij.io.Opener*
+
+pathjava.lang.String2open(Ljava/lang/String;)*
+2
+1*É
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¹	 ¹("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¹ ¹(
+"":
+pathjava.lang.StringB
+ij.io.Opener

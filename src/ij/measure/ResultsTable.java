@@ -1109,7 +1109,7 @@ public class ResultsTable implements Cloneable {
 		ResultsTable rt2 = new ResultsTable();
 		Analyzer analyzer = new Analyzer(imp, measurements, rt2);
 		ImageProcessor ip = new ByteProcessor(1, 1);
-		ImageStatistics stats = new ByteStatistics(ip, measurements, null);
+		ImageStatistics stats = new ByteStatistics(ip, measurements, null, null);
 		analyzer.saveResults(stats, roi);
 		//IJ.log(rt2.getColumnHeadings());
 		int last = rt2.getLastColumn();

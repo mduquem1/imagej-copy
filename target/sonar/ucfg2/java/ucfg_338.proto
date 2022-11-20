@@ -1,0 +1,77 @@
+
+ij.gui.Line#getLength()D[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaÆ Æ("4*ˆ
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.java∞
+ ∞(¨©
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.java∞
+ ∞(
+%2double"ij.gui.Line#getRawLength()D*
+ij.gui.Line2getRawLength()"e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.java∞ ∞(
+""*˙
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaØ Ø(è
+å
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaØ Ø("
+%1boolean"ij.IJ#altKeyDown()Z*	"
+ij.IJ*
+2
+1*ˇ
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaØ Ø(	î
+ë
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaØ Ø(	
+%0ij.ImagePlus"__id**
+ij.gui.Line"
+imp*
+2
+3*∆	
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.java≤ ≤(î
+ë
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.java≤ ≤(
+%3ij.ImagePlus"__id**
+ij.gui.Line"
+imp›⁄
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.java≤ ≤()
+%4ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%3ij.ImagePlus2getCalibration()•
+¢
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.java≤ ≤(*
+calij.measure.Calibration"__id*
+
+%4ij.measure.Calibrationö
+ó
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.java≥ ≥(1
+%5double"ij.gui.Roi#sqr(D)D*"
+
+ij.gui.Roi*
+""ö
+ó
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.java≥4 ≥(R
+%6double"ij.gui.Roi#sqr(D)D*"
+
+ij.gui.Roi*
+""£
+†
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.java≥
+ ≥(S
+%7double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""e
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.java≥ ≥(T
+""B
+ij.gui.Line

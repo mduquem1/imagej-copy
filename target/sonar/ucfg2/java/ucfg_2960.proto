@@ -1,0 +1,110 @@
+
++ij.plugin.ScaleBar#getVBoxHeightInPixels()Ib
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java√ √("7*ˆ
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java»- »(.á
+Ñ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java»- »(.
+
+%10int"__id*
+
+
+%12int*
+1*ˆ
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java»  »(*á
+Ñ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java»  »(*
+
+%10int"__id*
+
+
+%11int*
+1*Â
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java∆ ∆(JØ
+¨
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java« «(=	
+%8int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*
+""¡
+æ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java»
+ »(.
+%9(ij.plugin.ScaleBar$ScaleBarConfiguration"__id*"* 
+ij.plugin.ScaleBar"
+config*
+2
+3*‚
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java∆+ ∆(-÷”
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java∆= ∆(H
+%7java.lang.String"0ij.plugin.ScaleBar#getVLabel()Ljava/lang/String;*
+ij.plugin.ScaleBar2getVLabel()íè
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java∆+ ∆(I	
+%6int"=ij.process.ImageProcessor#getStringWidth(Ljava/lang/String;)I*!
+
+ipij.process.ImageProcessor*
+
+%7java.lang.String2"getStringWidth(Ljava/lang/String;)Ö
+Ç
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java∆+ ∆(I	
+%4int"__id*
+	
+%6int*
+4*Ù
+6b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java∆' ∆((Ö
+Ç
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java∆' ∆((	
+%4int"__id*
+	
+%5int*
+4*≥
+7b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaƒ ƒ(ª∏
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaƒ ƒ(
+
+%0void" ij.plugin.ScaleBar#updateFont()V*
+ij.plugin.ScaleBar2updateFont()¢
+ü
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java≈ ≈(
+%1ij.ImagePlus"__id**
+ij.plugin.ScaleBar"
+impÊ„
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java≈ ≈((
+%2ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%1ij.ImagePlus2getProcessor()±
+Æ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java≈ ≈()
+ipij.process.ImageProcessor"__id*!
+
+%2ij.process.ImageProcessor¡
+æ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java∆ ∆(.
+%3(ij.plugin.ScaleBar$ScaleBarConfiguration"__id*"* 
+ij.plugin.ScaleBar"
+config*
+5
+6*’
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java» »(0"l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.java» »(0
+""B
+ij.plugin.ScaleBar

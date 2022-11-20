@@ -1,0 +1,109 @@
+
+)ij.plugin.Profiler#getPlot()Lij/gui/Plot;`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java   ("8*—
+2`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java%
+ %("j
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java% %(
+""*€
+3`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java$ $(Ó
+Î
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java$ $(F
+
+%5void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Plot Profile**(
+&Line or rectangular selection required*
+2*ô
+6`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java"# "(&ß§
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java"# "(0	
+%3int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()}
+{
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java"2 "(?	
+%4int"__id*
+""*	
+2
+3
+1*ü
+7`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java" "(©¶
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java" "(!
+%2boolean"ij.gui.Roi#isLine()Z*
+
+roi
+ij.gui.Roi2isLine()*
+2
+3
+6
+1*Â
+8`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java! !(†
+ù
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java! !(
+%0ij.ImagePlus"__id**
+ij.plugin.Profiler"
+imp∫∑
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java! !(
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%0ij.ImagePlus2getRoi()í
+è
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java! !(
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roi*	
+2
+3
+7*›
+1`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java'# '(&†
+ù
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java'# '(&
+%6ij.ImagePlus"__id**
+ij.plugin.Profiler"
+impìê
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java' '("
+%7ij.gui.ProfilePlot"ij.gui.ProfilePlot“
+œ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java' '(7
+%8"+ij.gui.ProfilePlot#<init>(Lij/ImagePlus;Z)V*
+
+%7ij.gui.ProfilePlot*
+
+%6ij.ImagePlus*
+""°
+û
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java' '(8
+ppij.gui.ProfilePlot"__id*
+
+%7ij.gui.ProfilePlot «
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java(	 ((
+%9ij.gui.Plot")ij.gui.ProfilePlot#getPlot()Lij/gui/Plot;*
+
+ppij.gui.ProfilePlot2	getPlot()"w
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Profiler.java( ((
+
+%9ij.gui.PlotB
+ij.plugin.Profiler

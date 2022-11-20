@@ -1,0 +1,85 @@
+
+8ij.plugin.filter.GaussianBlur#makeGaussianKernel(DDI)[[Fm
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaò ò('"30*∫
+24m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaû û(¥
+±
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaû# û(A
+%3double"java.lang.Math#exp(D)D*"
+java.lang.Math*
+""*
+24
+6
+20
+1*¿
+6m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java≥ ≥(é
+ã
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java≥& ≥(-
+%6double"__id*
+""µ
+≤
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java≥ ≥(.
+%7double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+1*∑
+18m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java£ £(µ
+≤
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java§ §(2
+%5double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+
+6
+18
+1*™
+30m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaô ô(¥
+±
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaô8 ô(J
+%0double"java.lang.Math#log(D)D*"
+java.lang.Math*
+""µ
+≤
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaô+ ô(K
+%1double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""µ
+≤
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaô ô(L
+%2double"java.lang.Math#ceil(D)D*"
+java.lang.Math*
+""*
+24
+6
+20
+1*ê
+20m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java† †(%é
+ã
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java† †(/
+%4double"__id*
+""*
+
+6
+18
+1*Î
+1m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaΩ Ω("w
+m
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaΩ Ω(
+"":
+"":
+"":
+""B!
+ij.plugin.filter.GaussianBlur

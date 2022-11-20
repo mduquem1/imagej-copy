@@ -1,0 +1,579 @@
+
+#ij.measure.Minimizer#minimize([[D)Id
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÒ Ò("43*Ë
+24d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java“ “((Õ
+Ò
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java“ “(4
+%39boolean"0ij.measure.Minimizer#belowResolutionLimit([[DI)Z*
+ij.measure.Minimizer*
+""*
+""*
+22
+1*Í
+25d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java‹ Œ(\Ä
+Á
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java (+
+%35void""ij.measure.Minimizer#order([[D[I)V*
+ij.measure.Minimizer*
+""*
+""ƒ
+€
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaŽ' Ž(,
+
+%36int"__id*
+""ƒ
+€
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java+ (5
+
+%37int"__id*
+""ƒ
+€
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java& (*
+
+%38int"__id*
+""*
+24
+22*È
+26d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaŒ. Œ(BÕ
+Ò
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaŒ. Œ([
+%34boolean"0ij.measure.Minimizer#belowResolutionLimit([D[D)Z*
+ij.measure.Minimizer*
+""*
+""*
+25*Í
+28d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java‡ ‡((Ö
+Ó
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java‡ ‡(4
+%33void"4ij.measure.Minimizer#shrinkSimplexAndEvaluate([[DI)V*
+ij.measure.Minimizer*
+""*
+""*
+25
+26*Ñ
+29d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java ("Ú×
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java (:
+%32void"&ij.measure.Minimizer#copyVertex([D[D)V*
+ij.measure.Minimizer*
+""*
+""2copyVertex([D[D)*
+25
+26*ê
+30d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÿ ÿ((†
+ƒ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÿ> ÿ(K
+%28double"__id*
+""î
+ë
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÿ ÿ(W
+%29void"3ij.measure.Minimizer#getVertexAndEvaluate([D[DD[D)V*
+ij.measure.Minimizer*
+""*
+""*
+
+%28double*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java€ €((
+%30double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java€+ €(=
+%31double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""*
+28
+29*ñ
+31d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaýD ý(J»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaýQ ý(a
+%26double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""¼
+¹
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaýD ý(b
+%27boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+
+%26double*
+28
+30*ð
+32d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaý ý( »
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaý ý(+
+%24double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaý. ý(@
+%25double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""*
+30
+31*Ñ
+33d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaù ù("Ú×
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaù ù(:
+%23void"&ij.measure.Minimizer#copyVertex([D[D)V*
+ij.measure.Minimizer*
+""*
+""2copyVertex([D[D)*
+25
+26*á
+34d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java÷ ÷((†
+ƒ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java÷? ÷(L
+%19double"__id*
+""å
+â
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java÷ ÷(X
+%20void"3ij.measure.Minimizer#getVertexAndEvaluate([D[DD[D)V*
+ij.measure.Minimizer*
+""*
+""*
+""*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaø ø((
+%21double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaø, ø(<
+%22double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""*
+28
+33*¯
+12d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¡ ¡(¶
+³
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¡ ¡(
+%52java.lang.String"__id*,**
+ij.measure.Minimizer"
+ijStatusString*
+
+9
+40
+1*ð
+35d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaõ õ( »
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaõ õ(+
+%17double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaõ. õ(@
+%18double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""*
+32
+34*Ñ
+36d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaò ò(Ú×
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaò ò(6
+%16void"&ij.measure.Minimizer#copyVertex([D[D)V*
+ij.measure.Minimizer*
+""*
+""2copyVertex([D[D)*
+25
+26*ù
+14d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaŸ Ÿ(ƒ
+€
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaŸ Ÿ(!
+
+%51int"__id*
+""*
+12
+1*ð
+37d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javañ ñ(»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javañ ñ($
+%14double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javañ' ñ(=
+%15double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""*
+35
+36*Ñ
+38d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaì ì("Ú×
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaì ì(:
+%13void"&ij.measure.Minimizer#copyVertex([D[D)V*
+ij.measure.Minimizer*
+""*
+""2copyVertex([D[D)*
+25
+26*à
+39d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaê ê((…
+‚
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaê? ê(J
+%9double"__id*
+""å
+â
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaê ê(V
+%10void"3ij.measure.Minimizer#getVertexAndEvaluate([D[DD[D)V*
+ij.measure.Minimizer*
+""*
+""*
+""*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaë ë((
+%11double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaë, ë(<
+%12double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""*
+37
+38*Û
+19d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java› ›(»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java›  ›(1
+%48double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java›3 ›(E
+%49double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""é
+æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java› ›(K
+%50boolean"*ij.measure.Minimizer#belowErrorLimit(DDD)Z*
+ij.measure.Minimizer*
+
+%48double*
+
+%49double*
+""*
+14
+1*Ù
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java´ ´("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java´ ´(
+""*Á
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java® ®(Ì
+É
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java® ®(3
+%66void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*"
+ 
+statusStringjava.lang.String*
+40
+1*â
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java­) ­(5Â
+¿
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java­) ­(G
+%65java.lang.String"__concat*"
+ 
+statusStringjava.lang.String*
+ ESC to stop¬
+©
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java­) ­(G 
+statusStringjava.lang.String"__id*
+
+%65java.lang.String*
+2*¤	
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¬. ¬(<¶
+³
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¬. ¬(<
+%60java.lang.String"__id*,**
+ij.measure.Minimizer"
+ijStatusString¯
+¬
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¬. ¬(I
+%61java.lang.String"__concat*
+
+%60java.lang.String*
+""¯
+¬
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¬. ¬(N
+%62java.lang.String"__concat*
+
+%61java.lang.String*
+ (¯
+¬
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¬. ¬(V
+%63java.lang.String"__concat*
+
+%62java.lang.String*
+""²
+¯
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¬. ¬(^
+%64java.lang.String"__concat*
+
+%63java.lang.String*	
+ max)¬
+©
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¬ ¬(_ 
+statusStringjava.lang.String"__id*
+
+%64java.lang.String*
+2
+3*®
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java« «(&¶
+³
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java« «(&
+%59java.lang.String"__id*,**
+ij.measure.Minimizer"
+ijStatusString*
+
+4
+40
+1*¿
+6d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¦! ¦((—
+”
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java§ §((
+%55void"ij.IJ#resetEscape()V*	"
+ij.IJ¶
+³
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¨& ¨(4
+%56java.lang.String"__id*,**
+ij.measure.Minimizer"
+ijStatusStringµ
+²
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¨& ¨(?
+%57java.lang.String"__concat*
+
+%56java.lang.String*
+
+ ABORTEDÃ
+À
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¨ ¨(@
+%58void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%57java.lang.String*
+1*
+7d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¥' ¥()œ
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¥' ¥(9
+%54boolean"ij.IJ#escapePressed()Z*	"
+ij.IJ*
+5
+6*®
+9d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¢ ¢("³
+°
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¢ ¢(6
+%53long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+5
+7
+40
+1*°
+40d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaå å(Ð
+Í
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaå å(.
+
+%4void"'ij.measure.Minimizer#getCenter([[DI[D)V*
+ij.measure.Minimizer*
+""*
+""*
+""…
+‚
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaç; ç(G
+%5double"__id*
+""ä
+á
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaç ç(S
+
+%6void"3ij.measure.Minimizer#getVertexAndEvaluate([D[DD[D)V*
+ij.measure.Minimizer*
+""*
+""*
+""*
+""º
+·
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaè è($
+%7double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""º
+·
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaè( è(9
+%8double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""*
+37
+39*Í
+20d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java™ ™(Ú×
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java™ ™(5
+%47void"&ij.measure.Minimizer#copyVertex([D[D)V*
+ij.measure.Minimizer*
+""*
+""2copyVertex([D[D)*
+19*Å
+43d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÓ+ Ó(,Ã
+À
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaØ Ø('
+
+%0void""ij.measure.Minimizer#order([[D[I)V*
+ij.measure.Minimizer*
+""*
+""
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÙ' Ù(,	
+%1int"__id*
+""
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÚ+ Ú(5	
+%2int"__id*
+""
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÛ& Û(*	
+%3int"__id*
+""*
+40
+1*ƒ
+21d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java– –(Ñ
+Î
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java– –(.
+%43void"'ij.measure.Minimizer#getCenter([[DI[D)V*
+ij.measure.Minimizer*
+""*
+""*
+""¼
+¹
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java— —(#
+%44void""ij.measure.Minimizer#evaluate([D)V*
+ij.measure.Minimizer*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java˜ ˜($
+%45double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java˜' ˜(8
+%46double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""*
+19
+20*Ü
+22d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java• •(»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java•  •(1
+%40double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""»
+¸
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java•3 •(E
+%41double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""é
+æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java• •(K
+%42boolean"*ij.measure.Minimizer#belowErrorLimit(DDD)Z*
+ij.measure.Minimizer*
+
+%40double*
+
+%41double*
+""*
+19
+21:
+""B
+ij.measure.Minimizer

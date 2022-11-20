@@ -1,0 +1,40 @@
+
+<ij.text.TextPanel#getResultsTable()Lij/measure/ResultsTable;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÉ É($"2"1*•
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÊ Ê(ª
+§
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÊ/ Ê(1
+%0ij.measure.ResultsTable"__id**
+ij.text.TextPanel"
+rtÀ
+½
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÊ Ê(1
+%1java.lang.String"__concat*
+getResultsTable: *
+
+%0ij.measure.ResultsTable·
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaÊ Ê(2
+
+%2void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%1java.lang.String*
+1*š
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaË	 Ë(ª
+§
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaË	 Ë(
+%3ij.measure.ResultsTable"__id**
+ij.text.TextPanel"
+rt"„
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/text/TextPanel.javaË Ë(
+
+%3ij.measure.ResultsTableB
+ij.text.TextPanel

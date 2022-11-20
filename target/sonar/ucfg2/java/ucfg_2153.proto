@@ -1,0 +1,56 @@
+
+%ij.macro.Interpreter#getExpression()Dd
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¯ ¯("8*ñ
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¸ ¸(½º
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¸ ¸(
+
+%4void" ij.macro.Interpreter#getToken()V*
+ij.macro.Interpreter2
+getToken()½º
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¹ ¹(
+%5double"ij.macro.Interpreter#getTerm()D*
+ij.macro.Interpreter2	getTerm()*
+6
+1*ñ
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaµ µ(½º
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaµ µ(
+
+%2void" ij.macro.Interpreter#getToken()V*
+ij.macro.Interpreter2
+getToken()½º
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java¶ ¶(
+%3double"ij.macro.Interpreter#getTerm()D*
+ij.macro.Interpreter2	getTerm()*
+6
+1*µ
+6d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java³
+ ³(¾»
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java³
+ ³(	
+%1int"!ij.macro.Interpreter#nextToken()I*
+ij.macro.Interpreter2nextToken()*	
+3
+5
+1*±
+8d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java° °(½º
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java° °(
+%0double"ij.macro.Interpreter#getTerm()D*
+ij.macro.Interpreter2	getTerm()*
+6
+1*Ù
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java½	 ½("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java½ ½(
+""B
+ij.macro.Interpreter

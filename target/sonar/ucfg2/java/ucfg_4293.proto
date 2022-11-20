@@ -1,0 +1,527 @@
+
+Iij.plugin.FileInfoVirtualStack#getProcessor(I)Lij/process/ImageProcessor;n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java¬ ¬(#"20*√
+13n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java” ”(¿
+Ω
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java” ”(
+%33ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+infoπ
+∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java” ”(
+%34ij.io.FileInfo"
+__arrayGet*
+
+%33ij.io.FileInfo[]*
+""«ƒ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java” ”((
+%35void"ij.ImagePlus#setSlice(I)V*
+
+impij.ImagePlus*
+""2setSlice(I)*
+12*É
+14n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java— —(€ÿ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java— —("
+%30ij.ImagePlus"*ij.io.FileOpener#openImage()Lij/ImagePlus;*
+
+foij.io.FileOpener2openImage()•
+¢
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java— —(#
+impij.ImagePlus"__id*
+
+%30ij.ImagePlus¿
+Ω
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java“ “(
+%31ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+infoπ
+∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java“ “(
+%32ij.io.FileInfo"
+__arrayGet*
+
+%31ij.io.FileInfo[]*
+""*
+13
+12*π
+15n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaœ" œ(&¿
+Ω
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaœ" œ(&
+%23ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+infoπ
+∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaœ" œ(+
+%24ij.io.FileInfo"
+__arrayGet*
+
+%23ij.io.FileInfo[]*
+""ûõ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaœ œ(!
+%25ij.io.FileOpener"ij.io.FileOpener⁄
+◊
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaœ œ(,
+%26"*ij.io.FileOpener#<init>(Lij/io/FileInfo;)V*
+
+%25ij.io.FileOpener*
+
+%24ij.io.FileInfo¨
+©
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaœ œ(-
+foij.io.FileOpener"__id*
+
+%25ij.io.FileOpener¿
+Ω
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java– –(
+%27ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+infoπ
+∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java– –(
+%28ij.io.FileInfo"
+__arrayGet*
+
+%27ij.io.FileInfo[]*
+""ç
+ä
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java– –()
+
+%29int"__id*
+""*
+14
+11*È
+16n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java   (º
+π
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java   ('
+
+%6long"%java.lang.System#currentTimeMillis()J*"
+java.lang.Systemø
+º
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÀ" À(&
+%7ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+info∑
+¥
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÀ" À(+
+%8ij.io.FileInfo"
+__arrayGet*
+
+%7ij.io.FileInfo[]*
+""ùö
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÀ À(!
+%9ij.io.FileOpener"ij.io.FileOpenerÿ
+’
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÀ À(,
+%10"*ij.io.FileOpener#<init>(Lij/io/FileInfo;)V*
+
+%9ij.io.FileOpener*
+
+%8ij.io.FileInfo´
+®
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÀ À(-
+foij.io.FileOpener"__id*
+
+%9ij.io.FileOpener˝˙
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÃ Ã( 
+%11ij.process.ImageProcessor";ij.io.FileOpener#openProcessor()Lij/process/ImageProcessor;*
+
+foij.io.FileOpener2openProcessor()æ
+ª
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÃ Ã(
+ipij.process.ImageProcessor"__id*"
+ 
+%11ij.process.ImageProcessor∫
+∑
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÕ
+ Õ($
+%12java.lang.String"__concat*
+FileInfoVirtualStack: *
+""¿
+Ω
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÕ
+ Õ(0
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+	, offset=¿
+Ω
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÕ1 Õ(5
+%14ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+infoπ
+∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÕ1 Õ(:
+%15ij.io.FileInfo"
+__arrayGet*
+
+%14ij.io.FileInfo[]*
+""√¿
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÕ1 Õ(F
+%16long"ij.io.FileInfo#getOffset()J*
+
+%15ij.io.FileInfo2getOffset()¿
+Ω
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÕ
+ Õ(F
+%17java.lang.String"__concat*
+
+%13java.lang.String*
+
+%16longπ
+∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÕ
+ Õ(K
+%18java.lang.String"__concat*
+
+%17java.lang.String*
+, Ω
+∫
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÕM Õ(g
+%19long"%java.lang.System#currentTimeMillis()J*"
+java.lang.Systemπ
+∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÕ
+ Õ(k
+%20java.lang.String"__concat*
+
+%18java.lang.String*
+""π
+∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÕ
+ Õ(p
+%21java.lang.String"__concat*
+
+%20java.lang.String*
+ms∆
+√
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÕ Õ(q
+%22void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%21java.lang.String*	
+7
+8
+1*ü
+17n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java« «(ø
+º
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java« «(
+%4ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+info∑
+¥
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java« «(
+%5ij.io.FileInfo"
+__arrayGet*
+
+%4ij.io.FileInfo[]*
+""¢
+ü
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java» »(
+ipij.process.ImageProcessor"__id*
+""*
+15
+16*¸
+18n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java≈& ≈(?∫
+∑
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java≈& ≈(A
+%1java.lang.String"__concat*
+Argument out of range: *
+""¡æ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java≈ ≈(%(
+%2"java.lang.IllegalArgumentException""java.lang.IllegalArgumentExceptionˇ
+¸
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java≈	 ≈(B
+%3">java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V**
+(
+%2"java.lang.IllegalArgumentException*
+
+%1java.lang.String*
+0*ç
+0 "Ö
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaÁ Á(
+implicit return*˜
+1n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java›	 ›(€ÿ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java›	 ›(
+
+%47int"*ij.plugin.FileInfoVirtualStack#getWidth()I*" 
+ij.plugin.FileInfoVirtualStack2
+getWidth()›⁄
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java› ›("
+
+%48int"+ij.plugin.FileInfoVirtualStack#getHeight()I*" 
+ij.plugin.FileInfoVirtualStack2getHeight()¬
+ø
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬁ
+ ﬁ(,
+%49java.lang.String"__concat*" 
+Read error or file not found (*
+""∫
+∑
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬁ
+ ﬁ(2
+%50java.lang.String"__concat*
+
+%49java.lang.String*
+): ¿
+Ω
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬁ3 ﬁ(7
+%51ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+infoπ
+∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬁ3 ﬁ(<
+%52ij.io.FileInfo"
+__arrayGet*
+
+%51ij.io.FileInfo[]*
+""∫
+∑
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬁ3 ﬁ(F
+%53java.lang.String"__id*&*$
+
+%52ij.io.FileInfo"
+	directoryÃ
+…
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬁ
+ ﬁ(F
+%54java.lang.String"__concat*
+
+%50java.lang.String*
+
+%53java.lang.String¿
+Ω
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬁG ﬁ(K
+%55ij.io.FileInfo[]"__id*,** 
+ij.plugin.FileInfoVirtualStack"
+infoπ
+∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬁG ﬁ(P
+%56ij.io.FileInfo"
+__arrayGet*
+
+%55ij.io.FileInfo[]*
+""π
+∂
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬁG ﬁ(Y
+%57java.lang.String"__id*%*#
+
+%56ij.io.FileInfo"
+
+fileNameÃ
+…
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬁ
+ ﬁ(Y
+%58java.lang.String"__concat*
+
+%54java.lang.String*
+
+%57java.lang.String∆
+√
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬁ ﬁ(Z
+%59void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%58java.lang.String“œ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.javaﬂ ﬂ(
+
+%60int"ij.VirtualStack#getBitDepth()I*" 
+ij.plugin.FileInfoVirtualStack2getBitDepth()*
+2
+3
+4
+5
+6*Ì
+2n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‰ ‰("x
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‰ ‰(
+""*ï
+3n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java„ „(-∞≠
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java„ „(& 
+%45ij.process.FloatProcessor"ij.process.FloatProcessor’
+“
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java„ „(,
+%46"%ij.process.FloatProcessor#<init>(II)V*"
+ 
+%45ij.process.FloatProcessor*
+""*
+"""î
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java„ „(-"
+ 
+%45ij.process.FloatProcessor*ï
+4n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‚ ‚(-∞≠
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‚ ‚(& 
+%43ij.process.ColorProcessor"ij.process.ColorProcessor’
+“
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‚ ‚(,
+%44"%ij.process.ColorProcessor#<init>(II)V*"
+ 
+%43ij.process.ColorProcessor*
+""*
+"""î
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‚ ‚(-"
+ 
+%43ij.process.ColorProcessor*ï
+5n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java· ·(-∞≠
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java· ·(& 
+%41ij.process.ShortProcessor"ij.process.ShortProcessor’
+“
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java· ·(,
+%42"%ij.process.ShortProcessor#<init>(II)V*"
+ 
+%41ij.process.ShortProcessor*
+""*
+"""î
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java· ·(-"
+ 
+%41ij.process.ShortProcessor*ê
+6n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‡ ‡(+Æ´
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‡ ‡($
+%39ij.process.ByteProcessor"ij.process.ByteProcessor”
+–
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‡ ‡(*
+%40"$ij.process.ByteProcessor#<init>(II)V*!
+
+%39ij.process.ByteProcessor*
+""*
+"""ì
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‡ ‡(+!
+
+%39ij.process.ByteProcessor*â
+7n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java€
+ €("ì
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java€ €(!
+
+ipij.process.ImageProcessor*Û
+8n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java⁄ ⁄(¯ı
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java⁄ ⁄("
+%38void"2ij.process.ImageProcessor#setCalibrationTable([F)V*!
+
+ipij.process.ImageProcessor*
+""2setCalibrationTable([F)*
+7*ÿ
+20n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java√ √(◊‘
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java√ √(	
+%0int"ij.VirtualStack#translate(I)I*" 
+ij.plugin.FileInfoVirtualStack*
+""2translate(I)*
+17
+18*¿
+11n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java÷	 ÷(˝˙
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java÷	 ÷( 
+%37ij.process.ImageProcessor";ij.io.FileOpener#openProcessor()Lij/process/ImageProcessor;*
+
+foij.io.FileOpener2openProcessor()æ
+ª
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java÷ ÷(
+ipij.process.ImageProcessor"__id*"
+ 
+%37ij.process.ImageProcessor*	
+7
+8
+1*∑
+12n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‘	 ‘(ÙÒ
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‘	 ‘( 
+%36ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()æ
+ª
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/FileInfoVirtualStack.java‘ ‘(
+ipij.process.ImageProcessor"__id*"
+ 
+%36ij.process.ImageProcessor*	
+7
+8
+1:
+""B" 
+ij.plugin.FileInfoVirtualStack

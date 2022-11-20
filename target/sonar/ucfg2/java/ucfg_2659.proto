@@ -1,0 +1,23 @@
+
+&ij.gui.Roi#magnificationForSubPixel()ZZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java‚ ‚(+"1*³
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaƒ	 ƒ(!±®
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaƒ" ƒ(4
+%0double"ij.gui.Roi#getMagnification()D*
+
+ij.gui.Roi2getMagnification()·
+´
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaƒ	 ƒ(5
+%1boolean"'ij.gui.Roi#magnificationForSubPixel(D)Z*"
+
+ij.gui.Roi*
+
+%0double"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaƒ ƒ(6
+""B
+
+ij.gui.Roi

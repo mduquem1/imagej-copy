@@ -1,0 +1,72 @@
+
+Bij.plugin.CommandFinder$CommandAction#toString()Ljava/lang/String;e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaT T("1*Å
+1e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaU
+ U(≈
+¬
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaU U()
+%0java.lang.String"__id*;*9'
+%ij.plugin.CommandFinder$CommandAction"
+classCommand∫
+∑
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaU
+ U()
+%1java.lang.String"__concat*
+classCommand: *
+
+%0java.lang.String∏
+µ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaU
+ U(:
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, menuItem: ¬
+ø
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaU= U(E
+%3java.awt.MenuItem"__id*7*5'
+%ij.plugin.CommandFinder$CommandAction"
+
+menuItem¡
+æ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaU
+ U(E
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.awt.MenuItemº
+π
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaU
+ U(Z
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+, menuLocation: ≈
+¬
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaU] U(i
+%6java.lang.String"__id*;*9'
+%ij.plugin.CommandFinder$CommandAction"
+menuLocation¿
+Ω
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaU
+ U(i
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String"Å
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CommandFinder.javaU U(j
+
+%7java.lang.StringB)'
+%ij.plugin.CommandFinder$CommandAction

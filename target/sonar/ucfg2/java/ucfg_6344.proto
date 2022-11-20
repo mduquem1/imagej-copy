@@ -1,0 +1,116 @@
+
+'ij.gui.Arrow#getShape()Ljava/awt/Shape;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaÿ ÿ("4*Ÿ
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaﬁ ﬁ(	Ì
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaﬁ ﬁ(
+%11void"-java.awt.geom.Area#add(Ljava/awt/geom/Area;)V*
+
+a1java.awt.geom.Area*
+
+a2java.awt.geom.Area2add(Ljava/awt/geom/Area;)*
+1*ƒ
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaŸ Ÿ(±
+Æ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaŸ Ÿ(
+%0java.awt.Shape"&ij.gui.Arrow#getPath()Ljava/awt/Shape;*
+ij.gui.Arrowò
+ï
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaŸ Ÿ(
+arrowjava.awt.Shape"__id*
+
+%0java.awt.Shape∞≠
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java⁄. ⁄(>
+%1float"ij.gui.Roi#getStrokeWidth()F*
+ij.gui.Arrow2getStrokeWidth()y
+w
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java⁄@ ⁄(T	
+%2int"__id*
+""y
+w
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java⁄V ⁄(l	
+%3int"__id*
+""ìê
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java⁄ ⁄(&
+%4java.awt.BasicStroke"java.awt.BasicStroke—
+Œ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java⁄ ⁄(m
+%5"!java.awt.BasicStroke#<init>(FII)V*
+
+%4java.awt.BasicStroke*
+
+%1float*
+	
+%2int*
+	
+%3int•
+¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java⁄ ⁄(n
+strokejava.awt.BasicStroke"__id*
+
+%4java.awt.BasicStroke•¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java€ €(7
+%6java.awt.Shape"Ijava.awt.BasicStroke#createStrokedShape(Ljava/awt/Shape;)Ljava/awt/Shape;* 
+
+strokejava.awt.BasicStroke*
+
+arrowjava.awt.Shape2$createStrokedShape(Ljava/awt/Shape;)ü
+ú
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java€ €(8
+outlineShapejava.awt.Shape"__id*
+
+%6java.awt.Shapeèå
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java‹ ‹(
+%7java.awt.geom.Area"java.awt.geom.AreaÃ
+…
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java‹ ‹(
+%8",java.awt.geom.Area#<init>(Ljava/awt/Shape;)V*
+
+%7java.awt.geom.Area*
+
+arrowjava.awt.Shapeù
+ö
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java‹ ‹(
+a1java.awt.geom.Area"__id*
+
+%7java.awt.geom.Areaèå
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java› ›(
+%9java.awt.geom.Area"java.awt.geom.Area‘
+—
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java› ›("
+%10",java.awt.geom.Area#<init>(Ljava/awt/Shape;)V*
+
+%9java.awt.geom.Area* 
+
+outlineShapejava.awt.Shapeù
+ö
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java› ›(#
+a2java.awt.geom.Area"__id*
+
+%9java.awt.geom.Area*
+3*›
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaﬁ) ﬁ(*"z
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.javaﬂ ﬂ(
+
+a1java.awt.geom.AreaB
+ij.gui.Arrow

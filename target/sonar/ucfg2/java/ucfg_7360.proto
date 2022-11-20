@@ -1,0 +1,357 @@
+
+Lij.plugin.RGBStackConverter#convertHyperstack(Lij/ImagePlus;Lij/ImagePlus;)Vi
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javas s("28*Ä	
+13k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javañ ñ(ﬁ€
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javañ ñ(
+%29void"ij.ImagePlus#setPosition(III)V*
+
+impij.ImagePlus*
+""*
+""*
+""2setPosition(III)øº
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaó ó(
+%30void"ij.ImagePlus#resetStack()V*
+
+imp2ij.ImagePlus2resetStack()Ÿ÷
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaò ò(
+%31void"ij.ImagePlus#setPosition(III)V*
+
+imp2ij.ImagePlus*2*2*22setPosition(III)◊‘
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaõ õ($
+%32ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()™
+ß
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaõ õ(%
+overlayij.gui.Overlay"__id*
+
+%32ij.gui.Overlay*
+0
+12*ô
+16k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaë ë(”–
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaë ë(
+%24java.awt.Image"'ij.ImagePlus#getImage()Ljava/awt/Image;*
+
+impij.ImagePlus2
+getImage()¶
+£
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaë ë( 
+imgjava.awt.Image"__id*
+
+%24java.awt.Image≠™
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaí í() 
+%25ij.process.ColorProcessor"ij.process.ColorProcessorÈ
+Ê
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaí í(.
+%26"3ij.process.ColorProcessor#<init>(Ljava/awt/Image;)V*"
+ 
+%25ij.process.ColorProcessor*
+
+imgjava.awt.ImageÛ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaí í(;
+%27java.lang.Object"7ij.process.ColorProcessor#getPixels()Ljava/lang/Object;*"
+ 
+%25ij.process.ColorProcessor2getPixels()äá
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaí í(@
+%28void"-ij.ImageStack#setPixels(Ljava/lang/Object;I)V*
+
+stack2ij.ImageStack*
+
+%27java.lang.Object*
+""2setPixels(Ljava/lang/Object;I)*
+13
+20*¸
+17k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaå å((£†
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaå å(&
+%15ij.plugin.Duplicator"ij.plugin.Duplicator∂
+≥
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaå å((
+%16"ij.plugin.Duplicator#<init>()V*
+
+%15ij.plugin.Duplicator¿Ω
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaå å(C
+%17ij.ImagePlus"<ij.plugin.Duplicator#run(Lij/ImagePlus;IIIIII)Lij/ImagePlus;*
+
+%15ij.plugin.Duplicator*
+
+impij.ImagePlus*2*2*
+""*
+""*
+""*
+""2run(Lij/ImagePlus;IIIIII)•
+¢
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaå å(D
+hsbImpij.ImagePlus"__id*
+
+%17ij.ImagePlus≠™
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaç ç(+ 
+%18ij.process.ImageConverter"ij.process.ImageConverterË
+Â
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaç ç(3
+%19"1ij.process.ImageConverter#<init>(Lij/ImagePlus;)V*"
+ 
+%18ij.process.ImageConverter*
+
+hsbImpij.ImagePlusª
+∏
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaç ç(4
+icij.process.ImageConverter"__id*"
+ 
+%18ij.process.ImageConverter·ﬁ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaé é(
+%20void",ij.process.ImageConverter#convertHSBToRGB()V*!
+
+icij.process.ImageConverter2convertHSBToRGB()ÙÒ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaè è(+ 
+%21ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+hsbImpij.ImagePlus2getProcessor()Û
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaè è(7
+%22java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*"
+ 
+%21ij.process.ImageProcessor2getPixels()äá
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaè è(<
+%23void"-ij.ImageStack#setPixels(Ljava/lang/Object;I)V*
+
+stack2ij.ImageStack*
+
+%22java.lang.Object*
+""2setPixels(Ljava/lang/Object;I)*
+13
+20*æ
+28i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javat t(ª∏
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javat t( 	
+%0int"ij.ImagePlus#getNSlices()I*
+
+imp2ij.ImagePlus2getNSlices()ª∏
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javau u( 	
+%1int"ij.ImagePlus#getNFrames()I*
+
+imp2ij.ImagePlus2getNFrames()∫∑
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javav v(	
+%2int"ij.ImagePlus#getChannel()I*
+
+impij.ImagePlus2getChannel()∂≥
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaw w(	
+%3int"ij.ImagePlus#getSlice()I*
+
+impij.ImagePlus2
+getSlice()∂≥
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javax x(	
+%4int"ij.ImagePlus#getFrame()I*
+
+impij.ImagePlus2
+getFrame()ŒÀ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java{ {(#
+%5ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()œÃ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java| |(%
+%6ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+imp2ij.ImagePlus2
+getStack()§
+°
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java| |(&
+stack2ij.ImageStack"__id*
+
+%6ij.ImageStackÒÓ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java} }((
+
+%7void"+ij.ImagePlus#setPositionWithoutUpdate(III)V*
+
+impij.ImagePlus*
+""*2*22setPositionWithoutUpdate(III)ÓÎ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java~ ~((
+%8ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()∏
+µ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java~ ~()
+ipij.process.ImageProcessor"__id*!
+
+%8ij.process.ImageProcessorŒÀ
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java (
+%9double"#ij.process.ImageProcessor#getMin()D*!
+
+ipij.process.ImageProcessor2getMin()—Œ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaÄ Ä(
+%10double"#ij.process.ImageProcessor#getMax()D*!
+
+ipij.process.ImageProcessor2getMax()àÖ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaÅ Å(-
+%11java.lang.String":ij.ImagePlus#getProp(Ljava/lang/String;)Ljava/lang/String;*
+
+impij.ImagePlus*
+	HSB_Stack2getProp(Ljava/lang/String;)*
+13
+20*‡
+18k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaâ â(6‚ﬂ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaä ä()
+
+%14int" ij.ImagePlus#getStackIndex(III)I*
+
+imp2ij.ImagePlus*
+""*
+""*
+""2getStackIndex(III)*
+16
+17*ª
+19k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaâ  â(#¡æ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaâ  â(2
+
+%13int"ij.ImagePlus#getNChannels()I*
+
+impij.ImagePlus2getNChannels()*
+18*ä
+0 "Ç
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java´ ´(
+implicit return*ı
+1k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java© ©(˝˙
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java© ©(
+%40void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+imp2ij.ImagePlus*
+
+overlay2ij.gui.Overlay2setOverlay(Lij/gui/Overlay;)*
+0*Ô
+2k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java® ®(˜Ù
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java® ®(7
+%39void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*
+""*
+""*
+""*
+""*
+""*
+""2crop(IIIIII)*
+1*Ô
+3k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java¶ ¶(˜Ù
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java¶ ¶(>
+%38void"ij.gui.Overlay#crop(IIIIII)V*
+
+overlay2ij.gui.Overlay*
+""*
+""*
+""*
+""*
+""*
+""2crop(IIIIII)*
+1*Ü
+5k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java§ §(›⁄
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java§ §()
+%37ij.gui.Overlay"*ij.gui.Overlay#duplicate()Lij/gui/Overlay;*
+
+overlayij.gui.Overlay2duplicate()´
+®
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java§ §(*
+overlay2ij.gui.Overlay"__id*
+
+%37ij.gui.Overlay*
+2
+3*ˆ
+20k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaà à(¯ı
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaà à(*
+%12void"+ij.ImagePlus#setPositionWithoutUpdate(III)V*
+
+impij.ImagePlus*
+""*
+""*
+""2setPositionWithoutUpdate(III)*
+18
+19*∫
+10k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaü ü(¡æ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.java† †(
+
+%36int"ij.ImagePlus#getNChannels()I*
+
+impij.ImagePlus2getNChannels()*
+5*∆
+11k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaû- û(0ºπ
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaû û(;
+
+%34int"ij.CompositeImage#getMode()I*
+
+impij.ImagePlus2	getMode()ä
+á
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaû= û(I
+
+%35int"__id*
+""*
+5
+10*¿
+12k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaù ù(√¿
+k
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RGBStackConverter.javaû û(
+%33boolean"ij.ImagePlus#isComposite()Z*
+
+impij.ImagePlus2isComposite()*
+5
+11:
+impij.ImagePlus:
+imp2ij.ImagePlusB
+ij.plugin.RGBStackConverter

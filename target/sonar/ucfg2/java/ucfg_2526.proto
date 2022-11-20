@@ -1,0 +1,50 @@
+
+,ij.gui.Roi#getConvexHull()Ljava/awt/Polygon;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   ("1*ı	
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÀ À(&ﬁ€
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÀ À((
+%0ij.process.FloatPolygon"8ij.gui.Roi#getFloatConvexHull()Lij/process/FloatPolygon;*
+
+ij.gui.Roi2getFloatConvexHull()•
+¢
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÀ À()
+fpij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygonù
+ö
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÃ Ã('
+%1int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""ù
+ö
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÃ) Ã(;
+%2int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""âÜ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÃ Ã(
+%3java.awt.Polygon"java.awt.Polygon∆
+√
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÃ	 Ã(H
+%4"java.awt.Polygon#<init>([I[II)V*
+
+%3java.awt.Polygon*
+
+%1int[]*
+
+%2int[]*
+"""v
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÃ Ã(I
+
+%3java.awt.PolygonB
+
+ij.gui.Roi

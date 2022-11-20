@@ -1,0 +1,673 @@
+
+)ij.plugin.OverlayCommands#addSelection()Vg
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaa a("48*Ì
+46g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javad1 d(=Û
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javad1 d(O	
+%3int"-java.lang.String#indexOf(Ljava/lang/String;)I*"
+ 
+macroOptionsjava.lang.String*
+
+remove2indexOf(Ljava/lang/String;)*
+44
+45*ö
+24i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÉ É(Tû
+õ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÑ Ñ(
+%37boolean"ij.IJ#altKeyDown()Z*	"
+ij.IJ*
+21
+23*ó
+47g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javad d(ù
+ö
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javad d(-
+%2boolean"ij.IJ#macroRunning()Z*	"
+ij.IJ*
+46
+44*¿
+25i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÉ; É(>»≈
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÉ. É(Q
+
+%36int"$ij.gui.PolygonRoi#getNCoordinates()I*
+
+roi
+ij.gui.Roi2getNCoordinates()*
+24*¥
+48g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javab b(´
+®
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javab b(
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJù
+ö
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javab b( 
+impij.ImagePlus"__id*
+
+%0ij.ImagePlusª
+∏
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javac c(*
+%1java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.MacroÆ
+´
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javac c(+ 
+macroOptionsjava.lang.String"__id*
+
+%1java.lang.String*
+47
+44*Ü
+26i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÇ Ç(ä
+á
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÇ Ç(
+%35void"Bij.plugin.OverlayCommands#setPosition(Lij/ImagePlus;Lij/gui/Roi;)V*
+ij.plugin.OverlayCommands*
+
+impij.ImagePlus*
+
+roi
+ij.gui.Roi*
+24
+25*˛
+27i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÄ Ä(∂
+≥
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÄ Ä(
+%32
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoi’“
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÄ Ä(.
+%33java.awt.Color")ij.gui.Roi#getFillColor()Ljava/awt/Color;*
+
+%32
+ij.gui.Roi2getFillColor()ıÚ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÄ Ä(/
+%34void"*ij.gui.Roi#setFillColor(Ljava/awt/Color;)V*
+
+roi
+ij.gui.Roi*
+
+%33java.awt.Color2setFillColor(Ljava/awt/Color;)*
+26*Õ
+28g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java (
+”–
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java (
+%31java.awt.Color")ij.gui.Roi#getFillColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getFillColor()*
+26
+27*˛
+29g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java~ ~(¥
+±
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java~ ~(!
+%28
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoi◊‘
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java~ ~(2
+%29java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+%28
+ij.gui.Roi2getStrokeColor()˜Ù
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java~ ~(3
+%30void",ij.gui.Roi#setStrokeColor(Ljava/awt/Color;)V*
+
+roi
+ij.gui.Roi*
+
+%29java.awt.Color2 setStrokeColor(Ljava/awt/Color;)*
+28*à
+30g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java}8 }(B¥
+±
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java}8 }(B
+%26
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoi◊‘
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java}8 }(S
+%27java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+%26
+ij.gui.Roi2getStrokeColor()*
+28
+29*ú
+31g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java}% }()¢
+ü
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java}% }(4
+
+%25int"ij.gui.Line#getWidth()I*"
+ij.gui.Line*
+28
+30*≥
+10i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaî5 î(<´
+®
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaî5 î(H
+
+%63int"ij.gui.Toolbar#getToolId()I*"
+ij.gui.Toolbarà
+Ö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaîJ î(V
+
+%64int"__id*
+""*	
+2
+8
+1*—
+32g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java} }(
+◊‘
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java} }(
+%24java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getStrokeColor()*
+29
+31*ü
+11i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaí í(	„‡
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaí í(
+%59void"!ij.gui.Overlay#add(Lij/gui/Roi;)V*
+
+overlayij.gui.Overlay*
+
+roi
+ij.gui.Roi2add(Lij/gui/Roi;)˘ˆ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaì ì(
+%60void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+impij.ImagePlus*
+
+overlayij.gui.Overlay2setOverlay(Lij/gui/Overlay;)±Æ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaî î("
+
+%61int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()à
+Ö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaî$ î(1
+
+%62int"__id*
+""*
+2
+8
+10
+1*ø
+33g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java| |(¥
+±
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java| |(!
+%21
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoiøº
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java| |(2
+%22float"ij.gui.Roi#getStrokeWidth()F*
+
+%21
+ij.gui.Roi2getStrokeWidth()–Õ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java| |(3
+%23void"ij.gui.Roi#setStrokeWidth(F)V*
+
+roi
+ij.gui.Roi*
+
+%22float2setStrokeWidth(F)*
+32*”
+34g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java{ {(
+Ÿ÷
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.java{ {(
+%20java.awt.BasicStroke",ij.gui.Roi#getStroke()Ljava/awt/BasicStroke;*
+
+roi
+ij.gui.Roi2getStroke()*
+32
+33*˛
+12i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaë ë(€
+ÿ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaë ë(*
+%58ij.gui.Overlay"7ij.plugin.OverlayLabels#createOverlay()Lij/gui/Overlay;*"
+ij.plugin.OverlayLabels®
+•
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaë ë(*
+overlayij.gui.Overlay"__id*
+
+%58ij.gui.Overlay*
+11*ß
+35g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javax x(…∆
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javax x(
+%17java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+
+roi
+ij.gui.Roi2clone()†
+ù
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javax x(
+roi
+ij.gui.Roi"__id*
+
+%17java.lang.Object”–
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javay y($
+%18ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()¶
+£
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javay y(%
+overlayij.gui.Overlay"__id*
+
+%18ij.gui.Overlayøº
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaz z(
+%19boolean"ij.gui.Roi#isDrawingTool()Z*
+
+roi
+ij.gui.Roi2isDrawingTool()*
+26
+34*±
+36g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javau u(Œ
+À
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javau u(1
+%16void" ij.IJ#error(Ljava/lang/String;)V*	"
+ij.IJ*&$
+"This command requires a selection."q
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javav v(
+
+""*¥
+15i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaè è(º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaè è($
+%56java.awt.Color"%ij.gui.Roi#getColor()Ljava/awt/Color;*"
+
+ij.gui.Roi˘ˆ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaè è(%
+%57void",ij.gui.Roi#setStrokeColor(Ljava/awt/Color;)V*
+
+roi
+ij.gui.Roi*
+
+%56java.awt.Color2 setStrokeColor(Ljava/awt/Color;)*
+11
+12*‡
+38g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javar r(
+"q
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javar r(
+
+""*ß
+16i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaå å(@À»
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaç ç(!
+%54java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+
+roi
+ij.gui.Roi2clone()Ÿ÷
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaé é(
+%55java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getStrokeColor()*
+15
+11
+12*ÿ
+39g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaq q(‚ﬂ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaq q(
+%15void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+impij.ImagePlus*
+""2setOverlay(Lij/gui/Overlay;)*
+38*Ì
+17i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaå% å()ıÚ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaå% å(?
+%53boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+new-overlay2equals(Ljava/lang/Object;)*
+16*˜
+18i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaã ã(œÃ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaã ã(
+%52java.lang.String"&ij.gui.Roi#getName()Ljava/lang/String;*
+
+roi
+ij.gui.Roi2	getName()©
+¶
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaã ã(
+namejava.lang.String"__id*
+
+%52java.lang.String*
+16
+17*·
+19i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaá á(∂
+≥
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaá á(
+%43
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoiŸ÷
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaá á(1
+%44java.awt.Color"+ij.gui.Roi#getStrokeColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getStrokeColor()˘ˆ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaá á(2
+%45void",ij.gui.Roi#setStrokeColor(Ljava/awt/Color;)V*
+
+%43
+ij.gui.Roi*
+
+%44java.awt.Color2 setStrokeColor(Ljava/awt/Color;)∂
+≥
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaà à(
+%46
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoi¡æ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaà à(1
+%47float"ij.gui.Roi#getStrokeWidth()F*
+
+roi
+ij.gui.Roi2getStrokeWidth()“œ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaà à(2
+%48void"ij.gui.Roi#setStrokeWidth(F)V*
+
+%46
+ij.gui.Roi*
+
+%47float2setStrokeWidth(F)∂
+≥
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaâ â(
+%49
+ij.gui.Roi"__id*-*+
+ij.plugin.OverlayCommands"
+
+defaultRoi’“
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaâ â(-
+%50java.awt.Color")ij.gui.Roi#getFillColor()Ljava/awt/Color;*
+
+roi
+ij.gui.Roi2getFillColor()ıÚ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaâ â(.
+%51void"*ij.gui.Roi#setFillColor(Ljava/awt/Color;)V*
+
+%49
+ij.gui.Roi*
+
+%50java.awt.Color2setFillColor(Ljava/awt/Color;)*
+18*à
+0 "Ä
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaò ò(
+implicit return*œ
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaó ó(à
+Ö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaó ó("
+
+%67int"__id*
+""Œ
+À
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaó ó((
+%68void"ij.Undo#setup(ILij/ImagePlus;)V*"	
+ij.Undo*
+
+
+%67int*
+
+impij.ImagePlus*
+0*∞
+2i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javañ ñ(∫∑
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javañ ñ(
+%66void"ij.ImagePlus#deleteRoi()V*
+
+impij.ImagePlus2deleteRoi()*
+1*ß
+8i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaîZ î(aÆ
+´
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaîZ î(p
+
+%65int"ij.gui.Toolbar#getBrushSize()I*"
+ij.gui.Toolbar*
+2
+1*Œ
+40g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javap p(	‘—
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javap p(
+%14boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+38
+39*‡
+41g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javao o( "q
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javao o( 
+""* 
+42g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaj( j(6ûõ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaj j('
+%7ij.gui.GenericDialog"ij.gui.GenericDialog‘
+—
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaj j(7
+%8"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%7ij.gui.GenericDialog*
+No Selection¨
+©
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaj j(8
+gdij.gui.GenericDialog"__id*
+
+%7ij.gui.GenericDialogóî
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javak k(9
+
+%9void"4ij.gui.GenericDialog#addMessage(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*)'
+%\"Overlay>Add\" requires a selection.2addMessage(Ljava/lang/String;)›⁄
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javal l(
+%10void"$ij.gui.GenericDialog#setInsets(III)V*
+
+gdij.gui.GenericDialog*2*2(*2 2setInsets(III)íè
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javam m(3
+%11void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Remove existing overlay*2 2 addCheckbox(Ljava/lang/String;Z)…∆
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javan n(
+%12void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()ŒÀ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javao o(
+%13boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+40
+41*‰
+20i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÜ Ü( "s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÜ Ü( 
+""*–
+43g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javai i(“œ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javai i(#
+%6ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()*
+35
+36
+42*û
+21i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÖ( Ö(8°û
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÖ Ö('
+%40ij.gui.RoiProperties"ij.gui.RoiProperties˚
+¯
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÖ Ö(>
+%41"<ij.gui.RoiProperties#<init>(Ljava/lang/String;Lij/gui/Roi;)V*
+
+%40ij.gui.RoiProperties*
+Add to Overlay*
+
+roi
+ij.gui.RoiØ
+¨
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÖ Ö(?
+rpij.gui.RoiProperties"__id*
+
+%40ij.gui.RoiPropertiesŒÀ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÜ Ü(
+%42boolean""ij.gui.RoiProperties#showDialog()Z*
+
+rpij.gui.RoiProperties2showDialog()*
+19
+20*‹
+44g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javah h(¬ø
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javah h(
+%5
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()ô
+ñ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javah h(
+roi
+ij.gui.Roi"__id*
+
+%5
+ij.gui.Roi*
+35
+36
+43*∫
+22i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÑ/ Ñ(4æ
+ª
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÑ/ Ñ(A
+%39java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro*
+18
+21*ƒ
+45g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javae e(·ﬁ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javae e(
+
+%4void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+impij.ImagePlus*
+""2setOverlay(Lij/gui/Overlay;)"q
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaf f(
+
+""*ú
+23i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÑ Ñ(†
+ù
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/OverlayCommands.javaÑ Ñ(+
+%38boolean"ij.IJ#macroRunning()Z*	"
+ij.IJ*
+18
+22B
+ij.plugin.OverlayCommands

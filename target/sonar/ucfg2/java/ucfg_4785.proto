@@ -1,0 +1,274 @@
+
+Aij.plugin.filter.Rotator#setup(Ljava/lang/String;Lij/ImagePlus;)If
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java ("25*ï
+13f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java*+ *(/†
+ù
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java*+ *(/
+%9java.awt.Rectangle"__id*
+
+%11
+<nulltype>*
+12*ë
+24f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java (π∂
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java (	
+%0int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()¡æ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java   (
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()ò
+ï
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java   (
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roi*
+21
+23*Ù
+14f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java* *(‘—
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java* *(*
+%10java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()®
+•
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java* *(*
+%9java.awt.Rectangle"__id*
+
+%10java.awt.Rectangle*
+12*•
+25f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java (≠
+™
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java (#
+ij.plugin.filter.Rotator"
+imp"__id*
+
+impij.ImagePlus*
+24
+1*Ø
+16f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java( ((∂≥
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java( ((
+
+%8void"ij.ImagePlus#deleteRoi()V*
+
+impij.ImagePlus2deleteRoi()*
+13
+14*Â
+17f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java' '(Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java' '(	
+%7int"__id*
+"""p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java' '(
+""*π
+18f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java% %(OÃ
+…
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java% %(P
+msgjava.lang.String"__id*@>
+<This image has an overlay so the\nselection will be removed.Ò
+Ó
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java&	 &(1
+%6boolean"Bij.IJ#showMessageWithCancel(Ljava/lang/String;Ljava/lang/String;)Z*	"
+ij.IJ*	
+Rotator*
+
+msgjava.lang.String*
+16
+17*∑
+19f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java$% $(*∫
+∑
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java$% $(7
+%5java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro*
+13
+14
+18*›
+1f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java4	 4("p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java4 4(
+""*„
+2f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java2 2(íè
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java2 2(
+%21ij.gui.Overlay"ij.gui.Overlay•
+¢
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java2 2(
+%22"ij.gui.Overlay#<init>()V*
+
+%21ij.gui.Overlay≥
+∞
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java2 2('
+ij.plugin.filter.Rotator"	
+overlay"__id*
+
+%21ij.gui.Overlay*
+1*Ó
+3f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java0 0(¬
+ø
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java0 0(
+%19void"$ij.Undo#saveOverlay(Lij/ImagePlus;)V*"	
+ij.Undo*
+
+impij.ImagePlus≥
+∞
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java1 1(
+%20ij.gui.Overlay"__id*)*'
+ij.plugin.filter.Rotator"	
+overlay*
+2
+1*Œ
+4f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java- -(Ö
+Ç
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java- -(
+
+%16int"__id*
+""À
+»
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java- -(#
+%17void"ij.Undo#setup(ILij/ImagePlus;)V*"	
+ij.Undo*
+
+
+%16int*
+
+impij.ImagePlusÖ
+Ç
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java. .(!
+
+%18int"__id*
+""*
+3*æ
+5f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java+ +(_¿Ω
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java, ,(
+
+%14int"ij.ImagePlus#getDisplayMode()I*
+
+impij.ImagePlus2getDisplayMode()Ö
+Ç
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java, ,()
+
+%15int"__id*
+""*
+3
+4*©
+6f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java+E +(F∂≥
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java+O +(^
+
+%13int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()*
+5*™
+8f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java+, +(-¥±
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java+5 +(C
+
+%12int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()*
+5
+6*Ø
+20f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java$ $(≤
+Ø
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java$ $(
+%4ij.gui.Overlay"__id*)*'
+ij.plugin.filter.Rotator"	
+overlay*
+13
+14
+19*É
+21f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java# #(—Œ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java# #(
+%3ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()≤
+Ø
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java# #('
+ij.plugin.filter.Rotator"	
+overlay"__id*
+
+%3ij.gui.Overlay*
+13
+14
+20*Å
+22f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java"
+ "(å
+â
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java" "(
+roi
+ij.gui.Roi"__id*
+""*
+21*†
+12f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java* *(0¶
+£
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java* *(0
+rjava.awt.Rectangle"__id*
+
+%9java.awt.Rectangle*	
+5
+6
+8*®
+23f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java! !(Ø¨
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Rotator.java! !( 
+%2boolean"ij.gui.Roi#isLine()Z*
+
+roi
+ij.gui.Roi2isLine()*
+21
+22:
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Rotator

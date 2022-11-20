@@ -464,37 +464,7 @@ public class AutoThresholder {
 		double [] P1 = new double[256]; /* cumulative normalized histogram */
 		double [] P2 = new double[256]; 
 
-		double total =0;
-		for (ih = 0; ih < 256; ih++ ) 
-			total+=data[ih];
-
-		for (ih = 0; ih < 256; ih++ )
-			norm_histo[ih] = data[ih]/total;
-
-		P1[0]=norm_histo[0];
-		P2[0]=1.0-P1[0];
-		for (ih = 1; ih < 256; ih++ ){
-			P1[ih]= P1[ih-1] + norm_histo[ih];
-			P2[ih]= 1.0 - P1[ih];
-		}
-
-		/* Determine the first non-zero bin */
-		first_bin=0;
-		for (ih = 0; ih < 256; ih++ ) {
-			if ( !(Math.abs(P1[ih])<2.220446049250313E-16)) {
-				first_bin = ih;
-				break;
-			}
-		}
-
-		/* Determine the last non-zero bin */
-		last_bin=255;
-		for (ih = 255; ih >= first_bin; ih-- ) {
-			if ( !(Math.abs(P2[ih])<2.220446049250313E-16)) {
-				last_bin = ih;
-				break;
-			}
-		}
+		normalizeHisto(tot_ent=0, norm_histo, ih=0, it=0, P1, P2, data, first_bin=0, last_bin=0);
 
 		// Calculate the total entropy each gray-level
 		// and find the threshold that maximizes it 
@@ -830,36 +800,8 @@ public class AutoThresholder {
 		double [] P2 = new double[256]; 
 
 		double total =0;
-		for (ih = 0; ih < 256; ih++ ) 
-			total+=data[ih];
-
-		for (ih = 0; ih < 256; ih++ )
-			norm_histo[ih] = data[ih]/total;
-
-		P1[0]=norm_histo[0];
-		P2[0]=1.0-P1[0];
-		for (ih = 1; ih < 256; ih++ ){
-			P1[ih]= P1[ih-1] + norm_histo[ih];
-			P2[ih]= 1.0 - P1[ih];
-		}
-
-		/* Determine the first non-zero bin */
-		first_bin=0;
-		for (ih = 0; ih < 256; ih++ ) {
-			if ( !(Math.abs(P1[ih])<2.220446049250313E-16)) {
-				first_bin = ih;
-				break;
-			}
-		}
-
-		/* Determine the last non-zero bin */
-		last_bin=255;
-		for (ih = 255; ih >= first_bin; ih-- ) {
-			if ( !(Math.abs(P2[ih])<2.220446049250313E-16)) {
-				last_bin = ih;
-				break;
-			}
-		}
+		
+		normalizeHisto(total, norm_histo, ih=0, it=0, P1, P2, data, first_bin=0, last_bin=0);
 
 		/* Maximum Entropy Thresholding - BEGIN */
 		/* ALPHA = 1.0 */
@@ -1020,36 +962,8 @@ public class AutoThresholder {
 		double [] P2 = new double[256]; 
 
 		double total =0;
-		for (ih = 0; ih < 256; ih++ ) 
-			total+=data[ih];
-
-		for (ih = 0; ih < 256; ih++ )
-			norm_histo[ih] = data[ih]/total;
-
-		P1[0]=norm_histo[0];
-		P2[0]=1.0-P1[0];
-		for (ih = 1; ih < 256; ih++ ){
-			P1[ih]= P1[ih-1] + norm_histo[ih];
-			P2[ih]= 1.0 - P1[ih];
-		}
-
-		/* Determine the first non-zero bin */
-		first_bin=0;
-		for (ih = 0; ih < 256; ih++ ) {
-			if ( !(Math.abs(P1[ih])<2.220446049250313E-16)) {
-				first_bin = ih;
-				break;
-			}
-		}
-
-		/* Determine the last non-zero bin */
-		last_bin=255;
-		for (ih = 255; ih >= first_bin; ih-- ) {
-			if ( !(Math.abs(P2[ih])<2.220446049250313E-16)) {
-				last_bin = ih;
-				break;
-			}
-		}
+		
+		normalizeHisto(total, norm_histo, ih=0, it=0, P1, P2, data, first_bin=0, last_bin=0);
 
 		// Calculate the total entropy each gray-level
 		// and find the threshold that maximizes it 
@@ -1186,6 +1100,8 @@ public class AutoThresholder {
 		else
 			return split;
 	}
+	
+
 
 
 	int Yen(int [] data ) {
@@ -1240,6 +1156,40 @@ public class AutoThresholder {
 			}
 		}
 		return threshold;
+	}
+	
+	void normalizeHisto(double total, double[] norm_histo, int ih, int it, double[] P1, double[] P2, int[] data, int first_bin, int last_bin) {
+		
+		for (ih = 0; ih < 256; ih++ ) 
+			total+=data[ih];
+
+		for (ih = 0; ih < 256; ih++ )
+			norm_histo[ih] = data[ih]/total;
+
+		P1[0]=norm_histo[0];
+		P2[0]=1.0-P1[0];
+		for (ih = 1; ih < 256; ih++ ){
+			P1[ih]= P1[ih-1] + norm_histo[ih];
+			P2[ih]= 1.0 - P1[ih];
+		}
+
+		/* Determine the first non-zero bin */
+		first_bin=0;
+		for (ih = 0; ih < 256; ih++ ) {
+			if ( !(Math.abs(P1[ih])<2.220446049250313E-16)) {
+				first_bin = ih;
+				break;
+			}
+		}
+
+		/* Determine the last non-zero bin */
+		last_bin=255;
+		for (ih = 255; ih >= first_bin; ih-- ) {
+			if ( !(Math.abs(P2[ih])<2.220446049250313E-16)) {
+				last_bin = ih;
+				break;
+			}
+		}
 	}
 
 }

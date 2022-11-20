@@ -1,0 +1,42 @@
+
+*ij.measure.Minimizer#belowErrorLimit(DDD)Zd
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÜ Ü(#"3*¿
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÝ Ý(%«
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÝ& Ý(@
+%0double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""«
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÞ- Þ(>
+%1double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""«
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÞ? Þ(O
+%2double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""Ä
+Á
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÞ$ Þ(P
+%3double"java.lang.Math#max(DD)D*"
+java.lang.Math*
+
+%1double*
+
+%2double*
+1*Ù
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaß ß(@"n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaß ß(@
+"":
+"":
+"":
+""B
+ij.measure.Minimizer

@@ -1,0 +1,289 @@
+
+8ij.plugin.RoiRotator#rotate(Lij/gui/Roi;DDD)Lij/gui/Roi;b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaJ J("22*‘
+13b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javad d(àÖ
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javad d(
+%14ij.gui.Line"ij.gui.Lineø
+º
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javad
+ d(V
+%15"ij.gui.Line#<init>(DDDD)V*
+
+%14ij.gui.Line*
+""*
+""*
+""*
+""ó
+î
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javad d(V
+roi2
+ij.gui.Roi"__id*
+
+%14ij.gui.Line*
+1*Å
+14b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javab b(â
+Ü
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javab b(
+roi2
+ij.gui.Roi"__id*
+""Ä
+~
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javac c(
+
+%13int"__id*
+""*
+13
+12*±
+16b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.java[ [(™
+ß
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.java] ]()
+%9double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""µ
+≤
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.java^ ^( 
+%10double"java.lang.Math#atan2(DD)D*"
+java.lang.Math*
+""*
+""™
+ß
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.java_. _(?
+%11double"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""™
+ß
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.java`. `(?
+%12double"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""*
+14
+16*–	
+19b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaQ Q(ó
+î
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaQ Q(
+lineij.gui.Line"__id*
+
+roi
+ij.gui.Roiüú
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaV V(
+%5ij.process.FloatPolygon"ij.process.FloatPolygon±
+Æ
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaV
+ V(
+%6"!ij.process.FloatPolygon#<init>()V*
+
+%5ij.process.FloatPolygonØ
+¨
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaV V(
+polyij.process.FloatPolygon"__id*
+
+%5ij.process.FloatPolygon€ÿ
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaW W(
+
+%7void"%ij.process.FloatPolygon#addPoint(DD)V*!
+
+polyij.process.FloatPolygon*
+""*
+""2addPoint(DD)€ÿ
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaX X(
+
+%8void"%ij.process.FloatPolygon#addPoint(DD)V*!
+
+polyij.process.FloatPolygon*
+""*
+""2addPoint(DD)*
+14
+16*Õ
+1b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javap p(Á‰
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javap p(
+%25void"(ij.gui.Roi#copyAttributes(Lij/gui/Roi;)V*
+
+roi2
+ij.gui.Roi*
+
+roi
+ij.gui.Roi2copyAttributes(Lij/gui/Roi;)"z
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaq q(
+
+roi2
+ij.gui.Roi*Û
+2b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javan n(îë
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javan n(
+%23ij.gui.PolygonRoi"ij.gui.PolygonRoiÕ
+ 
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javan
+ n(G
+%24"!ij.gui.PolygonRoi#<init>([F[FII)V*
+
+%23ij.gui.PolygonRoi*
+""*
+""*
+""*
+""ù
+ö
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javan n(G
+roi2
+ij.gui.Roi"__id*
+
+%23ij.gui.PolygonRoi*
+1*Ô
+4b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javal l(Ä
+~
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javal l(+
+
+%22int"__id*
+""*
+2*Ú
+5b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javal l(Ä
+~
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javal l(
+
+%21int"__id*
+""*
+2
+4*Ô
+8b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaj j(Ä
+~
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaj j(
+
+%20int"__id*
+""*
+5*Ω
+20b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaN N(Â‚
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaN N(+
+%2ij.process.FloatPolygon"5ij.gui.Roi#getFloatPolygon()Lij/process/FloatPolygon;*
+
+roi
+ij.gui.Roi2getFloatPolygon()Ø
+¨
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaN N(,
+polyij.process.FloatPolygon"__id*
+
+%2ij.process.FloatPolygon©¶
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaO O(	
+%3int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()
+}
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaP P(	
+%4int"__id*
+""*
+14
+16
+19*È
+21b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaM
+ M(Ñ
+Å
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaM
+ M(>
+%1
+ij.gui.Roi"Bij.plugin.RoiRotator#rotateShape(Lij/gui/ShapeRoi;DDD)Lij/gui/Roi;*"
+ij.plugin.RoiRotator*
+
+roi
+ij.gui.Roi*
+""*
+""*
+"""x
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaM M(?
+
+%1
+ij.gui.Roi*
+10b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javah h(Ä
+~
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javah h(
+
+%19int"__id*
+""*
+8*¯
+22b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaK K(É
+Ä
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaK K(
+%0double"__id*
+""*
+20
+21*·
+11b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaf f(êç
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaf f(
+%17ij.gui.PointRoi"ij.gui.PointRoi¿
+Ω
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaf
+ f(?
+%18"ij.gui.PointRoi#<init>([F[FI)V*
+
+%17ij.gui.PointRoi*
+""*
+""*
+""õ
+ò
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javaf f(?
+roi2
+ij.gui.Roi"__id*
+
+%17ij.gui.PointRoi*
+1*ı
+12b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javae e(Ä
+~
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/RoiRotator.javae e(
+
+%16int"__id*
+""*
+10
+11:
+roi
+ij.gui.Roi:
+"":
+"":
+""B"
+ij.plugin.RoiRotator

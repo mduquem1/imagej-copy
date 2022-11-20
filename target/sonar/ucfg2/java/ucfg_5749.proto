@@ -1,0 +1,92 @@
+
++ij.gui.Overlay#toString()Ljava/lang/String;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaõ õ("4*†
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö? ö(A›
+˜
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö? ö(A
+%3java.lang.String"__id*
+
+%5java.lang.String*
+1*†
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö7 ö(>›
+˜
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö7 ö(>
+%3java.lang.String"__id*
+
+%4java.lang.String*
+1*á
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö ö(¢Ÿ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö ö("	
+%0int"ij.gui.Overlay#size()I*
+ij.gui.Overlay2size()¥
+¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö ö("
+%1java.lang.String"__concat*
+Overlay[size=*
+	
+%0int¦
+£
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö ö(&
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+ *
+2
+3*î
+
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö ö(B¹
+¶
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö ö(B
+%6java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String¦
+£
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö ö(F
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+ ÎË
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö\ ö(k
+%8java.awt.Color".ij.gui.Overlay#getLabelColor()Ljava/awt/Color;*
+ij.gui.Overlay2getLabelColor()í
+ê
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaöG ö(l
+%9java.lang.String"Bij.plugin.Colors#colorToString(Ljava/awt/Color;)Ljava/lang/String;*"
+ij.plugin.Colors*
+
+%8java.awt.Colorº
+·
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö ö(l
+%10java.lang.String"__concat*
+
+%7java.lang.String*
+
+%9java.lang.String¨
+¥
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö ö(p
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+]"{
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.javaö ö(q
+
+%11java.lang.StringB
+ij.gui.Overlay

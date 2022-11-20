@@ -1,0 +1,291 @@
+
+Vij.plugin.ImageCalculator#doStackOperation(Lij/ImagePlus;Lij/ImagePlus;)Lij/ImagePlus;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java¬ ¬("29*Ë
+13i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java› ›(Ì
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java› ›(# 
+%18ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+img2ij.ImagePlus2getProcessor()*
+12*¿
+24i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÀ
+ À(°û
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÀ
+ À(
+%3ij.ImagePlus"Fij.plugin.ImageCalculator#duplicateStack(Lij/ImagePlus;)Lij/ImagePlus;*
+ij.plugin.ImageCalculator*
+
+img1ij.ImagePlus2duplicateStack(Lij/ImagePlus;)†
+ù
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÀ À(
+img1ij.ImagePlus"__id*
+
+%3ij.ImagePlus*
+22
+23*ò
+15i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÿ ÿ(ö
+ó
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÿ ÿ(
+%13void"ij.Undo#reset()V*"	
+ij.Undo–Õ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaŸ Ÿ(%
+%14ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+img1ij.ImagePlus2
+getStack()•
+¢
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaŸ Ÿ(&
+stack1ij.ImageStack"__id*
+
+%14ij.ImageStackÌ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java⁄1 ⁄(D 
+%15ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+img1ij.ImagePlus2getProcessor()´®
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java⁄ ⁄(( 
+%16ij.process.StackProcessor"ij.process.StackProcessorß
+§
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java⁄ ⁄(E
+%17"Mij.process.StackProcessor#<init>(Lij/ImageStack;Lij/process/ImageProcessor;)V*"
+ 
+%16ij.process.StackProcessor*
+
+stack1ij.ImageStack*"
+ 
+%15ij.process.ImageProcessorπ
+∂
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java⁄ ⁄(F
+spij.process.StackProcessor"__id*"
+ 
+%16ij.process.StackProcessor*
+13
+11*¶
+26i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java« «(ø
+º
+j
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java« «(å
+
+%2void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Image Calculator*mk
+i'Image1' and 'image2' must be stacks with the same\nnumber of slices, or 'image2' must be a single image."s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java» »(
+""*Ÿ
+16i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java◊ ◊(≤Ø
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java◊ ◊(
+
+%11int"ij.ImagePlus#getID()I*
+
+img1ij.ImagePlus2getID()¨
+©
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java◊ ◊( 
+%12void"ij.IJ#selectWindow(I)V*	"
+ij.IJ*
+
+
+%11int*
+15*Ç
+17i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java÷9 ÷(F±Æ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java÷P ÷(\	
+%9int"ij.ImagePlus#getID()I*
+
+img1ij.ImagePlus2getID()“
+œ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java÷9 ÷(]
+%10ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+	
+%9int*
+15
+16*ñ
+29i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java√ √(í
+è
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java√ √(
+img3ij.ImagePlus"__id*
+""øº
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaƒ ƒ(!	
+%0int"ij.ImagePlus#getStackSize()I*
+
+img1ij.ImagePlus2getStackSize()øº
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java≈ ≈(!	
+%1int"ij.ImagePlus#getStackSize()I*
+
+img2ij.ImagePlus2getStackSize()*
+24
+26
+21*∏
+19i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java÷ ÷(º
+π
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java÷ ÷($
+%8boolean"#ij.macro.Interpreter#isBatchMode()Z*"
+ij.macro.Interpreter*
+15
+17*Ù
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÎ	 Î("É
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÎ Î(
+
+img3ij.ImagePlus*π
+2i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÍ Í(√¿
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÍ Í(
+%33void"ij.ImagePlus#updateAndDraw()V*
+
+img1ij.ImagePlus2updateAndDraw()*
+1* 
+4i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÁ Á(Ì
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÁ Á( 
+%31ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+img1ij.ImagePlus2getProcessor()ﬁ€
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÁ Á('
+%32void"+ij.process.ImageProcessor#resetMinAndMax()V*"
+ 
+%31ij.process.ImageProcessor2resetMinAndMax()*
+2
+1*ﬁ
+5i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÂ Â(ûõ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÂ Â(
+%28void"9ij.ImagePlus#setStack(Ljava/lang/String;Lij/ImageStack;)V*
+
+img1ij.ImagePlus*
+""*
+
+stack1ij.ImageStack2+setStack(Ljava/lang/String;Lij/ImageStack;)∂≥
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÊ Ê(
+
+%29int"ij.ImagePlus#getType()I*
+
+img1ij.ImagePlus2	getType()à
+Ö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÊ Ê(%
+
+%30int"__id*
+""*	
+2
+4
+1*ﬂ
+20i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java’ ’(Á
+‰
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java’ ’(&
+
+%7void"8ij.WindowManager#setCurrentWindow(Lij/gui/ImageWindow;)V*"
+ij.WindowManager*
+
+winij.gui.ImageWindow*
+15*Õ
+21i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java“ “(≈
+¬
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java“ “(	
+%5int"+ij.plugin.ImageCalculator#getBlitterMode()I*
+ij.plugin.ImageCalculator€ÿ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java” ”($
+%6ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+img1ij.ImagePlus2getWindow()´
+®
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java” ”(%
+winij.gui.ImageWindow"__id*
+
+%6ij.gui.ImageWindow*
+19
+20*î
+10i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaﬂ! ﬂ("ùö
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaﬂ ﬂ(,
+%21void"7ij.process.StackProcessor#copyBits(Lij/ImageStack;III)V*!
+
+spij.process.StackProcessor*
+
+%20ij.ImageStack*2 *2 *
+""2copyBits(Lij/ImageStack;III)*
+5*ö
+22i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java–
+ –(¢
+ü
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java– –(
+img3ij.ImagePlus"__id*
+
+img1ij.ImagePlus*
+21*»
+11i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaﬂ ﬂ(–Õ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaﬂ ﬂ(
+%20ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+img2ij.ImagePlus2
+getStack()*
+10*∏
+12i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java›% ›(&¡æ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.java› ›(0
+%19void"Cij.process.StackProcessor#copyBits(Lij/process/ImageProcessor;III)V*!
+
+spij.process.StackProcessor*"
+ 
+%18ij.process.ImageProcessor*2 *2 *
+""2(copyBits(Lij/process/ImageProcessor;III)*
+5*√
+23i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÕ Õ(‹
+Ÿ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaÕ Õ(+
+
+%4void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+
+Calculator*
+Out of memory"s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImageCalculator.javaŒ Œ(
+"":
+img1ij.ImagePlus:
+img2ij.ImagePlusB
+ij.plugin.ImageCalculator

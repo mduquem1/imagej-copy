@@ -1,0 +1,35 @@
+
+<ij.ImagePlus#createThresholdMask()Lij/process/ByteProcessor;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java¡ ¡()"1*û
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java¢ ¢("ú
+÷
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java¢ ¢(3
+%0ij.process.ByteProcessor"Jij.plugin.Thresholder#createMask(Lij/ImagePlus;)Lij/process/ByteProcessor;*"
+ij.plugin.Thresholder*
+ij.ImagePlus«
+¨
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java¢ ¢(4 
+maskij.process.ByteProcessor"__id* 
+
+%0ij.process.ByteProcessory
+w
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java£ £(:	
+%1int"__id*
+""ìé
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java£ £(;
+
+%2void"+ij.process.ByteProcessor#setThreshold(DDI)V*"
+ 
+maskij.process.ByteProcessor*2ÿ*2ÿ*
+	
+%1int2setThreshold(DDI)"‚
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java¤ ¤("
+ 
+maskij.process.ByteProcessorB
+ij.ImagePlus

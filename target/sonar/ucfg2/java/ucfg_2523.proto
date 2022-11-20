@@ -1,0 +1,72 @@
+
+ij.gui.Roi#getLength()DZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java« «("5*Ÿ
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java– –(ß
+§
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java– –(1	
+%3int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*
+""ß
+§
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java— —(2	
+%4int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*
+""z
+x
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java“ “(
+%5double"__id*
+""¢
+ü
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java“& “(D
+%6double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+1*Ç
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   (í
+è
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   (
+%1ij.ImagePlus"__id**
+
+ij.gui.Roi"
+imp‹Ÿ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   ()
+%2ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%1ij.ImagePlus2getCalibration()§
+°
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   (*
+calij.measure.Calibration"__id*
+
+%2ij.measure.Calibration*
+2
+1*ˇ
+5Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java» »(í
+è
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java… …(	
+%0ij.ImagePlus"__id**
+
+ij.gui.Roi"
+imp*	
+2
+4
+1*≈
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java‘	 ‘("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java‘ ‘(
+""B
+
+ij.gui.Roi

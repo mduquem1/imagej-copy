@@ -1,0 +1,24 @@
+
+=ij.plugin.DICOM#getInfo(Ljava/lang/String;)Ljava/lang/String;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java» »("1*ì
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¼ ¼(äá
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¾ ¾(
+
+%0void"(ij.plugin.DICOM#run(Ljava/lang/String;)V*
+ij.plugin.DICOM*
+
+pathjava.lang.String2run(Ljava/lang/String;)¡
+ž
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¿	 ¿(
+%1java.lang.String"__id**
+ij.plugin.DICOM"
+info"{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/DICOM.java¿ ¿(
+
+%1java.lang.String:
+pathjava.lang.StringB
+ij.plugin.DICOM

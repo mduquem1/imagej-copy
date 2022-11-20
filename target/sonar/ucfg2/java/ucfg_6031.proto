@@ -1,0 +1,94 @@
+
+Cij.plugin.NextImageOpener#getName(Lij/ImagePlus;)Ljava/lang/String;g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.java? ?("6*Õ
+2g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaF F(∞
+≠
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaF F(
+%5java.lang.String"__id*$*"
+
+fiij.io.FileInfo"
+
+fileName¶
+£
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaF F(
+namejava.lang.String"__id*
+
+%5java.lang.String*
+1*ß
+3g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaE E(∞
+≠
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaE E(
+%4java.lang.String"__id*$*"
+
+fiij.io.FileInfo"
+
+fileName*
+2
+1*—
+4g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaD D(¥
+±
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaD D(
+%3java.lang.String"__id*(*&
+
+fiij.io.FileInfo"
+openNextName¶
+£
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaD D(
+namejava.lang.String"__id*
+
+%3java.lang.String*
+1*´
+5g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaC C(	¥
+±
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaC C(
+%2java.lang.String"__id*(*&
+
+fiij.io.FileInfo"
+openNextName*
+3
+4*¸
+6g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.java@ @(“œ
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.java@ @(
+%0java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()¶
+£
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.java@ @(
+namejava.lang.String"__id*
+
+%0java.lang.String‰·
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaA A()
+%1ij.io.FileInfo"2ij.ImagePlus#getOriginalFileInfo()Lij/io/FileInfo;*
+
+impij.ImagePlus2getOriginalFileInfo()†
+ù
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaA A(*
+fiij.io.FileInfo"__id*
+
+%1ij.io.FileInfo*
+5
+1*Ù
+1g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaH	 H("Ö
+g
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/NextImageOpener.javaH H(
+
+namejava.lang.String:
+impij.ImagePlusB
+ij.plugin.NextImageOpener

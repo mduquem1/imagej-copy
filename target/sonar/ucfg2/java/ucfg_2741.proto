@@ -1,0 +1,82 @@
+
+Gij.measure.Calibration#pluralForm(Ljava/lang/String;)Ljava/lang/String;f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java   (!"8*›
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java© ©(¨
+¥
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java© ©(
+unitsjava.lang.String"__id*
+
+unitjava.lang.String*
+1*‹
+3f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java§ §(˜
+•
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java§ §(
+unitsjava.lang.String"__id*
+
+inches*
+1*à
+4f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java¦ ¦(êç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java¦ ¦(
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+inch2equals(Ljava/lang/Object;)*
+2
+3*Œ
+5f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java¥ ¥(™
+–
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java¥ ¥(
+unitsjava.lang.String"__id*	
+microns*
+1*â
+6f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java¤ ¤(ìé
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java¤ ¤( 
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*
+
+micron2equals(Ljava/lang/Object;)*
+4
+5*‹
+7f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java£ £(˜
+•
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java£ £(
+unitsjava.lang.String"__id*
+
+pixels*
+1*ø
+8f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java¡ ¡(”
+‘
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java¡ ¡(
+unitsjava.lang.String"__id*
+""ëè
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.java¢ ¢(
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+unitjava.lang.String*	
+pixel2equals(Ljava/lang/Object;)*
+6
+7*ó
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaª ª("…
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Calibration.javaª ª(
+
+unitsjava.lang.String:
+unitjava.lang.StringB"
+ij.measure.Calibration

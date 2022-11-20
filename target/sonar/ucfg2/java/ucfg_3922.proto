@@ -1,0 +1,69 @@
+
+1ij.Menus#getMacroShortcuts()Ljava/util/Hashtable;X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÀ
+ À
+(*"3*·
+2X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÂ
+ Â
+(#Š
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÂ
+ Â
+(!
+%1java.util.Hashtable"java.util.HashtableŸ
+œ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÂ
+ Â
+(#
+%2"java.util.Hashtable#<init>()V*
+
+%1java.util.Hashtable 
+
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÂ
+ Â
+(#
+
+ij.Menus"
+macroShortcuts"__id*
+
+%1java.util.Hashtable*
+1*ˆ
+3X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÁ
+ Á
+( 
+
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÁ
+ Á
+(
+%0java.util.Hashtable"__id* *
+
+ij.Menus"
+macroShortcuts*
+2
+1*ù
+1X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÃ
+	 Ã
+( 
+
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÃ
+	 Ã
+(
+%3java.util.Hashtable"__id* *
+
+ij.Menus"
+macroShortcuts"w
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÃ
+ Ã
+(
+
+%3java.util.HashtableB"
+
+ij.Menus

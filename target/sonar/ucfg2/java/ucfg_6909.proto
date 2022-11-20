@@ -1,0 +1,58 @@
+
+=ij.gui.PolygonRoi#getNonSplineCoordinates()Ljava/awt/Polygon;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÏ Ï('"2"1*ñ
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÓ Ó(§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÓ Ó(!
+%0int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""§
+°
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÓ# Ó(.
+%1int[]"ij.gui.Roi#toIntR([F)[I*"
+
+ij.gui.Roi*
+""êç
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÓ Ó(
+%2java.awt.Polygon"java.awt.PolygonÕ
+ 
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÓ
+ Ó(8
+%3"java.awt.Polygon#<init>([I[II)V*
+
+%2java.awt.Polygon*
+
+%0int[]*
+
+%1int[]*
+"""}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÓ Ó(9
+
+%2java.awt.Polygon*∫
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java (êç
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java (
+%4java.awt.Polygon"java.awt.Polygonø
+º
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java
+ (&
+%5"java.awt.Polygon#<init>([I[II)V*
+
+%4java.awt.Polygon*
+""*
+""*
+"""}
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java ('
+
+%4java.awt.PolygonB
+ij.gui.PolygonRoi

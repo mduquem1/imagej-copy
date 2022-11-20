@@ -1,0 +1,55 @@
+
+=ij.gui.PlotContentsDialog#isValid(Lij/measure/ResultsTable;)Zi
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaã ã("3"4*­
+2i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaç
+ ç(ÇÄ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaç
+ ç(#	
+%2int"java.lang.String#length()I*&
+$
+columnHeadingStrjava.lang.String2length()"s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaç ç((
+""*®
+3i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaå å(ûø
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaå å(2
+%0java.lang.String"=ij.measure.ResultsTable#getColumnHeadings()Ljava/lang/String;*
+
+rtij.measure.ResultsTable2getColumnHeadings()´
+±
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaå å(3$
+columnHeadingStrjava.lang.String"__id*
+
+%0java.lang.String€ý
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaæ æ((
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*&
+$
+columnHeadingStrjava.lang.String*
+ \t2startsWith(Ljava/lang/String;)*
+2
+1*ã
+4i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaä ä("s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaä ä(
+""*­
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaé
+ é(ÇÄ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaé
+ é(#	
+%3int"java.lang.String#length()I*&
+$
+columnHeadingStrjava.lang.String2length()"s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PlotContentsDialog.javaé é()
+"":
+rtij.measure.ResultsTableB"
+ij.gui.PlotContentsDialog

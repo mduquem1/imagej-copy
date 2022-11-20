@@ -1,0 +1,65 @@
+
+Aij.plugin.StackEditor#getTitle(Lij/ImagePlus;I)Ljava/lang/String;e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackEditor.java∏ ∏("1*û
+1e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackEditor.javaπ π(¢
+ü
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackEditor.javaπ π(
+%0java.lang.String"__concat*
+
+00000000*
+""¶
+£
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackEditor.javaπ π(
+digitsjava.lang.String"__id*
+
+%0java.lang.String˚
+¯
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackEditor.java∫	 ∫(
+%1java.lang.String"Eij.plugin.StackEditor#getShortTitle(Lij/ImagePlus;)Ljava/lang/String;*
+ij.plugin.StackEditor*
+
+impij.ImagePlus≠
+™
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackEditor.java∫	 ∫(
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+-π∂
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackEditor.java∫1 ∫(@	
+%3int"java.lang.String#length()I*
+
+digitsjava.lang.String2length()π∂
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackEditor.java∫C ∫(R	
+%4int"java.lang.String#length()I*
+
+digitsjava.lang.String2length()ˆÛ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackEditor.java∫  ∫(S
+%5java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+digitsjava.lang.String*
+""*
+	
+%4int2substring(II)¿
+Ω
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackEditor.java∫	 ∫(S
+%6java.lang.String"__concat*
+
+%2java.lang.String*
+
+%5java.lang.String"Å
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/StackEditor.java∫ ∫(T
+
+%6java.lang.String:
+impij.ImagePlus:
+""B
+ij.plugin.StackEditor

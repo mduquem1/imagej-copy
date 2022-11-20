@@ -1,0 +1,26 @@
+
+wij.macro.ExtensionDescriptor#newDescriptor(Ljava/lang/String;Lij/macro/MacroExtension;II)Lij/macro/ExtensionDescriptor;j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.java!$ !(1"1*…
+1j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.java" "(þ
+û
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.java" "(A"
+%0ij.macro.ExtensionDescriptor"wij.macro.ExtensionDescriptor#newDescriptor(Ljava/lang/String;Lij/macro/MacroExtension;[I)Lij/macro/ExtensionDescriptor;* "
+ij.macro.ExtensionDescriptor*
+
+theNamejava.lang.String*'
+%
+
+theHandlerij.macro.MacroExtension*
+"""’
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/ExtensionDescriptor.java" "(B$
+"
+%0ij.macro.ExtensionDescriptor:
+theNamejava.lang.String:%
+
+theHandlerij.macro.MacroExtension:
+"":
+""B "
+ij.macro.ExtensionDescriptor

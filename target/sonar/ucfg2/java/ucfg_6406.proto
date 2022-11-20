@@ -1,0 +1,47 @@
+
+Jij.plugin.frame.RoiManager#getSliceNumber(Lij/gui/Roi;Ljava/lang/String;)Ij
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java† †("6"7*í
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java• •(õò
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java• •( 	
+%3int">ij.plugin.frame.RoiManager#getSliceNumber(Ljava/lang/String;)I*
+ij.plugin.frame.RoiManager*
+
+labeljava.lang.String2"getSliceNumber(Ljava/lang/String;)*
+1*á
+6j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java°+ °(,ç
+ä
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java°* °(,	
+%0int"__id*
+	
+%2int*
+2
+1*√
+7j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java° °(π∂
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java° °()	
+%1int"ij.gui.Roi#getPosition()I*
+
+roi
+ij.gui.Roi2getPosition()ç
+ä
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java° °()	
+%0int"__id*
+	
+%1int*
+2
+1*Â
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java¶	 ¶("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java¶ ¶(
+"":
+roi
+ij.gui.Roi:
+labeljava.lang.StringB
+ij.plugin.frame.RoiManager

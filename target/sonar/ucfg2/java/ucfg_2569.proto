@@ -1,0 +1,185 @@
+
+ij.gui.Roi#isHandle(II)IZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaê ê("47*Ñ
+46Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaë ë(ó
+î
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaë ë(
+%1ij.gui.ImageCanvas"__id**
+
+ij.gui.Roi"
+ic*
+44
+45*Ö
+47Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaë ë(ò
+ï
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaë ë(
+%0ij.ImagePlus"__id**
+
+ij.gui.Roi"
+	clipboard*
+46
+45*∆
+37Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java†; †(<"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java†4 †(=
+""*∆
+27Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¢; ¢(<"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¢4 ¢(=
+""*∆
+17Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java§; §(<"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java§4 §(=
+""*≈
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java®
+ ®("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java® ®(
+""*≈
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaß; ß(<"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaß4 ß(=
+""*≈
+7Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¶; ¶(<"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java¶4 ¶(=
+""*á
+41Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaì ì(1®•
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaî î(	
+%8int"ij.gui.Roi#getHandleSize()I*
+
+ij.gui.Roi2getHandleSize()°û
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javañ ñ(
+%9double"ij.gui.Roi#getXBase()D*
+
+ij.gui.Roi2
+getXBase()¢ü
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaó ó(
+%10double"ij.gui.Roi#getYBase()D*
+
+ij.gui.Roi2
+getYBase()¨©
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaò ò( 
+%11double"ij.gui.Roi#getFloatWidth()D*
+
+ij.gui.Roi2getFloatWidth()Æ´
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaô ô("
+%12double"ij.gui.Roi#getFloatHeight()D*
+
+ij.gui.Roi2getFloatHeight()©¶
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaö ö(
+
+%13int"ij.gui.Roi#screenXD(D)I*
+
+ij.gui.Roi*
+""2screenXD(D)©¶
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaõ õ(
+
+%14int"ij.gui.Roi#screenYD(D)I*
+
+ij.gui.Roi*
+""2screenYD(D)©¶
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaú ú(
+
+%15int"ij.gui.Roi#screenXD(D)I*
+
+ij.gui.Roi*
+""2screenXD(D)©¶
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaù ù(
+
+%16int"ij.gui.Roi#screenYD(D)I*
+
+ij.gui.Roi*
+""2screenYD(D)*!
+2
+37
+27
+17
+7
+32
+22
+1
+12*‰
+42Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaì/ ì(0|
+z
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaì/ ì(0	
+%5int"__id*
+	
+%7int*
+41*‰
+43Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaì- ì(.|
+z
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaì- ì(.	
+%5int"__id*
+	
+%6int*
+41*∆
+32Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java°; °(<"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java°4 °(=
+""*˛
+44Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaí í(ó
+î
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaí í(
+%2ij.gui.ImageCanvas"__id**
+
+ij.gui.Roi"
+ic≈¬
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaí í($
+%3double"&ij.gui.ImageCanvas#getMagnification()D*
+
+%2ij.gui.ImageCanvas2getMagnification()Ø
+¨
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaì ì(!
+%4java.awt.Dimension")ij.IJ#getScreenSize()Ljava/awt/Dimension;*	"
+ij.IJ*
+42
+43*∆
+22Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java£; £(<"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java£4 £(=
+""*∆
+12Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java•; •(<"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java•4 •(=
+""*∆
+45Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaë+ ë(,"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaë# ë(-
+"":
+"":
+""B
+
+ij.gui.Roi

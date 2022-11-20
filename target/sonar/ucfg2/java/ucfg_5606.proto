@@ -1,0 +1,33 @@
+
+Xij.gui.TextRoi#stringWidth(Ljava/lang/String;Ljava/awt/FontMetrics;Ljava/awt/Graphics;)D^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java   ("1*Ç
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¡  ¡('ú÷
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¡  ¡(=
+%0java.awt.geom.Rectangle2D"fjava.awt.FontMetrics#getStringBounds(Ljava/lang/String;Ljava/awt/Graphics;)Ljava/awt/geom/Rectangle2D;*!
+
+metricsjava.awt.FontMetrics*
+
+sjava.lang.String*
+
+gjava.awt.Graphics26getStringBounds(Ljava/lang/String;Ljava/awt/Graphics;)¬
+©
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¡ ¡(>
+rjava.awt.geom.Rectangle2D"__id*!
+
+%0java.awt.geom.Rectangle2DËÈ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¢	 ¢(
+%1double"*java.awt.geom.RectangularShape#getWidth()D* 
+
+rjava.awt.geom.Rectangle2D2
+getWidth()"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¢ ¢(
+"":
+sjava.lang.String:
+metricsjava.awt.FontMetrics:
+gjava.awt.GraphicsB
+ij.gui.TextRoi

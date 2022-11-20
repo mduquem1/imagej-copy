@@ -1,0 +1,36 @@
+
+4ij.plugin.ImagesToStack#exclude(Ljava/lang/String;)Zg
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImagesToStack.java¢ ¢("5*¤
+2g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImagesToStack.java£( £(-³
+°
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImagesToStack.java£6 £(<
+%1java.lang.String"__id*'*%
+ij.plugin.ImagesToStack"
+filterú÷
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImagesToStack.java£( £(=	
+%2int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+titlejava.lang.String*
+
+%1java.lang.String2indexOf(Ljava/lang/String;)*
+1*ª
+5g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImagesToStack.java£	 £(³
+°
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImagesToStack.java£	 £(
+%0java.lang.String"__id*'*%
+ij.plugin.ImagesToStack"
+filter*
+2
+1*ß
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImagesToStack.java£ £(B"q
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ImagesToStack.java£ £(B
+"":
+titlejava.lang.StringB
+ij.plugin.ImagesToStack

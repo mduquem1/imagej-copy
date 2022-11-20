@@ -1,0 +1,72 @@
+
+Pij.macro.Interpreter#run(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javae e("3*©
+2b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javai i(º
+·
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javai i(
+
+%1void"%ij.macro.Interpreter#setBatchMode(Z)V*"
+ij.macro.Interpreter*2*
+1*Æ
+3b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaf f(®
+«
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaf f($
+ij.macro.Interpreter"
+
+argument"__id*
+
+argjava.lang.String£
+ 
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javah h(
+%0	ij.ImageJ"ij.IJ#getInstance()Lij/ImageJ;*	"
+ij.IJ*
+2
+1*µ	
+1b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaj j(%±
+®
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaj j(%
+%2ij.macro.Interpreter"__id*&*$
+ij.macro.Interpreter"
+
+instance±
+®
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaj j(&$
+saveInstanceij.macro.Interpreter"__id*
+
+%2ij.macro.Interpreteròï
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javak k(
+
+%3void"-ij.macro.Interpreter#run(Ljava/lang/String;)V*
+ij.macro.Interpreter*
+
+macrojava.lang.String2run(Ljava/lang/String;)»
+¸
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javal l($
+ij.macro.Interpreter"
+
+instance"__id*&
+$
+saveInstanceij.macro.Interpreter°
+­
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javam	 m(
+%4java.lang.String"__id*)*'
+ij.macro.Interpreter"
+returnValue"~
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javam m(
+
+%4java.lang.String:
+macrojava.lang.String:
+argjava.lang.StringB
+ij.macro.Interpreter

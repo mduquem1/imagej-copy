@@ -1,0 +1,152 @@
+
+:ij.macro.Interpreter#getLastBatchModeImage()Lij/ImagePlus;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaÕ Õ(."16"17*€
+14d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java“ “(±
+Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java“ “(
+%1java.util.Vector"__id*(*&
+ij.macro.Interpreter"
+
+imageTable∞≠
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java“ “(	
+%2int"java.util.Vector#size()I*
+
+%1java.util.Vector2size()*
+11
+12*Ä
+15d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java– –(ç
+ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java– –(
+imp2ij.ImagePlus"__id*
+""*
+14*⁄
+16d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaœ
+ œ("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaœ œ(
+""*®
+17d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaŒ Œ(±
+Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaŒ Œ(
+%0java.util.Vector"__id*(*&
+ij.macro.Interpreter"
+
+imageTable*
+15
+16*È
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java⁄	 ⁄("~
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java⁄ ⁄(
+
+imp2ij.ImagePlus*ë
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaÿ ÿ(,†
+ù
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaÿ ÿ(,
+imp2ij.ImagePlus"__id*
+
+%11java.lang.Object*
+1*◊
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaÿ ÿ( ≤
+Ø
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaÿ ÿ( 
+%10java.util.Vector"__id*(*&
+ij.macro.Interpreter"
+
+imageTable±
+Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.javaÿ ÿ(,
+%11java.lang.Object"
+__arrayGet*
+
+%10java.util.Vector*
+""*
+3*ì
+6d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java÷ ÷(Fü
+ú
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java÷ ÷(F
+imp2ij.ImagePlus"__id*
+
+%9java.lang.Object*
+4
+1*†
+7d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java÷D ÷(EØ
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java÷ ÷(F
+%9java.lang.Object"
+__arrayGet*
+
+%6java.util.Vector*
+""*
+6*ï
+8d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java÷ ÷('∑
+¥
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java÷ ÷('
+%6java.util.Vector"__id*.*,
+ij.macro.Interpreter"
+imageActivations∑
+¥
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java÷, ÷(<
+%7java.util.Vector"__id*.*,
+ij.macro.Interpreter"
+imageActivations∞≠
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java÷, ÷(C	
+%8int"java.util.Vector#size()I*
+
+%7java.util.Vector2size()*
+7*‚
+10d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java’! ’(1∑
+¥
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java’! ’(1
+%4java.util.Vector"__id*.*,
+ij.macro.Interpreter"
+imageActivations∞≠
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java’! ’(8	
+%5int"java.util.Vector#size()I*
+
+%4java.util.Vector2size()*	
+4
+8
+1*∞
+11d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java’ ’(∑
+¥
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java’ ’(
+%3java.util.Vector"__id*.*,
+ij.macro.Interpreter"
+imageActivations*
+
+4
+10
+1*⁄
+12d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java‘ ‘("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Interpreter.java‘ ‘(
+""B"
+ij.macro.Interpreter

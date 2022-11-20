@@ -1,0 +1,53 @@
+
+Eij.WindowManager#makeUniqueName(Ljava/lang/String;)Ljava/lang/String;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaı ı($"4*Œ
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaş6 ş(:Ÿ
+œ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaş6 ş(:
+%1java.lang.String"__id*
+
+namejava.lang.String*
+1*¤
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaş" ş(/Ÿ
+œ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaş0 ş(4
+%1java.lang.String"__id*
+
+namejava.lang.Stringõ
+ò
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaş" ş(5
+%2java.lang.String"Dij.WindowManager#getUniqueName(Ljava/lang/String;)Ljava/lang/String;*"
+ij.WindowManager*
+
+namejava.lang.String
+š
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaş" ş(5
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*Í
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaş ş(İ
+Ú
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaş ş(!
+%0boolean"5ij.WindowManager#isDuplicateName(Ljava/lang/String;)Z*"
+ij.WindowManager*
+
+namejava.lang.String*
+2
+3*ã
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaş ş(;"|
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaş ş(;
+
+%1java.lang.String:
+namejava.lang.StringB"
+ij.WindowManager

@@ -1,0 +1,53 @@
+
+Bij.OtherInstance#getInt(Ljava/util/Properties;Ljava/lang/String;)I`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÕ Õ("7*Ñ
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÙ Ù(("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÙ Ù((
+""*£
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÙ Ù('¶³
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÙ Ù('	
+%2int"java.lang.Integer#intValue()I*
+
+%1java.lang.Integer2
+intValue()*
+3*Ü
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÙ Ù(ï
+ì
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÙ Ù(
+%1java.lang.Integer"?java.lang.Integer#decode(Ljava/lang/String;)Ljava/lang/Integer;*"
+java.lang.Integer*
+
+sjava.lang.String*
+4*±
+7`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÖ Ö(¢Ÿ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÖ Ö(#
+%0java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;)œ
+™
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÖ Ö($
+sjava.lang.String"__id*
+
+%0java.lang.String*
+5
+1*Ñ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÜ
+ Ü("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/OtherInstance.javaÜ Ü(
+"":
+propsjava.util.Properties:
+keyjava.lang.StringB"
+ij.OtherInstance

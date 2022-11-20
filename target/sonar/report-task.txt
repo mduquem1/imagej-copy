@@ -1,0 +1,7 @@
+organization=raulgsalguero82
+projectKey=MISOImage
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.34765
+dashboardUrl=https://sonarcloud.io/dashboard?id=MISOImage
+ceTaskId=AYSWiZyFNUhLG6_j1ueB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYSWiZyFNUhLG6_j1ueB

@@ -1,0 +1,46 @@
+
+Eij.Prefs#getColor(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaž ž("3*Û
+2X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¡
+ ¡("|
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¡ ¡( 
+
+defaultColorjava.awt.Color*§
+3X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaŸ
+ Ÿ(¿
+¼
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaŸ
+ Ÿ(	
+%0int"%ij.Prefs#getInt(Ljava/lang/String;I)I*"
+
+ij.Prefs*
+
+keyjava.lang.String*2ª*
+2
+1*Š
+1X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¢ ¢(ƒ€
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¢ ¢(
+%1java.awt.Color"java.awt.Color°
+­
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¢	 ¢(?
+%2"java.awt.Color#<init>(III)V*
+
+%1java.awt.Color*
+""*
+""*
+"""r
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java¢ ¢(@
+
+%1java.awt.Color:
+keyjava.lang.String:
+defaultColorjava.awt.ColorB"
+
+ij.Prefs

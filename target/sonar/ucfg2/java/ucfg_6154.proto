@@ -1,0 +1,153 @@
+
+/ij.plugin.Slicer#getSize(DDI)Ljava/lang/String;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¯ ¯("12*Æ
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¶ ¶(˜
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¶ ¶(
+%12java.lang.String"__concat*
+""*
+MBÄ
+Á
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¶ ¶(
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+
+	availablejava.lang.String"}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¶ ¶(
+
+%13java.lang.String*è
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´ ´(Bøõ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´ ´(B
+%11void"3java.awt.Component#setForeground(Ljava/awt/Color;)V*
+
+%7java.awt.Label*
+
+%8java.awt.Color2setForeground(Ljava/awt/Color;)*
+2
+1*”
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´6 ´(;Š
+‡
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´6 ´(A
+%10java.awt.Color"__id*
+""š
+—
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´6 ´(A
+%8java.awt.Color"__id*
+
+%10java.awt.Color*
+4*’
+6`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´, ´(1‰
+†
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´, ´(5
+%9java.awt.Color"__id*
+""™
+–
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´, ´(5
+%8java.awt.Color"__id*
+
+%9java.awt.Color*
+4*”
+8`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´ ´(¤
+¡
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java´ ´(
+%7java.awt.Label"__id*!*
+ij.plugin.Slicer"	
+message*
+5
+6*¾
+9`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java² ²(5¤
+¡
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java² ²(5
+	availablejava.lang.String"__id*
+
+%2java.lang.String¤
+¡
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java³ ³(
+%6java.awt.Label"__id*!*
+ij.plugin.Slicer"	
+message*	
+2
+8
+1*‹
+10`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java²2 ²(4
+š
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java²2 ²(4
+%2java.lang.String"__id*
+
+%4java.lang.String*
+9*×
+11`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java² ²("—
+”
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java² ²(&
+%5java.lang.String"__concat*
+ (*
+""¯
+¬
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java² ²(1
+%3java.lang.String"__concat*
+
+%5java.lang.String*
+
+MB free)
+š
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java² ²(1
+%2java.lang.String"__id*
+
+%3java.lang.String*
+9*œ
+12`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java° °( âß
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java° °(>	
+%0int")ij.plugin.Slicer#getOutputStackSize(DDI)I*
+ij.plugin.Slicer*
+""*
+""*
+""2getOutputStackSize(DDI)ÄÁ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java± ±(!	
+%1int"&ij.plugin.Slicer#getAvailableMemory()I*
+ij.plugin.Slicer2getAvailableMemory()*
+10
+11*š
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¸ ¸(³
+°
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¸ ¸(
+%14java.lang.String"__concat*
+<1MB*
+
+	availablejava.lang.String"}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Slicer.java¸ ¸(
+
+%14java.lang.String:
+"":
+"":
+""B
+ij.plugin.Slicer

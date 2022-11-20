@@ -1,0 +1,63 @@
+
+0ij.macro.Functions#getBuffer()Ljava/lang/String;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java§' §'("3*¯
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaß' ß'( ùö
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaß' ß'(
+%3java.lang.StringBuffer"java.lang.StringBuffer∑
+¥
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaß' ß'(!
+%4"!java.lang.StringBuffer#<init>(I)V*
+
+%3java.lang.StringBuffer*2ÄØ
+¨
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaß' ß'(! 
+ij.macro.Functions"
+buffer"__id*
+
+%3java.lang.StringBuffer*
+1*ï
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java•' •'(≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java•' •'(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¡æ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java•' •'(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()Ø
+¨
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¶' ¶'(
+%2java.lang.StringBuffer"__id*"* 
+ij.macro.Functions"
+buffer*
+2
+1*¸
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java®'	 ®'(Ø
+¨
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java®'	 ®'(
+%5java.lang.StringBuffer"__id*"* 
+ij.macro.Functions"
+buffer‡›
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java®'	 ®'(
+%6java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+%5java.lang.StringBuffer2
+toString()"~
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java®' ®'(
+
+%6java.lang.StringB
+ij.macro.Functions

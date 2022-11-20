@@ -1,0 +1,31 @@
+
+)ij.io.FileSaver#okForGif(Lij/ImagePlus;)Z_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÎ Î("3*Ï
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÐ
+ Ð("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÐ Ð(
+""*—
+3_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÏ Ï(	ª§
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÏ Ï(	
+%0int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()|
+z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÏ Ï((	
+%1int"__id*
+""*
+2
+1*Ï
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÒ
+ Ò("i
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileSaver.javaÒ Ò(
+"":
+impij.ImagePlusB"
+ij.io.FileSaver

@@ -1,0 +1,74 @@
+
+>ij.util.FontUtil#getFont([Ljava/lang/String;II)Ljava/awt/Font;^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java ("6*∏
+2^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java (è
+å
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java (
+fontNamejava.lang.String"__id*
+""∏
+µ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java (
+fontNamejava.lang.String"
+__arrayGet*!
+
+	fontNamesjava.lang.String[]*
+""*
+4
+1*¡
+4^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java (áÑ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java (
+%0java.awt.Font"java.awt.Font›
+⁄
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java
+ (*
+%1"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%0java.awt.Font*
+
+fontNamejava.lang.String*
+""*
+""ó
+î
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java (*
+fontjava.awt.Font"__id*
+
+%0java.awt.FontŒÀ
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java (
+%2java.lang.String"+java.awt.Font#getFamily()Ljava/lang/String;*
+
+fontjava.awt.Font2getFamily()˛˚
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java (,
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%2java.lang.String*
+
+fontNamejava.lang.String2startsWith(Ljava/lang/String;)*
+2
+1*Û
+6^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java (à
+Ö
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java (
+fontjava.awt.Font"__id*
+""*
+2*ﬁ
+1^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java"	 "("y
+^
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/FontUtil.java" "(
+
+fontjava.awt.Font:
+	fontNamesjava.lang.String[]:
+"":
+""B"
+ij.util.FontUtil

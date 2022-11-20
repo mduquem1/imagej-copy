@@ -1,0 +1,54 @@
+
+@ij.gui.ImageWindow#add(Ljava/awt/Component;)Ljava/awt/Component;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java® ®("1*Ž
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java¯	 ¯(é
+æ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java¯	 ¯(
+%0java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+""*
+
+compjava.awt.Component¥
+¢
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java¯ ¯(
+compjava.awt.Component"__id*
+
+%0java.awt.Componentèå
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java° °( 
+%1java.awt.Rectangle"9ij.gui.ImageWindow#getMaximumBounds()Ljava/awt/Rectangle;*
+ij.gui.ImageWindow2getMaximumBounds()®
+«
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java° °( #
+ij.gui.ImageWindow"
+	maxBounds"__id*
+
+%1java.awt.Rectangle®
+«
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java± ±(
+%2java.awt.Rectangle"__id*%*#
+ij.gui.ImageWindow"
+	maxBounds‹ˆ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java± ±(
+
+%3void"8java.awt.Frame#setMaximizedBounds(Ljava/awt/Rectangle;)V*
+ij.gui.ImageWindow*
+
+%2java.awt.Rectangle2(setMaximizedBounds(Ljava/awt/Rectangle;)°
+­
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java² ²(/
+
+%4long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System"‚
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java³ ³(
+
+compjava.awt.Component:
+compjava.awt.ComponentB
+ij.gui.ImageWindow

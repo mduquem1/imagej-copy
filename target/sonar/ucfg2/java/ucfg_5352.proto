@@ -1,0 +1,22 @@
+
+Yij.plugin.filter.MaximumFinder#getMaxima(Lij/process/ImageProcessor;DZ)Ljava/awt/Polygon;n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.java† †("1*ô
+1n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.java‡	 ‡(ñî
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.java‡	 ‡(A
+%0java.awt.Polygon"Zij.plugin.filter.MaximumFinder#getMaxima(Lij/process/ImageProcessor;DZZ)Ljava/awt/Polygon;*" 
+ij.plugin.filter.MaximumFinder*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""2)getMaxima(Lij/process/ImageProcessor;DZZ)"Š
+n
+b/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/MaximumFinder.java‡ ‡(B
+
+%0java.awt.Polygon:
+ipij.process.ImageProcessor:
+"":
+""B" 
+ij.plugin.filter.MaximumFinder

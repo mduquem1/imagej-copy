@@ -1,0 +1,339 @@
+
+Cij.plugin.CalibrationBar#addVerticalColorBar(Lij/gui/Overlay;IIII)Vh
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaŒ Œ(!"20*È
+13h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaª ª(ÑÎ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaª ª(!
+%9double"#ij.process.ImageProcessor#getMin()D*%
+#
+ipOrigij.process.ImageProcessor2getMin()*
+11*€
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¼ ¼(¿
+¼
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¼ ¼($
+%24java.lang.String"__id*1*/
+ij.plugin.CalibrationBar"
+barOutlineColor¢Ÿ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¼ ¼(%
+%25java.awt.Color"Eij.plugin.CalibrationBar#getColor(Ljava/lang/String;)Ljava/awt/Color;*
+ij.plugin.CalibrationBar*
+
+%24java.lang.String2getColor(Ljava/lang/String;)¡
+ž
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¼ ¼(&
+cjava.awt.Color"__id*
+
+%25java.awt.Color*
+0
+1*Õ
+14h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¦ ¦(®
+«
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¨ ¨(
+%7ij.ImagePlus"__id*%*#
+ij.plugin.CalibrationBar"
+impìé
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¨ ¨(+
+%8ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%7ij.ImagePlus2getProcessor()»
+¸
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¨ ¨(,#
+ipOrigij.process.ImageProcessor"__id*!
+
+%8ij.process.ImageProcessor*
+13
+7*ð
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaµ µ(‡
+„
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaµ µ(
+
+%14int"__id*
+""Ž‹
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¶ ¶(
+%15ij.gui.Line"ij.gui.LineÅ
+Â
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¶ ¶(1
+%16"ij.gui.Line#<init>(IIII)V*
+
+%15ij.gui.Line*
+""*
+""*
+""*
+""ž
+›
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¶ ¶(2
+lineij.gui.Line"__id*
+
+%15ij.gui.Line”‘
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java· ·( 
+%17java.awt.Color"java.awt.ColorÂ
+¿
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java· ·(S
+%18"java.awt.Color#<init>(III)V*
+
+%17java.awt.Color*
+""*
+""*
+""ú÷
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java· ·(T
+%19void",ij.gui.Roi#setStrokeColor(Ljava/awt/Color;)V*
+
+lineij.gui.Line*
+
+%17java.awt.Color2 setStrokeColor(Ljava/awt/Color;)Š
+‡
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¸ ¸(#
+%20double"__id*
+""ÔÑ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¸ ¸($
+%21void"ij.gui.Roi#setStrokeWidth(D)V*
+
+lineij.gui.Line*
+
+%20double2setStrokeWidth(D)”
+‘
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¹ ¹($
+%22java.lang.String"__id*
+""£ 
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¹ ¹(%
+%23void"3ij.gui.Overlay#add(Lij/gui/Roi;Ljava/lang/String;)V*
+
+overlayij.gui.Overlay*
+
+lineij.gui.Line*
+
+%22java.lang.String2#add(Lij/gui/Roi;Ljava/lang/String;)*
+7*¯
+6h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java² ²(‡
+„
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java²2 ²(<
+
+%12int"__id*
+""°
+­
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java² ²(C
+%13long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""*
+4*ž
+18h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaœ œ(‹
+ˆ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java (
+rLUTbyte[]"__id*
+""‹
+ˆ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaž ž(
+gLUTbyte[]"__id*
+""‹
+ˆ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaŸ Ÿ(
+bLUTbyte[]"__id*
+""*
+14*ÿ
+7h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java± ±(‡
+„
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java± ±($
+
+%11int"__id*
+""*
+2
+6*
+19h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java“( “(*»
+¸
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java“ “(+#
+mjava.awt.image.IndexColorModel"__id*!
+
+cmjava.awt.image.ColorModelÛØ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java” ”(	
+%3int",java.awt.image.IndexColorModel#getMapSize()I*%
+#
+mjava.awt.image.IndexColorModel2getMapSize()‹
+ˆ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java• •(
+rLUTbyte[]"__id*
+""‹
+ˆ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java– –(
+gLUTbyte[]"__id*
+""‹
+ˆ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java— —(
+bLUTbyte[]"__id*
+""ìé
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java˜ ˜(
+
+%4void"+java.awt.image.IndexColorModel#getReds([B)V*%
+#
+mjava.awt.image.IndexColorModel*
+
+rLUTbyte[]2getReds([B)ðí
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java™ ™(
+
+%5void"-java.awt.image.IndexColorModel#getGreens([B)V*%
+#
+mjava.awt.image.IndexColorModel*
+
+gLUTbyte[]2getGreens([B)îë
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaš š(
+
+%6void",java.awt.image.IndexColorModel#getBlues([B)V*%
+#
+mjava.awt.image.IndexColorModel*
+
+bLUTbyte[]2getBlues([B)*
+14*•
+20h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java (‹
+ˆ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java (
+rLUTbyte[]"__id*
+""‹
+ˆ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java (
+gLUTbyte[]"__id*
+""‹
+ˆ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java (
+bLUTbyte[]"__id*
+""®
+«
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java‘! ‘($
+%0ij.ImagePlus"__id*%*#
+ij.plugin.CalibrationBar"
+impìé
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java‘! ‘(3
+%1ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%0ij.ImagePlus2getProcessor()–“
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java‘! ‘(J
+%2java.awt.image.ColorModel"Kij.process.ImageProcessor#getCurrentColorModel()Ljava/awt/image/ColorModel;*!
+
+%1ij.process.ImageProcessor2getCurrentColorModel()·
+´
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java‘ ‘(K
+cmjava.awt.image.ColorModel"__id*!
+
+%2java.awt.image.ColorModel*
+18
+19*†
+0 "
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÃ Ã(
+implicit return*È
+11h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¬ ¬(ÒÏ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¬ ¬(!
+%10double"#ij.process.ImageProcessor#getMax()D*%
+#
+ipOrigij.process.ImageProcessor2getMax()*
+7*Ý
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¾ ¾(Œ‰
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¾ ¾(
+%26
+ij.gui.Roi"
+ij.gui.RoiÃ
+À
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¾ ¾('
+%27"ij.gui.Roi#<init>(IIII)V*
+
+%26
+ij.gui.Roi*
+""*
+""*
+""*
+""™
+–
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¾ ¾((
+r
+ij.gui.Roi"__id*
+
+%26
+ij.gui.Roiôñ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.java¿ ¿(
+%28void",ij.gui.Roi#setStrokeColor(Ljava/awt/Color;)V*
+
+r
+ij.gui.Roi*
+
+cjava.awt.Color2 setStrokeColor(Ljava/awt/Color;)ÇÄ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÀ À(
+%29void"ij.gui.Roi#setStrokeWidth(D)V*
+
+r
+ij.gui.Roi*
+""2setStrokeWidth(D)”
+‘
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÁ Á(!
+%30java.lang.String"__id*
+""Ÿœ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CalibrationBar.javaÁ Á("
+%31void"3ij.gui.Overlay#add(Lij/gui/Roi;Ljava/lang/String;)V*
+
+overlayij.gui.Overlay*
+
+r
+ij.gui.Roi*
+
+%30java.lang.String2#add(Lij/gui/Roi;Ljava/lang/String;)*
+0:
+overlayij.gui.Overlay:
+"":
+"":
+"":
+""B
+ij.plugin.CalibrationBar

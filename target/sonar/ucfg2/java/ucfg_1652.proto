@@ -1,0 +1,50 @@
+
++ij.gui.Plot#getCurrentFont()Ljava/awt/Font;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.java¶	 ¶	("4*ö
+2[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß	- ß	(8ù
+ö
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß	- ß	(8
+%3java.awt.Font"__id* *
+ij.gui.Plot"
+defaultFontí
+è
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß	- ß	(8
+%1java.awt.Font"__id*
+
+%3java.awt.Font*
+1*ö
+3[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß	 ß	(*ù
+ö
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß	 ß	(*
+%2java.awt.Font"__id* *
+ij.gui.Plot"
+currentFontí
+è
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß	 ß	(*
+%1java.awt.Font"__id*
+
+%2java.awt.Font*
+1*à
+4[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß		 ß	(ù
+ö
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß		 ß	(
+%0java.awt.Font"__id* *
+ij.gui.Plot"
+currentFont*
+2
+3*÷
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß	 ß	(9"t
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Plot.javaß	 ß	(9
+
+%1java.awt.FontB
+ij.gui.Plot

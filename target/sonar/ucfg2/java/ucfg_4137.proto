@@ -1,0 +1,52 @@
+
+4ij.process.MedianCut#getModalColor()Ljava/awt/Color;b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java3 3("5*
+5b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java6 6(
+}
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java6 6(	
+%0int"__id*
+""*
+5
+1*„
+1b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java; ;(≤
+Ø
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java; ;(	
+%1int"ij.process.MedianCut#red(I)I*
+ij.process.MedianCut*
+""¥
+±
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java; ;(#	
+%2int"ij.process.MedianCut#green(I)I*
+ij.process.MedianCut*
+""≥
+∞
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java;% ;(,	
+%3int"ij.process.MedianCut#blue(I)I*
+ij.process.MedianCut*
+""çä
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java; ;(
+%4java.awt.Color"java.awt.Color…
+∆
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java;	 ;(-
+%5"java.awt.Color#<init>(III)V*
+
+%4java.awt.Color*
+	
+%1int*
+	
+%2int*
+	
+%3int"|
+b
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/MedianCut.java; ;(.
+
+%4java.awt.ColorB
+ij.process.MedianCut

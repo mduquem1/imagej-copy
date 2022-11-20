@@ -1,0 +1,55 @@
+
+Hij.plugin.CompositeConverter#makeComposite(Lij/ImagePlus;)Lij/ImagePlus;j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaI I(&"5*…
+2j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaM
+ M(Ž
+‹
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaM
+ M($
+%3ij.ImagePlus"Pij.plugin.CompositeConverter#convertRGBToComposite(Lij/ImagePlus;)Lij/ImagePlus;* "
+ij.plugin.CompositeConverter*
+
+impij.ImagePlus"‚
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaM M(%
+
+%3ij.ImagePlus*ž
+3j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaL L(§
+¤
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaL L(U
+
+%2void"Jij.plugin.frame.Recorder#recordCall(Ljava/lang/String;Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+	ImagePlus*1/
+-imp2 = CompositeConverter.makeComposite(imp);*
+2*¾
+4j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaK K(Ä
+Á
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaK K(
+%1boolean"&ij.plugin.frame.Recorder#scriptMode()Z*"
+ij.plugin.frame.Recorder*
+2
+3*·
+5j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaJ J(	½º
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaJ J(	
+%0int"ij.ImagePlus#getBitDepth()I*
+
+impij.ImagePlus2getBitDepth()*
+4
+1*å
+1j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaO
+ O("t
+j
+`/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/CompositeConverter.javaO O(
+"":
+impij.ImagePlusB "
+ij.plugin.CompositeConverter

@@ -1,0 +1,95 @@
+
+3ij.gui.ImageCanvas#roiManagerSelect(Lij/gui/Roi;Z)Zb
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java§ §(#"8*³
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java² ²(¢
+Ÿ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java² ²(
+%5ij.ImagePlus"__id**
+ij.gui.ImageCanvas"
+impŸœ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java² ²(&
+
+%6void"Aij.plugin.frame.RoiManager#selectAndMakeVisible(Lij/ImagePlus;I)V*"
+ 
+rmij.plugin.frame.RoiManager*
+
+%5ij.ImagePlus*
+""2%selectAndMakeVisible(Lij/ImagePlus;I)*
+1*œ
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java¯ ¯(¢
+Ÿ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java¯ ¯(
+%2ij.ImagePlus"__id**
+ij.gui.ImageCanvas"
+impƒ€
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java¯ ¯(
+
+%3void"3ij.plugin.frame.RoiManager#select(Lij/ImagePlus;I)V*"
+ 
+rmij.plugin.frame.RoiManager*
+
+%2ij.ImagePlus*
+""2select(Lij/ImagePlus;I)‚ÿ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java° °(
+%4boolean":ij.plugin.frame.RoiManager#runCommand(Ljava/lang/String;)Z*"
+ 
+rmij.plugin.frame.RoiManager*
+
+delete2runCommand(Ljava/lang/String;)*
+1*Õ
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java­
+ ­("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java­ ­(
+""*ò
+6b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java« «(ýú
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java« «(!	
+%1int"5ij.plugin.frame.RoiManager#getRoiIndex(Lij/gui/Roi;)I*"
+ 
+rmij.plugin.frame.RoiManager*
+
+roi
+ij.gui.Roi2getRoiIndex(Lij/gui/Roi;)*	
+2
+3
+5*Õ
+7b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaª
+ ª("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaª ª(
+""*—
+8b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java¨ ¨(ï
+ì
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java¨ ¨(( 
+%0ij.plugin.frame.RoiManager"Dij.plugin.frame.RoiManager#getInstance()Lij/plugin/frame/RoiManager;*"
+ij.plugin.frame.RoiManager³
+°
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java¨ ¨() 
+rmij.plugin.frame.RoiManager"__id*"
+ 
+%0ij.plugin.frame.RoiManager*
+6
+7*Õ
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java³	 ³("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.java³ ³(
+"":
+roi
+ij.gui.Roi:
+""B
+ij.gui.ImageCanvas

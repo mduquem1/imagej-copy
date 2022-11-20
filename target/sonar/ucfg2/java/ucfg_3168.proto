@@ -1,0 +1,46 @@
+
+%ij.macro.Functions#drawPlotVectors()Db
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java§ §("1*„
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¨ ¨(ÆÃ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¨ ¨(
+%0double[]"$ij.macro.Functions#getFirstArray()[D*
+ij.macro.Functions2getFirstArray()ÄÁ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java© ©(
+%1double[]"#ij.macro.Functions#getNextArray()[D*
+ij.macro.Functions2getNextArray()ÄÁ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaª ª(
+%2double[]"#ij.macro.Functions#getNextArray()[D*
+ij.macro.Functions2getNextArray()ÄÁ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java« «(
+%3double[]"#ij.macro.Functions#getLastArray()[D*
+ij.macro.Functions2getLastArray()¢
+Ÿ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¬ ¬(
+%4ij.gui.Plot"__id* *
+ij.macro.Functions"
+plotãà
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java¬ ¬("
+
+%5void""ij.gui.Plot#drawVectors([D[D[D[D)V*
+
+%4ij.gui.Plot*
+""*
+""*
+""*
+""2drawVectors([D[D[D[D)ƒ
+€
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java­	 ­(
+%6double"__id*
+"""l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java­ ­(
+""B
+ij.macro.Functions

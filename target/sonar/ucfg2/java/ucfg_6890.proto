@@ -1,0 +1,140 @@
+
+ij.gui.PolygonRoi#contains(II)Za
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaò	 ò	("7*∫
+
+2a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaü	( ü	(+ûõ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaü	 ü	('
+%6ij.process.FloatPolygon"ij.process.FloatPolygonÕ
+ 
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaü	 ü	(:
+%7"&ij.process.FloatPolygon#<init>([F[FI)V*
+
+%6ij.process.FloatPolygon*
+""*
+""*
+""Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaü	 ü	(;
+polyij.process.FloatPolygon"__id*
+
+%6ij.process.FloatPolygonØ¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java†	 †	(&
+%8double"ij.gui.Roi#getXBase()D*
+ij.gui.PolygonRoi2
+getXBase()Ø¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java†	5 †	(?
+%9double"ij.gui.Roi#getYBase()D*
+ij.gui.PolygonRoi2
+getYBase()ﬁ€
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java†	
+ †	(F
+%10boolean"%ij.process.FloatPolygon#contains(DD)Z*!
+
+polyij.process.FloatPolygon*
+""*
+""2contains(DD)"k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java†	 †	(G
+""*π
+
+4a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaú	( ú	(/ûõ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaú	 ú	('
+%1ij.process.FloatPolygon"ij.process.FloatPolygonÕ
+ 
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaú	 ú	(G
+%2"&ij.process.FloatPolygon#<init>([F[FI)V*
+
+%1ij.process.FloatPolygon*
+""*
+""*
+""Æ
+´
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaú	 ú	(H
+polyij.process.FloatPolygon"__id*
+
+%1ij.process.FloatPolygonØ¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaù	 ù	(&
+%3double"ij.gui.Roi#getXBase()D*
+ij.gui.PolygonRoi2
+getXBase()Ø¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaù	5 ù	(?
+%4double"ij.gui.Roi#getYBase()D*
+ij.gui.PolygonRoi2
+getYBase()›⁄
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaù	
+ ù	(F
+%5boolean"%ij.process.FloatPolygon#contains(DD)Z*!
+
+polyij.process.FloatPolygon*
+""*
+""2contains(DD)"k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaù	 ù	(G
+""*”
+6a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaö	
+ ö	("k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaö	 ö	(
+""*û
+7a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaô	 ô	(ß
+§
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaô	 ô	(
+%0boolean"ij.gui.Roi#contains(II)Z*
+""*
+""*
+""*
+2
+4
+6
+1*¢
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java¢	 ¢	( ëé
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java¢	 ¢	(
+%11java.awt.Polygon"java.awt.Polygon¡
+æ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java¢	 ¢	(.
+%12"java.awt.Polygon#<init>([I[II)V*
+
+%11java.awt.Polygon*
+""*
+""*
+""°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java¢	 ¢	(/
+polyjava.awt.Polygon"__id*
+
+%11java.awt.Polygon–Õ
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java£	
+ £	(>
+%13boolean"java.awt.Polygon#contains(DD)Z*
+
+polyjava.awt.Polygon*
+""*
+""2contains(DD)"k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java£	 £	(?
+"":
+"":
+""B
+ij.gui.PolygonRoi

@@ -1,0 +1,100 @@
+
+6ij.macro.Functions#getAllHeadings()Lij/macro/Variable;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java∂: ∂:( "6*ä
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaΩ: Ω:(òï
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaΩ: Ω:(
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+\t2append(Ljava/lang/String;)*
+4
+1*◊
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaª: ª:(µ
+≤
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaª: ª:(
+%5java.lang.String"
+__arrayGet* 
+
+headingsjava.lang.String[]*
+""™ß
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaª: ª:(
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%5java.lang.String2append(Ljava/lang/String;)*	
+3
+4
+1*ˇ
+
+6b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java∑: ∑:(≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java∑: ∑:(
+%0ij.macro.Interpreter"__id*"* 
+ij.macro.Functions"
+interp¡æ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java∑: ∑:(
+
+%1void"!ij.macro.Interpreter#getParens()V*
+
+%0ij.macro.Interpreter2getParens()ﬂ
+‹
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java∏: ∏:(7
+%2java.lang.String[]"?ij.measure.ResultsTable#getDefaultHeadings()[Ljava/lang/String;*"
+ij.measure.ResultsTable©
+¶
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.java∏: ∏:(8
+headingsjava.lang.String[]"__id*
+
+%2java.lang.String[]üú
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaπ: π:(&
+%3java.lang.StringBuilder"java.lang.StringBuilderπ
+∂
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaπ: π:(+
+%4""java.lang.StringBuilder#<init>(I)V*
+
+%3java.lang.StringBuilder*2˙≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaπ: π:(,
+sbjava.lang.StringBuilder"__id*
+
+%3java.lang.StringBuilder*
+4
+1*∏
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaø: ø:(‚ﬂ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaø: ø:(#
+%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()ìê
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaø: ø:(
+%9ij.macro.Variable"ij.macro.Variable“
+œ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaø:	 ø:($
+%10"-ij.macro.Variable#<init>(Ljava/lang/String;)V*
+
+%9ij.macro.Variable*
+
+%8java.lang.String"
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaø: ø:(%
+
+%9ij.macro.VariableB
+ij.macro.Functions

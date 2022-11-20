@@ -1,0 +1,43 @@
+
+%ij.gui.Overlay#toArray()[Lij/gui/Roi;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java“ “("1*ú	
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java” ”(Ÿ
+œ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java” ”(
+%0java.util.Vector"__id**
+ij.gui.Overlay"
+listª§
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java” ”(&	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()…‚
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java” ”('
+%2ij.gui.Roi[]"ij.gui.Roi[]–
+“
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java” ”((
+arrayij.gui.Roi[]"__id*
+
+%2ij.gui.Roi[]Ÿ
+œ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java• •(
+%3java.util.Vector"__id**
+ij.gui.Overlay"
+listŠ‡
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java• •(&
+%4ij.gui.Roi[]"@java.util.Vector#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+%3java.util.Vector*
+
+arrayij.gui.Roi[]2toArray([Ljava/lang/Object;)"v
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Overlay.java• •('
+
+%4ij.gui.Roi[]B
+ij.gui.Overlay

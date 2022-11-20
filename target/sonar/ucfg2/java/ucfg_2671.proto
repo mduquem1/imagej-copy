@@ -1,0 +1,46 @@
+
+<ij.gui.Roi#getProperty(Ljava/lang/String;)Ljava/lang/String;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÎ Î("3*Å
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÐ
+ Ð("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÐ Ð(
+""*†
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÏ Ï(œ
+™
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÏ Ï(
+%0java.util.Properties"__id**
+
+ij.gui.Roi"
+props*
+2
+1*—
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÒ
+ Ò(œ
+™
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÒ
+ Ò(
+%1java.util.Properties"__id**
+
+ij.gui.Roi"
+propsž›
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÒ
+ Ò(%
+%2java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+%1java.util.Properties*
+
+propertyjava.lang.String2getProperty(Ljava/lang/String;)"v
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaÒ Ò(&
+
+%2java.lang.String:
+propertyjava.lang.StringB
+
+ij.gui.Roi

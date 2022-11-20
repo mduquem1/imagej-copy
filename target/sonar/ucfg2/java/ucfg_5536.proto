@@ -1,0 +1,56 @@
+
+Fij.io.FileOpener#getBoolean(Ljava/util/Properties;Ljava/lang/String;)Z`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java™ ™("5*ø
+2`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java›( ›(-‹
+ˆ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java›( ›(-
+%2boolean"__id*
+
+%4boolean*
+1*ø
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java›# ›('‹
+ˆ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java›# ›('
+%2boolean"__id*
+
+%3boolean*
+1*Ñ
+4`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java› ›(áÞ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java› ›("
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+sjava.lang.String*
+true2equals(Ljava/lang/Object;)*
+2
+3*±
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.javaš š(¢Ÿ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.javaš š(#
+%0java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;)œ
+™
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.javaš š($
+sjava.lang.String"__id*
+
+%0java.lang.String*
+2
+4*Ñ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java› ›(."j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileOpener.java› ›(.
+"":
+propsjava.util.Properties:
+keyjava.lang.StringB
+ij.io.FileOpener

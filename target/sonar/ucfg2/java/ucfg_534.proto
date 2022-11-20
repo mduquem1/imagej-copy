@@ -1,0 +1,69 @@
+
+=ij.process.ImageProcessor#getStringWidth(Ljava/lang/String;)Ii
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaà à("1*¨
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaé é($∏µ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaé é('
+%0java.awt.Rectangle"Qij.process.ImageProcessor#getStringBounds(Ljava/lang/String;)Ljava/awt/Rectangle;*
+ij.process.ImageProcessor*
+
+sjava.lang.String2#getStringBounds(Ljava/lang/String;)≥
+∞
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaé é((!
+rectjava.awt.geom.Rectangle2D"__id*
+
+%0java.awt.Rectangle¿
+Ω
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaè è("
+%1java.awt.FontMetrics"__id*.*,
+ij.process.ImageProcessor"
+fontMetricsæ
+ª
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaè6 è(@
+%2java.awt.Graphics2D"__id*-*+
+ij.process.ImageProcessor"
+
+fmGraphicsÉÄ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaè è(A
+%3java.awt.geom.Rectangle2D"fjava.awt.FontMetrics#getStringBounds(Ljava/lang/String;Ljava/awt/Graphics;)Ljava/awt/geom/Rectangle2D;*
+
+%1java.awt.FontMetrics*
+
+sjava.lang.String*
+
+%2java.awt.Graphics2D26getStringBounds(Ljava/lang/String;Ljava/awt/Graphics;)◊‘
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaè è(L
+%4double"*java.awt.geom.RectangularShape#getWidth()D*!
+
+%3java.awt.geom.Rectangle2D2
+getWidth()—Œ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaèN è(Y
+%5double"&java.awt.geom.RectangularShape#getX()D*#
+!
+rectjava.awt.geom.Rectangle2D2getX()Ÿ÷
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaèZ è(i
+%6double"*java.awt.geom.RectangularShape#getWidth()D*#
+!
+rectjava.awt.geom.Rectangle2D2
+getWidth()¡
+æ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaè è(j
+%7double"java.lang.Math#max(DD)D*"
+java.lang.Math*
+
+%4double*
+"""s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaè è(k
+"":
+sjava.lang.StringB
+ij.process.ImageProcessor

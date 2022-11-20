@@ -1,0 +1,5 @@
+ij.process.ResetHelper#resetWithImage(Lij/process/ImageProcessor;[S[SIIIIII)Ljava/lang/Object;
+java.lang.Object#<init>()V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+java.lang.Object#instance-init#

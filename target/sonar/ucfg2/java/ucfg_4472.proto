@@ -1,0 +1,41 @@
+
+)ij.gui.ShapeRoi#clone()Ljava/lang/Object;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaú ú(!"1*¶	
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaù ù(™
+ß
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaù ù('
+%0java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+""õ
+ò
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.javaù ù((
+srij.gui.ShapeRoi"__id*
+
+%0java.lang.Object†
+ù
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java§" §('
+%1java.awt.Shape"__id**
+ij.gui.ShapeRoi"
+shapeÂ
+‚
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java§ §((
+%2java.awt.Shape"<ij.gui.ShapeRoi#cloneShape(Ljava/awt/Shape;)Ljava/awt/Shape;*"
+ij.gui.ShapeRoi*
+
+%1java.awt.ShapeÌÍ
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java§ §()
+%3boolean"+ij.gui.ShapeRoi#setShape(Ljava/awt/Shape;)Z*
+
+srij.gui.ShapeRoi*
+
+%2java.awt.Shape2setShape(Ljava/awt/Shape;)"z
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ShapeRoi.java• •(
+
+srij.gui.ShapeRoiB
+ij.gui.ShapeRoi

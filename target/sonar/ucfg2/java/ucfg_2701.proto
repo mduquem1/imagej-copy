@@ -1,0 +1,61 @@
+
+ij.gui.Roi#getHashCode()IZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaž ž("1*ï
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaŸ	 Ÿ(¤¡
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaŸ	 Ÿ(	
+%0int"java.lang.Object#hashCode()I*
+
+ij.gui.Roi2
+hashCode()¡ž
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaŸ& Ÿ(0
+%1double"ij.gui.Roi#getXBase()D*
+
+ij.gui.Roi2
+getXBase()Ì
+É
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaŸ Ÿ(1
+%2java.lang.Double"-java.lang.Double#valueOf(D)Ljava/lang/Double;*"
+java.lang.Double*
+
+%1double®«
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaŸ Ÿ(<	
+%3int"java.lang.Double#hashCode()I*
+
+%2java.lang.Double2
+hashCode()¡ž
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java &  (0
+%4double"ij.gui.Roi#getYBase()D*
+
+ij.gui.Roi2
+getYBase()Ì
+É
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   (1
+%5java.lang.Double"-java.lang.Double#valueOf(D)Ljava/lang/Double;*"
+java.lang.Double*
+
+%4double®«
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   (<	
+%6int"java.lang.Double#hashCode()I*
+
+%5java.lang.Double2
+hashCode()¸
+µ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.java   (@	
+%7int""java.lang.Integer#rotateRight(II)I*"
+java.lang.Integer*
+	
+%6int*2"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaŸ  (A
+""B
+
+ij.gui.Roi

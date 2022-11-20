@@ -1,0 +1,91 @@
+
+Nij.io.Opener#openTextImage(Ljava/lang/String;Ljava/lang/String;)Lij/ImagePlus;\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java´ ´("4*¯
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaØ) Ø(-è
+å
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaØ) Ø(-
+%4ij.ImagePlus"__id*
+
+%6
+<nulltype>*
+1*Ñ
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaØ  Ø($ÉÄ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaØ Ø(
+%5ij.ImagePlus"ij.ImagePlusÅ
+˛
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaØ Ø((
+%7"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%5ij.ImagePlus*
+
+namejava.lang.String*!
+
+ipij.process.ImageProcessorë
+é
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaØ Ø((
+%4ij.ImagePlus"__id*
+
+%5ij.ImagePlus*
+1*˜
+
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¨ ¨(∫
+∑
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¨ ¨(
+%0java.lang.String"__concat*
+
+dirjava.lang.String*
+
+namejava.lang.Stringõ
+ò
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java¨ ¨(
+pathjava.lang.String"__id*
+
+%0java.lang.Stringìê
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java≠ ≠( 
+%1ij.plugin.TextReader"ij.plugin.TextReader•
+¢
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java≠ ≠("
+%2"ij.plugin.TextReader#<init>()V*
+
+%1ij.plugin.TextReader°
+û
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.java≠ ≠(#
+trij.plugin.TextReader"__id*
+
+%1ij.plugin.TextReader†ù
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÆ Æ(#
+%3ij.process.ImageProcessor"Hij.plugin.TextReader#open(Ljava/lang/String;)Lij/process/ImageProcessor;*
+
+trij.plugin.TextReader*
+
+pathjava.lang.String2open(Ljava/lang/String;)´
+®
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaÆ Æ($
+ipij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessor*
+2
+3*◊
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaØ Ø(."t
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/Opener.javaØ Ø(.
+
+%4ij.ImagePlus:
+dirjava.lang.String:
+namejava.lang.StringB
+ij.io.Opener

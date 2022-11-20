@@ -1,0 +1,159 @@
+
+"ij.io.FileInfo#getBytesPerPixel()I^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¸ ¸("1*Í
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.javaÀ À("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.javaÀ À(
+""*Í
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¿ ¿( "h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¿ ¿( 
+""*Í
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¾ ¾(+"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¾" ¾(+
+""*Í
+5^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java½ ½(1"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java½( ½(1
+""*Ï
+6_
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¼ ¼(ˆ"i
+_
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¼ ¼(ˆ
+""*Í
+7^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java» »(L"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java»C »(L
+""*Í
+8^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.javaº º(2"h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.javaº) º(2
+""*È
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¹
+ ¹({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.javaº º(	
+%0int"__id*
+""{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.javaº º(	
+%1int"__id*
+""{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.javaº! º('	
+%2int"__id*
+""{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java» »(	
+%3int"__id*
+""{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java» »(+	
+%4int"__id*
+""{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java»2 »(A	
+%5int"__id*
+""{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¼ ¼(	
+%6int"__id*
+""{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¼ ¼((	
+%7int"__id*
+""{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¼/ ¼(;	
+%8int"__id*
+""{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¼B ¼(F	
+%9int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¼M ¼(\
+
+%10int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¼c ¼(g
+
+%11int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¼n ¼(r
+
+%12int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¼y ¼(}
+
+%13int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java½ ½(
+
+%14int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java½ ½(
+
+%15int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java½# ½(&
+
+%16int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¾ ¾(
+
+%17int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¾ ¾( 
+
+%18int"__id*
+""|
+z
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/FileInfo.java¿ ¿(
+
+%19int"__id*
+""*
+2
+3
+4
+5
+6
+7
+8B
+ij.io.FileInfo

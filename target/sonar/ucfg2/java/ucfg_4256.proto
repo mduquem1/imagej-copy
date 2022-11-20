@@ -1,0 +1,346 @@
+
+$ij.plugin.frame.Recorder#isSaveAs()Zh
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˘ ˘("29*Œ
+24h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˝ ˝(∫
+∑
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˝ ˝(
+%6java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÛ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˝ ˝()
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%6java.lang.String*
+Text Image...2equals(Ljava/lang/Object;)*+
+2
+14
+4
+16
+6
+18
+8
+20
+10
+22
+12
+1*∂
+14h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÇ Ç(ª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÇ Ç(
+%16java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÓÎ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÇ Ç("
+%17boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%16java.lang.String*
+
+PGM...2equals(Ljava/lang/Object;)*
+2
+4
+6
+8
+10
+12
+1*Ã
+26h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¸ ¸(∫
+∑
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¸ ¸(
+%4java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÌÍ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java¸ ¸(#
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%4java.lang.String*	
+Jpeg...2equals(Ljava/lang/Object;)*/
+24
+14
+16
+18
+1
+2
+4
+6
+8
+20
+10
+22
+12*∫
+16h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÅ Å(ª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÅ Å(
+%14java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÓÎ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÅ Å("
+%15boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%14java.lang.String*
+
+PNG...2equals(Ljava/lang/Object;)*
+2
+14
+4
+6
+8
+10
+12
+1*œ
+28h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˚ ˚(∫
+∑
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˚ ˚(
+%2java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÏÈ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˚ ˚("
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*
+
+Gif...2equals(Ljava/lang/Object;)*3
+24
+14
+26
+16
+18
+1
+2
+4
+6
+8
+20
+10
+22
+12*æ
+18h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÄ Ä(ª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÄ Ä(
+%12java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÓÎ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÄ Ä("
+%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%12java.lang.String*
+
+BMP...2equals(Ljava/lang/Object;)*
+2
+14
+4
+16
+6
+8
+10
+12
+1*‘
+29h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˙	 ˙(∫
+∑
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˙	 ˙(
+%0java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÌÍ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˙	 ˙(&
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*	
+Tiff...2equals(Ljava/lang/Object;)*7
+24
+14
+26
+16
+28
+18
+1
+2
+4
+6
+8
+20
+10
+22
+12*·
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˙ â(!"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˙ â(!
+""*ü
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaâ â(ª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaâ â(
+%28java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÏÈ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaâ â( 
+%29boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%28java.lang.String*
+Save2equals(Ljava/lang/Object;)*
+1*¶
+4h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaà à(ª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaà à(
+%26java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÌ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaà à($
+%27boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%26java.lang.String*
+
+Text... 2equals(Ljava/lang/Object;)*
+2
+1*≤
+6h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÜ Ü(ª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÜ Ü(
+%24java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandName˘ˆ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÜ Ü(-
+%25boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%24java.lang.String*
+XY Coordinates...2equals(Ljava/lang/Object;)*	
+2
+4
+1*∞
+8h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÖ Ö(ª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÖ Ö(
+%22java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÙÒ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÖ Ö((
+%23boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%22java.lang.String*
+Selection...2equals(Ljava/lang/Object;)*
+2
+4
+6
+1*«
+20h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaˇ ˇ(ª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaˇ ˇ(
+%10java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÛ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaˇ ˇ('
+%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%10java.lang.String*
+Raw Data...2equals(Ljava/lang/Object;)*#
+2
+14
+4
+16
+6
+18
+8
+10
+12
+1*Æ
+10h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÑ Ñ(ª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÑ Ñ(
+%20java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÓÎ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÑ Ñ("
+%21boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%20java.lang.String*
+
+LUT...2equals(Ljava/lang/Object;)*
+2
+4
+6
+8
+1*√
+22h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˛ ˛(∫
+∑
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˛ ˛(
+%8java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÏÈ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.java˛ ˛("
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%8java.lang.String*
+
+ZIP...2equals(Ljava/lang/Object;)*'
+2
+14
+4
+16
+6
+18
+8
+20
+10
+12
+1*≥
+12h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÉ É(ª
+∏
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÉ É(
+%18java.lang.String"__id*-*+
+ij.plugin.frame.Recorder"
+commandNameÔÏ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Recorder.javaÉ É(#
+%19boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%18java.lang.String*	
+FITS...2equals(Ljava/lang/Object;)*
+2
+4
+6
+8
+10
+1B"
+ij.plugin.frame.Recorder

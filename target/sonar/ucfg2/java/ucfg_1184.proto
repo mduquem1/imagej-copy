@@ -1,0 +1,50 @@
+
+ij.gui.OvalRoi#getLength()D^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÚ Ú("3*“
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÝ Ý(š
+—
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÝ Ý(
+%1ij.ImagePlus"__id**
+ij.gui.OvalRoi"
+impàÝ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÝ Ý()
+%2ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%1ij.ImagePlus2getCalibration()¨
+¥
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÝ Ý(*
+calij.measure.Calibration"__id*
+
+%2ij.measure.Calibration*
+1*ˆ
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÛ Û(š
+—
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaÜ Ü(	
+%0ij.ImagePlus"__id**
+ij.gui.OvalRoi"
+imp*
+2
+1*ö
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaá á(~
+|
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaã	 ã(
+%3double"__id*
+""¦
+£
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaã ã(<
+%4double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/OvalRoi.javaã ã(>
+""B
+ij.gui.OvalRoi

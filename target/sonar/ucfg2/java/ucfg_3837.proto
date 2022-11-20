@@ -1,0 +1,71 @@
+
+ij.WindowManager#getIDList()[I`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java "  (+"11*ì
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java«" «(+¨
+¥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java«" «(+
+%3java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList«
+¨
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java«" «(8
+%4java.lang.Object"
+__arrayGet*
+
+%3java.util.Vector*
+"" 
+
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java« «(9
+winij.gui.ImageWindow"__id*
+
+%4java.lang.Object×Ô
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java¬ ¬(
+%5ij.ImagePlus"/ij.gui.ImageWindow#getImagePlus()Lij/ImagePlus;*
+
+winij.gui.ImageWindow2getImagePlus()¦£
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java¬ ¬('	
+%6int"ij.ImagePlus#getID()I*
+
+%5ij.ImagePlus2getID()*
+3
+1*Ò
+10`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java¥
+ ¥("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java¥ ¥(
+""*Š
+11`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java¡ ¡(¨
+¥
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java¡ ¡(
+%0java.util.Vector"__id*#*!
+ij.WindowManager"
+	imageList¬©
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java¡ ¡(!	
+%1int"java.util.Vector#size()I*
+
+%0java.util.Vector2size()»
+¸
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java¢ ¢(<
+%2int[]"-ij.macro.Interpreter#getBatchModeImageIDs()[I*"
+ij.macro.Interpreter*
+
+3
+10
+1*Ñ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java®	 ®("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java® ®(
+""B"
+ij.WindowManager

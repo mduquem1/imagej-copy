@@ -1,0 +1,637 @@
+
+.ij.plugin.ZAxisProfiler#getPlot()Lij/gui/Plot;e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java7 7("49*Ú
+47e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaA A(ˆ
+Û
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaA A(7
+%9float[]"9ij.plugin.ZAxisProfiler#getZAxisProfile(Lij/gui/Roi;DD)[F*
+ij.plugin.ZAxisProfiler*
+
+roi
+ij.gui.Roi*
+""*
+""*
+41
+43
+45*˜
+48e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java? ?(˚
+¯
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java? ?(<
+%8float[]">ij.plugin.ZAxisProfiler#getHyperstackProfile(Lij/gui/Roi;DD)[F*
+ij.plugin.ZAxisProfiler*
+
+roi
+ij.gui.Roi*
+""*
+""*
+41
+43
+45*˘
+49e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java8 8(™
+ß
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java8 8(
+%0ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impøº
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java8 8(
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+%0ij.ImagePlus2getRoi()ó
+î
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java8 8(
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roi™
+ß
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java9 9(
+%2ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impÈÊ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java9 9((
+%3ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%2ij.ImagePlus2getProcessor()¥
+±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java9 9()
+ipij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessor‹Ÿ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java: :(,
+%4double",ij.process.ImageProcessor#getMinThreshold()D*!
+
+ipij.process.ImageProcessor2getMinThreshold()‹Ÿ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java; ;(,
+%5double",ij.process.ImageProcessor#getMaxThreshold()D*!
+
+ipij.process.ImageProcessor2getMaxThreshold()™
+ß
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java= =(
+%6ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impΩ∫
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java= =()
+%7boolean"ij.ImagePlus#isHyperStack()Z*
+
+%6ij.ImagePlus2isHyperStack()*
+47
+48*“
+27e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaX X(@™
+ß
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaX X(@
+	depthUnitjava.lang.String"__id*
+
+%25java.lang.String±
+Æ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaY Y(
+
+xAxisLabeljava.lang.String"__id*
+
+	depthUnitjava.lang.String*
+18*‰
+28e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaX) X(,Â‚
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaX- X(;
+%28java.lang.String"3ij.measure.Calibration#getZUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2
+getZUnit()Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaX) X(;
+%29java.lang.String"__concat*
+[*
+
+%28java.lang.StringØ
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaX) X(?
+%27java.lang.String"__concat*
+
+%29java.lang.String*
+]§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaX) X(?
+%25java.lang.String"__id*
+
+%27java.lang.String*
+27*ò
+29e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaX! X((§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaX! X((
+%25java.lang.String"__id*
+
+%26java.lang.String*
+27*ã
+10e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaq q(µ
+≤
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaq q("
+%50double[]"ij.util.Tools#getMinMax([F)[D*"
+ij.util.Tools*
+""›⁄
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javas s()
+%51void"ij.gui.Plot#setLimits(DDDD)V*
+
+plotij.gui.Plot*
+""*
+""*
+""*
+""2setLimits(DDDD)*
+8
+1*–
+33e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaP P(E©
+¶
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaP P(E
+timeUnitjava.lang.String"__id*
+
+%20java.lang.String∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaQ Q(
+
+xAxisLabeljava.lang.String"__id*
+
+timeUnitjava.lang.String*
+18*Í
+34e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaP+ P(.ÎË
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaP/ P(@
+%23java.lang.String"6ij.measure.Calibration#getTimeUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2getTimeUnit()Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaP+ P(@
+%24java.lang.String"__concat*
+[*
+
+%23java.lang.StringØ
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaP+ P(D
+%22java.lang.String"__concat*
+
+%24java.lang.String*
+]§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaP+ P(D
+%20java.lang.String"__id*
+
+%22java.lang.String*
+33*ò
+35e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaP# P(*§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaP# P(*
+%20java.lang.String"__id*
+
+%21java.lang.String*
+33*Â
+13e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javan n(¥
+±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javan n()
+%48double"!ij.gui.ProfilePlot#getFixedMin()D*"
+ij.gui.ProfilePlot¥
+±
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javao o((
+%49double"!ij.gui.ProfilePlot#getFixedMax()D*"
+ij.gui.ProfilePlot*
+
+8
+10
+1*⁄	
+14e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaj j(è
+å
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaj j(
+%42java.awt.Color"__id*
+""ÏÈ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaj j(
+%43void"'ij.gui.Plot#setColor(Ljava/awt/Color;)V*
+
+plotij.gui.Plot*
+
+%42java.awt.Color2setColor(Ljava/awt/Color;)Ñ
+Å
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javak k(#
+
+%44int"__id*
+""›⁄
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javak k($
+%45void"ij.gui.Plot#addPoints([F[FI)V*
+
+plotij.gui.Plot*
+""*
+""*
+
+
+%44int2addPoints([F[FI)è
+å
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javal l(
+%46java.awt.Color"__id*
+""ÏÈ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javal l(
+%47void"'ij.gui.Plot#setColor(Ljava/awt/Color;)V*
+
+plotij.gui.Plot*
+
+%46java.awt.Color2setColor(Ljava/awt/Color;)*
+13*’
+15e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javah h(ãà
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javah h(
+%40ij.gui.Plot"ij.gui.Plot±
+Æ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javah h(7
+%41"Oij.gui.Plot#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;[F[F)V*
+
+%40ij.gui.Plot*
+
+titlejava.lang.String* 
+
+
+xAxisLabeljava.lang.String*
+Mean*
+""*
+""õ
+ò
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javah h(8
+plotij.gui.Plot"__id*
+
+%40ij.gui.Plot*
+13
+14*—
+16e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaf f(´
+®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaf f(
+%37ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+imp—Œ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaf f(
+%38java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%37ij.ImagePlus2
+getTitle()≤
+Ø
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaf f( 
+%39java.lang.String"__concat*
+
+%38java.lang.String*
+-0-0¶
+£
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaf f( 
+titlejava.lang.String"__id*
+
+%39java.lang.String*
+15*Â
+17e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javac c(”–
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javac c( 
+%30java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()¶
+£
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javac c(!
+rjava.awt.Rectangle"__id*
+
+%30java.awt.Rectangle´
+®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javad d(
+%31ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+imp—Œ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javad d(
+%32java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+%31ij.ImagePlus2
+getTitle()Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javad d(
+%33java.lang.String"__concat*
+
+%32java.lang.String*
+-∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javad d(!
+%34java.lang.String"__concat*
+
+%33java.lang.String*
+""Ø
+¨
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javad d(%
+%35java.lang.String"__concat*
+
+%34java.lang.String*
+-∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javad d()
+%36java.lang.String"__concat*
+
+%35java.lang.String*
+""¶
+£
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javad d()
+titlejava.lang.String"__id*
+
+%36java.lang.String*
+15*ã
+18e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaa a(ì
+ê
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaa a(
+titlejava.lang.String"__id*
+""*
+16
+17*Ô
+1g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaâ â("Ä
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaä ä(
+
+plotij.gui.Plot*≥
+
+2g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaÑ Ñ(ë
+é
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaÑ Ñ(
+%65java.awt.Color"__id*
+""ÓÎ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaÑ Ñ(
+%66void"'ij.gui.Plot#setColor(Ljava/awt/Color;)V*
+
+plotij.gui.Plot*
+
+%65java.awt.Color2setColor(Ljava/awt/Color;)ÌÍ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaÖ Ö(*
+%67void"%ij.gui.Plot#drawNormalizedLine(DDDD)V*
+
+plotij.gui.Plot*
+""*2 *
+""*
+""2drawNormalizedLine(DDDD)ë
+é
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaÜ Ü(
+%68java.awt.Color"__id*
+""ÓÎ
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaÜ Ü(
+%69void"'ij.gui.Plot#setColor(Ljava/awt/Color;)V*
+
+plotij.gui.Plot*
+
+%68java.awt.Color2setColor(Ljava/awt/Color;)≈¬
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaá á(
+%70void"ij.gui.Plot#setLineWidth(I)V*
+
+plotij.gui.Plot*22setLineWidth(I)*
+1*π
+3g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaÉ É(≈¬
+g
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaÉ É(
+%64void"ij.gui.Plot#setLineWidth(I)V*
+
+plotij.gui.Plot*22setLineWidth(I)*
+2*∂
+5e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java} }(´
+®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java} }(
+%60ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+imp´®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java} }(
+
+%61int"ij.ImagePlus#getZ()I*
+
+%60ij.ImagePlus2getZ()´
+®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java~ ~(
+%62ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+imp∑¥
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java~ ~(
+
+%63int"ij.ImagePlus#getNSlices()I*
+
+%62ij.ImagePlus2getNSlices()*
+2
+3*∂
+6e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaz z(´
+®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaz z(
+%56ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+imp´®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaz z(
+
+%57int"ij.ImagePlus#getT()I*
+
+%56ij.ImagePlus2getT()´
+®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java{ {(
+%58ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+imp∑¥
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.java{ {(
+
+%59int"ij.ImagePlus#getNFrames()I*
+
+%58ij.ImagePlus2getNFrames()*
+2
+3*÷
+8e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javav v(´
+®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javav v(
+%52ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+imp¡æ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javav v("
+
+%53int"ij.ImagePlus#getCurrentSlice()I*
+
+%52ij.ImagePlus2getCurrentSlice()´
+®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaw w(
+%54ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impª∏
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaw w( 
+
+%55int"ij.ImagePlus#getStackSize()I*
+
+%54ij.ImagePlus2getStackSize()*
+2
+3
+5
+6*∆
+40e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaF F(O´
+®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaF F(O
+
+xAxisLabeljava.lang.String"__id*
+
+%14java.lang.String´
+®
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaG G(
+%17ij.ImagePlus"__id*$*"
+ij.plugin.ZAxisProfiler"
+impÈÊ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaG G((
+%18ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%17ij.ImagePlus2getCalibration()∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaG G()
+calij.measure.Calibration"__id*
+
+%18ij.measure.Calibration«ƒ
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaH H(
+%19boolean" ij.measure.Calibration#scaled()Z*
+
+calij.measure.Calibration2scaled()*
+35
+28
+18
+29
+34*ò
+41e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaFG F(N§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaFG F(N
+%14java.lang.String"__id*
+
+%16java.lang.String*
+40*ò
+42e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaF? F(F§
+°
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaF? F(F
+%14java.lang.String"__id*
+
+%15java.lang.String*
+40*í
+43e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaF% F(+≤
+Ø
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaF% F(+
+%10java.lang.String"__id*'*%
+ij.plugin.ZAxisProfiler"
+choiceµ
+≤
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaF3 F(:
+%11java.lang.String[]"__id*(*&
+ij.plugin.ZAxisProfiler"	
+choices∞
+≠
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaF3 F(=
+%12java.lang.String"
+__arrayGet*
+
+%11java.lang.String[]*2 ˙˜
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaF% F(>
+%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%10java.lang.String*
+
+%12java.lang.String2equals(Ljava/lang/Object;)*
+41
+42*‹
+45e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaC
+ C("o
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZAxisProfiler.javaC C(
+""B
+ij.plugin.ZAxisProfiler

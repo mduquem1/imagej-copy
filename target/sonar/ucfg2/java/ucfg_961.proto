@@ -1,0 +1,87 @@
+
+2ij.process.ByteProcessor#getPixelInterpolated(DD)Ih
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.javaª ª(&"14*á
+2h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java´
+ ´("r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java´ ´(
+""*‚
+14h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java« «(†
+ƒ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java« «(#	
+%0int"__id*
+""*	
+7
+8
+9*Ï
+6h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java± ±(0Ú×
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java± ±(<
+%5double"Uij.process.ImageProcessor#getBicubicInterpolatedPixel(DDLij/process/ImageProcessor;)D*
+ij.process.ByteProcessor*
+""*
+""*
+ij.process.ByteProcessor2:getBicubicInterpolatedPixel(DDLij/process/ImageProcessor;)*
+2*þ
+7h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java° °( †
+ƒ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java°" °()	
+%4int"__id*
+""*
+6
+1*»
+8h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¯ ¯(«
+¨
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¯6 ¯(<
+%1byte[]"__id*(*&
+ij.process.ByteProcessor"
+pixelsï
+ì
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¯ ¯(=
+%2double"4ij.process.ByteProcessor#getInterpolatedPixel(DD[B)D*
+ij.process.ByteProcessor*
+""*
+""*
+
+%1byte[]·
+´
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¯ ¯(>
+
+%3long"java.lang.Math#round(D)J*"
+java.lang.Math*
+
+%2double"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¯ ¯(?
+""*á
+9h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java­ ­("r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java­ ­(
+""*À
+1h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¶
+ ¶(ÜÙ
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¶
+ ¶(.	
+%6int"&ij.process.ByteProcessor#getPixel(II)I*
+ij.process.ByteProcessor*
+""*
+""2getPixel(II)"r
+h
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ByteProcessor.java¶ ¶(/
+"":
+"":
+""B
+ij.process.ByteProcessor

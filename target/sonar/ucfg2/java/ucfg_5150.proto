@@ -1,0 +1,593 @@
+
+1ij.plugin.SurfacePlotter#run(Ljava/lang/String;)Vf
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java* *("27*æ
+13f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java@ @(≠
+™
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java@ @(
+%22ij.ImagePlus"__id*%*#
+ij.plugin.SurfacePlotter"
+imgÃ…
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java@ @(*
+%23ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%22ij.ImagePlus2
+getStack()ß
+§
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java@ @(+
+stackSourceij.ImageStack"__id*
+
+%23ij.ImageStack˛˚
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaA A(2 
+%24ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackSourceij.ImageStack*22getProcessor(I)∂
+≥
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaA A(3
+ipij.process.ImageProcessor"__id*"
+ 
+%24ij.process.ImageProcessorﬁ€
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaB B(, 
+%25ij.process.ImageProcessor"`ij.plugin.SurfacePlotter#makeSurfacePlot(Lij/process/ImageProcessor;)Lij/process/ImageProcessor;*
+ij.plugin.SurfacePlotter*!
+
+ipij.process.ImageProcessor2,makeSurfacePlot(Lij/process/ImageProcessor;)∏
+µ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaB B(-!
+plotij.process.ImageProcessor"__id*"
+ 
+%25ij.process.ImageProcessorœÃ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaC% C(4
+
+%26int"%ij.process.ImageProcessor#getWidth()I*#
+!
+plotij.process.ImageProcessor2
+getWidth()—Œ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaC6 C(F
+
+%27int"&ij.process.ImageProcessor#getHeight()I*#
+!
+plotij.process.ImageProcessor2getHeight()êç
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaC C($
+%28ij.ImageStack"ij.ImageStack¡
+æ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaC C(G
+%29"ij.ImageStack#<init>(II)V*
+
+%28ij.ImageStack*
+
+
+%26int*
+
+
+%27int°
+û
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaC C(H
+stackij.ImageStack"__id*
+
+%28ij.ImageStackâÜ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaD D(+ 
+%30java.awt.image.ColorModel"Dij.process.ImageProcessor#getColorModel()Ljava/awt/image/ColorModel;*#
+!
+plotij.process.ImageProcessor2getColorModel()ùö
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaD D(,
+%31void"9ij.ImageStack#setColorModel(Ljava/awt/image/ColorModel;)V*
+
+stackij.ImageStack*"
+ 
+%30java.awt.image.ColorModel2*setColorModel(Ljava/awt/image/ColorModel;)*
+12*⁄
+24f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java/ /(˘
+ˆ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java/ /(K
+
+%6void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Surface Plotter*,*
+(Grayscale or pseudo-color image required"p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java/M /(T
+""*´
+14f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java?. ?(1≠
+™
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java?. ?(1
+%19ij.ImagePlus"__id*%*#
+ij.plugin.SurfacePlotter"
+imgÃ…
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java?. ?(<
+%20ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+%19ij.ImagePlus2
+getStack()¥±
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java?. ?(F
+
+%21int"ij.ImageStack#getSize()I*
+
+%20ij.ImageStack2	getSize()*
+2
+13*ﬂ
+25f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java. .(	¨
+©
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java. .(	
+%3ij.ImagePlus"__id*%*#
+ij.plugin.SurfacePlotter"
+img∞≠
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java. .(	
+%4int"ij.ImagePlus#getType()I*
+
+%3ij.ImagePlus2	getType()Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java. .((	
+%5int"__id*
+""*
+24
+23*ï
+
+15f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java< <(íè
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java< <(
+%14java.util.Date"java.util.Date•
+¢
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java< <(
+%15"java.util.Date#<init>()V*
+
+%14java.util.Date£
+†
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java< <(
+startjava.util.Date"__id*
+
+%14java.util.Date≠
+™
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java= =(
+%16ij.ImagePlus"__id*%*#
+ij.plugin.SurfacePlotter"
+img–Õ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java= =(
+%17ij.LookUpTable"(ij.ImagePlus#createLut()Lij/LookUpTable;*
+
+%16ij.ImagePlus2createLut()Ø
+¨
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java= =(#
+ij.plugin.SurfacePlotter"
+lut"__id*
+
+%17ij.LookUpTableÖ
+Ç
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java? ?(*
+
+%18int"__id*
+""*
+2
+14*ı
+26f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java- -(î
+ë
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java- -(
+
+%2void"ij.IJ#noImage()V*	"
+ij.IJ"p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java- -(
+""*ﬁ
+16f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java; ;(
+"p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java; ;(
+
+""*û
+27f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java+ +(«
+ƒ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java+ +('
+%0ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager¨
+©
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java+ +('#
+ij.plugin.SurfacePlotter"
+img"__id*
+
+%0ij.ImagePlus¨
+©
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java, ,(	
+%1ij.ImagePlus"__id*%*#
+ij.plugin.SurfacePlotter"
+img*
+25
+26*Û
+17f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java9 9(≠
+™
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java9" 9(%
+%11ij.ImagePlus"__id*%*#
+ij.plugin.SurfacePlotter"
+img¬
+ø
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java9 9()
+
+%12int"#ij.IJ#setupDialog(Lij/ImagePlus;I)I*	"
+ij.IJ*
+
+%11ij.ImagePlus*2 Ö
+Ç
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java: :($
+
+%13int"__id*
+""*
+15
+16*ﬁ
+18f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java7 7(
+"p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java7 7(
+
+""*»
+19f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java6 6(œÃ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java6 6(
+%10boolean"&ij.plugin.SurfacePlotter#showDialog()Z*
+ij.plugin.SurfacePlotter2showDialog()*
+17
+18*Ñ
+0 "}
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java^ ^(
+implicit return*†
+1f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaX X(íè
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaX X(
+%62java.util.Date"java.util.Date•
+¢
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaX X(
+%63"java.util.Date#<init>()V*
+
+%62java.util.Date°
+û
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaX X(
+endjava.util.Date"__id*
+
+%62java.util.Dateπ∂
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaY Y($
+%64long"java.util.Date#getTime()J*
+
+startjava.util.Date2	getTime()∑¥
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaZ Z(!
+%65long"java.util.Date#getTime()J*
+
+endjava.util.Date2	getTime()Ø
+¨
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java\ \(#
+%66void""ij.IJ#register(Ljava/lang/Class;)V*	"
+ij.IJ*
+""§
+°
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java] ](%
+%67java.lang.String"__concat*
+
+Done in *
+""µ
+≤
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java] ](.
+%68java.lang.String"__concat*
+
+%67java.lang.String*
+
+ msec.≈
+¬
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java] ](0
+%69void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%68java.lang.String*
+0*ı
+2f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaT T((≠
+™
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaT) T(,
+%56ij.ImagePlus"__id*%*#
+ij.plugin.SurfacePlotter"
+imgÏÈ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaT) T(; 
+%57ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%56ij.ImagePlus2getProcessor()ﬂ‹
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaT T(< 
+%58ij.process.ImageProcessor"`ij.plugin.SurfacePlotter#makeSurfacePlot(Lij/process/ImageProcessor;)Lij/process/ImageProcessor;*
+ij.plugin.SurfacePlotter*"
+ 
+%57ij.process.ImageProcessor2,makeSurfacePlot(Lij/process/ImageProcessor;)∏
+µ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaT T(=!
+plotij.process.ImageProcessor"__id*"
+ 
+%58ij.process.ImageProcessoréã
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaU U(
+%59ij.ImagePlus"ij.ImagePlusÖ
+Ç
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaU U(&
+%60"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%59ij.ImagePlus*
+Surface Plot*#
+!
+plotij.process.ImageProcessor≠™
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaU U(-
+%61void"ij.ImagePlus#show()V*
+
+%59ij.ImagePlus2show()*
+1*≠
+4f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaP P(	ÔÏ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaP P($
+%53java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*#
+!
+plotij.process.ImageProcessor2getPixels()ÑÅ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaP P((
+%54void"-ij.ImageStack#setPixels(Ljava/lang/Object;I)V*
+
+stackij.ImageStack*
+
+%53java.lang.Object*
+""2setPixels(Ljava/lang/Object;I)¡æ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaQ Q(
+%55void"ij.ImagePlus#setSlice(I)V*
+
+plotsij.ImagePlus*
+""2setSlice(I)*
+8*∫
+6f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaO O(ƒ¡
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaO O(#
+%52boolean"ij.gui.ImageWindow#isClosed()Z*
+
+winij.gui.ImageWindow2
+isClosed()*
+4
+1*ﬁ
+7f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaK K(™
+ß
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaK K(&
+%42java.lang.String"__concat*
+Drawing slice *
+""≤
+Ø
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaK K(.
+%43java.lang.String"__concat*
+
+%42java.lang.String*
+...±
+Æ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaK K(5
+%44java.lang.String"__concat*
+
+%43java.lang.String*
+ (ºπ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaKC K(X
+
+%45int"ij.ImageStack#getSize()I*
+
+stackSourceij.ImageStack2	getSize()±
+Æ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaK K(Y
+%46java.lang.String"__concat*
+
+%44java.lang.String*
+""∂
+≥
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaK K(e
+%47java.lang.String"__concat*
+
+%46java.lang.String*	
+% done)≈
+¬
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaK K(f
+%48void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%47java.lang.StringÄ˝
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaL	 L($ 
+%49ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackSourceij.ImageStack*
+""2getProcessor(I)∂
+≥
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaL L($
+ipij.process.ImageProcessor"__id*"
+ 
+%49ij.process.ImageProcessorﬁ€
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaM M( 
+%50ij.process.ImageProcessor"`ij.plugin.SurfacePlotter#makeSurfacePlot(Lij/process/ImageProcessor;)Lij/process/ImageProcessor;*
+ij.plugin.SurfacePlotter*!
+
+ipij.process.ImageProcessor2,makeSurfacePlot(Lij/process/ImageProcessor;)∏
+µ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaM M(!
+plotij.process.ImageProcessor"__id*"
+ 
+%50ij.process.ImageProcessor⁄◊
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaN N('
+%51ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+plotsij.ImagePlus2getWindow()©
+¶
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaN N((
+winij.gui.ImageWindow"__id*
+
+%51ij.gui.ImageWindow*
+4
+6*≤
+8f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaJ J(ºπ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaJ J((
+
+%41int"ij.ImageStack#getSize()I*
+
+stackSourceij.ImageStack2	getSize()*
+7
+1*Ω
+
+9f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaG G(ÔÏ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaG G(#
+%36java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*#
+!
+plotij.process.ImageProcessor2getPixels()Çˇ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaG G('
+%37void"-ij.ImageStack#setPixels(Ljava/lang/Object;I)V*
+
+stackij.ImageStack*
+
+%36java.lang.Object*22setPixels(Ljava/lang/Object;I)éã
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaH H("
+%38ij.ImagePlus"ij.ImagePlusÓ
+Î
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaH H(9
+%39"7ij.ImagePlus#<init>(Ljava/lang/String;Lij/ImageStack;)V*
+
+%38ij.ImagePlus*
+Surface Plot*
+
+stackij.ImageStackü
+ú
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaH H(:
+plotsij.ImagePlus"__id*
+
+%38ij.ImagePlusØ¨
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaI I(
+%40void"ij.ImagePlus#show()V*
+
+plotsij.ImagePlus2show()*
+8*é
+11f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaF F(	Å˛
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaF F() 
+%33ij.process.ImageProcessor"@ij.process.ImageProcessor#duplicate()Lij/process/ImageProcessor;*#
+!
+plotij.process.ImageProcessor2duplicate()ÓÎ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaF F(5
+%34java.lang.Object"7ij.process.ImageProcessor#getPixels()Ljava/lang/Object;*"
+ 
+%33ij.process.ImageProcessor2getPixels()§°
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaF F(6
+%35void"=ij.ImageStack#addSlice(Ljava/lang/String;Ljava/lang/Object;)V*
+
+stackij.ImageStack*
+""*
+
+%34java.lang.Object2.addSlice(Ljava/lang/String;Ljava/lang/Object;)*
+12*¥
+12f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaE E(ºπ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.javaE E((
+
+%32int"ij.ImageStack#getSize()I*
+
+stackSourceij.ImageStack2	getSize()*
+9
+11*Î
+23f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java0 0(¨
+©
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java0 0(
+%7ij.ImagePlus"__id*%*#
+ij.plugin.SurfacePlotter"
+imgÍÁ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java0 0("
+%8ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%7ij.ImagePlus2getProcessor()⁄◊
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/SurfacePlotter.java0 0(2
+%9boolean"*ij.process.ImageProcessor#isInvertedLut()Z*!
+
+%8ij.process.ImageProcessor2isInvertedLut()*
+19:
+argjava.lang.StringB
+ij.plugin.SurfacePlotter

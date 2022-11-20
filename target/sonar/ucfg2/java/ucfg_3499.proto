@@ -1,0 +1,95 @@
+
+&ij.io.RandomAccessStream#readUntil(J)Jf
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javad d("9"10"12*›
+4f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javas s(#"p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javat t("
+""*ñ
+5f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javaq q(≥
+∞
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javaq q(
+%6java.io.InputStream"__id*%*#
+ij.io.RandomAccessStream"
+src‰·
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javaq q(1	
+%7int"java.io.InputStream#read([BII)I*
+
+%6java.io.InputStream*
+
+abyte0byte[]*
+""*
+""2
+read([BII)*
+4
+5
+7
+1*¿
+7f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javal% l(/Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javal% l(/	
+%2int"__id*
+""ã
+à
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javal l(1
+abyte0byte[]"__id*
+""±
+Æ
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javam m(
+%3java.util.Vector"__id*&*$
+ij.io.RandomAccessStream"
+data˜Ù
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javam m(#
+
+%4void"0java.util.Vector#addElement(Ljava/lang/Object;)V*
+
+%3java.util.Vector*
+
+abyte0byte[]2addElement(Ljava/lang/Object;)Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javan n(	
+%5int"__id*
+""*	
+5
+7
+1*Å
+9f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javai i(Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javai i($	
+%0int"__id*
+""Ñ
+Å
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javaj j()	
+%1int"__id*
+""*
+7
+1*ﬁ
+10f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javah h("p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javah h(
+""*ﬁ
+12f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javaf f("p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.javaf f(
+""*›
+1f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.java{ {("p
+f
+\/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RandomAccessStream.java{ {(
+"":
+""B
+ij.io.RandomAccessStream

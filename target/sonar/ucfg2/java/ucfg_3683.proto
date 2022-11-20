@@ -1,0 +1,227 @@
+
+ij.ImagePlus#okToDeleteRoi()Z\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaä ä("10*…
+2\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javañ ñ("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javañ ñ(
+""*ø
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(q∫
+∑
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(q
+%16java.lang.String"__concat*
+
+%12java.lang.String*
+
+%13java.lang.Stringß
+§
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(v
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+)?õ
+ò
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(w
+msgjava.lang.String"__id*
+
+%17java.lang.Stringîë
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaè è(%
+%18ij.gui.GenericDialog"ij.gui.GenericDialogÕ
+ 
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaè è(7
+%19"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%18ij.gui.GenericDialog*
+Delete Points?¢
+ü
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaè è(8
+gdij.gui.GenericDialog"__id*
+
+%18ij.gui.GenericDialog÷
+”
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaê ê(H
+%20java.lang.String"__concat*
+
+msgjava.lang.String*53
+1\nRestore using Edit>Selection>Restore Selection.˝˙
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaê ê(I
+%21void"4ij.gui.GenericDialog#addMessage(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%20java.lang.String2addMessage(Ljava/lang/String;)à
+Ö
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaë ë(#
+%22java.lang.String"__id*
+""˜Ù
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaë ë($
+%23void"1ij.gui.GenericDialog#addHelp(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+%22java.lang.String2addHelp(Ljava/lang/String;)ÏÈ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaí í(
+%24void"4ij.gui.GenericDialog#setOKLabel(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Keep2setOKLabel(Ljava/lang/String;)ˆÛ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaì ì(
+%25void"8ij.gui.GenericDialog#setCancelLabel(Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Delete2"setCancelLabel(Ljava/lang/String;)æª
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaî î(
+%26void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()ª∏
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaï ï(
+%27boolean"ij.gui.GenericDialog#wasOKed()Z*
+
+gdij.gui.GenericDialog2	wasOKed()*
+2
+1*Ñ
+4\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaén é(põ
+ò
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaén é(p
+%13java.lang.String"__id*
+
+%15java.lang.String*
+3*Ñ
+5\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaéj é(mõ
+ò
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaéj é(m
+%13java.lang.String"__id*
+
+%14java.lang.String*
+3*»
+6\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaå å(!î
+ë
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaå å(!
+%5
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roiπ∂
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaå å(4	
+%6int"$ij.gui.PolygonRoi#getNCoordinates()I*
+
+%5
+ij.gui.Roi2getNCoordinates()î
+ë
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaç ç( 
+%7
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi±Æ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaç ç(0	
+%8int"ij.gui.PointRoi#getNCounters()I*
+
+%7
+ij.gui.Roi2getNCounters()¥
+±
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(=
+%9java.lang.String"__concat*'%
+#Delete this multi-point selection (*
+""≠
+™
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(I
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+	 points, ß
+§
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(R
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+""≠
+™
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaé é(]
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+
+ counter*
+4
+5*»
+7\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaãP ã(Sî
+ë
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaãP ã(S
+%3
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi≈¬
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaãE ã(k
+%4boolean"'ij.gui.PointRoi#promptBeforeDeleting()Z*
+
+%3
+ij.gui.Roi2promptBeforeDeleting()*
+6
+1*¥
+8\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaã0 ã(9»≈
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaã0 ã(;
+%2ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+ij.ImagePlus2getWindow()*
+7
+1*Ä
+9\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaã ã(î
+ë
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaã ã(
+%1
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi*
+8
+1*Å
+10\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaã ã(	î
+ë
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaã ã(	
+%0
+ij.gui.Roi"__id**
+ij.ImagePlus"
+roi*
+9
+1*…
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaò	 ò("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaò ò(
+""B
+ij.ImagePlus

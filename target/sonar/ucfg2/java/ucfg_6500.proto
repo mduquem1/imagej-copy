@@ -1,0 +1,189 @@
+
+7ij.plugin.frame.RoiManager#newOverlay()Lij/gui/Overlay;j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java› ›("6*ÿ
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÊ Ê(
+¡
+æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÊ Ê($
+%11ij.gui.Overlay"__id*3*1
+ij.plugin.frame.RoiManager"
+overlayTemplate»≈
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÊ Ê(3
+%12boolean"ij.gui.Overlay#getDrawNames()Z*
+
+%11ij.gui.Overlay2getDrawNames()◊‘
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÊ Ê(4
+%13void"ij.gui.Overlay#drawNames(Z)V*
+
+overlayij.gui.Overlay*
+
+%12boolean2drawNames(Z)¡
+æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÁ Á(*
+%14ij.gui.Overlay"__id*3*1
+ij.plugin.frame.RoiManager"
+overlayTemplate‘—
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÁ Á(?
+%15boolean"$ij.gui.Overlay#getDrawBackgrounds()Z*
+
+%14ij.gui.Overlay2getDrawBackgrounds()„‡
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÁ Á(@
+%16void""ij.gui.Overlay#drawBackgrounds(Z)V*
+
+overlayij.gui.Overlay*
+
+%15boolean2drawBackgrounds(Z)¡
+æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaË Ë((
+%17ij.gui.Overlay"__id*3*1
+ij.plugin.frame.RoiManager"
+overlayTemplate‡›
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaË Ë(8
+%18java.awt.Color".ij.gui.Overlay#getLabelColor()Ljava/awt/Color;*
+
+%17ij.gui.Overlay2getLabelColor()ÑÅ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaË Ë(9
+%19void"/ij.gui.Overlay#setLabelColor(Ljava/awt/Color;)V*
+
+overlayij.gui.Overlay*
+
+%18java.awt.Color2setLabelColor(Ljava/awt/Color;)¡
+æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÈ È('
+%20ij.gui.Overlay"__id*3*1
+ij.plugin.frame.RoiManager"
+overlayTemplate‹Ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÈ È(6
+%21java.awt.Font",ij.gui.Overlay#getLabelFont()Ljava/awt/Font;*
+
+%20ij.gui.Overlay2getLabelFont()¡
+æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÈ8 È(G
+%22ij.gui.Overlay"__id*3*1
+ij.plugin.frame.RoiManager"
+overlayTemplateÃ…
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÈ8 È(X
+%23boolean" ij.gui.Overlay#scalableLabels()Z*
+
+%22ij.gui.Overlay2scalableLabels()ìê
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÈ È(Y
+%24void".ij.gui.Overlay#setLabelFont(Ljava/awt/Font;Z)V*
+
+overlayij.gui.Overlay*
+
+%21java.awt.Font*
+
+%23boolean2setLabelFont(Ljava/awt/Font;Z)*
+1*ä
+3j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‰ ‰(	Ã…
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‰ ‰(+
+
+%9void"ij.gui.Overlay#drawNames(Z)V*
+
+overlayij.gui.Overlay*
+""2drawNames(Z)¡
+æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÂ Â(
+%10ij.gui.Overlay"__id*3*1
+ij.plugin.frame.RoiManager"
+overlayTemplate*
+2
+1*Ë
+4j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java· ·(
+ì
+ê
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java· ·($
+%6java.awt.Color"__id*
+""Çˇ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java· ·(%
+
+%7void"/ij.gui.Overlay#setLabelColor(Ljava/awt/Color;)V*
+
+overlayij.gui.Overlay*
+
+%6java.awt.Color2setLabelColor(Ljava/awt/Color;)÷”
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‚ ‚( 
+
+%8void""ij.gui.Overlay#drawBackgrounds(Z)V*
+
+overlayij.gui.Overlay*22drawBackgrounds(Z)*
+3*›
+5j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‡& ‡(-„‡
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‡& ‡(=
+%5java.awt.Color".ij.gui.Overlay#getLabelColor()Ljava/awt/Color;*
+
+overlayij.gui.Overlay2getLabelColor()*
+3
+4*»
+
+6j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaﬁ ﬁ(!€
+ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaﬁ ﬁ(1
+%0ij.gui.Overlay"7ij.plugin.OverlayLabels#createOverlay()Lij/gui/Overlay;*"
+ij.plugin.OverlayLabels®
+•
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaﬁ ﬁ(2
+overlayij.gui.Overlay"__id*
+
+%0ij.gui.Overlay¬
+ø
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaﬂ ﬂ(#
+%1java.awt.Checkbox"__id*2*0
+ij.plugin.frame.RoiManager"
+labelsCheckboxƒ¡
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaﬂ ﬂ(.
+%2boolean"java.awt.Checkbox#getState()Z*
+
+%1java.awt.Checkbox2
+getState()◊‘
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaﬂ ﬂ(/
+
+%3void"ij.gui.Overlay#drawLabels(Z)V*
+
+overlayij.gui.Overlay*
+
+%2boolean2drawLabels(Z)ﬂ‹
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.java‡ ‡(
+%4java.awt.Font",ij.gui.Overlay#getLabelFont()Ljava/awt/Font;*
+
+overlayij.gui.Overlay2getLabelFont()*
+3
+5*˚
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÎ	 Î("â
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/RoiManager.javaÎ Î(
+
+overlayij.gui.OverlayB
+ij.plugin.frame.RoiManager

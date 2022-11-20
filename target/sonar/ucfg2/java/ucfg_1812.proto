@@ -1,0 +1,64 @@
+
+0ij.plugin.frame.LineWidthAdjuster#isSplineFit()Zq
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaè	 è("7*Û
+2q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaî+ î(0"{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaî$ î(1
+""*Û
+4q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaì ì("{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaì ì(
+""*ˆ
+5q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaí í(Ã…
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaí í(
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()£
+†
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaí í(
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roi*	
+2
+4
+1*Û
+6q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaë ë("{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaë ë(
+""*˝
+7q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaê ê(“
+œ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaê ê(1
+%0ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerß
+§
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaê ê(2
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+5
+6*¡
+1q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaï ï(À»
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaï	 ï((
+%2boolean" ij.gui.PolygonRoi#isSplineFit()Z*
+
+roi
+ij.gui.Roi2isSplineFit()"{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/LineWidthAdjuster.javaï ï()
+""B%#
+!ij.plugin.frame.LineWidthAdjuster

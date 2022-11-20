@@ -1,0 +1,51 @@
+
+ij.gui.Roi#getMagnification()DZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaû û(""4*ê
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü( ü(+ƒ
+€
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü( ü(+
+%1double"__id*
+
+%3double*
+1*Ì
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü ü(—
+”
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü ü(
+%4ij.gui.ImageCanvas"__id**
+
+ij.gui.Roi"
+icÅÂ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü ü('
+%2double"&ij.gui.ImageCanvas#getMagnification()D*
+
+%4ij.gui.ImageCanvas2getMagnification()ƒ
+€
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü ü('
+%1double"__id*
+
+%2double*
+1*
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü	 ü(—
+”
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü	 ü(
+%0ij.gui.ImageCanvas"__id**
+
+ij.gui.Roi"
+ic*
+2
+3*Å
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü ü(,"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Roi.javaü ü(,
+""B
+
+ij.gui.Roi

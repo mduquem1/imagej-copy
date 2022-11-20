@@ -1,0 +1,186 @@
+
+)ij.process.AutoThresholder#MinErrorI([I)Ij
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaÖ Ö("8*Æ
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java≠ ≠(¥
+±
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java≠ ≠(%
+%22double"java.lang.Math#floor(D)D*"
+java.lang.Math*
+""*
+6
+1*Ï
+4j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaß ß(≥
+∞
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java® ®(
+%20double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""π
+∂
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java™ ™(
+%21boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*	
+2
+6
+1*±
+5j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java¢ ¢(…
+∆
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java¢ ¢(*
+%19void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ* 
+MinError(I): not converging."t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.java£ £(
+""* 
+6j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaì ì(	—
+Œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaì ì(
+%1double""ij.process.AutoThresholder#B([II)D*
+ij.process.AutoThresholder*
+""*
+""—
+Œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaì ì(-
+%2double""ij.process.AutoThresholder#A([II)D*
+ij.process.AutoThresholder*
+""*
+""—
+Œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaî	 î(!
+%3double""ij.process.AutoThresholder#B([II)D*
+ij.process.AutoThresholder*
+""*
+""—
+Œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaî" î(4
+%4double""ij.process.AutoThresholder#B([II)D*
+ij.process.AutoThresholder*
+""*
+""—
+Œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaî7 î(O
+%5double""ij.process.AutoThresholder#A([II)D*
+ij.process.AutoThresholder*
+""*
+""—
+Œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaîP î(b
+%6double""ij.process.AutoThresholder#A([II)D*
+ij.process.AutoThresholder*
+""*
+""—
+Œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaï ï(
+%7double""ij.process.AutoThresholder#A([II)D*
+ij.process.AutoThresholder*
+""*
+""—
+Œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaï ï(2
+%8double""ij.process.AutoThresholder#A([II)D*
+ij.process.AutoThresholder*
+""*
+""—
+Œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javañ ñ( 
+%9double""ij.process.AutoThresholder#A([II)D*
+ij.process.AutoThresholder*
+""*
+""“
+œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javañ! ñ(3
+%10double""ij.process.AutoThresholder#A([II)D*
+ij.process.AutoThresholder*
+""*
+""“
+œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javañ7 ñ(O
+%11double""ij.process.AutoThresholder#A([II)D*
+ij.process.AutoThresholder*
+""*
+""“
+œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaó ó(
+%12double""ij.process.AutoThresholder#C([II)D*
+ij.process.AutoThresholder*
+""*
+""“
+œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaó ó(1
+%13double""ij.process.AutoThresholder#A([II)D*
+ij.process.AutoThresholder*
+""*
+""“
+œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaò ò(#
+%14double""ij.process.AutoThresholder#C([II)D*
+ij.process.AutoThresholder*
+""*
+""“
+œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaò$ ò(6
+%15double""ij.process.AutoThresholder#C([II)D*
+ij.process.AutoThresholder*
+""*
+""“
+œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaò; ò(S
+%16double""ij.process.AutoThresholder#A([II)D*
+ij.process.AutoThresholder*
+""*
+""“
+œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaòT ò(f
+%17double""ij.process.AutoThresholder#A([II)D*
+ij.process.AutoThresholder*
+""*
+""¥
+±
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaù( ù(O
+%18double"java.lang.Math#log10(D)D*"
+java.lang.Math*
+""*
+4
+5*Ã
+8j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaç ç(“œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaç ç(	
+%0int"$ij.process.AutoThresholder#Mean([I)I*
+ij.process.AutoThresholder*
+""2Mean([I)*
+6
+1*Â
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaØ	 Ø("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/AutoThresholder.javaØ Ø(
+"":
+""B
+ij.process.AutoThresholder

@@ -1,0 +1,33 @@
+
+Dij.plugin.filter.Calibrator#setup(Ljava/lang/String;Lij/ImagePlus;)Ii
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java0 0("1*·
+1i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java1 1(³
+°
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java1 1(&
+ij.plugin.filter.Calibrator"
+imp"__id*
+
+impij.ImagePlus‡
+„
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java2	 2(	
+%0int"__id*
+""‡
+„
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java2 2(	
+%1int"__id*
+""‡
+„
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java2 2(%	
+%2int"__id*
+"""s
+i
+_/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/Calibrator.java2 2(&
+"":
+argjava.lang.String:
+impij.ImagePlusB
+ij.plugin.filter.Calibrator

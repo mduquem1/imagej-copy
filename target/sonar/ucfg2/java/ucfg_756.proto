@@ -1,0 +1,30 @@
+
+ij.ImageStack#isHSB()Z]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaì ì("2"4"1*¢
+2]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaíC í(P×Ô
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaíC í(S
+%1java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+ij.ImageStack*22getSliceLabel(I)ÞÛ
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaíC í(a
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*
+Hue2equals(Ljava/lang/Object;)*
+1*Ä
+4]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaí) í(6×Ô
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaí) í(9
+%0java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+ij.ImageStack*22getSliceLabel(I)*
+2
+1*Ë
+1]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaí í(b"g
+]
+Q/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageStack.javaí í(b
+""B
+ij.ImageStack

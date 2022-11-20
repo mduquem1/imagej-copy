@@ -1,0 +1,71 @@
+
+Fij.plugin.filter.GaussianBlur#setup(Ljava/lang/String;Lij/ImagePlus;)Ik
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java> >("6*Å
+2k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaC C(â
+Ü
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaC C(!	
+%4int"__id*
+""*
+1*¿
+3k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaB! B((≈¬
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaB< B(O
+%3int[]"ij.ImagePlus#getDimensions()[I*
+
+impij.ImagePlus2getDimensions()*
+2
+1*€
+4k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaA  A(#∆√
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaA  A(,
+%1
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()„‡
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaA  A(>
+%2java.awt.Rectangle"0ij.gui.Roi#getBoundingRect()Ljava/awt/Rectangle;*
+
+%1
+ij.gui.Roi2getBoundingRect()±
+Æ
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaA A(?
+roiRectjava.awt.Rectangle"__id*
+
+%2java.awt.Rectangle*
+2
+3*¡
+5k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java@ @(∆√
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java@ @(%
+%0
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()*
+4
+1*≤
+6k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java? ?(∑
+¥
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.java? ?((
+ij.plugin.filter.GaussianBlur"
+imp"__id*
+
+impij.ImagePlus*
+5
+1*Á
+1k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaE E("u
+k
+a/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/GaussianBlur.javaE E(
+"":
+argjava.lang.String:
+impij.ImagePlusB!
+ij.plugin.filter.GaussianBlur

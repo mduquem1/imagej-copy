@@ -1,0 +1,367 @@
+
+ij.plugin.Grid#showDialog()Z^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaî î("16*Ï
+13^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaù ù(›⁄
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaü ü(
+%9java.lang.String"3ij.measure.Calibration#getUnits()Ljava/lang/String;*
+
+calij.measure.Calibration2
+getUnits()†
+ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaü ü(
+ij.plugin.Grid"
+units"__id*
+
+%9java.lang.String*
+9*Ò
+14^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaò ò(ö
+ó
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaò ò(
+%2ij.ImagePlus"__id**
+ij.plugin.Grid"
+imp™ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaò ò(	
+%3int"ij.ImagePlus#getWidth()I*
+
+%2ij.ImagePlus2
+getWidth()ö
+ó
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaô ô(
+%4ij.ImagePlus"__id**
+ij.plugin.Grid"
+imp¨©
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaô ô(	
+%5int"ij.ImagePlus#getHeight()I*
+
+%4ij.ImagePlus2getHeight()ö
+ó
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaö ö(
+%6ij.ImagePlus"__id**
+ij.plugin.Grid"
+imp‡›
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaö ö((
+%7ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+%6ij.ImagePlus2getCalibration()®
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaö ö()
+calij.measure.Calibration"__id*
+
+%7ij.measure.Calibrationøº
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaú ú(
+%8boolean" ij.measure.Calibration#scaled()Z*
+
+calij.measure.Calibration2scaled()*
+13
+12*è
+15^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaó ó(¢
+ü
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaó ó(
+
+%1void"ij.plugin.Grid#getSettings()V*
+ij.plugin.Grid*
+14*£
+16^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaï ï(≤
+Ø
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaï ï(
+%0java.lang.String"'ij.Macro#getOptions()Ljava/lang/String;*"
+
+ij.Macro*
+14
+15*Õ
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java¬
+ ¬("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java¬ ¬(
+""*Õ
+2^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java¿
+ ¿("h
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java¿ ¿(
+""*ø
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaø ø(‘—
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaø ø(
+%40void"*ij.plugin.Grid#drawGrid(Ljava/awt/Shape;)V*
+ij.plugin.Grid*
+""2drawGrid(Ljava/awt/Shape;)*
+2*≠	
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaª ª(ä
+á
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaª ª(
+%34java.lang.String"__id*
+""Ì
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaª ª(
+%35void"*ij.gui.Overlay#remove(Ljava/lang/String;)V*
+
+overlayij.gui.Overlay*
+
+%34java.lang.String2remove(Ljava/lang/String;)°
+û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaº º(
+%36
+ij.gui.Roi"__id*#*!
+ij.plugin.Grid"
+gridOnEntryÿ’
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaº º(
+%37void"!ij.gui.Overlay#add(Lij/gui/Roi;)V*
+
+overlayij.gui.Overlay*
+
+%36
+ij.gui.Roi2add(Lij/gui/Roi;)õ
+ò
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaΩ Ω(
+%38ij.ImagePlus"__id**
+ij.plugin.Grid"
+imp•¢
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaΩ Ω(
+%39void"ij.ImagePlus#draw()V*
+
+%38ij.ImagePlus2draw()*
+2*è
+5^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java∫ ∫(#°
+û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java∫ ∫(#
+%33
+ij.gui.Roi"__id*#*!
+ij.plugin.Grid"
+gridOnEntry*
+3
+4*ˆ
+6^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaπ π(õ
+ò
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaπ π(
+%31ij.ImagePlus"__id**
+ij.plugin.Grid"
+imp «
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaπ π(%
+%32ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+%31ij.ImagePlus2getOverlay()ù
+ö
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaπ π(&
+overlayij.gui.Overlay"__id*
+
+%32ij.gui.Overlay*
+3
+5*≤
+7^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java∂ ∂(π∂
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java∂ ∂(
+%28boolean"Lij.plugin.Grid#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Z*
+ij.plugin.Grid*
+
+gdij.gui.GenericDialog*
+""2<dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)¿Ω
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java∑ ∑(
+%29void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()≈¬
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java∏ ∏(
+%30boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+6
+1*Ä
+
+8^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java≤ ≤(„‡
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java≤ ≤( 
+%25java.util.Vector"6ij.gui.GenericDialog#getCheckboxes()Ljava/util/Vector;*
+
+gdij.gui.GenericDialog2getCheckboxes()õ
+ò
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java≤ ≤(!
+vjava.util.Vector"__id*
+
+%25java.util.Vector⁄◊
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java≥ ≥(,
+%26java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+vjava.util.Vector*22elementAt(I)™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java≥ ≥(,$
+ij.plugin.Grid"
+centerCheckbox"__id*
+
+%26java.lang.Object⁄◊
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java¥ ¥(,
+%27java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+vjava.util.Vector*22elementAt(I)™
+ß
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java¥ ¥(,$
+ij.plugin.Grid"
+randomCheckbox"__id*
+
+%27java.lang.Object*
+7*»
+9^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java©' ©(0ñì
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java© ©(&
+%10ij.gui.GenericDialog"ij.gui.GenericDialog»
+≈
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java© ©(1
+%11"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%10ij.gui.GenericDialog*	
+Grid...§
+°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java© ©(2
+gdij.gui.GenericDialog"__id*
+
+%10ij.gui.GenericDialog£
+†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java™ ™("
+%12java.lang.String[]"__id**
+ij.plugin.Grid"
+types†
+ù
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java™$ ™((
+%13java.lang.String"__id**
+ij.plugin.Grid"
+typeÙÒ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java™ ™()
+%14void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Grid type:*
+
+%12java.lang.String[]*
+
+%13java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)°
+û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java´A ´(F
+%15java.lang.String"__id**
+ij.plugin.Grid"
+units©
+¶
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java´A ´(K
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+^2ﬁ€
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java´ ´(L
+%17void"Nij.gui.GenericDialog#addNumericField(Ljava/lang/String;DIILjava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+Area per point:*
+""*
+""*2*
+
+%16java.lang.String28addNumericField(Ljava/lang/String;DIILjava/lang/String;)§
+°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java¨ ¨(
+%18java.lang.String[]"__id**
+ij.plugin.Grid"
+colors°
+û
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java¨! ¨(&
+%19java.lang.String"__id**
+ij.plugin.Grid"
+colorÌ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java¨ ¨('
+%20void"Xij.gui.GenericDialog#addChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)V*
+
+gdij.gui.GenericDialog*
+
+Color:*
+
+%18java.lang.String[]*
+
+%19java.lang.String2BaddChoice(Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)˙˜
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java≠ ≠(
+%21void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Bold*
+""2 addCheckbox(Ljava/lang/String;Z)äá
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaÆ Æ(2
+%22void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Center grid on image*
+""2 addCheckbox(Ljava/lang/String;Z)ÉÄ
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.javaØ Ø(/
+%23void"6ij.gui.GenericDialog#addCheckbox(Ljava/lang/String;Z)V*
+
+gdij.gui.GenericDialog*
+Random offset*
+""2 addCheckbox(Ljava/lang/String;Z)êç
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java∞ ∞(
+%24void"@ij.gui.GenericDialog#addDialogListener(Lij/gui/DialogListener;)V*
+
+gdij.gui.GenericDialog*
+ij.plugin.Grid2*addDialogListener(Lij/gui/DialogListener;)*
+7
+8*˛
+12^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java¢ ¢(í
+è
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Grid.java§ §(
+ij.plugin.Grid"
+units"__id*
+
+pixels*
+9B
+ij.plugin.Grid

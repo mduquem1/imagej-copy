@@ -1,0 +1,96 @@
+
+Vij.plugin.Straightener#straightenComposite(Lij/ImagePlus;I)Lij/process/ImageProcessor;f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaÕ Õ(#"1*æ
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaÖ Ö(ÍÊ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaÖ Ö(
+%0java.awt.Image"'ij.ImagePlus#getImage()Ljava/awt/Image;*
+
+impij.ImagePlus2
+getImage() 
+
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaÖ Ö(
+imgjava.awt.Image"__id*
+
+%0java.awt.Image§¤
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java×- ×(;
+%1ij.process.ColorProcessor"ij.process.ColorProcessorâ
+ß
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java×) ×(@
+%2"3ij.process.ColorProcessor#<init>(Ljava/awt/Image;)V*!
+
+%1ij.process.ColorProcessor*
+
+imgjava.awt.ImageŠ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java× ×( 
+%3ij.ImagePlus"ij.ImagePlusù
+ö
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java× ×(A
+%4"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%3ij.ImagePlus*
+temp*!
+
+%1ij.process.ColorProcessor
+š
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.java× ×(B
+imp2ij.ImagePlus"__id*
+
+%3ij.ImagePlusÁ¾
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaØ Ø(
+%5
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()İÚ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaØ Ø(
+
+%6void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+imp2ij.ImagePlus*
+
+%5
+ij.gui.Roi2setRoi(Lij/gui/Roi;)º·
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaÙ Ù(1
+%7ij.process.ImageProcessor"Pij.plugin.Straightener#straightenRGB(Lij/ImagePlus;I)Lij/process/ImageProcessor;*
+ij.plugin.Straightener*
+
+imp2ij.ImagePlus*
+""2straightenRGB(Lij/ImagePlus;I)¶
+³
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaÙ Ù(2 
+ip2ij.process.ImageProcessor"__id*!
+
+%7ij.process.ImageProcessorÂ¿
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaÚ Ú( 
+%8
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+imp2ij.ImagePlus2getRoi()ÜÙ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaÚ Ú(!
+
+%9void""ij.ImagePlus#setRoi(Lij/gui/Roi;)V*
+
+impij.ImagePlus*
+
+%8
+ij.gui.Roi2setRoi(Lij/gui/Roi;)"Œ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Straightener.javaÛ Û("
+ 
+ip2ij.process.ImageProcessor:
+impij.ImagePlus:
+""B
+ij.plugin.Straightener

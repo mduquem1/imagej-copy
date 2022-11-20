@@ -1,0 +1,439 @@
+
+Xij.plugin.PointToolOptions#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Zh
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java^ ^(!"45*œ
+25j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaç ç(œ
+Ã
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaç ç(
+%21void")ij.plugin.PointToolOptions#setCounter(I)V*"
+ij.plugin.PointToolOptions*
+""*
+20
+23
+1*…
+26j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaå å(≈
+¬
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaå å(*
+
+%20int"(ij.plugin.PointToolOptions#getCounter()I*"
+ij.plugin.PointToolOptions*
+25
+20
+23
+1*ÿ
+27j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaã ã(€ÿ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaã ã((
+
+%19int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()*
+25
+26*€
+30j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaÖ Ö(◊‘
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaÜ Ü(-
+%18boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+27
+20
+23
+1*Œ
+32h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java (◊‘
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaÄ Ä(.
+%17boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+30*Î
+11j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java® ®(“œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java® ®(
+%34
+ij.gui.Roi"!ij.gui.Overlay#get(I)Lij/gui/Roi;*
+
+overlayij.gui.Overlay*
+""2get(I)õ
+ò
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java® ®(
+r
+ij.gui.Roi"__id*
+
+%34
+ij.gui.Roi*
+8
+9*∑
+12j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaß ß(∏µ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaß ß(#
+
+%33int"ij.gui.Overlay#size()I*
+
+overlayij.gui.Overlay2size()*
+
+2
+11
+1*®
+14j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java• •(6©
+¶
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java• •(6
+overlayij.gui.Overlay"__id*
+
+%30ij.gui.Overlay*
+
+2
+12
+1*‘
+37h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javav v(’“
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javav v(/
+%13boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()’“
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaw w(1
+%14boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()’“
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javax x(0
+%15boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()’“
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javay y(0
+%16boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()*
+32*ö
+15j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java•1 •(5°
+û
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java•1 •(5
+%30ij.gui.Overlay"__id*
+
+%32
+<nulltype>*
+14*˜
+16j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java•  •(#÷”
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java•  •(0
+%31ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()•
+¢
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java•  •(0
+%30ij.gui.Overlay"__id*
+
+%31ij.gui.Overlay*
+14*∂
+39h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javar r(ª
+∏
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javar r(%
+%12void""ij.gui.PointRoi#setDefaultSize(I)V*"
+ij.gui.PointRoi*
+""*
+37
+32*Ì
+17j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java§
+ §(Ã
+…
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java§
+ §()
+%29ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManager°
+û
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java§ §()
+impij.ImagePlus"__id*
+
+%29ij.ImagePlus*
+15
+16*»
+19j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaü ü(”–
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaü ü(+
+%27void"!ij.gui.PointRoi#setShowLabels(Z)V*
+
+roiij.gui.PointRoi*
+""2setShowLabels(Z)œÃ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java†
+ †(
+%28ij.ImagePlus"#ij.gui.Roi#getImage()Lij/ImagePlus;*
+
+roiij.gui.PointRoi2
+getImage()°
+û
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java† †(
+impij.ImagePlus"__id*
+
+%28ij.ImagePlus*
+
+2
+17
+1*Â
+1j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java¥	 ¥("t
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java¥ ¥(
+""*®
+2j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java≤ ≤(±Æ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java≤ ≤(
+%38void"ij.ImagePlus#draw()V*
+
+impij.ImagePlus2draw()*
+1*À
+6j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java´ ´(
+”–
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java´ ´(.
+%37void"!ij.gui.PointRoi#setShowLabels(Z)V*
+
+roiij.gui.PointRoi*
+""2setShowLabels(Z)*
+12*¢
+7j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java© ©(?ß
+§
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java© ©(?
+roiij.gui.PointRoi"__id*
+
+%35ij.gui.PointRoi*
+6
+12*ô
+8j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java©; ©(?¢
+ü
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java©; ©(?
+%35ij.gui.PointRoi"__id*
+
+%36
+<nulltype>*
+7*∫
+9j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java©9 ©(:†
+ù
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java©9 ©(:
+%35ij.gui.PointRoi"__id*
+
+r
+ij.gui.Roi†
+ù
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java©/ ©(:
+%35ij.gui.PointRoi"__id*
+
+r
+ij.gui.Roi*
+7*å
+40h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javap p(Ÿ÷
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javap p()
+
+%10int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()±
+Æ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaq q(*
+
+%11int"!ij.gui.PointRoi#getDefaultSize()I*"
+ij.gui.PointRoi*
+37
+39
+32*≤
+41h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javam m(ª∏
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javam m(
+
+%9void"java.awt.Component#repaint()V*
+
+tbij.gui.Toolbar2	repaint()*
+40*∞
+42h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaj j(…
+∆
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaj j(
+
+%7void"&ij.gui.Roi#setColor(Ljava/awt/Color;)V*"
+
+ij.gui.Roi*
+
+scjava.awt.Color≈
+¬
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javal l(%
+%8ij.gui.Toolbar",ij.gui.Toolbar#getInstance()Lij/gui/Toolbar;*"
+ij.gui.Toolbar°
+û
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javal l(&
+tbij.gui.Toolbar"__id*
+
+%8ij.gui.Toolbar*
+40
+41*§
+20j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaõ õ(í
+è
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaõ õ(
+impij.ImagePlus"__id*
+""‚
+ﬂ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaù ù(
+%26ij.gui.PointRoi"9ij.plugin.PointToolOptions#getPointRoi()Lij/gui/PointRoi;*"
+ij.plugin.PointToolOptionsß
+§
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaù ù( 
+roiij.gui.PointRoi"__id*
+
+%26ij.gui.PointRoi*
+2
+17
+19
+1*π
+
+43h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javag g(ÏÈ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javag g(,
+%3java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()±
+Æ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javag g(-"
+selectionColorjava.lang.String"__id*
+
+%3java.lang.Stringë
+é
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javah- h(9
+%4java.awt.Color"__id*
+""¶
+£
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javah h(:
+%5java.awt.Color"Mij.plugin.Colors#getColor(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors*$
+"
+selectionColorjava.lang.String*
+
+%4java.awt.Color°
+û
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javah h(;
+scjava.awt.Color"__id*
+
+%5java.awt.Color∫
+∑
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javai
+ i(
+%6java.awt.Color"%ij.gui.Roi#getColor()Ljava/awt/Color;*"
+
+ij.gui.Roi*
+40
+42*±
+44h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javac c(∫
+∑
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javac c(%
+
+%2void""ij.gui.PointRoi#setDefaultType(I)V*"
+ij.gui.PointRoi*
+""*
+43*ò
+22j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaî î(—Œ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaî î(
+%23void" ij.gui.PointRoi#setPointType(I)V*
+
+roiij.gui.PointRoi*
+""2setPointType(I)˛˚
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaï ï(
+%24void",ij.gui.Roi#setStrokeColor(Ljava/awt/Color;)V*
+
+roiij.gui.PointRoi*
+
+scjava.awt.Color2 setStrokeColor(Ljava/awt/Color;)«ƒ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javañ ñ(
+%25void"ij.gui.PointRoi#setSize(I)V*
+
+roiij.gui.PointRoi*
+""2
+setSize(I)*
+20
+1*Ü
+45h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.java_ _(ÿ’
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaa a()	
+%0int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()∞
+≠
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javab b(*	
+%1int"!ij.gui.PointRoi#getDefaultType()I*"
+ij.gui.PointRoi*
+43
+44*å
+23j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaí í(‚
+ﬂ
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaí í(
+%22ij.gui.PointRoi"9ij.plugin.PointToolOptions#getPointRoi()Lij/gui/PointRoi;*"
+ij.plugin.PointToolOptionsß
+§
+j
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/PointToolOptions.javaí í( 
+roiij.gui.PointRoi"__id*
+
+%22ij.gui.PointRoi*
+20
+22
+1:
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.PointToolOptions

@@ -1,0 +1,32 @@
+
+&ij.macro.Functions#getCapsLockState()Zb
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaî% î%("5*Í
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javañ%= ñ%(E
+}
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javañ%= ñ%(R	
+%1int"__id*
+""ÝÚ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javañ% ñ%(S
+%2boolean"'java.awt.Toolkit#getLockingKeyState(I)Z*
+
+%0java.awt.Toolkit*
+	
+%1int2getLockingKeyState(I)*
+1*¼
+5b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javañ% ñ%(Í
+Ê
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javañ% ñ%()
+%0java.awt.Toolkit"6java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;*"
+java.awt.Toolkit*
+4*Õ
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaó%	 ó%("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/macro/Functions.javaó% ó%(
+""B
+ij.macro.Functions

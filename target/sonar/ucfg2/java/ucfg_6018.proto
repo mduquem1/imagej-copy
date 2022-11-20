@@ -1,0 +1,28 @@
+
+:ij.util.ThreadUtil#createThreadArray(I)[Ljava/lang/Thread;`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java ()"2"1*ñ
+2`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java (©
+¶
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java (	
+%0int"ij.util.ThreadUtil#getNbCpus()I*"
+ij.util.ThreadUtil*
+1*™
+1`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java  ("ìê
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java (#
+%1java.lang.Thread[]"java.lang.Thread[]¶
+£
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java ($
+threadsjava.lang.Thread[]"__id*
+
+%1java.lang.Thread[]"É
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/util/ThreadUtil.java   (
+
+threadsjava.lang.Thread[]:
+""B"
+ij.util.ThreadUtil

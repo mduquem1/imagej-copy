@@ -1,0 +1,78 @@
+
+%ij.gui.StackWindow#validDimensions()Zb
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÄ Ä("11*Õ
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÍ
+ Í("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÍ Í(
+""*Õ
+7b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaË
+ Ë("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaË Ë(
+""*ã
+11b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÅ
+ Å(¢
+Ÿ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÅ
+ Å(
+%0ij.ImagePlus"__id**
+ij.gui.StackWindow"
+imp¶³
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÅ
+ Å(	
+%1int"ij.ImagePlus#getNChannels()I*
+
+%0ij.ImagePlus2getNChannels()¢
+Ÿ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÆ
+ Æ(
+%2ij.ImagePlus"__id**
+ij.gui.StackWindow"
+imp²¯
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÆ
+ Æ(	
+%3int"ij.ImagePlus#getNSlices()I*
+
+%2ij.ImagePlus2getNSlices()¢
+Ÿ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÇ
+ Ç(
+%4ij.ImagePlus"__id**
+ij.gui.StackWindow"
+imp²¯
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÇ
+ Ç(	
+%5int"ij.ImagePlus#getNFrames()I*
+
+%4ij.ImagePlus2getNFrames()¢
+Ÿ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÉ É(
+%6ij.ImagePlus"__id**
+ij.gui.StackWindow"
+imp¶³
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÉ É(	
+%7int"ij.ImagePlus#getStackSize()I*
+
+%6ij.ImagePlus2getStackSize()*	
+2
+7
+1*Õ
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÏ
+ Ï("l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/StackWindow.javaÏ Ï(
+""B
+ij.gui.StackWindow

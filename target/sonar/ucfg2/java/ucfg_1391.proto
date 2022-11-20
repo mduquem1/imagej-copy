@@ -1,0 +1,53 @@
+
+Jij.io.ImageReader#readRGB48Planar(Ljava/io/InputStream;)Ljava/lang/Object;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaô ô("7*Ø
+3a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaû û(ãà
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaû û( 
+%2short[]"9ij.io.ImageReader#read16bitImage(Ljava/io/InputStream;)[S*
+ij.io.ImageReader*
+
+injava.io.InputStream2%read16bitImage(Ljava/io/InputStream;)∞
+≠
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaû û( 
+%3"
+__arraySet*
+
+stackjava.lang.Object[]*
+""*
+
+%2short[]*
+3
+1*≠
+5a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaú ú(&îë
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaú ú('
+%1java.lang.Object[]"java.lang.Object[]•
+¢
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaú ú((
+stackjava.lang.Object[]"__id*
+
+%1java.lang.Object[]*
+3
+1*è
+7a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaö ö(°
+û
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaö ö(
+%0ij.io.FileInfo"__id**
+ij.io.ImageReader"
+fi*
+5*Î
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaü	 ü("Ç
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaü ü(
+
+stackjava.lang.Object[]:
+injava.io.InputStreamB
+ij.io.ImageReader

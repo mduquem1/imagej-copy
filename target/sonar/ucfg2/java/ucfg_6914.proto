@@ -1,0 +1,70 @@
+
+Eij.gui.PolygonRoi#getInterpolatedPolygon(DZ)Lij/process/FloatPolygon;a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java¾ ¾(+"11*ë
+3a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÅ Å(~
+|
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÅ Å(	
+%4int"__id*
+""*
+1*î
+8a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÀ6 À(:~
+|
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÀ< À(D	
+%3int"__id*
+""*
+3
+1*î
+9a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÀ% À()~
+|
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÀ+ À(2	
+%2int"__id*
+""*
+3
+8*ï
+10a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÀ À(~
+|
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÀ À(!	
+%1int"__id*
+""*
+3
+9*Ž
+11a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java¿ ¿("íê
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java¿ ¿($
+%0ij.process.FloatPolygon"<ij.gui.PolygonRoi#getFloatPolygon()Lij/process/FloatPolygon;*
+ij.gui.PolygonRoi2getFloatPolygon()«
+¨
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.java¿ ¿(%
+pij.process.FloatPolygon"__id*
+
+%0ij.process.FloatPolygon*
+10
+1*†
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÌ	 Ì(–
+“
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÌ	 Ì(:
+%5ij.process.FloatPolygon"Wij.gui.Roi#getInterpolatedPolygon(Lij/process/FloatPolygon;DZ)Lij/process/FloatPolygon;*
+""*
+
+pij.process.FloatPolygon*
+""*
+"""„
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PolygonRoi.javaÌ Ì(;
+
+%5ij.process.FloatPolygon:
+"":
+""B
+ij.gui.PolygonRoi

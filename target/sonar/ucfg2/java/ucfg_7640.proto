@@ -1,0 +1,628 @@
+
+7ij.plugin.frame.ColorThresholder#setup(Lij/ImagePlus;)Zp
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÌ	 Ì("21"22*—
+13p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaå å(Ω
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaå å(
+%23byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSourceΩ
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaå å(
+%24byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSourceΩ
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaå å(%
+%25byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSourceìê
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaå å(&
+%26void")ij.process.ColorProcessor#getHSB([B[B[B)V*!
+
+cpij.process.ColorProcessor*
+
+%23byte[]*
+
+%24byte[]*
+
+%25byte[]2getHSB([B[B[B)*
+8*í
+14p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaã ã(è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaã ã(
+
+%22int"__id*
+""*
+13
+12*—
+15p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaä ä(Ω
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaä ä(
+%18byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSourceΩ
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaä ä(
+%19byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSourceΩ
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaä ä(%
+%20byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSourceìê
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaä ä(&
+%21void")ij.process.ColorProcessor#getRGB([B[B[B)V*!
+
+cpij.process.ColorProcessor*
+
+%18byte[]*
+
+%19byte[]*
+
+%20byte[]2getRGB([B[B[B)*
+8*ı
+16p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java˜ ˜(†
+ù
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java˜ ˜(
+
+%6void"ij.Undo#reset()V*"	
+ij.Undo≈¬
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java˘ ˘(!	
+%7int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()’“
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java˙ ˙(
+%8ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()¡
+æ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java˙ ˙(-"
+ ij.plugin.frame.ColorThresholder"
+stack"__id*
+
+%8ij.ImageStack¡
+æ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java˚ ˚(
+%9ij.ImageStack"__id*/*-"
+ ij.plugin.frame.ColorThresholder"
+stackøº
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java˚ ˚(
+
+%10int"ij.ImageStack#getWidth()I*
+
+%9ij.ImageStack2
+getWidth()¬
+ø
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java¸ ¸(
+%11ij.ImageStack"__id*/*-"
+ ij.plugin.frame.ColorThresholder"
+stack¬ø
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java¸ ¸(
+
+%12int"ij.ImageStack#getHeight()I*
+
+%11ij.ImageStack2getHeight()¥
+±
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaˇ ˇ( /"
+ ij.plugin.frame.ColorThresholder"	
+hSource"__id*
+""¥
+±
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÄ Ä( /"
+ ij.plugin.frame.ColorThresholder"	
+sSource"__id*
+""¥
+±
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÅ Å( /"
+ ij.plugin.frame.ColorThresholder"	
+bSource"__id*
+""∞≠
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ É(*
+%13ij.process.ByteProcessor"ij.process.ByteProcessor’
+“
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ É(9
+%14"$ij.process.ByteProcessor#<init>(II)V*!
+
+%13ij.process.ByteProcessor*
+""*
+""¡
+æ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÉ É(:!
+maskij.process.ImageProcessor"__id*!
+
+%13ij.process.ByteProcessorºπ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÑ Ñ( 
+%15void"?ij.ImagePlus#setProperty(Ljava/lang/String;Ljava/lang/Object;)V*
+
+impij.ImagePlus*
+Mask*#
+!
+maskij.process.ImageProcessor21setProperty(Ljava/lang/String;Ljava/lang/Object;)ø
+º
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaá á(*
+cpij.process.ColorProcessor"__id*!
+
+ipij.process.ImageProcessor‘
+—
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaà à(.
+%16void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+Converting colour space...è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaâ â(
+
+%17int"__id*
+""*
+14
+15*¡
+19p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÛ Û(
+ıÚ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÛ Û(
+%3ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()ø
+º
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÛ Û(
+ipij.process.ImageProcessor"__id*!
+
+%3ij.process.ImageProcessor∑¥
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÙ Ù(	
+%4int"ij.ImagePlus#getID()I*
+
+impij.ImagePlus2getID()À»
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaı ı(#	
+%5int"ij.ImagePlus#getCurrentSlice()I*
+
+impij.ImagePlus2getCurrentSlice()*
+16
+1*Ò
+1p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java∏ ∏("z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java∫ ∫(
+""*∆
+2p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java∂ ∂(…∆
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java∂ ∂(
+%66void"ij.ImagePlus#updateAndDraw()V*
+
+impij.ImagePlus2updateAndDraw()*
+1*Ô
+3p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaµ µ(ÚÔ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaµ µ(
+%65void"4ij.plugin.frame.ColorThresholder#autoSetThreshold()V*$"
+ ij.plugin.frame.ColorThresholder2autoSetThreshold()*
+2*ù5
+4p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaü' ü((ºπ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaü ü(&%
+%42java.awt.image.IndexColorModel"java.awt.image.IndexColorModelù
+ö
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaü ü(C
+%43"0java.awt.image.IndexColorModel#<init>(II[B[B[B)V*'
+%
+%42java.awt.image.IndexColorModel*2*2Ä*
+
+redsbyte[]*
+
+greensbyte[]*
+
+bluesbyte[]≈
+¬
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaü ü(D
+cmjava.awt.image.ColorModel"__id*'
+%
+%42java.awt.image.IndexColorModelΩ
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java§8 §(?
+%44byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSource∞≠
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java§ §(*
+%45ij.process.ByteProcessor"ij.process.ByteProcessor¶
+£
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java§ §(C
+%46"Aij.process.ByteProcessor#<init>(II[BLjava/awt/image/ColorModel;)V*!
+
+%45ij.process.ByteProcessor*
+""*
+""*
+
+%44byte[]*!
+
+cmjava.awt.image.ColorModel¡
+æ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java§ §(D!
+bpHueij.process.ByteProcessor"__id*!
+
+%45ij.process.ByteProcessoròï
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java• •(#
+%47ij.ImagePlus"ij.ImagePlusÜ
+É
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java• •(0
+%48"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%47ij.ImagePlus*
+Hue*#
+!
+bpHueij.process.ByteProcessor™
+ß
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java• •(1
+impHueij.ImagePlus"__id*
+
+%47ij.ImagePlusΩ
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java®8 ®(?
+%49byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSource∞≠
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java® ®(*
+%50ij.process.ByteProcessor"ij.process.ByteProcessor¶
+£
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java® ®(C
+%51"Aij.process.ByteProcessor#<init>(II[BLjava/awt/image/ColorModel;)V*!
+
+%50ij.process.ByteProcessor*
+""*
+""*
+
+%49byte[]*!
+
+cmjava.awt.image.ColorModel¡
+æ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java® ®(D!
+bpSatij.process.ByteProcessor"__id*!
+
+%50ij.process.ByteProcessoròï
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java© ©(#
+%52ij.ImagePlus"ij.ImagePlusÜ
+É
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java© ©(0
+%53"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%52ij.ImagePlus*
+Sat*#
+!
+bpSatij.process.ByteProcessor™
+ß
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java© ©(1
+impSatij.ImagePlus"__id*
+
+%52ij.ImagePlusΩ
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java¨8 ¨(?
+%54byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSource∞≠
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java¨ ¨(*
+%55ij.process.ByteProcessor"ij.process.ByteProcessor¶
+£
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java¨ ¨(C
+%56"Aij.process.ByteProcessor#<init>(II[BLjava/awt/image/ColorModel;)V*!
+
+%55ij.process.ByteProcessor*
+""*
+""*
+
+%54byte[]*!
+
+cmjava.awt.image.ColorModel¡
+æ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java¨ ¨(D!
+bpBriij.process.ByteProcessor"__id*!
+
+%55ij.process.ByteProcessoròï
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java≠ ≠(#
+%57ij.ImagePlus"ij.ImagePlusÜ
+É
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java≠ ≠(0
+%58"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%57ij.ImagePlus*
+Bri*#
+!
+bpBriij.process.ByteProcessor™
+ß
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java≠ ≠(1
+impBriij.ImagePlus"__id*
+
+%57ij.ImagePlus›
+⁄
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java∞ ∞(0
+%59)ij.plugin.frame.ColorThresholder$BandPlot"__id*.*,"
+ ij.plugin.frame.ColorThresholder"
+plotΩ∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java∞ ∞(
+%60void"Hij.plugin.frame.ColorThresholder$BandPlot#setHistogram(Lij/ImagePlus;I)V*2
+0
+%59)ij.plugin.frame.ColorThresholder$BandPlot*
+
+impHueij.ImagePlus*2 2setHistogram(Lij/ImagePlus;I)ﬁ
+€
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java± ±(0
+%61)ij.plugin.frame.ColorThresholder$BandPlot"__id*/*-"
+ ij.plugin.frame.ColorThresholder"
+splotøº
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java± ±( 
+%62void"Hij.plugin.frame.ColorThresholder$BandPlot#setHistogram(Lij/ImagePlus;I)V*2
+0
+%61)ij.plugin.frame.ColorThresholder$BandPlot*
+
+impSatij.ImagePlus*22setHistogram(Lij/ImagePlus;I)ﬁ
+€
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java≤ ≤(0
+%63)ij.plugin.frame.ColorThresholder$BandPlot"__id*/*-"
+ ij.plugin.frame.ColorThresholder"
+bplotøº
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java≤ ≤( 
+%64void"Hij.plugin.frame.ColorThresholder$BandPlot#setHistogram(Lij/ImagePlus;I)V*2
+0
+%63)ij.plugin.frame.ColorThresholder$BandPlot*
+
+impBriij.ImagePlus*22setHistogram(Lij/ImagePlus;I)*
+2
+3*ÿ
+6p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaö ö(È
+Ê
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaö ö()
+%38java.awt.Color"/java.awt.Color#getHSBColor(FFF)Ljava/awt/Color;*"
+java.awt.Color*
+""*
+""*
+""©
+¶
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaö ö()
+cjava.awt.Color"__id*
+
+%38java.awt.Colorºπ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaõ õ(
+
+%39int"java.awt.Color#getRed()I*
+
+cjava.awt.Color2getRed()¿Ω
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaú ú("
+
+%40int"java.awt.Color#getGreen()I*
+
+cjava.awt.Color2
+getGreen()æª
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaù ù( 
+
+%41int"java.awt.Color#getBlue()I*
+
+cjava.awt.Color2	getBlue()*
+4
+6*ò
+8p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaí í(∏
+µ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaí í(
+%37void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ* ò
+ï
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaï ï(
+cjava.awt.Color"__id*
+""ì
+ê
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javañ ñ(
+redsbyte[]"__id*
+""ï
+í
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaó ó(!
+greensbyte[]"__id*
+""î
+ë
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaò ò( 
+bluesbyte[]"__id*
+""*
+4
+6*≥
+9p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaê ê(
+Ω
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaê ê(
+%33byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSourceΩ
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaê ê(
+%34byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSourceΩ
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaê ê(&
+%35byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSourceˆÛ
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaê ê('
+%36void"Kij.plugin.frame.ColorThresholder#getYUV(Lij/process/ImageProcessor;[B[B[B)V*$"
+ ij.plugin.frame.ColorThresholder*!
+
+cpij.process.ColorProcessor*
+
+%33byte[]*
+
+%34byte[]*
+
+%35byte[]2)getYUV(Lij/process/ImageProcessor;[B[B[B)*
+8*Ú
+20p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÚ
+ Ú("z
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÚ Ú(
+""*ˆ
+21p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÔ Ô(§
+°
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÔ Ô(
+ipij.process.ImageProcessor"__id*
+""ª∏
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.java (	
+%1int"ij.ImagePlus#getType()I*
+
+impij.ImagePlus2	getType()é
+ã
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÒ Ò(	
+%2int"__id*
+""*
+19
+20*ê
+10p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaè è(è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaè è(
+
+%32int"__id*
+""*
+8
+9*«
+22p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÓ Ó(»
+≈
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaÓ Ó(4
+
+%0void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+ColorThresholder.setup*
+21*â
+11p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaé é(
+Ω
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaé é(
+%28byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+hSourceΩ
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaé é(
+%29byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+sSourceΩ
+∫
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaé é(&
+%30byte[]"__id*1*/"
+ ij.plugin.frame.ColorThresholder"	
+bSourceÀ
+»
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaé é('
+%31void"Kij.plugin.frame.ColorThresholder#getLab(Lij/process/ImageProcessor;[B[B[B)V*$""
+ ij.plugin.frame.ColorThresholder*!
+
+cpij.process.ColorProcessor*
+
+%28byte[]*
+
+%29byte[]*
+
+%30byte[]*
+8*í
+12p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaç ç(è
+å
+p
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/ColorThresholder.javaç ç(
+
+%27int"__id*
+""*
+10
+11:
+impij.ImagePlusB$"
+ ij.plugin.frame.ColorThresholder

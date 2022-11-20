@@ -1,0 +1,50 @@
+
+.ij.gui.ImageCanvas#getColor(I)Ljava/awt/Color;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javañ ñ("1*Ã
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaó( ó(+¢
+ü
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaó( ó(+
+%0ij.ImagePlus"__id**
+ij.gui.ImageCanvas"
+impÊ„
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaó( ó(:
+%1ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+%0ij.ImagePlus2getProcessor()Çˇ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaó( ó(J
+%2java.awt.image.ColorModel"Dij.process.ImageProcessor#getColorModel()Ljava/awt/image/ColorModel;*!
+
+%1ij.process.ImageProcessor2getColorModel()∂
+≥
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaó ó(K$
+cmjava.awt.image.IndexColorModel"__id*!
+
+%2java.awt.image.ColorModelÿ’
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaò ò(#	
+%3int")java.awt.image.IndexColorModel#getRGB(I)I*&
+$
+cmjava.awt.image.IndexColorModel*
+""2	getRGB(I)çä
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaò ò(
+%4java.awt.Color"java.awt.Color≠
+™
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaò	 ò($
+%5"java.awt.Color#<init>(I)V*
+
+%4java.awt.Color*
+	
+%3int"|
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageCanvas.javaò ò(%
+
+%4java.awt.Color:
+""B
+ij.gui.ImageCanvas

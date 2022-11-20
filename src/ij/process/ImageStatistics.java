@@ -77,7 +77,7 @@ public class ImageStatistics implements Measurements {
 	 * @see ij.process.ImageProcessor#getStats
 	*/
 	public static ImageStatistics getStatistics(ImageProcessor ip) {
-		return getStatistics(ip, AREA+MEAN+STD_DEV+MODE+MIN_MAX+RECT, null);
+		return getStatistics(ip, AREA+MEAN+STD_DEV+MODE+MIN_MAX+RECT, null, null);
 	}
 
 	/** Calculates and returns statistics for the specified
@@ -89,10 +89,10 @@ public class ImageStatistics implements Measurements {
 	 * @see ij.process.ImageProcessor#setRoi(Roi)
 	 * @see ij.measure.Measurements
 	*/
-	public static ImageStatistics getStatistics(ImageProcessor ip, int mOptions, Calibration cal) {
+	public static ImageStatistics getStatistics(ImageProcessor ip, int mOptions, Calibration cal, CentroidHelper centroid) {
 		Object pixels = ip.getPixels();
 		if (pixels instanceof byte[])
-			return new ByteStatistics(ip, mOptions, cal);
+			return new ByteStatistics(ip, mOptions, cal, centroid);
 		else if (pixels instanceof short[])
 			return new ShortStatistics(ip, mOptions, cal);
 		else if (pixels instanceof int[])

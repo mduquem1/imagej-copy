@@ -1,0 +1,19 @@
+
+-ij.process.ImageProcessor#getAutoThreshold()Ii
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaã ã("1*­
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaä	 ä(ÖÓ
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaä ä((
+%0int[]"*ij.process.ImageProcessor#getHistogram()[I*
+ij.process.ImageProcessor2getHistogram()îë
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaä	 ä()	
+%1int"/ij.process.ImageProcessor#getAutoThreshold([I)I*
+ij.process.ImageProcessor*
+
+%0int[]2getAutoThreshold([I)"s
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaä ä(*
+""B
+ij.process.ImageProcessor

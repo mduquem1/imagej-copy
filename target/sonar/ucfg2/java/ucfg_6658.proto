@@ -1,0 +1,79 @@
+
+:ij.plugin.ZProjector#getMethodAsString()Ljava/lang/String;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java» »($"1*⁄
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java– –("o
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java– –(
+avg*›
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaœ œ(*"r
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaœ œ(*
+
+median*Ÿ
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaŒ Œ(""n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaŒ Œ("
+sd*⁄
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÕ Õ($"o
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÕ Õ($
+sum*⁄
+6d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÃ Ã($"o
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÃ Ã($
+min*⁄
+7d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÀ À($"o
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÀ À($
+max*⁄
+8d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java   (%"o
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java   (%
+avg*ò
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java… …(Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.java   (	
+%0int"__id*
+""Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÀ À(	
+%1int"__id*
+""Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÃ Ã(	
+%2int"__id*
+""Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaÕ Õ(	
+%3int"__id*
+""Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaŒ Œ(	
+%4int"__id*
+""Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ZProjector.javaœ œ(	
+%5int"__id*
+""*
+2
+3
+4
+5
+6
+7
+8B
+ij.plugin.ZProjector

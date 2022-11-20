@@ -1,0 +1,83 @@
+
+(ij.gui.TextRoi#clone()Ljava/lang/Object;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java´ ´(!"5*ž
+3^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¸ ¸(¨
+¥
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¸ ¸(
+%4java.lang.String[]"__id*#*!
+
+trij.gui.TextRoi"	
+theText¤
+¡
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¸ ¸(
+%5java.lang.String[]"__id**
+ij.gui.TextRoi"	
+theText«
+¨
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¸ ¸(
+%6java.lang.String"
+__arrayGet*
+
+%5java.lang.String[]*
+""³
+°
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¸ ¸(
+%7"
+__arraySet*
+
+%4java.lang.String[]*
+""*
+
+%6java.lang.String*
+4*è
+4^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java· ·({
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java· ·(	
+%3int"__id*
+""*
+3
+1*ì
+5^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaµ µ(©
+¦
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaµ µ(%
+%0java.lang.Object"$ij.gui.Roi#clone()Ljava/lang/Object;*
+""™
+–
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.javaµ µ(&
+trij.gui.TextRoi"__id*
+
+%0java.lang.Object{
+y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¶ ¶(#	
+%1int"__id*
+""‘Ž
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¶ ¶($
+%2java.lang.String[]"java.lang.String[]¨
+¥
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¶ ¶($!
+
+trij.gui.TextRoi"	
+theText"__id*
+
+%2java.lang.String[]*
+4*Ý
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¹	 ¹("x
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/TextRoi.java¹ ¹(
+
+trij.gui.TextRoiB
+ij.gui.TextRoi

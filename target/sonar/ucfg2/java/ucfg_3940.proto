@@ -1,0 +1,96 @@
+
+!ij.Menus#getFont()Ljava/awt/Font;X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaï ï("10*À
+2X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaõ õ("u
+s
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaõ$ õ(.	
+%6int"__id*
+""€~
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaõ õ(
+%7java.awt.Font"java.awt.FontÊ
+Ç
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaõ õ(5
+%8"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%7java.awt.Font*
+
+SanSerif*
+	
+%6int*
+""”
+‘
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaõ õ(5
+
+ij.Menus"
+
+menuFont"__id*
+
+%7java.awt.Font*
+1*’
+6X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javañ ñ(&Ÿ
+œ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaò ò(%
+
+%4long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""‹
+ˆ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaó ó(
+%5boolean"ij.IJ#isWindows()Z*	"
+ij.IJ*
+2*Þ
+7X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javañ ñ(%z
+x
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javañ ñ(%	
+%1int"__id*
+	
+%3int*
+6*Þ
+8X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javañ ñ(z
+x
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javañ ñ(	
+%1int"__id*
+	
+%2int*
+6*€
+10X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javað ð(”
+‘
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javað ð(
+%0java.awt.Font"__id**
+
+ij.Menus"
+
+menuFont*	
+7
+8
+1*ç
+1X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaø	 ø(”
+‘
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaø	 ø(
+%9java.awt.Font"__id**
+
+ij.Menus"
+
+menuFont"q
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaø ø(
+
+%9java.awt.FontB"
+
+ij.Menus

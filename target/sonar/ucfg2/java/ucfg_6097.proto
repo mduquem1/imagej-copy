@@ -1,0 +1,166 @@
+
+@ij.measure.Minimizer#initializeSimplex([[D[DLjava/util/Random;)Zd
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaª ª(%"36"48"49"5"6"8"33"1*•
+46d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¿" ¿((≤
+Ø
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¿" ¿(5
+%4boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+""*
+44*⁄
+36d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÃ Ã( "n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÃ Ã(!
+""*≤
+48d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaø) ø(,´
+®
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaø/ ø(C
+%3double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""ç
+ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaø) ø(C
+%0double"__id*
+
+%2double*
+46
+44*Ñ
+49d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaø ø(#ç
+ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaø ø(&
+%0double"__id*
+
+%1double*
+46
+44*Ÿ
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÌ Ì("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÌ Ì(
+""*Ö
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÍK Í(QÉ
+Ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÍU Í(m
+
+%13int"__id*
+""*
+36
+5
+6
+8
+33
+1*Ö
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÍ6 Í(<É
+Ä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÍ@ Í(G
+
+%12int"__id*
+""*
+3
+36
+5
+6
+8
+33*ˇ
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÍ Í(ª
+∏
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÍ" Í(0
+%10double"ij.measure.Minimizer#value([D)D*
+ij.measure.Minimizer*
+""º
+π
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÍ Í(1
+%11boolean"java.lang.Double#isNaN(D)Z*"
+java.lang.Double*
+
+%10double*
+36
+4
+5
+6
+8
+33
+1*¨
+6d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÈ È(ª
+∏
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaÈ È(!
+
+%9void""ij.measure.Minimizer#evaluate([D)V*
+ij.measure.Minimizer*
+""*
+5*†
+8d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaË Ë(¨
+©
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.javaË9 Ë(J
+%8double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+6
+8*∂
+43d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java√ √(´
+®
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java√ √(2
+%6double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""*
+36
+48
+49
+5
+6
+8
+33
+1*∫
+44d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¬ ¬(´
+®
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java¬ ¬(*
+%5double"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""* 
+36
+48
+49
+5
+6
+8
+43
+33
+1*º
+33d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java” ”(¿Ω
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/measure/Minimizer.java”# ”(5
+%7float"java.util.Random#nextFloat()F*
+
+randomjava.util.Random2nextFloat()*
+5
+6
+8
+33:
+"":
+"":
+randomjava.util.RandomB
+ij.measure.Minimizer

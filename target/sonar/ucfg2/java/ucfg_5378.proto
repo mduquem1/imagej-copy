@@ -1,0 +1,336 @@
+
+3ij.plugin.Stack_Statistics#run(Ljava/lang/String;)Vh
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java ("11*˛
+2h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java+ +(∫
+∑
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java+ +(
+%26java.lang.String"__concat*	
+Volume(*
+
+unitsjava.lang.String¥
+±
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java+ +(#
+%27java.lang.String"__concat*
+
+%26java.lang.String*
+^3)ïí
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java+ +(@
+%28void"6ij.measure.ResultsTable#addValue(Ljava/lang/String;D)V*
+
+rtij.measure.ResultsTable*
+
+%27java.lang.String*
+""2addValue(Ljava/lang/String;D)*
+1*∫	
+3h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java& &(ÏÈ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java& &((
+%23ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()≥
+∞
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java& &()
+calij.measure.Calibration"__id*
+
+%23ij.measure.CalibrationËÂ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java' '(
+%24java.lang.String"3ij.measure.Calibration#getUnits()Ljava/lang/String;*
+
+calij.measure.Calibration2
+getUnits()©
+¶
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java' '( 
+unitsjava.lang.String"__id*
+
+%24java.lang.StringÜÉ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java) )(-
+%25void"6ij.measure.ResultsTable#addValue(Ljava/lang/String;D)V*
+
+rtij.measure.ResultsTable*
+
+Voxels*
+""2addValue(Ljava/lang/String;D)*
+2
+1*˘	
+4h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java! !(á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java!, !(>
+
+%18int"__id*
+""–
+Õ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java! !(?
+%19void"-ij.plugin.filter.Analyzer#setMeasurements(I)V*"
+ij.plugin.filter.Analyzer*
+""¨©
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java"  "(/!
+%20ij.process.StackStatistics"ij.process.StackStatistics‰
+·
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java" "(4
+%21"2ij.process.StackStatistics#<init>(Lij/ImagePlus;)V*#
+!
+%20ij.process.StackStatistics*
+
+impij.ImagePlusæ
+ª
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java" "(5$
+stats2ij.process.ImageStatistics"__id*#
+!
+%20ij.process.StackStatistics–
+Õ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java# #()
+%22void"-ij.plugin.filter.Analyzer#setMeasurements(I)V*"
+ij.plugin.filter.Analyzer*
+""*
+3*˜
+5h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (÷”
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java ( 
+%17java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()©
+¶
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (!
+rjava.awt.Rectangle"__id*
+
+%17java.awt.Rectangle*
+3*≤
+6h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (∞≠
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (
+
+%15int"ij.gui.Roi#getType()I*
+
+roi
+ij.gui.Roi2	getType()á
+Ñ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java ('
+
+%16int"__id*
+""*
+4
+5*Ê
+7h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (∂≥
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (
+
+%13int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()∏µ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java  (/
+
+%14int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()*
+3*∂
+8h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (æª
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java ($
+
+%12int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+6
+7*ø
+9h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (π∂
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (
+%11void"ij.ImagePlus#deleteRoi()V*
+
+impij.ImagePlus2deleteRoi()é
+ã
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (
+roi
+ij.gui.Roi"__id*
+""*
+8*´
+10h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (≤Ø
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java ( 
+%10boolean"ij.gui.Roi#isArea()Z*
+
+roi
+ij.gui.Roi2isArea()*
+8
+9*˘
+11h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (¨
+©
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (
+%0ij.ImagePlus"ij.IJ#getImage()Lij/ImagePlus;*	"
+ij.IJû
+õ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java ( 
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus≈
+¬
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (/	
+%1int",ij.plugin.filter.Analyzer#getMeasurements()I*"
+ij.plugin.filter.AnalyzerÜ
+É
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java* (<	
+%2int"__id*
+""œ
+Ã
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (=
+
+%3void"-ij.plugin.filter.Analyzer#setMeasurements(I)V*"
+ij.plugin.filter.Analyzer*
+""´®
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (- 
+%4ij.process.StackStatistics"ij.process.StackStatistics‚
+ﬂ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (2
+%5"2ij.process.StackStatistics#<init>(Lij/ImagePlus;)V*"
+ 
+%4ij.process.StackStatistics*
+
+impij.ImagePlusº
+π
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (3#
+statsij.process.ImageStatistics"__id*"
+ 
+%4ij.process.StackStatisticsœ
+Ã
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java ((
+
+%6void"-ij.plugin.filter.Analyzer#setMeasurements(I)V*"
+ij.plugin.filter.Analyzer*
+""Ò
+Ó
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (.
+%7ij.measure.ResultsTable"Dij.plugin.filter.Analyzer#getResultsTable()Lij/measure/ResultsTable;*"
+ij.plugin.filter.Analyzer≥
+∞
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (/
+rtij.measure.ResultsTable"__id*
+
+%7ij.measure.ResultsTable€ÿ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (
+
+%8void"+ij.measure.ResultsTable#incrementCounter()V*
+
+rtij.measure.ResultsTable2incrementCounter()√¿
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (
+%9
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()ö
+ó
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java (
+roi
+ij.gui.Roi"__id*
+
+%9
+ij.gui.Roi*
+8
+10*Ü
+0 "
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java4 4(
+implicit return*†
+1h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java, ,(áÑ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java, ,(@
+%29void"6ij.measure.ResultsTable#addValue(Ljava/lang/String;D)V*
+
+rtij.measure.ResultsTable*	
+%Volume*
+""2addValue(Ljava/lang/String;D)ÑÅ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java- -(!
+%30void"6ij.measure.ResultsTable#addValue(Ljava/lang/String;D)V*
+
+rtij.measure.ResultsTable*
+Mean*
+""2addValue(Ljava/lang/String;D)ÜÉ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java. .(%
+%31void"6ij.measure.ResultsTable#addValue(Ljava/lang/String;D)V*
+
+rtij.measure.ResultsTable*
+
+StdDev*
+""2addValue(Ljava/lang/String;D)ÉÄ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java/ /(
+%32void"6ij.measure.ResultsTable#addValue(Ljava/lang/String;D)V*
+
+rtij.measure.ResultsTable*
+Min*
+""2addValue(Ljava/lang/String;D)ÉÄ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java0 0(
+%33void"6ij.measure.ResultsTable#addValue(Ljava/lang/String;D)V*
+
+rtij.measure.ResultsTable*
+Max*
+""2addValue(Ljava/lang/String;D)ÑÅ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java1 1("
+%34void"6ij.measure.ResultsTable#addValue(Ljava/lang/String;D)V*
+
+rtij.measure.ResultsTable*
+Mode*
+""2addValue(Ljava/lang/String;D)ÜÉ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java2 2(%
+%35void"6ij.measure.ResultsTable#addValue(Ljava/lang/String;D)V*
+
+rtij.measure.ResultsTable*
+
+Median*
+""2addValue(Ljava/lang/String;D)ıÚ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Stack_Statistics.java3 3(
+%36void"1ij.measure.ResultsTable#show(Ljava/lang/String;)V*
+
+rtij.measure.ResultsTable*	
+Results2show(Ljava/lang/String;)*
+0:
+argjava.lang.StringB
+ij.plugin.Stack_Statistics

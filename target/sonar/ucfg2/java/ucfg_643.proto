@@ -1,0 +1,43 @@
+
+Rij.process.ImageProcessor#getThresholdColorModel()Ljava/awt/image/IndexColorModel;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.java× ×(1"5*—
+5i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaØ Ø(‰
+†
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaØ Ø(
+rbyte[]"__id*
+""‰
+†
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÙ Ù(
+gbyte[]"__id*
+""‰
+†
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaÚ Ú(
+bbyte[]"__id*
+""*
+1*Æ
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaà à(´±
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaã ã($
+%0java.awt.image.IndexColorModel"java.awt.image.IndexColorModelˆ
+…
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaã	 ã(-
+%1"0java.awt.image.IndexColorModel#<init>(II[B[B[B)V*&
+$
+%0java.awt.image.IndexColorModel*2*2€*
+
+rbyte[]*
+
+gbyte[]*
+
+bbyte[]"“
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ImageProcessor.javaã ã(.&
+$
+%0java.awt.image.IndexColorModelB
+ij.process.ImageProcessor

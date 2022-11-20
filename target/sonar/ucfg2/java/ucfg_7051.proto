@@ -1,0 +1,48 @@
+
+;ij.plugin.GifDecoder#getFrame(I)Lij/process/ImageProcessor;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java‘ ‘("4*ñ
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java” ”(­
+ª
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java” ”(
+%0java.util.Vector"__id*$*"
+ij.plugin.GifDecoder"
+framesâß
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java” ”('
+%1java.lang.Object"/java.util.Vector#elementAt(I)Ljava/lang/Object;*
+
+%0java.util.Vector*
+""2elementAt(I)µ
+²
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java” ”(.
+%2ij.process.ImageProcessor"__id*#*!
+
+%1java.lang.Object"
+image³
+°
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java” ”(.
+imij.process.ImageProcessor"__id*!
+
+%2ij.process.ImageProcessor*
+1*Œ
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java’ ’(˜
+•
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java’ ’(
+imij.process.ImageProcessor"__id*
+""*
+2
+1*õ
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java•	 •("‰
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GIF_Reader.java• •(!
+
+imij.process.ImageProcessor:
+""B
+ij.plugin.GifDecoder

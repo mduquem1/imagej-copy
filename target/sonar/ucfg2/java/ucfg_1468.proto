@@ -1,0 +1,65 @@
+
+Wij.gui.GUI#newNonBlockingDialog(Ljava/lang/String;Lij/ImagePlus;)Lij/gui/GenericDialog;Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java– –(1"3"1*ã
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java˜> ˜(C§¤
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java˜% ˜(=%
+%1ij.gui.NonBlockingGenericDialog"ij.gui.NonBlockingGenericDialogè
+å
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java˜! ˜(D
+%2";ij.gui.NonBlockingGenericDialog#<init>(Ljava/lang/String;)V*'
+%
+%1ij.gui.NonBlockingGenericDialog*
+
+titlejava.lang.Stringµ
+²
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java˜ ˜(E%
+gdij.gui.NonBlockingGenericDialog"__id*'
+%
+%1ij.gui.NonBlockingGenericDialog¬
+©
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java™ ™(.
+%
+gdij.gui.NonBlockingGenericDialog"
+imp"__id*
+
+impij.ImagePlus"…
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaš š('
+%
+gdij.gui.NonBlockingGenericDialog*µ
+3Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java—5 —(8ËÈ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java—5 —(D
+%0ij.gui.ImageWindow",ij.ImagePlus#getWindow()Lij/gui/ImageWindow;*
+
+impij.ImagePlus2getWindow()*
+2
+1*Ä
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaœ œ(!‘Ž
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaœ œ(
+%3ij.gui.GenericDialog"ij.gui.GenericDialogÒ
+Ï
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaœ
+ œ("
+%4"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%3ij.gui.GenericDialog*
+
+titlejava.lang.String"z
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaœ œ(#
+
+%3ij.gui.GenericDialog:
+titlejava.lang.String:
+impij.ImagePlusB"
+
+ij.gui.GUI

@@ -1,0 +1,223 @@
+
+Tij.plugin.filter.FFTCustomFilter#newFHT(Lij/process/ImageProcessor;)Lij/process/FHT;n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaV V("7*‘
+2n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah h(ƒ
+¡
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah6 h(:
+%19java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rectƒ
+¡
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah> h(B
+%20java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rectìê
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah h(E 
+%21ij.process.ImageProcessor"aij.plugin.filter.FFTFilter#tileMirror(Lij/process/ImageProcessor;IIII)Lij/process/ImageProcessor;*)
+'
+	fftFilterij.plugin.filter.FFTFilter*!
+
+ipij.process.ImageProcessor*
+""*
+""*
+""*
+""2+tileMirror(Lij/process/ImageProcessor;IIII)öó
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah h(
+%22ij.process.FHT"ij.process.FHTÏ
+È
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah	 h(F
+%23"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%22ij.process.FHT*"
+ 
+%21ij.process.ImageProcessor©
+¶
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javah h(F
+fhtij.process.FHT"__id*
+
+%22ij.process.FHT*
+1*ô
+3n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javac c(£†
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javac c(&
+%11void"@ij.plugin.filter.FFTCustomFilter#showStatus(Ljava/lang/String;)V*$"
+ ij.plugin.filter.FFTCustomFilter*
+Extracting brightness2showStatus(Ljava/lang/String;)èå
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javad d(< 
+%12ij.process.FloatProcessor"Dij.process.ColorProcessor#getBrightness()Lij/process/FloatProcessor;*!
+
+ipij.process.ImageProcessor2getBrightness()ø
+º
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javad d(= 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%12ij.process.FloatProcessorƒ
+¡
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae7 e(;
+%13java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rectƒ
+¡
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae? e(C
+%14java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rectîë
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae e(F 
+%15ij.process.ImageProcessor"aij.plugin.filter.FFTFilter#tileMirror(Lij/process/ImageProcessor;IIII)Lij/process/ImageProcessor;*)
+'
+	fftFilterij.plugin.filter.FFTFilter*"
+ 
+ip2ij.process.ImageProcessor*
+""*
+""*
+""*
+""2+tileMirror(Lij/process/ImageProcessor;IIII)öó
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae e(
+%16ij.process.FHT"ij.process.FHTÏ
+È
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae	 e(G
+%17"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%16ij.process.FHT*"
+ 
+%15ij.process.ImageProcessor©
+¶
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javae e(G
+fhtij.process.FHT"__id*
+
+%16ij.process.FHTáÑ
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaf f(+ 
+%18ij.process.ImageProcessor"@ij.process.ImageProcessor#duplicate()Lij/process/ImageProcessor;*!
+
+ipij.process.ImageProcessor2duplicate()Ω
+∫
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaf f(+
+
+fhtij.process.FHT"
+rgb"__id*"
+ 
+%18ij.process.ImageProcessor*
+1*«
+4n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java] ](√
+¿
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java] ](
+%3java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rectµ
+≤
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java] ](,
+
+%4long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""√
+¿
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java^ ^(
+%5java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rectµ
+≤
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java^ ^(-
+
+%6long"java.lang.Math#round(D)J*"
+java.lang.Math*
+""√
+¿
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java_ _(
+%7java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rect√
+¿
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.java` `(
+%8java.awt.Rectangle"__id*.*,"
+ ij.plugin.filter.FFTCustomFilter"
+rect±Æ
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaa a(% 
+%9ij.plugin.filter.FFTFilter"ij.plugin.filter.FFTFilterƒ
+¡
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaa a('
+%10"$ij.plugin.filter.FFTFilter#<init>()V*"
+ 
+%9ij.plugin.filter.FFTFilter∆
+√
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaa a(('
+	fftFilterij.plugin.filter.FFTFilter"__id*"
+ 
+%9ij.plugin.filter.FFTFilter*
+2
+3*Å
+7n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaW W(
+ò
+ï
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaW W(
+
+fhtij.process.FHT"__id*
+""‘—
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaX X(	
+%0int"%ij.process.ImageProcessor#getWidth()I*!
+
+ipij.process.ImageProcessor2
+getWidth()÷”
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaY Y(	
+%1int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()ª
+∏
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javaZ Z($	
+%2int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*
+""*
+4*Ñ
+1n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javai i(Ω
+∫
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javak k(
+%24ij.ImagePlus"__id*-*+"
+ ij.plugin.filter.FFTCustomFilter"
+imp¬ø
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javak k(*
+
+%25int"ij.ImagePlus#getBitDepth()I*
+
+%24ij.ImagePlus2getBitDepth()"â
+n
+d/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/FFTCustomFilter.javal l(
+
+fhtij.process.FHT:
+ipij.process.ImageProcessorB$"
+ ij.plugin.filter.FFTCustomFilter

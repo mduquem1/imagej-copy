@@ -1,0 +1,32 @@
+
+7ij.plugin.Binner#getMin(Lij/process/ImageProcessor;II)F`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaÞ Þ("9*Ä
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaã ã(ÔÑ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaã ã(/
+%1float"#ij.process.ImageProcessor#getf(II)F*!
+
+ipij.process.ImageProcessor*
+""*
+""2getf(II)*
+5
+1*î
+9`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaß ß(
+}
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaß ß(
+%0float"__id*
+""*
+5
+1*Ñ
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaè	 è("j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Binner.javaè è(
+"":
+ipij.process.ImageProcessor:
+"":
+""B
+ij.plugin.Binner

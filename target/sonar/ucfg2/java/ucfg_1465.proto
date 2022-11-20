@@ -1,0 +1,174 @@
+
++ij.gui.GUI#scale(Ljavax/swing/JComponent;)ZZ
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÁ Á("17*ﬁ
+13Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÌ
+ Ì(‡
+›
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÌ
+ Ì((
+%2java.awt.Font"@javax.swing.UIManager#getFont(Ljava/lang/Object;)Ljava/awt/Font;*"
+javax.swing.UIManager*
+	List.fontì
+ê
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÌ Ì((
+fontjava.awt.Font"__id*
+
+%2java.awt.Font*
+7*ó
+2Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java˜ ˜(—Œ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java˜4 ˜(_
+
+%10int"'javax.swing.JList#getFixedCellHeight()I*%
+#
+	componentjavax.swing.JComponent2getFixedCellHeight()‹Ÿ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java˜ ˜(r
+%11void"(javax.swing.JList#setFixedCellHeight(I)V*%
+#
+	componentjavax.swing.JComponent*
+""2setFixedCellHeight(I)*
+1*‹
+15Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÎ Î(”–
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÎ Î(!
+%1java.awt.Font"+java.awt.Component#getFont()Ljava/awt/Font;*%
+#
+	componentjavax.swing.JComponent2	getFont()ì
+ê
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÎ Î("
+fontjava.awt.Font"__id*
+
+%1java.awt.Font*
+13
+7
+8
+10*ˇ
+4Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaı ı(≈¬
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaı, ı(O	
+%8int""javax.swing.JTable#getRowHeight()I*%
+#
+	componentjavax.swing.JComponent2getRowHeight()–Õ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaı ı(b
+
+%9void"#javax.swing.JTable#setRowHeight(I)V*%
+#
+	componentjavax.swing.JComponent*
+""2setRowHeight(I)*
+1*∆
+16Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÍ
+ Í("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÍ Í(
+""*Å
+17Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaË Ë(î
+ë
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaË Ë(-
+%0double"ij.Prefs#getGuiScale()D*"
+
+ij.Prefs*
+15
+16*≈
+6Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÛ
+ Û("d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÛ Û(
+""*≈
+7Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÚ Ú(
+®•
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÚ Ú(	
+%5int"java.awt.Font#getSize()I*
+
+fontjava.awt.Font2	getSize()Å
+
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÚ Ú(#
+%6java.awt.Font"__id*
+""¶£
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÚ Ú(-	
+%7int"java.awt.Font#getSize()I*
+
+%6java.awt.Font2	getSize()*
+2
+4
+6
+1*ﬁ
+8Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÒ
+ Ò(·
+ﬁ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÒ
+ Ò()
+%4java.awt.Font"@javax.swing.UIManager#getFont(Ljava/lang/Object;)Ljava/awt/Font;*"
+javax.swing.UIManager*
+
+Label.fontì
+ê
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÒ Ò()
+fontjava.awt.Font"__id*
+
+%4java.awt.Font*
+7*ﬂ
+10Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÔ
+ Ô(·
+ﬁ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÔ
+ Ô()
+%3java.awt.Font"@javax.swing.UIManager#getFont(Ljava/lang/Object;)Ljava/awt/Font;*"
+javax.swing.UIManager*
+
+Table.fontì
+ê
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.javaÔ Ô()
+fontjava.awt.Font"__id*
+
+%3java.awt.Font*
+7*ø
+1Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java¯ ¯(©¶
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java¯7 ¯(E
+
+%12int"java.awt.Font#getSize()I*
+
+fontjava.awt.Font2	getSize()—Œ
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java¯ ¯(F
+%13java.awt.Font"*java.awt.Font#deriveFont(F)Ljava/awt/Font;*
+
+fontjava.awt.Font*
+""2deriveFont(F)˜Ù
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java¯ ¯(G
+%14void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*%
+#
+	componentjavax.swing.JComponent*
+
+%13java.awt.Font2setFont(Ljava/awt/Font;)"d
+Z
+N/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/GUI.java˘ ˘(
+"":#
+	componentjavax.swing.JComponentB"
+
+ij.gui.GUI

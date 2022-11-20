@@ -1,0 +1,256 @@
+
+`ij.plugin.filter.ParticleAnalyzer#setThresholdLevels(Lij/ImagePlus;Lij/process/ImageProcessor;)Zq
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaü	 ü("46*¢
+46q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java† †(ËÂ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java† †("
+%0double",ij.process.ImageProcessor#getMinThreshold()D*!
+
+ipij.process.ImageProcessor2getMinThreshold()ËÂ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java° °("
+%1double",ij.process.ImageProcessor#getMaxThreshold()D*!
+
+ipij.process.ImageProcessor2getMaxThreshold()Ã…
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¢ ¢(+
+%2boolean"ij.ImagePlus#isInvertedLut()Z*
+
+impij.ImagePlus2isInvertedLut()*
+41*∞
+24q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¿N ¿(P∞
+≠
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¿N ¿(P
+%11java.lang.String"__id*
+
+%13java.lang.String*
+23*∞
+25q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¿, ¿(M∞
+≠
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¿, ¿(M
+%11java.lang.String"__id*
+
+%12java.lang.String*
+23*ø
+38q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÆ Æ(Û
+
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaØ ∞(/
+%6java.lang.String"__concat*,*
+(A threshold has not been set using the\n*+)
+'Image->Adjust->Threshold tool or the \n›
+⁄
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaØ ±(-
+%7java.lang.String"__concat*
+
+%6java.lang.String*)'
+%setThreshold(min,max) macro function.Ú
+Ô
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÆ ±(.
+
+%8void"2ij.IJ#error(Ljava/lang/String;Ljava/lang/String;)V*	"
+ij.IJ*
+Particle Analyzer*
+
+%7java.lang.String"{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≥ ≥(
+""*ì
+17q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÃ Ã(ê
+ç
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÃ Ã(
+
+%20int"__id*
+""*
+9
+12*Û
+1q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java·	 ·("{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java· ·(
+""*”
+4q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java‹ ‹(’
+“
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java‹ ‹( 
+%26ij.process.ImageProcessor"__id*5*3#
+!ij.plugin.filter.ParticleAnalyzer"
+
+redirectIP*
+1*÷
+6q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java⁄ ⁄(’
+“
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java⁄ ⁄( 
+%25ij.process.ImageProcessor"__id*5*3#
+!ij.plugin.filter.ParticleAnalyzer"
+
+redirectIP*
+4
+1*÷
+8q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÿ ÿ(’
+“
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaÿ ÿ( 
+%24ij.process.ImageProcessor"__id*5*3#
+!ij.plugin.filter.ParticleAnalyzer"
+
+redirectIP*
+6
+1*÷
+9q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java÷ ÷(’
+“
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java◊ ◊( 
+%23ij.process.ImageProcessor"__id*5*3#
+!ij.plugin.filter.ParticleAnalyzer"
+
+redirectIP*
+8
+1*ﬁ
+40q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java´ ´(Ä˝
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¨ ¨(1 
+%4ij.process.ImageStatistics";ij.ImagePlus#getRawStatistics()Lij/process/ImageStatistics;*
+
+impij.ImagePlus2getRawStatistics()≈
+¬
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¨ ¨(2#
+statsij.process.ImageStatistics"__id*"
+ 
+%4ij.process.ImageStatisticsè
+å
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≠ ≠(	
+%5int"__id*
+""*
+38
+34*ñ
+41q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java™ ™(í
+è
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java™
+ ™(%
+%3double"__id*
+""*
+40
+22*Ù
+10q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java‘ ‘("{
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java‘ ‘(
+""*ì
+22q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java≈ ≈(ê
+ç
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java« «(
+
+%19int"__id*
+""*
+17
+9*ë
+11q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java“ “(í
+è
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java“ “(!
+%22float"__id*
+""*
+9*ó
+33q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaæ æ('ê
+ç
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaæ) æ(-
+
+%10int"__id*
+""*
+24
+25
+9*î
+12q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java— —(ê
+ç
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java— —(
+
+%21int"__id*
+""*
+10
+11*•
+34q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaΩ Ω(
+¢
+ü
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.javaΩ Ω(
+%9boolean"ij.IJ#isMacro()Z*	"
+ij.IJ*
+9
+33*≠
+
+23q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¿ ¿(Q≥
+∞
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¿ ¿(Q
+suffixjava.lang.String"__id*
+
+%11java.lang.String⁄
+◊
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¡ ¡(M
+%14java.lang.String"__concat*75
+3ParticleAnalyzer: threshold not set; assumed to be *
+""ª
+∏
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¡ ¡(Q
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+-º
+π
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¡ ¡(]
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+""“
+œ
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¡ ¡(d
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+
+suffixjava.lang.String…
+∆
+q
+e/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/ParticleAnalyzer.java¡ ¡(e
+%18void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%17java.lang.String*
+9:
+impij.ImagePlus:
+ipij.process.ImageProcessorB%#
+!ij.plugin.filter.ParticleAnalyzer

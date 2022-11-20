@@ -1,0 +1,304 @@
+
+Xij.plugin.ArrowToolOptions#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Zh
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java- -(!"10*¬
+2h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaD D(ü
+ú
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaD D(
+arrowij.gui.Arrow"__id*
+
+roi
+ij.gui.Roi…∆
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaE E($
+%19void"ij.gui.Roi#setStrokeWidth(F)V*
+
+roi
+ij.gui.Roi*
+""2setStrokeWidth(F)…∆
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaF F(
+%20void"ij.gui.Arrow#setHeadSize(D)V*
+
+arrowij.gui.Arrow*
+""2setHeadSize(D)√¿
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaG G(
+%21void"ij.gui.Arrow#setStyle(I)V*
+
+arrowij.gui.Arrow*
+""2setStyle(I)«ƒ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaH H(
+%22void"ij.gui.Arrow#setOutline(Z)V*
+
+arrowij.gui.Arrow*
+""2setOutline(Z)—Œ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaI I('
+%23void" ij.gui.Arrow#setDoubleHeaded(Z)V*
+
+arrowij.gui.Arrow*
+""2setDoubleHeaded(Z)Ø¨
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaJ J(
+%24void"ij.ImagePlus#draw()V*
+
+impij.ImagePlus2draw()*
+1*·
+4h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaB B("r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaB B(
+""*›
+5h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaA A(ƒ¡
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaA A(
+%18
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()õ
+ò
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaA A(
+roi
+ij.gui.Roi"__id*
+
+%18
+ij.gui.Roi*	
+2
+4
+1*·
+6h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java@ @("r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java@ @(
+""*“
+7h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java9 9(¬
+ø
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java9 9(+
+ij.plugin.ArrowToolOptions"
+	colorName"__id* 
+
+
+colorName2java.lang.String∂
+≥
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java: :(
+%12void" ij.gui.Arrow#setDefaultWidth(D)V*"
+ij.gui.Arrow*
+""π
+∂
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java; ;(%
+%13void"#ij.gui.Arrow#setDefaultHeadSize(D)V*"
+ij.gui.Arrow*
+""∂
+≥
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java< <(
+%14void" ij.gui.Arrow#setDefaultStyle(I)V*"
+ij.gui.Arrow*
+""∏
+µ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java= =(#
+%15void""ij.gui.Arrow#setDefaultOutline(Z)V*"
+ij.gui.Arrow*
+""Ω
+∫
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java> >(-
+%16void"'ij.gui.Arrow#setDefaultDoubleHeaded(Z)V*"
+ij.gui.Arrow*
+"" 
+«
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java? ?(1
+%17ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerü
+ú
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java? ?(2
+impij.ImagePlus"__id*
+
+%17ij.ImagePlus*
+5
+6*ê
+8h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java6 6(ë
+é
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java6 6(0
+%10java.awt.Color"Kij.plugin.Colors#decode(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors* 
+
+
+colorName2java.lang.String*
+""•
+¢
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java6 6(1
+colorjava.awt.Color"__id*
+
+%10java.awt.Colorﬂ
+‹
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java7 7($
+%11void"4ij.gui.Toolbar#setForegroundColor(Ljava/awt/Color;)V*"
+ij.gui.Toolbar*
+
+colorjava.awt.Color*
+7*∑
+9h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java5 5($∫
+∑
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java5, 5(5
+%8java.lang.String"__id*-*+
+ij.plugin.ArrowToolOptions"
+	colorNameÇˇ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java5 5(6
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z* 
+
+
+colorName2java.lang.String*
+
+%8java.lang.String2equals(Ljava/lang/Object;)*
+7
+8*⁄
+10h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java. .(—Œ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java. .($
+%0double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()—Œ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java/ /('
+%1double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÏÈ
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java0 0((
+%2java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()≠
+™
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java0 0()
+
+colorName2java.lang.String"__id*
+
+%2java.lang.Stringÿ’
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java1 1(&	
+%3int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()‘—
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java2 2((
+%4boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()‘—
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java3 3(-
+%5boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()‘—
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java4 4(1
+%6boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()∫
+∑
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.java5 5(
+%7java.lang.String"__id*-*+
+ij.plugin.ArrowToolOptions"
+	colorName*
+7
+9*Ó
+1h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaL L(î
+ë
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaL L(
+%25java.lang.String"__id*
+""œ
+Ã
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaL L($
+%26void""ij.Prefs#set(Ljava/lang/String;I)V*"
+
+ij.Prefs*
+
+%25java.lang.String*
+""î
+ë
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaM M(
+%27java.lang.String"__id*
+""œ
+Ã
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaM M($
+%28void""ij.Prefs#set(Ljava/lang/String;D)V*"
+
+ij.Prefs*
+
+%27java.lang.String*
+""î
+ë
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaN N(
+%29java.lang.String"__id*
+""œ
+Ã
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaN N(&
+%30void""ij.Prefs#set(Ljava/lang/String;D)V*"
+
+ij.Prefs*
+
+%29java.lang.String*
+""î
+ë
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaO O(
+%31java.lang.String"__id*
+""œ
+Ã
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaO O((
+%32void""ij.Prefs#set(Ljava/lang/String;Z)V*"
+
+ij.Prefs*
+
+%31java.lang.String*
+""î
+ë
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaP P(#
+%33java.lang.String"__id*
+""œ
+Ã
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaP P(3
+%34void""ij.Prefs#set(Ljava/lang/String;Z)V*"
+
+ij.Prefs*
+
+%33java.lang.String*
+"""r
+h
+^/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ArrowToolOptions.javaQ Q(
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.ArrowToolOptions

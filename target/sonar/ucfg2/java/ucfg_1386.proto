@@ -1,0 +1,25 @@
+
+Gij.io.ImageReader#readCompressedPlanarRGBImage(Ljava/io/InputStream;)[Ia
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.javaŸ Ÿ(#"13*œ
+13a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java   ( œ™
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java£ £(-
+%0byte[]"Bij.io.ImageReader#readCompressed8bitImage(Ljava/io/InputStream;)[B*
+ij.io.ImageReader*
+
+injava.io.InputStream2.readCompressed8bitImage(Ljava/io/InputStream;)Ž
+‹
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java£ £(.
+bufferbyte[]"__id*
+
+%0byte[]*
+1*Ó
+1a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java±	 ±("k
+a
+U/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/ImageReader.java± ±(
+"":
+injava.io.InputStreamB
+ij.io.ImageReader

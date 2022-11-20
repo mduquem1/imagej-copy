@@ -1,0 +1,74 @@
+
+'ij.Prefs#loadPrefs(Ljava/lang/String;)ZX
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java÷ ÷("6*¡
+2X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java€
+ €("b
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java€ €(
+""*í
+3X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java⁄ ⁄(≠™
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.java⁄ ⁄(
+
+%6void"java.io.InputStream#close()V*
+
+isjava.io.InputStream2close()*
+2*ú
+4X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÿ ÿ(G£
+†
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÿ ÿ(G
+isjava.io.InputStream"__id*#
+!
+%2java.io.BufferedInputStreamö
+ó
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaŸ Ÿ(
+
+%4java.util.Properties"__id**
+
+ij.Prefs"	
+ijPrefsÙÒ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaŸ Ÿ(
+
+%5void"1java.util.Properties#load(Ljava/io/InputStream;)V*
+
+%4java.util.Properties*
+
+isjava.io.InputStream2load(Ljava/io/InputStream;)*
+3*Í
+5X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÿ ÿ(Fùö
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÿ ÿ(+!
+%2java.io.BufferedInputStream"java.io.BufferedInputStreamÂ
+‚
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÿ ÿ(F
+%3":java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V*#
+!
+%2java.io.BufferedInputStream*
+
+%0java.io.FileInputStream*
+4*“
+6X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÿ@ ÿ(Dïí
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÿ0 ÿ(?
+%0java.io.FileInputStream"java.io.FileInputStream’
+“
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Prefs.javaÿ, ÿ(E
+%1"3java.io.FileInputStream#<init>(Ljava/lang/String;)V*
+
+%0java.io.FileInputStream*
+
+pathjava.lang.String*
+5:
+pathjava.lang.StringB"
+
+ij.Prefs

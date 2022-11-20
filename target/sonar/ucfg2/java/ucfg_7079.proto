@@ -1,0 +1,481 @@
+
+8ij.plugin.Duplicator#run(Lij/ImagePlus;II)Lij/ImagePlus;d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java’ ’("26*Ù
+13d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÌ Ì(°
+û
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÌ Ì(
+%25void"ij.IJ#showProgress(D)V*	"
+ij.IJ*
+""÷”
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÓ Ó((
+%26ij.ImagePlus",ij.ImagePlus#createImagePlus()Lij/ImagePlus;*
+
+impij.ImagePlus2createImagePlus()ú
+ô
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÓ Ó()
+imp2ij.ImagePlus"__id*
+
+%26ij.ImagePlus–Õ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÔ Ô(%
+%27java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()±
+Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÔ Ô(%
+%28java.lang.String"__concat*
+DUP_*
+
+%27java.lang.String¨©
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÔ Ô(.
+%29void"9ij.ImagePlus#setStack(Ljava/lang/String;Lij/ImageStack;)V*
+
+imp2ij.ImagePlus*
+
+%28java.lang.String*
+
+stack2ij.ImageStack2+setStack(Ljava/lang/String;Lij/ImageStack;)ÑÅ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java (/
+%30java.lang.Object">ij.ImagePlus#getProperty(Ljava/lang/String;)Ljava/lang/Object;*
+
+impij.ImagePlus*
+Info2getProperty(Ljava/lang/String;)§
+°
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java (0
+infojava.lang.String"__id*
+
+%30java.lang.Object*
+11
+12*Ó
+24d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaŸ
+ Ÿ(—Œ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaŸ
+ Ÿ(
+%2java.awt.Rectangle"*ij.gui.Roi#getBounds()Ljava/awt/Rectangle;*
+
+roi
+ij.gui.Roi2getBounds()ß
+§
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaŸ Ÿ(
+rectjava.awt.Rectangle"__id*
+
+%2java.awt.Rectangle*
+23*§
+25d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÿ ÿ(≠™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÿ ÿ(
+%1boolean"ij.gui.Roi#isArea()Z*
+
+roi
+ij.gui.Roi2isArea()*
+24
+23*∑
+15d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÎ Î(	ËÂ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÎ Î()
+%23java.lang.String"0ij.ImageStack#getSliceLabel(I)Ljava/lang/String;*
+
+stackij.ImageStack*
+""2getSliceLabel(I)—Œ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÎ Î(/
+%24void"Fij.ImageStack#addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+stack2ij.ImageStack*
+
+%23java.lang.String*"
+ 
+ip2ij.process.ImageProcessor27addSlice(Ljava/lang/String;Lij/process/ImageProcessor;)*
+13
+17
+18*Â
+26d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java÷ ÷(ì
+ê
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java÷ ÷(
+rectjava.awt.Rectangle"__id*
+""øº
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java◊ ◊(
+%0
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()ñ
+ì
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java◊ ◊(
+roi
+ij.gui.Roi"__id*
+
+%0
+ij.gui.Roi*
+25
+23*ª
+16d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÍ Í(Ã…
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÍ Í(*
+
+%17int"%ij.process.ImageProcessor#getWidth()I*"
+ 
+ip2ij.process.ImageProcessor2
+getWidth()ŒÀ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÍ, Í(;
+
+%18int"&ij.process.ImageProcessor#getHeight()I*"
+ 
+ip2ij.process.ImageProcessor2getHeight()ÍÁ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÍ= Í(O 
+%19ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()ÜÉ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÍ= Í(_ 
+%20java.awt.image.ColorModel"Dij.process.ImageProcessor#getColorModel()Ljava/awt/image/ColorModel;*"
+ 
+%19ij.process.ImageProcessor2getColorModel()éã
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÍ Í(
+%21ij.ImageStack"ij.ImageStack˛
+˚
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÍ Í(`
+%22"4ij.ImageStack#<init>(IILjava/awt/image/ColorModel;)V*
+
+%21ij.ImageStack*
+
+
+%17int*
+
+
+%18int*"
+ 
+%20java.awt.image.ColorModel†
+ù
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÍ Í(`
+stack2ij.ImageStack"__id*
+
+%21ij.ImageStack*
+15*Ë	
+17d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÊ Ê(¯ı
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÊ Ê(- 
+%14ij.process.ImageProcessor"8ij.ImageStack#getProcessor(I)Lij/process/ImageProcessor;*
+
+stackij.ImageStack*
+""2getProcessor(I)µ
+≤
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÊ Ê(. 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%14ij.process.ImageProcessorèå
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÁ Á(
+%15void"7ij.process.ImageProcessor#setRoi(Ljava/awt/Rectangle;)V*"
+ 
+ip2ij.process.ImageProcessor*
+
+rectjava.awt.Rectangle2setRoi(Ljava/awt/Rectangle;)ÙÒ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaË	 Ë( 
+%16ij.process.ImageProcessor";ij.process.ImageProcessor#crop()Lij/process/ImageProcessor;*"
+ 
+ip2ij.process.ImageProcessor2crop()µ
+≤
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaË Ë( 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%16ij.process.ImageProcessor*
+15
+16*Ó
+18d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java„ „(¶
+£
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java„ „(#
+%9java.lang.String"__concat*
+Duplicating: *
+""≠
+™
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java„ „('
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+/Ø
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java„ „(1
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+""√
+¿
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java„ „(2
+%12void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%11java.lang.String™
+ß
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java‰ ‰(#
+%13void"ij.IJ#showProgress(II)V*	"
+ij.IJ*
+""*
+""*
+17*È
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÑ	 Ñ("~
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÑ Ñ(
+
+imp2ij.ImagePlus*ü
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÉ É(´
+®
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÉ É(8
+%45java.lang.String"__concat*
+imp = imp.crop(\"*
+""Æ
+´
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÉ É(<
+%46java.lang.String"__concat*
+
+%45java.lang.String*
+-Ø
+¨
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÉ É(F
+%47java.lang.String"__concat*
+
+%46java.lang.String*
+""±
+Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÉ É(M
+%48java.lang.String"__concat*
+
+%47java.lang.String*
+\");È
+Ê
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÉ É(N
+%49void"8ij.plugin.frame.Recorder#recordCall(Ljava/lang/String;)V*"
+ij.plugin.frame.Recorder*
+
+%48java.lang.String*
+1*Ò
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java˛ ˛(íè
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java˛ ˛((
+%42ij.gui.Overlay"9ij.gui.Overlay#crop(Ljava/awt/Rectangle;)Lij/gui/Overlay;*
+
+overlayij.gui.Overlay*
+
+rectjava.awt.Rectangle2crop(Ljava/awt/Rectangle;)§
+°
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java˛ ˛()
+overlay2ij.gui.Overlay"__id*
+
+%42ij.gui.Overlay»≈
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaˇ ˇ('
+%43void"ij.gui.Overlay#crop(II)V*
+
+overlay2ij.gui.Overlay*
+""*
+""2crop(II)ˆÛ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÄ Ä(
+%44void"*ij.ImagePlus#setOverlay(Lij/gui/Overlay;)V*
+
+imp2ij.ImagePlus*
+
+overlay2ij.gui.Overlay2setOverlay(Lij/gui/Overlay;)*
+2
+1*π
+5d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java˝ ˝(¬ø
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java˝ ˝(,
+%41boolean"ij.ImagePlus#getHideOverlay()Z*
+
+impij.ImagePlus2getHideOverlay()*	
+2
+4
+1*Ì
+6d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java¸ ¸(–Õ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java¸ ¸($
+%40ij.gui.Overlay")ij.ImagePlus#getOverlay()Lij/gui/Overlay;*
+
+impij.ImagePlus2getOverlay()£
+†
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java¸ ¸(%
+overlayij.gui.Overlay"__id*
+
+%40ij.gui.Overlay*	
+2
+5
+1*«
+7d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java˚ ˚(÷”
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java˚ ˚(!
+%39void"!ij.ImagePlus#setDisplayRange(DD)V*
+
+imp2ij.ImagePlus*
+""*
+""2setDisplayRange(DD)*
+6*Ã
+9d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java˘ ˘(ÿ’
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java˘ ˘(!
+%38void" ij.ImagePlus#setDimensions(III)V*
+
+imp2ij.ImagePlus*2*
+""*22setDimensions(III)*
+6
+7*Õ
+10d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java˜ ˜(ÿ’
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java˜ ˜(!
+%37void" ij.ImagePlus#setDimensions(III)V*
+
+imp2ij.ImagePlus*2*2*
+""2setDimensions(III)*
+6
+7*Í
+22d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java‡2 ‡(3µ≤
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java‡4 ‡(D	
+%7int"ij.ImageStack#getWidth()I*
+
+stackij.ImageStack2
+getWidth()∑¥
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java‡E ‡(V	
+%8int"ij.ImageStack#getHeight()I*
+
+stackij.ImageStack2getHeight()*
+13
+17
+18*ì	
+11d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÛ Û(ÎË
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÛ Û(/
+%32java.lang.String[]"6ij.ImagePlus#getPropertiesAsArray()[Ljava/lang/String;*
+
+impij.ImagePlus2getPropertiesAsArray()Å˛
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÛ Û(0
+%33void"0ij.ImagePlus#setProperties([Ljava/lang/String;)V*
+
+imp2ij.ImagePlus*
+
+%32java.lang.String[]2"setProperties([Ljava/lang/String;)µ≤
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÙ Ù(
+
+%34int"ij.ImageStack#getSize()I*
+
+stack2ij.ImageStack2	getSize()∂≥
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaı ı($
+
+%35int"ij.ImagePlus#getNFrames()I*
+
+impij.ImagePlus2getNFrames()∫∑
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaı& ı(8
+
+%36int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()*
+9
+10*õ
+12d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÚ Ú(®•
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaÚ Ú(!
+%31void"?ij.ImagePlus#setProperty(Ljava/lang/String;Ljava/lang/Object;)V*
+
+imp2ij.ImagePlus*
+Info*
+
+infojava.lang.String21setProperty(Ljava/lang/String;Ljava/lang/Object;)*
+11*–	
+23d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java⁄ ⁄(…∆
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java⁄ ⁄(#
+%3ij.ImageStack"&ij.ImagePlus#getStack()Lij/ImageStack;*
+
+impij.ImagePlus2
+getStack()û
+õ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java⁄ ⁄($
+stackij.ImageStack"__id*
+
+%3ij.ImageStackª∏
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java€ €(*
+%4boolean"ij.ImageStack#isVirtual()Z*
+
+stackij.ImageStack2isVirtual()»≈
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java‹ ‹('
+%5double""ij.ImagePlus#getDisplayRangeMin()D*
+
+impij.ImagePlus2getDisplayRangeMin()»≈
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.java› ›('
+%6double""ij.ImagePlus#getDisplayRangeMax()D*
+
+impij.ImagePlus2getDisplayRangeMax()ê
+ç
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Duplicator.javaﬁ ﬁ(
+stack2ij.ImageStack"__id*
+""*
+13
+17
+18
+22:
+impij.ImagePlus:
+"":
+""B
+ij.plugin.Duplicator

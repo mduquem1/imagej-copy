@@ -1,0 +1,22 @@
+
+ij.io.RoiDecoder#getFloat(I)F`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÈ È("1*Å
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÉ	 É(¶³
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÉ É(*	
+%0int"ij.io.RoiDecoder#getInt(I)I*
+ij.io.RoiDecoder*
+""2	getInt(I)¸
+µ
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÉ	 É(+
+%1float""java.lang.Float#intBitsToFloat(I)F*"
+java.lang.Float*
+	
+%0int"j
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/io/RoiDecoder.javaÉ É(,
+"":
+""B
+ij.io.RoiDecoder

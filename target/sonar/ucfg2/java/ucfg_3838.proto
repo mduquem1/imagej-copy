@@ -1,0 +1,74 @@
+
+4ij.WindowManager#getImageTitles()[Ljava/lang/String;`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java≤% ≤(3"7*÷
+3`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java∏ ∏(√
+¿
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java∏ ∏($
+%3ij.ImagePlus"*ij.WindowManager#getImage(I)Lij/ImagePlus;*"
+ij.WindowManager*
+""ñ
+ì
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java∏ ∏(%
+imgij.ImagePlus"__id*
+
+%3ij.ImagePlusÀ»
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaπ π(
+%4java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+imgij.ImagePlus2
+getTitle()π
+∂
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaπ π(
+%5"
+__arraySet*
+
+titlesjava.lang.String[]*
+""*
+
+%4java.lang.String*
+3
+1*´
+5`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java∂ ∂(#ìê
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java∂ ∂(+
+%2java.lang.String[]"java.lang.String[]•
+¢
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java∂ ∂(,
+titlesjava.lang.String[]"__id*
+
+%2java.lang.String[]*
+3
+1*˚
+6`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaµ µ(ìê
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaµ
+ µ(
+%1java.lang.String[]"java.lang.String[]"~
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaµ µ(
+
+%1java.lang.String[]*ò
+7`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java≥ ≥(®
+•
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.java≥ ≥(
+%0int[]"ij.WindowManager#getIDList()[I*"
+ij.WindowManager*
+5
+6*Í
+1`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaª	 ª("Ç
+`
+T/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/WindowManager.javaª ª(
+
+titlesjava.lang.String[]B"
+ij.WindowManager

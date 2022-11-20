@@ -1,0 +1,20 @@
+
+6ij.gui.Line#getFloatPolygon()Lij/process/FloatPolygon;[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaú ú($"1*€
+1[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaû	 û(®«
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaû û()
+%0float"ij.gui.Roi#getStrokeWidth()F*
+ij.gui.Line2getStrokeWidth()ìé
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaû	 û(*
+%1ij.process.FloatPolygon"7ij.gui.Line#getFloatPolygon(D)Lij/process/FloatPolygon;*
+ij.gui.Line*
+
+%0float2getFloatPolygon(D)"~
+[
+O/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Line.javaû û(+
+
+%1ij.process.FloatPolygonB
+ij.gui.Line

@@ -1,0 +1,97 @@
+
+,ij.ImagePlus#isDicomTag(Ljava/lang/String;)Z\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java¨ ¨("23*É
+3\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java¯ ¯("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java¯ ¯(
+""*§
+15\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java­ ­(#²
+¯
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java®	 ®(
+%6boolean"java.lang.Character#isDigit(C)Z*"
+java.lang.Character*
+""*
+3
+16
+17
+1*ë
+16\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java­ ­("€
+~
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java­ ­("
+
+%3char"__id*
+
+
+%5char*
+15*¦
+17\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java­ ­(¸µ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java­ ­(
+
+%4char"java.lang.String#charAt(I)C*
+
+keyjava.lang.String*
+""2	charAt(I)€
+~
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java­ ­(
+
+%3char"__id*
+
+
+%4char*
+15*ä
+20\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java« «(ÕÒ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java« «(
+%2java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+keyjava.lang.String2toLowerCase()š
+—
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java« «(
+keyjava.lang.String"__id*
+
+%2java.lang.String*
+16
+17
+1*Ê
+21\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaª
+ ª("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.javaª ª(
+""*¥
+22\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java© ©(¶³
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java© ©(&
+
+%1char"java.lang.String#charAt(I)C*
+
+keyjava.lang.String*22	charAt(I)*
+20
+21*œ
+23\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java© ©(	­ª
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java© ©(	
+%0int"java.lang.String#length()I*
+
+keyjava.lang.String2length()*
+21
+22*É
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java±	 ±("f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImagePlus.java± ±(
+"":
+keyjava.lang.StringB
+ij.ImagePlus

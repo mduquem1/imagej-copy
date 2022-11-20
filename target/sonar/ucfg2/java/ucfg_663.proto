@@ -1,0 +1,71 @@
+
+%ij.ImageJ#getInfo()Ljava/lang/String;Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.javaš š("1*ß
+1Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java›	 ›(¬
+©
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java›	 ›(
+%0java.lang.String"%ij.ImageJ#version()Ljava/lang/String;*
+	ij.ImageJÝ
+Ú
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java› ›(0
+%1java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*	
+os.name´
+±
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java›	 ›(0
+%2java.lang.String"__concat*
+
+%0java.lang.String*
+
+%1java.lang.String¡
+ž
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java›	 ›(4
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+ à
+Ý
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java›5 ›(U
+%4java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+
+os.version´
+±
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java›	 ›(U
+%5java.lang.String"__concat*
+
+%3java.lang.String*
+
+%4java.lang.String¢
+Ÿ
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java›	 ›(Z
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+; §
+¤
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java›[ ›(j
+%7java.lang.String"$ij.IJ#freeMemory()Ljava/lang/String;*	"
+ij.IJ´
+±
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java›	 ›(j
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+
+%7java.lang.String"u
+Y
+M/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/ImageJ.java› ›(k
+
+%8java.lang.StringB
+	ij.ImageJ

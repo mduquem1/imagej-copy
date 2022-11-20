@@ -1,0 +1,87 @@
+
+3ij.plugin.Filters3D#showDialog(Ljava/lang/String;)Za
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java3 3("3*Ó
+2a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java:
+ :("k
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java: :(
+""*Ø
+3a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java4' 4(+˜•
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java4 4(&
+%0ij.gui.GenericDialog"ij.gui.GenericDialogØ
+Õ
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java4 4(,
+%1"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%0ij.gui.GenericDialog*
+
+namejava.lang.String¦
+£
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java4 4(-
+gdij.gui.GenericDialog"__id*
+
+%0ij.gui.GenericDialog‘Ž
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java5 5(-
+
+%2void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+	X radius:*
+""*22%addNumericField(Ljava/lang/String;DI)‘Ž
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java6 6(-
+
+%3void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+	Y radius:*
+""*22%addNumericField(Ljava/lang/String;DI)‘Ž
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java7 7(-
+
+%4void";ij.gui.GenericDialog#addNumericField(Ljava/lang/String;DI)V*
+
+gdij.gui.GenericDialog*
+	Z radius:*
+""*22%addNumericField(Ljava/lang/String;DI)Â¿
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java8 8(
+
+%5void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()ÇÄ
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java9 9(
+%6boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+2
+1*º
+1a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java< <(ÊÇ
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java< <(&
+%7double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÊÇ
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java= =(&
+%8double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()ÊÇ
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java> >(&
+%9double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()"k
+a
+W/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Filters3D.java? ?(
+"":
+namejava.lang.StringB
+ij.plugin.Filters3D

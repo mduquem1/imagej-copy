@@ -1,0 +1,24 @@
+
+ij.gui.Arrow#clipRectMargin()I\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java   ("1*ã
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java¡ ¡(µ²
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java¡ ¡(!
+%0double"ij.gui.Roi#getMagnification()D*
+ij.gui.Arrow2getMagnification()°­
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java¢ ¢(&
+%1float"ij.gui.Roi#getStrokeWidth()F*
+ij.gui.Arrow2getStrokeWidth()¬
+©
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java¤ ¤(*
+%2double"java.lang.Math#max(DD)D*"
+java.lang.Math*
+""*
+"""f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java¤ ¤(+
+""B
+ij.gui.Arrow

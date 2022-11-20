@@ -1,0 +1,84 @@
+
+6ij.plugin.frame.Fitter#getEquation()Ljava/lang/String;d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java} }("3*›
+2f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaÇ
+ Ç("p
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaÇ Ç(
+""*ü
+3d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java~' ~(0õò
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java~ ~(&
+%0ij.gui.GenericDialog"ij.gui.GenericDialogÃ
+…
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java~ ~(1
+%1"0ij.gui.GenericDialog#<init>(Ljava/lang/String;)V*
+
+%0ij.gui.GenericDialog*	
+Formula©
+¶
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java~ ~(2
+gdij.gui.GenericDialog"__id*
+
+%0ij.gui.GenericDialog±
+Æ
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java  ((
+%2java.lang.String"__id*(*&
+ij.plugin.frame.Fitter"
+
+equation≈¬
+d
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.java (-
+
+%3void"Kij.gui.GenericDialog#addStringField(Ljava/lang/String;Ljava/lang/String;I)V*
+
+gdij.gui.GenericDialog*
+
+Formula:*
+
+%2java.lang.String*2&25addStringField(Ljava/lang/String;Ljava/lang/String;I)«ƒ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaÄ Ä(
+
+%4void""ij.gui.GenericDialog#showDialog()V*
+
+gdij.gui.GenericDialog2showDialog()Ã…
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaÅ Å(
+%5boolean"#ij.gui.GenericDialog#wasCanceled()Z*
+
+gdij.gui.GenericDialog2wasCanceled()*
+2
+1*…
+1f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaÉ É(ÍÁ
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaÉ É(
+%6java.lang.String"6ij.gui.GenericDialog#getNextString()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextString()≥
+∞
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaÉ É(&
+ij.plugin.frame.Fitter"
+
+equation"__id*
+
+%6java.lang.String≥
+∞
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaÑ	 Ñ(
+%7java.lang.String"__id*(*&
+ij.plugin.frame.Fitter"
+
+equation"Ç
+f
+Z/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/frame/Fitter.javaÑ Ñ(
+
+%7java.lang.StringB
+ij.plugin.frame.Fitter

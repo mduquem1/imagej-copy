@@ -1,0 +1,34 @@
+
+Nij.plugin.EventListener#commandExecuting(Ljava/lang/String;)Ljava/lang/String;e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/EventListener.javaK K("1*²
+1e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/EventListener.javaL L(Å
+Â
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/EventListener.javaL	 L('
+%0java.lang.String"__concat*
+Command executed: \"*
+
+commandjava.lang.String¶
+³
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/EventListener.javaL	 L(4
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+
+\" command»
+¸
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/EventListener.javaL L(5
+
+%2void"ij.IJ#log(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%1java.lang.String"†
+e
+[/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/EventListener.javaM M(
+
+commandjava.lang.String:
+commandjava.lang.StringB
+ij.plugin.EventListener

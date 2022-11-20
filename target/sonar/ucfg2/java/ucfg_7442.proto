@@ -1,0 +1,27 @@
+
++ij.gui.ImageWindow#d2s(D)Ljava/lang/String;b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.javaˆ ˆ("3* 
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java‰ ‰(±
+®
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java‰ ‰((	
+%0int""ij.util.Tools#getDecimalPlaces(D)I*"
+ij.util.Tools*
+""*
+1*¥
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java‹	 ‹(»
+¸
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java‹	 ‹(
+%1java.lang.String"ij.IJ#d2s(DI)Ljava/lang/String;*	"
+ij.IJ*
+""*
+"""~
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ImageWindow.java‹ ‹(
+
+%1java.lang.String:
+""B
+ij.gui.ImageWindow

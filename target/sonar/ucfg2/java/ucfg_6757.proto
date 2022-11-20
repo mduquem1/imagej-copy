@@ -1,0 +1,36 @@
+
+Dij.process.ColorProcessor#getBrightness()Lij/process/FloatProcessor;i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.javaú ú($"3"1*Ì
+3i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java€ €(Ó
+Ð
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java„	 „(%
+%0float[]" java.awt.Color#RGBtoHSB(III[F)[F*"
+java.awt.Color*
+""*
+""*
+""*
+""*
+3
+1*ª
+1i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java‡ ‡(!ª§
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java‡ ‡(
+%1ij.process.FloatProcessor"ij.process.FloatProcessorû
+ø
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java‡	 ‡(<
+%2"Bij.process.FloatProcessor#<init>(II[FLjava/awt/image/ColorModel;)V*!
+
+%1ij.process.FloatProcessor*
+""*
+""*
+""*
+"""Ž
+i
+]/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/ColorProcessor.java‡ ‡(=!
+
+%1ij.process.FloatProcessorB
+ij.process.ColorProcessor

@@ -1,0 +1,1135 @@
+
+Hij.Menus#getExamplesMenu(Ljava/awt/event/ActionListener;)Ljava/awt/Menu;X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaú ú(#"1*≤ˆ
+1X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaù ù(!Ä~
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaù ù(
+%0java.awt.Menu"java.awt.Menu≥
+∞
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaù ù("
+%1")java.awt.Menu#<init>(Ljava/lang/String;)V*
+
+%0java.awt.Menu*
+
+Examplesë
+é
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaù ù(#
+menujava.awt.Menu"__id*
+
+%0java.awt.MenuÄ~
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaû û(
+%2java.awt.Menu"java.awt.Menu∞
+≠
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaû û("
+%3")java.awt.Menu#<init>(Ljava/lang/String;)V*
+
+%2java.awt.Menu*	
+Plotsî
+ë
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaû û(#
+submenujava.awt.Menu"__id*
+
+%2java.awt.Menuá
+Ñ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaü ü(:
+
+%4void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Example Plot*
+Example_Plot_.ijmâ
+Ü
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java† †(<
+
+%5void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Semi-log Plot*
+Semi-log_Plot_.ijmÉ
+Ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java° °(6
+
+%6void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Arrow Plot*
+Arrow_Plot_.ijmè
+å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java¢ ¢(B
+
+%7void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Damped Wave Plot*
+Damped_Wave_Plot_.ijmá
+Ñ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java£ £(:
+
+%8void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Dynamic Plot*
+Dynamic_Plot_.ijmç
+ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java§ §(@
+
+%9void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Dynamic Plot 2D*
+Dynamic_Plot_2D_.ijmñ
+ì
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java• •(H
+%10void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Custom Plot Symbols*
+Custom_Plot_Symbols_.ijmÑ
+Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java¶ ¶(6
+%11void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Histograms*
+Histograms_.ijmÑ
+Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaß ß(6
+%12void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Bar Charts*
+Bar_Charts_.ijmÅ
+˛
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java® ®(3
+%13void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Shapes*
+Plot_Shapes_.ijmÜ
+É
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java© ©(8
+%14void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Plot Styles*
+Plot_Styles_.ijmÜ
+É
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java™ ™(8
+%15void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Random Data*
+Random_Data_.ijmà
+Ö
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java´ ´(:
+%16void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Plot Results*
+Plot_Results_.ijmÆ´
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java¨ ¨(%
+%17void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+submenujava.awt.Menu*+
+)
+listenerjava.awt.event.ActionListener22addActionListener(Ljava/awt/event/ActionListener;)Å˛
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java≠ ≠(
+%18java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+menujava.awt.Menu*
+
+submenujava.awt.Menu2add(Ljava/awt/MenuItem;)Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaØ Ø(
+%19java.awt.Menu"java.awt.Menu≤
+Ø
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaØ Ø(
+%20")java.awt.Menu#<init>(Ljava/lang/String;)V*
+
+%19java.awt.Menu*	
+Toolsï
+í
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaØ Ø(
+submenujava.awt.Menu"__id*
+
+%19java.awt.Menuñ
+ì
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java∞ ∞(H
+%21void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Annular Selection*
+Annular_Selection_Tool.ijmà
+Ö
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java± ±(:
+%22void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Big Cursor*
+Big_Cursor_Tool.ijmÖ
+Ç
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java≤ ≤(7
+%23void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Circle Tool*
+Circle_Tool.ijmå
+â
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java≥ ≥(>
+%24void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Point Picker*
+Point_Picker_Tool.ijmÅ
+˛
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java¥ ¥(3
+%25void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+	Star Tool*
+Star_Tool.ijmì
+ê
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaµ µ(E
+%26void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Animated Icon Tool*
+Animated_Icon_Tool.ijmÆ´
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java∂ ∂(%
+%27void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+submenujava.awt.Menu*+
+)
+listenerjava.awt.event.ActionListener22addActionListener(Ljava/awt/event/ActionListener;)Å˛
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java∑ ∑(
+%28java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+menujava.awt.Menu*
+
+submenujava.awt.Menu2add(Ljava/awt/MenuItem;)Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaπ π(
+%29java.awt.Menu"java.awt.Menu≤
+Ø
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaπ π(
+%30")java.awt.Menu#<init>(Ljava/lang/String;)V*
+
+%29java.awt.Menu*	
+Macroï
+í
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaπ π(
+submenujava.awt.Menu"__id*
+
+%29java.awt.Menu˚
+¯
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java∫ ∫(-
+%31void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Sphere*
+
+Sphere.ijmÉ
+Ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaª ª(5
+%32void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Dialog Box*
+Dialog_Box.ijmë
+é
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaº º(C
+%33void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Process Folder*
+Batch_Process_Folder.ijmç
+ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaΩ Ω(?
+%34void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+OpenDialog Demo*
+OpenDialog_Demo.ijmç
+ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaæ æ(?
+%35void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Save All Images*
+Save_All_Images.ijmë
+é
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaø ø(C
+%36void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Sine/Cosine Table*
+Sine_Cosine_Table.ijmë
+é
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java¿ ¿(C
+%37void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Non-numeric Table*
+Non-numeric_Table.ijm˝
+˙
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java¡ ¡(/
+%38void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*	
+Overlay*
+Overlay.ijmâ
+Ü
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java¬ ¬(;
+%39void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Stack Overlay*
+Stack_Overlay.ijmç
+ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java√ √(?
+%40void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Array Functions*
+Array_Functions.ijmì
+ê
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaƒ ƒ(E
+%41void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Dual Progress Bars*
+Dual_Progress_Bars.ijmô
+ñ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java≈ ≈(K
+%42void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Grab Viridis Colormap*
+Grab_Viridis_Colormap.ijmì
+ê
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java∆ ∆(E
+%43void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Custom Measurement*
+Custom_Measurement.ijmè
+å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java« «(A
+%44void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Synthetic Images*
+Synthetic_Images.ijmç
+ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java» »(?
+%45void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Spiral Rotation*
+Spiral_Rotation.ijmâ
+Ü
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java… …(;
+%46void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Curve Fitting*
+Curve_Fitting.ijmã
+à
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java   (=
+%47void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Colors of 2021*
+Colors_of_2021.ijmÆ´
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÀ À(%
+%48void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+submenujava.awt.Menu*+
+)
+listenerjava.awt.event.ActionListener22addActionListener(Ljava/awt/event/ActionListener;)Å˛
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÃ Ã(
+%49java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+menujava.awt.Menu*
+
+submenujava.awt.Menu2add(Ljava/awt/MenuItem;)Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaŒ Œ(
+%50java.awt.Menu"java.awt.Menu∑
+¥
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaŒ Œ("
+%51")java.awt.Menu#<init>(Ljava/lang/String;)V*
+
+%50java.awt.Menu*
+
+JavaScriptï
+í
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaŒ Œ("
+submenujava.awt.Menu"__id*
+
+%50java.awt.Menu˙
+˜
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaœ œ(,
+%52void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Sphere*
+	Sphere.jsÜ
+É
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java– –(8
+%53void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Plasma Cloud*
+Plasma_Cloud.jsä
+á
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java— —(<
+%54void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Cloud Debugger*
+Cloud_Debugger.jsé
+ã
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java“ “(@
+%55void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Synthetic Images*
+Synthetic_Images.js˙
+˜
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java” ”(,
+%56void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Points*
+	Points.jså
+â
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java‘ ‘(>
+%57void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Spiral Rotation*
+Spiral_Rotation.jsÜ
+É
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java’ ’(8
+%58void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Example Plot*
+Example_Plot.jsà
+Ö
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java÷ ÷(:
+%59void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Semi-log Plot*
+Semi-log_Plot.jsÇ
+ˇ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java◊ ◊(4
+%60void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Arrow Plot*
+Arrow_Plot.jsÜ
+É
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÿ ÿ(8
+%61void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Dynamic Plot*
+Dynamic_Plot.jsÑ
+Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaŸ Ÿ(6
+%62void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Plot Styles*
+Plot_Styles.jsé
+ã
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java⁄ ⁄(@
+%63void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Plot Random Data*
+Plot_Random_Data.jså
+â
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java€ €(>
+%64void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Histogram Plots*
+Histogram_Plots.jsê
+ç
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java‹ ‹(B
+%65void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+JPEG Quality Plot*
+JPEG_Quality_Plot.jsê
+ç
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java› ›(B
+%66void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Process Folder*
+Batch_Process_Folder.jsê
+ç
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaﬁ ﬁ(B
+%67void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Sine/Cosine Table*
+Sine_Cosine_Table.jsê
+ç
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaﬂ ﬂ(B
+%68void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Non-numeric Table*
+Non-numeric_Table.js¸
+˘
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java‡ ‡(.
+%69void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*	
+Overlay*
+
+Overlay.jsà
+Ö
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java· ·(:
+%70void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Stack Overlay*
+Stack_Overlay.jsí
+è
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java‚ ‚(D
+%71void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Dual Progress Bars*
+Dual_Progress_Bars.jsä
+á
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java„ „(<
+%72void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Gamma Adjuster*
+Gamma_Adjuster.jsí
+è
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java‰ ‰(D
+%73void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Custom Measurement*
+Custom_Measurement.jsò
+ï
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÂ Â(J
+%74void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Terabyte VirtualStack*
+Terabyte_VirtualStack.jsä
+á
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÊ Ê(<
+%75void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Event Listener*
+Event_Listener.jsÇ
+ˇ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÁ Á(4
+%76void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+FFT Filter*
+FFT_Filter.jsà
+Ö
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaË Ë(:
+%77void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Curve Fitting*
+Curve_Fitting.jsÜ
+É
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÈ È(8
+%78void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Overlay Text*
+Overlay_Text.jsí
+è
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÍ Í(D
+%79void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Crop Multiple Rois*
+Crop_Multiple_Rois.jsà
+Ö
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÎ Î(:
+%80void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Show all LUTs*
+Show_all_LUTs.jsÑ
+Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÏ Ï(6
+%81void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Dialog Demo*
+Dialog_Demo.jsÆ´
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÌ Ì(%
+%82void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+submenujava.awt.Menu*+
+)
+listenerjava.awt.event.ActionListener22addActionListener(Ljava/awt/event/ActionListener;)Å˛
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÓ Ó(
+%83java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+menujava.awt.Menu*
+
+submenujava.awt.Menu2add(Ljava/awt/MenuItem;)Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÔ Ô(
+%84java.awt.Menu"java.awt.Menu∂
+≥
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÔ Ô(!
+%85")java.awt.Menu#<init>(Ljava/lang/String;)V*
+
+%84java.awt.Menu*
+	BeanShellï
+í
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÔ Ô(!
+submenujava.awt.Menu"__id*
+
+%84java.awt.Menu˚
+¯
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java (-
+%86void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Sphere*
+
+Sphere.bshá
+Ñ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÒ Ò(9
+%87void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Example Plot*
+Example_Plot.bshâ
+Ü
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÚ Ú(;
+%88void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Semi-log Plot*
+Semi-log_Plot.bshÉ
+Ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÛ Û(5
+%89void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Arrow Plot*
+Arrow_Plot.bshë
+é
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÙ Ù(C
+%90void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Sine/Cosine Table*
+Sine_Cosine_Table.bshÆ´
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaı ı(%
+%91void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+submenujava.awt.Menu*+
+)
+listenerjava.awt.event.ActionListener22addActionListener(Ljava/awt/event/ActionListener;)Å˛
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaˆ ˆ(
+%92java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+menujava.awt.Menu*
+
+submenujava.awt.Menu2add(Ljava/awt/MenuItem;)Å
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java˜ ˜(
+%93java.awt.Menu"java.awt.Menu≥
+∞
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java˜ ˜(
+%94")java.awt.Menu#<init>(Ljava/lang/String;)V*
+
+%93java.awt.Menu*
+
+Pythonï
+í
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java˜ ˜(
+submenujava.awt.Menu"__id*
+
+%93java.awt.Menu˙
+˜
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java¯ ¯(,
+%95void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Sphere*
+	Sphere.pyö
+ó
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java˘ ˘(L
+%96void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Animated Gaussian Blur*
+Animated_Gaussian_Blur.pyå
+â
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java˙ ˙(>
+%97void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Spiral Rotation*
+Spiral_Rotation.py¸
+˘
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java˚ ˚(.
+%98void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*	
+Overlay*
+
+Overlay.pyÆ´
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java¸ ¸(%
+%99void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+submenujava.awt.Menu*+
+)
+listenerjava.awt.event.ActionListener22addActionListener(Ljava/awt/event/ActionListener;)Çˇ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java˝ ˝(
+%100java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+menujava.awt.Menu*
+
+submenujava.awt.Menu2add(Ljava/awt/MenuItem;)ÉÄ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java˛ ˛(
+%101java.awt.Menu"java.awt.Menu≥
+∞
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java˛ ˛(
+%102")java.awt.Menu#<init>(Ljava/lang/String;)V*
+
+%101java.awt.Menu*
+Javañ
+ì
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.java˛ ˛(
+submenujava.awt.Menu"__id*
+
+%101java.awt.Menu˛
+˚
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaˇ ˇ(/
+%103void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Sphere*
+Sphere_.javaâ
+Ü
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÄ Ä(:
+%104void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Plasma Cloud*
+Plasma_Cloud.javaç
+ä
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÅ Å(>
+%105void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Gamma Adjuster*
+Gamma_Adjuster.javaÄ
+˝
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÇ Ç(1
+%106void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+
+Plugin*
+My_Plugin.javaã
+à
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÉ É(<
+%107void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Plugin Filter*
+Filter_Plugin.javaâ
+Ü
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÑ Ñ(:
+%108void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Plugin Frame*
+Plugin_Frame.javaä
+á
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÖ Ö(;
+%109void"Iij.Menus#addExample(Ljava/awt/Menu;Ljava/lang/String;Ljava/lang/String;)V*"
+
+ij.Menus*
+
+submenujava.awt.Menu*
+Plugin Tool*
+Prototype_Tool.javaØ¨
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaÜ Ü(%
+%110void"Ejava.awt.MenuItem#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+submenujava.awt.Menu*+
+)
+listenerjava.awt.event.ActionListener22addActionListener(Ljava/awt/event/ActionListener;)Çˇ
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaá á(
+%111java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+menujava.awt.Menu*
+
+submenujava.awt.Menu2add(Ljava/awt/MenuItem;)≥∞
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaà à(
+%112void"java.awt.Menu#addSeparator()V*
+
+menujava.awt.Menu2addSeparator()õò
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaâ â(.!
+%113java.awt.CheckboxMenuItem"java.awt.CheckboxMenuItem◊
+‘
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaâ â(B
+%114"5java.awt.CheckboxMenuItem#<init>(Ljava/lang/String;)V*#
+!
+%113java.awt.CheckboxMenuItem*
+Autorun Examples´
+®
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaâ â(C!
+itemjava.awt.CheckboxMenuItem"__id*#
+!
+%113java.awt.CheckboxMenuItemãà
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaä ä(
+%115java.awt.MenuItem"9java.awt.Menu#add(Ljava/awt/MenuItem;)Ljava/awt/MenuItem;*
+
+menujava.awt.Menu*#
+!
+itemjava.awt.CheckboxMenuItem2add(Ljava/awt/MenuItem;)å
+â
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaã ã(
+%116	ij.ImageJ"__id**
+
+ij.Menus"
+ij†ù
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaã ã(
+%117void"Ijava.awt.CheckboxMenuItem#addItemListener(Ljava/awt/event/ItemListener;)V*#
+!
+itemjava.awt.CheckboxMenuItem*
+
+%116	ij.ImageJ2.addItemListener(Ljava/awt/event/ItemListener;)Õ 
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaå å(&
+%118void"&java.awt.CheckboxMenuItem#setState(Z)V*#
+!
+itemjava.awt.CheckboxMenuItem*
+""2setState(Z)"s
+X
+L/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/Menus.javaç ç(
+
+menujava.awt.Menu:)
+listenerjava.awt.event.ActionListenerB"
+
+ij.Menus

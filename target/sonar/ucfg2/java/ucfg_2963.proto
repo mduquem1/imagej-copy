@@ -1,0 +1,73 @@
+
+0ij.plugin.ScaleBar#getInnerMarginSizeInPixels()Ib
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaã ã("4*ô
+2b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaæ, æ(2…
+‚
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaæ, æ(2	
+%7int"__id*
+	
+%9int*
+1*ô
+3b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaæ( æ()…
+‚
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaæ( æ()	
+%7int"__id*
+	
+%8int*
+1*ð
+4b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaä ä(ÎË
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaä ä(0	
+%0int"*ij.plugin.ScaleBar#getHBoxWidthInPixels()I*
+ij.plugin.ScaleBar2getHBoxWidthInPixels()ÐÍ
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaä2 ä(I	
+%1int"+ij.plugin.ScaleBar#getVBoxHeightInPixels()I*
+ij.plugin.ScaleBar2getVBoxHeightInPixels()¹
+¶
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaä ä(J	
+%2int"java.lang.Math#max(II)I*"
+java.lang.Math*
+	
+%0int*
+	
+%1int­
+ª
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaå å('	
+%3int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*2Á
+¾
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaæ	 æ(.
+%4(ij.plugin.ScaleBar$ScaleBarConfiguration"__id*"* 
+ij.plugin.ScaleBar"
+configÃ
+À
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaæ	 æ(
+%5java.lang.String"__id*<*:
+.
+%4(ij.plugin.ScaleBar$ScaleBarConfiguration"
+bcoloräá
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaæ	 æ(%
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%5java.lang.String*
+None2equals(Ljava/lang/Object;)*
+2
+3*Õ
+1b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaæ æ(3"l
+b
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/ScaleBar.javaæ æ(3
+""B
+ij.plugin.ScaleBar

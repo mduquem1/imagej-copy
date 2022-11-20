@@ -1,0 +1,117 @@
+
+)ij.gui.ProfilePlot#getPlot()Lij/gui/Plot;`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javac c("14"15*÷
+2`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javas s(¯
+¬
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javas s((
+%9double[]"ij.util.Tools#getMinMax([F)[D*"
+ij.util.Tools*
+""ØÕ
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javat t(.
+%10void"ij.gui.Plot#setLimits(DDDD)V*
+
+plotij.gui.Plot*
+""*
+""*
+""*
+""2setLimits(DDDD)*
+1*—
+14`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaf f(¦
+£
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaf f($
+%0java.lang.String"__id*!*
+ij.gui.ProfilePlot"
+units±
+®
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaf f($
+%1java.lang.String"__concat*
+
+Distance (*
+
+%0java.lang.String¨
+¥
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaf f((
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+)¡
+ž
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaf f()
+xLabeljava.lang.String"__id*
+
+%2java.lang.String*
+3*Ó
+3`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javap p(7 
+
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaq0 q(3
+%3ij.ImagePlus"__id**
+ij.gui.ProfilePlot"
+impŽ‹
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaq" q(4
+%4java.lang.String"Bij.gui.ProfilePlot#getShortTitle(Lij/ImagePlus;)Ljava/lang/String;*
+ij.gui.ProfilePlot*
+
+%3ij.ImagePlus2getShortTitle(Lij/ImagePlus;)¯
+¬
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaq q(4
+%5java.lang.String"__concat*
+
+Plot of *
+
+%4java.lang.String§
+¤
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaq> q(D
+%6java.lang.String"__id*"* 
+ij.gui.ProfilePlot"
+yLabel…‚
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaq q(
+%7ij.gui.Plot"ij.gui.Plot³
+°
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaq q(W
+%8"Oij.gui.Plot#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;[F[F)V*
+
+%7ij.gui.Plot*
+
+%5java.lang.String*
+
+xLabeljava.lang.String*
+
+%6java.lang.String*
+""*
+""•
+’
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javaq q(X
+plotij.gui.Plot"__id*
+
+%7ij.gui.Plot*
+2
+1*Ò
+15`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javae
+ e("j
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javae e(
+""*à
+1`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javav	 v("y
+`
+V/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/ProfilePlot.javav v(
+
+plotij.gui.PlotB
+ij.gui.ProfilePlot

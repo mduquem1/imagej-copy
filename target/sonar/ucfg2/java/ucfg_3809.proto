@@ -1,0 +1,904 @@
+
+1ij.plugin.GelAnalyzer#plotLanes(Lij/ImagePlus;Z)Ve
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÖ Ö("63*¡
+47e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java®
+ ®(Ω∫
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java®
+ ®(
+%39double"ij.gui.ProfilePlot#getMax()D*
+
+ppij.gui.ProfilePlot2getMax()*
+39
+51
+40
+52
+45*≈
+48e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaß ß(	Ω∫
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaß ß(
+%38double"ij.gui.ProfilePlot#getMax()D*
+
+ppij.gui.ProfilePlot2getMax()*
+47
+39
+51
+40
+52
+45*±
+49e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¶
+ ¶(Ω∫
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¶
+ ¶(
+%37double"ij.gui.ProfilePlot#getMin()D*
+
+ppij.gui.ProfilePlot2getMin()*
+48*›
+27e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¡ ¡(ª
+∏
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¡ ¡('
+%47java.awt.Dimension")ij.IJ#getScreenSize()Ljava/awt/Dimension;*	"
+ij.IJ´
+®
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¡ ¡((
+screenjava.awt.Dimension"__id*
+
+%47java.awt.Dimension*
+23*õ
+50e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java£$ £((ôñ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java£ £(#
+%33ij.gui.ProfilePlot"ij.gui.ProfilePlot“
+œ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java£ £()
+%34"*ij.gui.ProfilePlot#<init>(Lij/ImagePlus;)V*
+
+%33ij.gui.ProfilePlot*
+
+imp2ij.ImagePlusß
+§
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java£ £(*
+ppij.gui.ProfilePlot"__id*
+
+%33ij.gui.ProfilePlot»≈
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java§ §( 
+%35double[]"!ij.gui.ProfilePlot#getProfile()[D*
+
+ppij.gui.ProfilePlot2getProfile()Ω∫
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java• •(
+%36double"ij.gui.ProfilePlot#getMin()D*
+
+ppij.gui.ProfilePlot2getMin()*
+48
+49*ı
+51e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¢ ¢(µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¢ ¢(
+%29java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRectµ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¢# ¢(,
+%30java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRectµ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¢4 ¢(=
+%31java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRectŸ÷
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¢ ¢(E
+%32void"ij.ImagePlus#setRoi(IIII)V*
+
+imp2ij.ImagePlus*
+""*
+""*
+""*
+""2setRoi(IIII)*
+50*Ö
+
+52e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaû û(µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaû û(
+%23java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRect’“
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaü ü(
+
+%24int"&ij.process.ImageProcessor#getHeight()I*(
+&
+	ipRotatedij.process.ImageProcessor2getHeight()µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaü& ü(/
+%25java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRectµ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java† †(
+%26java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRectµ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java† †("
+%27java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRectŸ÷
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaû †()
+%28void"ij.ImagePlus#setRoi(IIII)V*
+
+imp2ij.ImagePlus*
+""*
+""*
+""*
+""2setRoi(IIII)*
+50*©
+32e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaº º(µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaº º(
+%46java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRect*
+27*ÿ
+11e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÓ Ó(›⁄
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÓ Ó(K
+%76void"%ij.process.ImageProcessor#lineTo(II)V*!
+
+ipij.process.ImageProcessor*
+""*
+""2
+lineTo(II)*
+13
+8
+11*≠
+33e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaª ª(µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaª ª(
+%45java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRect*
+27
+32*©
+34e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaπ π(µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaπ π(
+%44java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRect*
+27*∫
+
+56e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javañ ñ(ÏÈ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javañ ñ(, 
+%19ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+imp2ij.ImagePlus2getProcessor()ˇ¸
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javañ ñ(8 
+%20ij.process.ImageProcessor"@ij.process.ImageProcessor#duplicate()Lij/process/ImageProcessor;*"
+ 
+%19ij.process.ImageProcessor2duplicate()∂
+≥
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javañ ñ(9 
+ip2ij.process.ImageProcessor"__id*"
+ 
+%20ij.process.ImageProcessor «
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaó ó(
+%21void"#ij.process.ImageProcessor#invert()V*"
+ 
+ip2ij.process.ImageProcessor2invert()√¿
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaò ò( 
+%22void"Iij.ImagePlus#setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+imp2ij.ImagePlus*
+""*"
+ 
+ip2ij.process.ImageProcessor2;setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)*
+39
+51
+40
+52*≠
+35e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java∏ ∏(µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java∏ ∏(
+%43java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRect*
+27
+34*ê
+13e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÁ Á(Ÿ÷
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÍ Í(
+%73void"%ij.process.ImageProcessor#moveTo(II)V*!
+
+ipij.process.ImageProcessor*2 *
+""2
+moveTo(II)›⁄
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÎ Î(0
+%74void"%ij.process.ImageProcessor#lineTo(II)V*!
+
+ipij.process.ImageProcessor*
+""*
+""2
+lineTo(II)Ÿ÷
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÏ Ï(4
+%75void"%ij.process.ImageProcessor#moveTo(II)V*!
+
+ipij.process.ImageProcessor*2 *
+""2
+moveTo(II)*
+13
+8
+11*Î
+58e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaî î(ß§
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaî î( 
+%16ij.process.ImageConverter"ij.process.ImageConverter‡
+›
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaî î(
+%17"1ij.process.ImageConverter#<init>(Lij/ImagePlus;)V*"
+ 
+%16ij.process.ImageConverter*
+
+imp2ij.ImagePlus⁄◊
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaî î(,
+%18void"+ij.process.ImageConverter#convertToGray8()V*"
+ 
+%16ij.process.ImageConverter2convertToGray8()*
+39
+51
+40
+52
+56*¡
+59e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaì= ì(A≤Ø
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaì= ì(K
+
+%14int"ij.ImagePlus#getType()I*
+
+imp2ij.ImagePlus2	getType()Ñ
+Å
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaìM ì(]
+
+%15int"__id*
+""*
+58
+39
+51
+40
+52
+56*≠
+39e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¥ ¥(µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¥ ¥(
+%42java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRect*
+35
+33*„
+18e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaﬁ ﬁ(€ÿ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaﬁ ﬁ(
+%71void"%ij.process.ImageProcessor#moveTo(II)V*!
+
+ipij.process.ImageProcessor*2*
+""2
+moveTo(II)éã
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaﬂ ﬂ(
+%72void"9ij.process.ImageProcessor#drawString(Ljava/lang/String;)V*!
+
+ipij.process.ImageProcessor*
+
+sjava.lang.String2drawString(Ljava/lang/String;)*
+13
+8*—
+19e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java› ›(∏
+µ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java› ›(
+%70java.lang.String"__concat*
+
+sjava.lang.String*
+Uncalibrated¢
+ü
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java› ›(
+sjava.lang.String"__id*
+
+%70java.lang.String*
+18*É
+0 "|
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaå å(
+implicit return*î
+1e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaã ã(¢
+ü
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaã ã((
+ij.plugin.GelAnalyzer"
+plotsCanvas"__id*
+""*
+0*¨
+2e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaâ â($∫
+∑
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaâ â($(
+ij.plugin.GelAnalyzer"
+plotsCanvas"__id*
+
+canvasij.gui.ImageCanvas*
+0*©
+3e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java˝ ˝(Æ´
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java˝ ˝(
+%94void"ij.ImagePlus#show()V*
+
+plotsij.ImagePlus2show()û
+õ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÇ Ç($
+ij.plugin.GelAnalyzer"	
+ipLanes"__id*
+""√
+¿
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÉ É()
+%95ij.gui.Toolbar",ij.gui.Toolbar#getInstance()Lij/gui/Toolbar;*"
+ij.gui.Toolbar§
+°
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÉ É(*
+toolbarij.gui.Toolbar"__id*
+
+%95ij.gui.Toolbarè
+å
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÑ Ñ(
+%96java.awt.Color"__id*
+""ıÚ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÑ Ñ(
+%97void"*ij.gui.Toolbar#setColor(Ljava/awt/Color;)V*
+
+toolbarij.gui.Toolbar*
+
+%96java.awt.Color2setColor(Ljava/awt/Color;)Ñ
+Å
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÖ Ö(
+
+%98int"__id*
+"" «
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÖ Ö(
+%99void"ij.gui.Toolbar#setTool(I)V*
+
+toolbarij.gui.Toolbar*
+
+
+%98int2
+setTool(I)’
+“
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÜ Ü(4
+%100ij.gui.ImageWindow"7ij.WindowManager#getCurrentWindow()Lij/gui/ImageWindow;*"
+ij.WindowManager©
+¶
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÜ Ü(5
+winij.gui.ImageWindow"__id*
+
+%100ij.gui.ImageWindow‰·
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaá á(&
+%101ij.gui.ImageCanvas"2ij.gui.ImageWindow#getCanvas()Lij/gui/ImageCanvas;*
+
+winij.gui.ImageWindow2getCanvas()¨
+©
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaá á('
+canvasij.gui.ImageCanvas"__id*
+
+%101ij.gui.ImageCanvas*
+2
+1*¬
+4e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaˆ ˆ(GÆ
+´
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java˜ ˜(;
+%91double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""ÎË
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¯ ¯(0
+%92ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+plotsij.ImagePlus2getCalibration()µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java¯ ¯(1"
+plotsCalij.measure.Calibration"__id*
+
+%92ij.measure.Calibration˘ˆ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java˘ ˘(
+%93void"3ij.measure.Calibration#setUnit(Ljava/lang/String;)V*$
+"
+plotsCalij.measure.Calibration*
+unit2setUnit(Ljava/lang/String;)*
+3*¥
+5e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaˆ6 ˆ(?µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaˆ6 ˆ(?
+%90java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRectä
+á
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaˆ6 ˆ(F
+
+%86int"__id*
+
+
+%88int*
+4*¥
+6e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaˆ& ˆ(/µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaˆ& ˆ(/
+%89java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRectä
+á
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaˆ& ˆ(5
+
+%86int"__id*
+
+
+%87int*
+4*¡
+8e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java (®
+•
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java (
+%77void"ij.gui.Line#setWidth(I)V*"
+ij.gui.Line*2ìê
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÒ Ò(
+%78ij.plugin.Plots"ij.plugin.Plots¶
+£
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÒ Ò(
+%79"ij.plugin.Plots#<init>()V*
+
+%78ij.plugin.Plots°
+û
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÒ Ò( 
+plotsij.ImagePlus"__id*
+
+%78ij.plugin.Plots€ÿ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÚ! Ú(4
+%80java.lang.String".ij.ImagePlus#getShortTitle()Ljava/lang/String;*
+
+impij.ImagePlus2getShortTitle()∑
+¥
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÚ Ú(4
+%81java.lang.String"__concat*
+	Plots of *
+
+%80java.lang.String÷”
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÚ Ú(9
+%82void"Iij.ImagePlus#setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+plotsij.ImagePlus*
+
+%81java.lang.String*!
+
+ipij.process.ImageProcessor2;setProcessor(Ljava/lang/String;Lij/process/ImageProcessor;)Ñ
+Å
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÙ Ù(2
+
+%83int"__id*
+""ÒÓ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÙ Ù(3
+%84void",ij.process.ImageProcessor#setThreshold(DDI)V*!
+
+ipij.process.ImageProcessor*2 *2 *
+
+
+%83int2setThreshold(DDI)œÃ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaı ı(
+%85boolean"$ij.measure.Calibration#calibrated()Z*
+
+calij.measure.Calibration2calibrated()*	
+3
+5
+6*±
+60e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaì ì(≤Ø
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaì ì('
+
+%12int"ij.ImagePlus#getType()I*
+
+imp2ij.ImagePlus2	getType()Ñ
+Å
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaì) ì(9
+
+%13int"__id*
+""*
+58
+59*∞	
+61e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaë! ë(#åâ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaë ë( 
+%8ij.ImagePlus"ij.ImagePlus˘
+ˆ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaë ë(/
+%9"Cij.ImagePlus#<init>(Ljava/lang/String;Lij/process/ImageProcessor;)V*
+
+%8ij.ImagePlus* *(
+&
+	ipRotatedij.process.ImageProcessorú
+ô
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaë ë(0
+imp2ij.ImagePlus"__id*
+
+%8ij.ImagePlusÈÊ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaí í(*
+%10ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()íè
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaí í(+
+%11void"6ij.ImagePlus#setCalibration(Lij/measure/Calibration;)V*
+
+imp2ij.ImagePlus*
+
+%10ij.measure.Calibration2(setCalibration(Lij/measure/Calibration;)*
+39
+60
+51
+40
+52
+56*≠
+40e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java≤ ≤(µ
+≤
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java≤ ≤(
+%41java.awt.Rectangle"__id*(*&
+ij.plugin.GelAnalyzer"
+	firstRect*
+35
+33*∏
+62e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaê ê(ÜÉ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaê ê(%
+%7ij.process.ImageProcessor"Aij.process.ImageProcessor#rotateLeft()Lij/process/ImageProcessor;*(
+&
+	ipRotatedij.process.ImageProcessor2rotateLeft()ª
+∏
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaê ê(%&
+	ipRotatedij.process.ImageProcessor"__id*!
+
+%7ij.process.ImageProcessor*
+61*ÿ
+63e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÜ Ü(Ü
+É
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaà à(
+%0double"__id*
+""Ü
+É
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaâ â( 
+%1double"__id*
+""É
+Ä
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaå å(!	
+%2int"__id*
+""£
+†
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaç ç($
+%3java.lang.String"__concat*
+	Plotting *
+""≤
+Ø
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaç ç(/
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+
+ lanes¬
+ø
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaç ç(0
+
+%5void"%ij.IJ#showStatus(Ljava/lang/String;)V*	"
+ij.IJ*
+
+%4java.lang.StringÍÁ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaé é(/
+%6ij.process.ImageProcessor"6ij.ImagePlus#getProcessor()Lij/process/ImageProcessor;*
+
+impij.ImagePlus2getProcessor()ª
+∏
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaé é(0&
+	ipRotatedij.process.ImageProcessor"__id*!
+
+%6ij.process.ImageProcessor*
+61
+62*‘
+20e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java€ €(ª
+∏
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java€ €(
+%69java.lang.String"__concat*
+
+sjava.lang.String*
+Uncalibrated OD¢
+ü
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java€ €(
+sjava.lang.String"__id*
+
+%69java.lang.String*
+18* 
+22e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaŸ Ÿ(ÌÍ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaŸ Ÿ(
+%67java.lang.String"7ij.measure.Calibration#getValueUnit()Ljava/lang/String;*
+
+calij.measure.Calibration2getValueUnit()¡
+æ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaŸ Ÿ(
+%68java.lang.String"__concat*
+
+sjava.lang.String*
+
+%67java.lang.String¢
+ü
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaŸ Ÿ(
+sjava.lang.String"__id*
+
+%68java.lang.String*
+18*∆
+45e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java™ ™(∆√
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java™ ™(!
+%40double[]"ij.plugin.GelAnalyzer#od([D)[D*
+ij.plugin.GelAnalyzer*
+""2od([D)*
+39
+51
+40
+52*ï$
+23e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java» »(•¢
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java… …('
+%48ij.process.ByteProcessor"ij.process.ByteProcessor 
+«
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java… …(\
+%49"$ij.process.ByteProcessor#<init>(II)V*!
+
+%48ij.process.ByteProcessor*
+""*
+""¥
+±
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java… …(]
+ipij.process.ImageProcessor"__id*!
+
+%48ij.process.ByteProcessorè
+å
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java   (
+%50java.awt.Color"__id*
+""ÜÉ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java   (
+%51void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*!
+
+ipij.process.ImageProcessor*
+
+%50java.awt.Color2setColor(Ljava/awt/Color;)≈¬
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÀ À(
+%52void"!ij.process.ImageProcessor#fill()V*!
+
+ipij.process.ImageProcessor2fill()è
+å
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÃ Ã(
+%53java.awt.Color"__id*
+""ÜÉ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÃ Ã(
+%54void"5ij.process.ImageProcessor#setColor(Ljava/awt/Color;)V*!
+
+ipij.process.ImageProcessor*
+
+%53java.awt.Color2setColor(Ljava/awt/Color;)ŒÀ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaŒ	 Œ(
+
+%55int"&ij.process.ImageProcessor#getHeight()I*!
+
+ipij.process.ImageProcessor2getHeight()’“
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaœ œ(
+%56void"%ij.process.ImageProcessor#moveTo(II)V*!
+
+ipij.process.ImageProcessor*2 *2 2
+moveTo(II)Ÿ÷
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java– –(
+%57void"%ij.process.ImageProcessor#lineTo(II)V*!
+
+ipij.process.ImageProcessor*
+""*2 2
+lineTo(II)›⁄
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java— —(
+%58void"%ij.process.ImageProcessor#lineTo(II)V*!
+
+ipij.process.ImageProcessor*
+""*
+""2
+lineTo(II)Ÿ÷
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java“ “(
+%59void"%ij.process.ImageProcessor#lineTo(II)V*!
+
+ipij.process.ImageProcessor*2 *
+""2
+lineTo(II)’“
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java” ”(
+%60void"%ij.process.ImageProcessor#lineTo(II)V*!
+
+ipij.process.ImageProcessor*2 *2 2
+lineTo(II)Ÿ÷
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java‘ ‘(
+%61void"%ij.process.ImageProcessor#moveTo(II)V*!
+
+ipij.process.ImageProcessor*2 *
+""2
+moveTo(II)›⁄
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java’ ’(
+%62void"%ij.process.ImageProcessor#lineTo(II)V*!
+
+ipij.process.ImageProcessor*
+""*
+""2
+lineTo(II)—Œ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java÷ ÷(
+%63java.lang.String")ij.ImagePlus#getTitle()Ljava/lang/String;*
+
+impij.ImagePlus2
+getTitle()∞
+≠
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java÷ ÷( 
+%64java.lang.String"__concat*
+
+%63java.lang.String*
+; ¢
+ü
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java÷ ÷(!
+sjava.lang.String"__id*
+
+%64java.lang.StringÈÊ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java◊ ◊((
+%65ij.measure.Calibration"5ij.ImagePlus#getCalibration()Lij/measure/Calibration;*
+
+impij.ImagePlus2getCalibration()∞
+≠
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.java◊ ◊()
+calij.measure.Calibration"__id*
+
+%65ij.measure.CalibrationœÃ
+e
+Y/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/GelAnalyzer.javaÿ ÿ(
+%66boolean"$ij.measure.Calibration#calibrated()Z*
+
+calij.measure.Calibration2calibrated()*
+19
+20
+22:
+impij.ImagePlus:
+""B
+ij.plugin.GelAnalyzer

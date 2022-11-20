@@ -1,0 +1,103 @@
+
+gij.plugin.filter.EDM#showDialog(Lij/ImagePlus;Ljava/lang/String;Lij/plugin/filter/PlugInFilterRunner;)Id
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaë ë("4*î
+2d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaô& ô(+π∂
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaô5 ô(G	
+%5int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()çä
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaô ô(%
+%6ij.ImageStack"ij.ImageStackø
+º
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaô ô(H
+%7"ij.ImageStack#<init>(III)V*
+
+%6ij.ImageStack*
+""*
+""*
+	
+%5int¨
+©
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaô ô(H$
+ij.plugin.filter.EDM"
+
+outStack"__id*
+
+%6ij.ImageStackæ
+ª
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaö ö($
+%8ij.plugin.filter.MaximumFinder"__id*'*%
+ij.plugin.filter.EDM"
+	maxFinderπ∂
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaö! ö(3	
+%9int"ij.ImagePlus#getStackSize()I*
+
+impij.ImagePlus2getStackSize()ÈÊ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaö ö(4
+%10void"-ij.plugin.filter.MaximumFinder#setNPasses(I)V*&
+$
+%8ij.plugin.filter.MaximumFinder*
+	
+%9int2setNPasses(I)*
+1*ı
+3d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaò& ò(2Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaò4 ò(B	
+%4int"__id*
+""*
+2
+1*Ê
+4d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaí í(æ
+ª
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaí í(
+ij.plugin.filter.EDM"
+pfr"__id*,
+*
+pfr#ij.plugin.filter.PlugInFilterRunner±Æ
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaì ì("	
+%0int"ij.ImagePlus#getWidth()I*
+
+impij.ImagePlus2
+getWidth()≥∞
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaî î(#	
+%1int"ij.ImagePlus#getHeight()I*
+
+impij.ImagePlus2getHeight()√
+¿
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaó ó(*	
+%2int"#ij.IJ#setupDialog(Lij/ImagePlus;I)I*	"
+ij.IJ*
+
+impij.ImagePlus*
+""Å
+
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaò ò(	
+%3int"__id*
+""*
+3
+1*Ÿ
+1d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaú ú("n
+d
+X/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/filter/EDM.javaú ú(
+"":
+impij.ImagePlus:
+commandjava.lang.String:*
+pfr#ij.plugin.filter.PlugInFilterRunnerB
+ij.plugin.filter.EDM

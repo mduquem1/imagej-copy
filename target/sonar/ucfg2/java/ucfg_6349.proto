@@ -1,0 +1,23 @@
+
+ij.gui.Arrow#contains(II)Z\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java‘ ‘("1*Ì
+1\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java’	 ’(·
+´
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java’	 ’(
+%0ij.gui.ShapeRoi"+ij.gui.Arrow#getShapeRoi()Lij/gui/ShapeRoi;*
+ij.gui.ArrowÆÃ
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java’	 ’(%
+%1boolean"ij.gui.ShapeRoi#contains(II)Z*
+
+%0ij.gui.ShapeRoi*
+""*
+""2contains(II)"f
+\
+P/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/Arrow.java’ ’(&
+"":
+"":
+""B
+ij.gui.Arrow

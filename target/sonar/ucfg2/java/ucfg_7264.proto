@@ -1,0 +1,66 @@
+
+(ij.process.FHT#getCopy()Lij/process/FHT;^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.javaý ý("1*²
+1^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.javaþ þ(Î
+Ë
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.javaþ þ('
+%0ij.process.ImageProcessor"@ij.process.FloatProcessor#duplicate()Lij/process/ImageProcessor;*
+""­
+ª
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.javaþ þ((
+ipij.process.ImageProcessor"__id*!
+
+%0ij.process.ImageProcessor‰†
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.javaÿ ÿ(
+%1ij.process.FHT"ij.process.FHTÙ
+Ö
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.javaÿ ÿ(
+%2"3ij.process.FHT#<init>(Lij/process/ImageProcessor;)V*
+
+%1ij.process.FHT*!
+
+ipij.process.ImageProcessor˜
+•
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.javaÿ ÿ(
+fhtij.process.FHT"__id*
+
+%1ij.process.FHT§
+¤
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.java‚ ‚(
+%3ij.process.ColorProcessor"__id**
+ij.process.FHT"
+rgb¬
+©
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.java‚ ‚(
+
+fhtij.process.FHT"
+rgb"__id*!
+
+%3ij.process.ColorProcessor¶
+³
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.java† †(-
+%4java.awt.image.ColorModel"__id***(
+ij.process.FHT"
+originalColorModel»
+¸
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.java† †(--
+
+fhtij.process.FHT"
+originalColorModel"__id*!
+
+%4java.awt.image.ColorModel"y
+^
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/process/FHT.javaˆ ˆ(
+
+fhtij.process.FHTB
+ij.process.FHT

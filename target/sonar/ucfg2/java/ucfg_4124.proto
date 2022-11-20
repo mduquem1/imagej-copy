@@ -1,0 +1,56 @@
+
+,ij.gui.PointRoi#toString()Ljava/lang/String;_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java½ ½("2"1*´
+2_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¿ ¿(¦
+£
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¿ ¿('
+%0java.lang.String"__concat*
+Roi[Points, count=*
+""§
+¤
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¿ ¿(+
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+]"{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.java¿ ¿(-
+
+%1java.lang.String*‡
+1_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÁ Á(¡
+ž
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÁ Á(
+%2java.lang.String"__concat*
+Roi[Point, x=*
+""ª
+§
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÁ Á(#
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+, y=¨
+¥
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÁ Á(%
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+""§
+¤
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÁ Á()
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+]"{
+_
+S/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/gui/PointRoi.javaÁ Á(+
+
+%5java.lang.StringB
+ij.gui.PointRoi

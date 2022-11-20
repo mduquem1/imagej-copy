@@ -1,0 +1,303 @@
+
+Lij.plugin.Text#dialogItemChanged(Lij/gui/GenericDialog;Ljava/awt/AWTEvent;)Z\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaY Y(!"13*¡
+13\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaZ Z(Ω
+∫
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaZ Z(1
+%0ij.ImagePlus"0ij.WindowManager#getCurrentImage()Lij/ImagePlus;*"
+ij.WindowManagerí
+è
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaZ Z(2
+impij.ImagePlus"__id*
+
+%0ij.ImagePlus*
+11
+12*≥
+2\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javap p(
+Ω∫
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javap p(
+%25void"ij.gui.TextRoi#setAngle(D)V*
+
+textRoiij.gui.TextRoi*
+""2setAngle(D)Õ 
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaq q(*
+%26void"#ij.gui.TextRoi#setJustification(I)V*
+
+textRoiij.gui.TextRoi*
+""2setJustification(I)ˆÛ
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javar r("
+%27void"*ij.gui.Roi#setFillColor(Ljava/awt/Color;)V*
+
+textRoiij.gui.TextRoi*
+
+	fillColorjava.awt.Color2setFillColor(Ljava/awt/Color;)¡æ
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javas s($
+%28void"ij.gui.Roi#setAntiAlias(Z)V*
+
+textRoiij.gui.TextRoi*
+""2setAntiAlias(Z)*
+1*Ÿ
+3\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaj j(	û
+õ
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaj j(
+%19java.lang.String"__id**
+ij.plugin.Text"
+fontÂ
+‚
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaj j(5
+%20void".ij.gui.TextRoi#setFont(Ljava/lang/String;IIZ)V*"
+ij.gui.TextRoi*
+
+%19java.lang.String*
+""*
+""*
+""µ
+≤
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javak k(/
+%21void")ij.gui.TextRoi#setGlobalJustification(I)V*"
+ij.gui.TextRoi*
+""Ä
+˝
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javal l(.
+%22java.awt.Color"Kij.plugin.Colors#decode(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors*
+
+fillcjava.lang.String*
+""ù
+ö
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javal l(/
+	fillColorjava.awt.Color"__id*
+
+%22java.awt.Colorÿ
+’
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javam m((
+%23void"5ij.gui.TextRoi#setDefaultFillColor(Ljava/awt/Color;)V*"
+ij.gui.TextRoi*
+
+	fillColorjava.awt.ColorÆ
+´
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javan n( 
+%24void""ij.gui.TextRoi#setDefaultAngle(D)V*"
+ij.gui.TextRoi*
+""*
+2
+1*ç
+4\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaf f(Ö
+Ç
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaf f(0
+%17java.awt.Color"Kij.plugin.Colors#decode(Ljava/lang/String;Ljava/awt/Color;)Ljava/awt/Color;*"
+ij.plugin.Colors* 
+
+
+colorName2java.lang.String*
+""ô
+ñ
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaf f(1
+colorjava.awt.Color"__id*
+
+%17java.awt.Color”
+–
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javag g($
+%18void"4ij.gui.Toolbar#setForegroundColor(Ljava/awt/Color;)V*"
+ij.gui.Toolbar*
+
+colorjava.awt.Color™
+ß
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javah h(
+ij.plugin.Text"
+	colorName"__id* 
+
+
+colorName2java.lang.String*
+3*ä
+5\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javae e($£
+†
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javae, e(5
+%15java.lang.String"__id*!*
+ij.plugin.Text"
+	colorName¯ı
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javae e(6
+%16boolean",java.lang.String#equals(Ljava/lang/Object;)Z* 
+
+
+colorName2java.lang.String*
+
+%15java.lang.String2equals(Ljava/lang/Object;)*
+3
+4*∂
+6\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java\ \(Jö
+ó
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java\ \(J
+textRoiij.gui.TextRoi"__id*
+
+%4ij.gui.TextRoi‡›
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java]	 ](
+%6java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()ù
+ö
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java] ](
+ij.plugin.Text"
+font"__id*
+
+%6java.lang.StringÃ…
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java^
+ ^(!	
+%7int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()Ã…
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java_ _()	
+%8int"*ij.gui.GenericDialog#getNextChoiceIndex()I*
+
+gdij.gui.GenericDialog2getNextChoiceIndex()‡›
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java` `((
+%9java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()°
+û
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java` `()
+
+colorName2java.lang.String"__id*
+
+%9java.lang.String·ﬁ
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaa a(#
+%10java.lang.String"6ij.gui.GenericDialog#getNextChoice()Ljava/lang/String;*
+
+gdij.gui.GenericDialog2getNextChoice()ù
+ö
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javaa a($
+fillcjava.lang.String"__id*
+
+%10java.lang.String∆√
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javab b($
+%11double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()∆√
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javac c(!
+%12double"%ij.gui.GenericDialog#getNextNumber()D*
+
+gdij.gui.GenericDialog2getNextNumber()…∆
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javad d(#
+%13boolean"&ij.gui.GenericDialog#getNextBoolean()Z*
+
+gdij.gui.GenericDialog2getNextBoolean()£
+†
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javae e(
+%14java.lang.String"__id*!*
+ij.plugin.Text"
+	colorName*
+3
+5*˙
+7\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java\E \(Ië
+é
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java\E \(I
+%4ij.gui.TextRoi"__id*
+
+%5
+<nulltype>*
+6*ê
+8\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java\A \(Dí
+è
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java\A \(D
+%4ij.gui.TextRoi"__id*
+
+roi
+ij.gui.Roií
+è
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java\8 \(D
+%4ij.gui.TextRoi"__id*
+
+roi
+ij.gui.Roi*
+6*˚
+10\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java[ [((é
+ã
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java[ [((
+roi
+ij.gui.Roi"__id*
+
+%1
+ij.gui.Roi*
+7
+8*¯
+11\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java[# [('ç
+ä
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java[# [('
+%1
+ij.gui.Roi"__id*
+
+%3
+<nulltype>*
+10*≤
+12\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java[ [(∑¥
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java[ [("
+%2
+ij.gui.Roi"!ij.ImagePlus#getRoi()Lij/gui/Roi;*
+
+impij.ImagePlus2getRoi()ç
+ä
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.java[ [("
+%1
+ij.gui.Roi"__id*
+
+%2
+ij.gui.Roi*
+10*…
+1\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javau	 u("f
+\
+R/Users/miguelduquemarulanda/Desktop/master/metricas/ImageJ/src/ij/plugin/Text.javau u(
+"":
+gdij.gui.GenericDialog:
+ejava.awt.AWTEventB
+ij.plugin.Text
